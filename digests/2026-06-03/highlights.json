@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "USTR提议对60个经济体加征10%-12.5%关税",
+      "欧元区5月通胀升至3.2%，ECB加息概率90%",
+      "比特币跌破58000美元，IPO分流流动性",
+      "中国限制散户通过境外券商炒股",
+      "上海楼市5月二手房交易加速，率先企稳"
+    ],
+    "news-society": [
+      "美伊相互攻击进入第96天，谈判停滞",
+      "俄罗斯内部讨论战争成本，基辅遭大规模空袭",
+      "失踪议员在特朗普背书后赢得初选",
+      "日韩考虑签军事后勤协议，引发中国警惕",
+      "中国疾控专家抵达刚果(金)支援埃博拉防控"
+    ],
+    "news-military": [
+      "美军对伊朗格什姆岛实施打击，伊朗反击科威特巴林",
+      "伊朗攻击霍尔木兹海峡附近油轮",
+      "俄军首次大规模使用“锆石”高超音速导弹",
+      "乌克兰“幻影2000”疑似开始对地攻击",
+      "辽宁舰在菲律宾海完成170架次起降训练"
+    ],
+    "news-tech": [
+      "特朗普签署AI自愿审查行政令",
+      "微软Build推出MAI-Thinking-1和Scout助手",
+      "Uber因AI预算四个月花光，设员工使用上限",
+      "BYD展示铸铝车架，比钢轻100磅更坚固",
+      "哈萨克斯坦增购Cybertruck用于救援"
+    ],
+    "news-sports": [
+      "曼联3500万镑签下亚特兰大中场埃德森",
+      "利物浦达成协议任命伊劳拉为新帅",
+      "伊布·科纳特接近加盟皇马",
+      "NBA总决赛明日尼克斯对阵马刺",
+      "库里与李宁签10年4亿美元合同"
+    ],
+    "news-entertainment": [
+      "真人秀明星斯宾塞·普拉特晋级洛杉矶市长决选",
+      "斯科特·佩利被CBS解雇后抨击管理层",
+      "Netflix两部高开剧集第二季收视腰斩",
+      "中国电影《给阿嬷的情书》票房破14亿",
+      "周星驰宣布进军AI产业"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "S&P 500 record close, futures steady amid Iran tensions.",
+      "Bitcoin hits lowest since February amid IPO wave.",
+      "Eurozone inflation jumps to 3.2%, ECB hike expected.",
+      "US proposes 10-12.5% tariffs on 60 economies.",
+      "China A-shares rally on AI, semiconductor optimism."
+    ],
+    "news-society": [
+      "US-Iran war day 96: strikes on Qeshm Island.",
+      "Russia launches massive drone/missile attack on Kyiv.",
+      "Japan Nikkei 225 breaks historic milestone.",
+      "China bolsters soft power and health diplomacy.",
+      "Ceasefire stalled as Iran demands uranium freeze."
+    ],
+    "news-military": [
+      "US strikes Iranian station on Qeshm and oil tanker.",
+      "Iran retaliates against US, Kuwait, Bahrain.",
+      "Strait of Hormuz flashpoint, Iran threatens Bab al-Mandab.",
+      "Russia uses Zircon hypersonic missiles in Ukraine.",
+      "China carrier group exercises in Philippine Sea."
+    ],
+    "news-tech": [
+      "Microsoft unveils MAI-Thinking-1 reasoning AI.",
+      "Microsoft launches Scout AI assistant for 365.",
+      "Trump signs AI executive order on pre-release review.",
+      "Google rolls out deepfake call detection on Android.",
+      "New open-source framework for AI behavior tests."
+    ],
+    "news-sports": [
+      "Man United agree £35m deal for Éderson.",
+      "Liverpool appoint Andoni Iraola as head coach.",
+      "NBA Finals: Knicks vs Spurs start Wednesday.",
+      "Stephen Curry signs $400M Li-Ning deal.",
+      "World Cup hit by visa delays, Ebola fears."
+    ],
+    "news-entertainment": [
+      "Spencer Pratt leads L.A. mayoral race with Bass.",
+      "Scott Pelley fired from 60 Minutes, blasts CBS.",
+      "Taylor Swift praises McCartney's new album.",
+      "Chinese cinema achieves cultural milestone.",
+      "K-pop records shattered; filmmaker pivots to AI."
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "Alphabet计划出售800亿美元股票筹资AI基建",
+      "Unitree人形机器人通过上海IPO聆讯",
+      "伊朗战争推高全球工厂成本引发通胀",
+      "ECB警告稳定币可能引发银行挤兑",
+      "HPE业绩飙升30%受AI投资推动"
+    ],
+    "news-society": [
+      "俄乌冲突致11死，伊朗紧张推高油价",
+      "教育部警告AI高考押题骗局",
+      "知乎营收下滑转向AI商业化",
+      "中国医疗队赴刚果支援埃博拉",
+      "日韩半导体高中走红反映职业选择"
+    ],
+    "news-military": [
+      "俄启用炫彩涂料对抗AI无人机",
+      "美伊停火濒临破裂，伊朗威胁封锁霍尔木兹",
+      "美防长香会敲警钟要求盟友增加军费",
+      "美国将出售3艘弗吉尼亚级潜艇给澳大利亚",
+      "菲律宾核实中国在黄岩岛新建结构"
+    ],
+    "news-tech": [
+      "Nvidia推AI agent PC挑战2000亿美元CPU市场",
+      "OpenAI被诉协助大规模枪击，AI安全受拷问",
+      "丰田放弃固态电池Lexus EV，比亚迪计划2027量产",
+      "AMD Radeon RX 9070 GRE 549美元冲击中端",
+      "Blue Origin新格伦火箭年内复飞"
+    ],
+    "news-sports": [
+      "伊朗核心阿兹蒙意外落选世界杯名单",
+      "法国后卫萨利巴因背伤大概率无缘世界杯",
+      "库里签约李宁开启中国品牌新篇章",
+      "名帅阿德尔曼逝世，篮球界悼念",
+      "加拿大男篮SGA领衔承诺未来三季参赛"
+    ],
+    "news-entertainment": [
+      "《Man of Tomorrow》曝Lex Luthor战衣",
+      "白敬亭被传演“祖国人”引发争议",
+      "Nvidia CEO黄仁勋确认出演韩综You Quiz",
+      "BTS与Oreo联名紫薯热狗风味饼干",
+      "歌手Dylan Holloway与大学时的自己合唱"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Alphabet to raise $80B for AI buildout",
+      "HPE skyrockets 30% on AI server demand",
+      "AI disrupts pre-ChatGPT startup valuations",
+      "European stocks fall amid Middle East conflict",
+      "China markets surge on tech reshuffles"
+    ],
+    "news-society-en": [
+      "Russia kills at least 11 in Kyiv attack",
+      "Iran ceasefire talks stall, US pushes deal",
+      "Alphabet sells $80bn stock for AI plans",
+      "US Defense Department bars journalists",
+      "China warns of AI-powered exam fraud"
+    ],
+    "news-military-en": [
+      "US-Iran ceasefire on brink, Hormuz threatened",
+      "Iran suspends US talks, Kuwait activates air defenses",
+      "Russia massive strike hits Kyiv with missiles",
+      "Russian dazzle paint confuses AI drones",
+      "Romanian strike exposes NATO flank vulnerabilities"
+    ],
+    "news-tech-en": [
+      "Nvidia chases $200B CPU market with AI agent PCs",
+      "Toyota cancels Lexus LF-ZC EV; BYD pushes solid-state",
+      "OpenAI sued in Florida over ChatGPT aiding harm",
+      "Groq raises more funding amid volatile AI landscape",
+      "TUI renaissance: strace-ui, Bonsai_term interfaces"
+    ],
+    "news-sports-en": [
+      "Iran omits star Azmoun from World Cup squad",
+      "France's Saliba doubtful for World Cup",
+      "NBA Finals: Knicks vs Spurs, bettors favor NY",
+      "Stephen Curry signs 10-year deal with Li-Ning",
+      "China's badminton team opens Indonesia Open"
+    ],
+    "news-entertainment-en": [
+      "Superman film teases Lex Luthor warsuit",
+      "Nvidia CEO Huang guests on Korean variety",
+      "K-dramas premiere with strong ratings",
+      "Bai Jingting rumored as Homelander sparks debate",
+      "Jon Stewart mocks Trump's Freedom 250 concert"
+    ]
+  }
+}

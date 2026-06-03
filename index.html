@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Radar — Daily Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;0,8..60,900;1,8..60,400;1,8..60,700&family=Inter:wght@400;500;600;700&family=Noto+Serif+SC:wght@600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/news-radar.css">
+  <script src="assets/vendor/marked.umd.js"></script>
+  <script src="assets/vendor/purify.min.js"></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="side-masthead">
+        <div class="side-eyebrow">EST. ⋆ MMXXVI</div>
+        <div class="side-title">News<br>Radar</div>
+        <div class="side-tagline">Daily Intelligence Gazette</div>
+        <div class="side-vol"><b id="sideVol">VOL. I — №01</b></div>
+      </div>
+      <div class="side-archive-head">
+        <h3 id="sideArchiveLabel">Archive</h3>
+        <span id="sideCount">—</span>
+      </div>
+      <div class="side-rule"></div>
+      <ul class="side-list" id="dateList"></ul>
+      <div class="side-foot" id="sideFoot">本刊由多源 RSS 自动采集，AI 编辑润色。</div>
+    </aside>
+
+    <main class="main">
+      <header class="masthead">
+        <div class="container">
+          <div class="masthead-top">
+            <div class="left">
+              <button id="zhBtn" class="active">中文</button>
+              <span class="lang-sep">/</span>
+              <button id="enBtn">English</button>
+            </div>
+            <div class="right">
+              <button id="themeBtn" title="Toggle theme">◐ Theme</button>
+              <button id="expandBtn" title="Expand all desks">⊞ Expand all</button>
+              <button id="collapseBtn" title="Collapse all desks">⊟ Collapse all</button>
+            </div>
+          </div>
+          <div class="masthead-title">
+            <h1>News Radar</h1>
+            <div class="masthead-tagline" id="tagline">Daily Intelligence · 多频道新闻情报台</div>
+          </div>
+          <div class="masthead-bar">
+            <span class="vol" id="volLine">Vol. I — Loading…</span>
+            <span id="dateLine">—</span>
+            <span id="statLine">—</span>
+          </div>
+        </div>
+      </header>
+
+      <div class="container">
+        <nav class="secnav" id="secnav"></nav>
+        <section class="stats" id="stats"></section>
+        <div class="controls">
+          <div class="search"><input id="searchInput" type="search" placeholder="搜索…"></div>
+        </div>
+
+        <div id="mount">
+          <div class="empty">正在读取结构化新闻与板块摘要…</div>
+        </div>
+
+        <footer class="footer" id="footer">News Radar · 多频道情报每日精编</footer>
+      </div>
+    </main>
+  </div>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,743 @@
+# finance-radar configuration
+# Edit this file to customize which news sources are tracked.
+# Changes take effect on the next workflow run.
+
+# -- Multi-channel news sources ----------------------------------------------
+# Each entry requires: id, name, url, section, subcategory, region.
+# section: economy | society | military | tech | sports | entertainment
+
+news_sources:
+  # Economy
+  - id: economy-google-us-stocks
+    name: Google News US Stocks
+    url: https://news.google.com/rss/search?q=US%20stocks%20OR%20Wall%20Street%20OR%20Nasdaq%20OR%20S%26P%20500%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: economy
+    subcategory: 美股
+    region: US
+    lang: en
+    limit: 12
+  - id: economy-cnbc-markets
+    name: CNBC Markets
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    section: economy
+    subcategory: 美股
+    region: US
+    lang: en
+    limit: 10
+  - id: economy-marketwatch
+    name: MarketWatch Top Stories
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    section: economy
+    subcategory: 美股
+    region: US
+    lang: en
+    limit: 10
+  - id: economy-china-google
+    name: Google News China Economy
+    url: https://news.google.com/rss/search?q=China%20economy%20OR%20China%20stocks%20OR%20A-shares%20OR%20Hong%20Kong%20markets%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: economy
+    subcategory: 中国经济
+    region: China
+    lang: en
+    limit: 12
+  - id: economy-scmp-business
+    name: SCMP Business
+    url: https://www.scmp.com/rss/92/feed
+    section: economy
+    subcategory: 中国经济
+    region: China
+    lang: en
+    limit: 10
+  - id: economy-europe-google
+    name: Google News Europe Economy
+    url: https://news.google.com/rss/search?q=Europe%20economy%20OR%20ECB%20OR%20Eurozone%20markets%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: economy
+    subcategory: 欧洲经济
+    region: Europe
+    lang: en
+    limit: 12
+  - id: economy-ecb
+    name: European Central Bank
+    url: https://www.ecb.europa.eu/rss/press.html
+    section: economy
+    subcategory: 欧洲经济
+    region: Europe
+    lang: en
+    limit: 8
+  - id: economy-fed
+    name: Federal Reserve
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    section: economy
+    subcategory: 美股
+    region: US
+    lang: en
+    limit: 8
+  - id: economy-10jqka-community
+    name: 同花顺社区动态
+    url: https://news.google.com/rss/search?q=%E5%90%8C%E8%8A%B1%E9%A1%BA%20OR%20%E8%82%A1%E5%90%A7%20OR%20A%E8%82%A1%E7%83%AD%E8%AE%AE%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: economy
+    subcategory: 同花顺社区动态
+    region: China
+    lang: zh
+    limit: 10
+  - id: economy-bbc-business
+    name: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    section: economy
+    subcategory: 美股
+    region: UK
+    lang: en
+    limit: 10
+  - id: economy-guardian-business
+    name: The Guardian Business
+    url: https://www.theguardian.com/business/rss
+    section: economy
+    subcategory: 欧洲经济
+    region: UK
+    lang: en
+    limit: 10
+  - id: economy-nyt-business
+    name: NYTimes Business
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+    section: economy
+    subcategory: 美股
+    region: US
+    lang: en
+    limit: 10
+  - id: economy-wsj-markets
+    name: WSJ Markets
+    url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+    section: economy
+    subcategory: 美股
+    region: US
+    lang: en
+    limit: 10
+  - id: economy-yicai-china
+    name: 第一财经 中国市场
+    url: https://news.google.com/rss/search?q=site%3Ayicai.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: economy
+    subcategory: 中国经济
+    region: China
+    lang: zh
+    limit: 10
+
+  # Society
+  - id: society-china-google
+    name: Google News China Society
+    url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20%E7%A4%BE%E4%BC%9A%20OR%20%E6%B0%91%E7%94%9F%20OR%20%E6%95%99%E8%82%B2%20OR%20%E5%8C%BB%E7%96%97%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: society
+    subcategory: 中国
+    region: China
+    lang: zh
+    limit: 12
+  - id: society-bbc-world
+    name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    section: society
+    subcategory: 欧美
+    region: Global
+    lang: en
+    limit: 10
+  - id: society-guardian-world
+    name: The Guardian World
+    url: https://www.theguardian.com/world/rss
+    section: society
+    subcategory: 欧美
+    region: Global
+    lang: en
+    limit: 10
+  - id: society-japan-korea-google
+    name: Google News Japan Korea Society
+    url: https://news.google.com/rss/search?q=Japan%20society%20OR%20South%20Korea%20society%20OR%20Tokyo%20OR%20Seoul%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: society
+    subcategory: 日韩
+    region: Asia
+    lang: en
+    limit: 10
+  - id: society-zhihu-community
+    name: 知乎社区动态
+    url: https://news.google.com/rss/search?q=%E7%9F%A5%E4%B9%8E%20%E7%83%AD%E6%A6%9C%20OR%20%E7%9F%A5%E4%B9%8E%20%E7%A4%BE%E4%BC%9A%20OR%20%E7%9F%A5%E4%B9%8E%20%E7%83%AD%E8%AE%AE%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: society
+    subcategory: 知乎社区动态
+    region: China
+    lang: zh
+    limit: 10
+  - id: society-npr-world
+    name: NPR World
+    url: https://feeds.npr.org/1004/rss.xml
+    section: society
+    subcategory: 欧美
+    region: US
+    lang: en
+    limit: 10
+  - id: society-aljazeera
+    name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    section: society
+    subcategory: 欧美
+    region: Global
+    lang: en
+    limit: 10
+  - id: society-japan-times
+    name: Japan Times
+    url: https://news.google.com/rss/search?q=site%3Ajapantimes.co.jp&hl=en-US&gl=US&ceid=US:en
+    section: society
+    subcategory: 日韩
+    region: Japan
+    lang: en
+    limit: 10
+  - id: society-korea-herald
+    name: Korea Herald
+    url: https://news.google.com/rss/search?q=site%3Akoreaherald.com&hl=en-US&gl=US&ceid=US:en
+    section: society
+    subcategory: 日韩
+    region: Korea
+    lang: en
+    limit: 10
+  - id: society-xinhua-china
+    name: 新华社 中国社会
+    url: https://news.google.com/rss/search?q=site%3Axinhuanet.com%20%E7%A4%BE%E4%BC%9A&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: society
+    subcategory: 中国
+    region: China
+    lang: zh
+    limit: 10
+
+  # Military
+  - id: military-google-global
+    name: Google News Global Military
+    url: https://news.google.com/rss/search?q=military%20defense%20warship%20missile%20air%20force%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: military
+    subcategory: 国际安全
+    region: Global
+    lang: en
+    limit: 12
+  - id: military-defense-news
+    name: Defense News
+    url: https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml
+    section: military
+    subcategory: 国际安全
+    region: Global
+    lang: en
+    limit: 10
+  - id: military-usni
+    name: USNI News
+    url: https://news.usni.org/feed
+    section: military
+    subcategory: 海军与印太
+    region: Global
+    lang: en
+    limit: 10
+  - id: military-china-google
+    name: Google News China Military
+    url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20%E5%86%9B%E4%BA%8B%20OR%20%E5%8F%B0%E6%B5%B7%20OR%20%E5%8D%97%E6%B5%B7%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: military
+    subcategory: 中国军情
+    region: China
+    lang: zh
+    limit: 10
+  - id: military-conflict-google
+    name: Google News Conflict Watch
+    url: https://news.google.com/rss/search?q=Ukraine%20war%20OR%20Middle%20East%20conflict%20OR%20Red%20Sea%20security%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: military
+    subcategory: 冲突局势
+    region: Global
+    lang: en
+    limit: 12
+  - id: military-naval-news
+    name: Naval News
+    url: https://www.navalnews.com/feed/
+    section: military
+    subcategory: 海军与印太
+    region: Global
+    lang: en
+    limit: 10
+  - id: military-breaking-defense
+    name: Breaking Defense
+    url: https://breakingdefense.com/feed/
+    section: military
+    subcategory: 国际安全
+    region: US
+    lang: en
+    limit: 10
+  - id: military-war-zone
+    name: The War Zone
+    url: https://www.twz.com/feed
+    section: military
+    subcategory: 国际安全
+    region: Global
+    lang: en
+    limit: 10
+
+  # Tech
+  - id: tech-ai-google
+    name: Google News AI
+    url: https://news.google.com/rss/search?q=AI%20artificial%20intelligence%20OpenAI%20Anthropic%20Google%20DeepMind%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: tech
+    subcategory: AI
+    region: Global
+    lang: en
+    limit: 12
+  - id: tech-techcrunch
+    name: TechCrunch
+    url: https://techcrunch.com/feed/
+    section: tech
+    subcategory: 科技产品
+    region: Global
+    lang: en
+    limit: 10
+  - id: tech-verge
+    name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    section: tech
+    subcategory: 科技产品
+    region: US
+    lang: en
+    limit: 10
+  - id: tech-auto-google
+    name: Google News Autos
+    url: https://news.google.com/rss/search?q=EV%20autonomous%20driving%20Tesla%20BYD%20Toyota%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: tech
+    subcategory: 汽车
+    region: Global
+    lang: en
+    limit: 12
+  - id: tech-hn-frontpage
+    name: Hacker News Front Page
+    url: https://hnrss.org/frontpage
+    section: tech
+    subcategory: HackNews社区动态
+    region: Global
+    lang: en
+    limit: 12
+  - id: tech-hn-ai
+    name: Hacker News AI Search
+    url: https://hnrss.org/newest?q=AI%20OR%20LLM%20OR%20OpenAI%20OR%20Claude
+    section: tech
+    subcategory: HackNews社区动态
+    region: Global
+    lang: en
+    limit: 10
+  - id: tech-arstechnica
+    name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    section: tech
+    subcategory: 科技产品
+    region: US
+    lang: en
+    limit: 10
+  - id: tech-wired
+    name: Wired
+    url: https://www.wired.com/feed/rss
+    section: tech
+    subcategory: 科技产品
+    region: US
+    lang: en
+    limit: 10
+  - id: tech-engadget
+    name: Engadget
+    url: https://www.engadget.com/rss.xml
+    section: tech
+    subcategory: 科技产品
+    region: US
+    lang: en
+    limit: 10
+  - id: tech-mit-review
+    name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    section: tech
+    subcategory: AI
+    region: US
+    lang: en
+    limit: 10
+  - id: tech-electrek
+    name: Electrek
+    url: https://electrek.co/feed/
+    section: tech
+    subcategory: 汽车
+    region: US
+    lang: en
+    limit: 10
+
+  # Sports
+  - id: sports-badminton-google
+    name: Google News Badminton
+    url: https://news.google.com/rss/search?q=badminton%20BWF%20OR%20%E7%BE%BD%E6%AF%9B%E7%90%83%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: sports
+    subcategory: 羽毛球
+    region: Global
+    lang: zh
+    limit: 10
+  - id: sports-basketball-espn
+    name: ESPN NBA
+    url: https://www.espn.com/espn/rss/nba/news
+    section: sports
+    subcategory: 篮球
+    region: US
+    lang: en
+    limit: 10
+  - id: sports-basketball-google
+    name: Google News Basketball
+    url: https://news.google.com/rss/search?q=NBA%20CBA%20basketball%20%E7%AF%AE%E7%90%83%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: sports
+    subcategory: 篮球
+    region: Global
+    lang: zh
+    limit: 10
+  - id: sports-football-espn
+    name: ESPN Soccer
+    url: https://www.espn.com/espn/rss/soccer/news
+    section: sports
+    subcategory: 足球
+    region: Global
+    lang: en
+    limit: 10
+  - id: sports-hupu-community
+    name: 虎扑社区动态
+    url: https://news.google.com/rss/search?q=%E8%99%8E%E6%89%91%20OR%20%E8%99%8E%E6%89%91%E7%83%AD%E8%AE%AE%20OR%20%E8%99%8E%E6%89%91%E7%A4%BE%E5%8C%BA%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: sports
+    subcategory: 虎扑社区动态
+    region: China
+    lang: zh
+    limit: 10
+  - id: sports-bbc-sport
+    name: BBC Sport
+    url: https://feeds.bbci.co.uk/sport/rss.xml
+    section: sports
+    subcategory: 足球
+    region: UK
+    lang: en
+    limit: 10
+  - id: sports-skysports-football
+    name: Sky Sports Football
+    url: https://www.skysports.com/rss/12040
+    section: sports
+    subcategory: 足球
+    region: UK
+    lang: en
+    limit: 10
+
+  # Entertainment
+  - id: entertainment-china-google
+    name: Google News China Entertainment
+    url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20%E5%A8%B1%E4%B9%90%20OR%20%E5%BD%B1%E8%A7%86%20OR%20%E6%98%8E%E6%98%9F%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: entertainment
+    subcategory: 中国
+    region: China
+    lang: zh
+    limit: 12
+  - id: entertainment-bbc
+    name: BBC Entertainment & Arts
+    url: https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+    section: entertainment
+    subcategory: 欧美
+    region: UK
+    lang: en
+    limit: 10
+  - id: entertainment-variety
+    name: Variety
+    url: https://variety.com/feed/
+    section: entertainment
+    subcategory: 欧美
+    region: US
+    lang: en
+    limit: 10
+  - id: entertainment-japan-korea-google
+    name: Google News Japan Korea Entertainment
+    url: https://news.google.com/rss/search?q=K-pop%20J-pop%20Korean%20drama%20anime%20Japan%20entertainment%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    section: entertainment
+    subcategory: 日韩
+    region: Asia
+    lang: en
+    limit: 10
+  - id: entertainment-weibo-community
+    name: 微博社区动态
+    url: https://news.google.com/rss/search?q=%E5%BE%AE%E5%8D%9A%20%E7%83%AD%E6%90%9C%20OR%20%E5%BE%AE%E5%8D%9A%20%E7%83%AD%E8%AE%AE%20OR%20%E5%A8%B1%E4%B9%90%20%E7%83%AD%E6%90%9C%20when%3A1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    section: entertainment
+    subcategory: 微博社区动态
+    region: China
+    lang: zh
+    limit: 12
+  - id: entertainment-hollywood-reporter
+    name: The Hollywood Reporter
+    url: https://www.hollywoodreporter.com/feed/
+    section: entertainment
+    subcategory: 欧美
+    region: US
+    lang: en
+    limit: 10
+  - id: entertainment-deadline
+    name: Deadline
+    url: https://deadline.com/feed/
+    section: entertainment
+    subcategory: 欧美
+    region: US
+    lang: en
+    limit: 10
+  - id: entertainment-rolling-stone
+    name: Rolling Stone
+    url: https://www.rollingstone.com/feed/
+    section: entertainment
+    subcategory: 欧美
+    region: US
+    lang: en
+    limit: 10
+  - id: entertainment-soompi
+    name: Soompi K-pop
+    url: https://www.soompi.com/feed
+    section: entertainment
+    subcategory: 日韩
+    region: Korea
+    lang: en
+    limit: 10
+
+# -- Financial news sources ---------------------------------------------------
+# Each entry requires: id, name, url, category, region.
+# Optional: lang, limit.
+
+finance_sources:
+  - id: google-business-us
+    name: Google News Business US
+    url: https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en
+    category: Global Business
+    region: US
+    lang: en
+    limit: 12
+  - id: google-markets
+    name: Google News Global Markets
+    url: https://news.google.com/rss/search?q=global%20markets%20OR%20stocks%20OR%20bonds%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    category: Markets
+    region: Global
+    lang: en
+    limit: 12
+  - id: google-central-banks
+    name: Google News Central Banks
+    url: https://news.google.com/rss/search?q=central%20bank%20OR%20Federal%20Reserve%20OR%20ECB%20OR%20BOJ%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    category: Macro Policy
+    region: Global
+    lang: en
+    limit: 12
+  - id: google-china-finance
+    name: Google News China Finance
+    url: https://news.google.com/rss/search?q=China%20economy%20OR%20China%20stocks%20OR%20Hong%20Kong%20markets%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    category: China Markets
+    region: China
+    lang: en
+    limit: 12
+  - id: google-crypto
+    name: Google News Crypto Finance
+    url: https://news.google.com/rss/search?q=crypto%20bitcoin%20ethereum%20ETF%20regulation%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+    category: Digital Assets
+    region: Global
+    lang: en
+    limit: 10
+  - id: nytimes-business
+    name: New York Times Business
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+    category: Business
+    region: US
+    lang: en
+    limit: 8
+  - id: guardian-business
+    name: The Guardian Business
+    url: https://www.theguardian.com/business/rss
+    category: Business
+    region: UK
+    lang: en
+    limit: 8
+  - id: cnbc-top-news
+    name: CNBC Top News
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    category: Markets
+    region: US
+    lang: en
+    limit: 10
+  - id: cnbc-finance
+    name: CNBC Finance
+    url: https://www.cnbc.com/id/10000664/device/rss/rss.html
+    category: Finance
+    region: US
+    lang: en
+    limit: 8
+  - id: marketwatch-top
+    name: MarketWatch Top Stories
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    category: Markets
+    region: US
+    lang: en
+    limit: 10
+  - id: investing-news
+    name: Investing.com News
+    url: https://www.investing.com/rss/news.rss
+    category: Markets
+    region: Global
+    lang: en
+    limit: 10
+  - id: seeking-alpha
+    name: Seeking Alpha Market News
+    url: https://seekingalpha.com/market_currents.xml
+    category: Equities
+    region: US
+    lang: en
+    limit: 8
+  - id: ap-business
+    name: AP Business
+    url: https://apnews.com/hub/business?output=rss
+    category: Business
+    region: US
+    lang: en
+    limit: 8
+  - id: bbc-business
+    name: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    category: Business
+    region: UK
+    lang: en
+    limit: 10
+  - id: ft-home
+    name: Financial Times
+    url: https://www.ft.com/?format=rss
+    category: Global Finance
+    region: Global
+    lang: en
+    limit: 8
+  - id: scmp-business
+    name: South China Morning Post Business
+    url: https://www.scmp.com/rss/92/feed
+    category: China Business
+    region: China
+    lang: en
+    limit: 10
+  - id: fed-press
+    name: Federal Reserve Press Releases
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    category: Central Bank
+    region: US
+    lang: en
+    limit: 8
+  - id: sec-press
+    name: SEC Press Releases
+    url: https://www.sec.gov/news/pressreleases.rss
+    category: Regulation
+    region: US
+    lang: en
+    limit: 8
+  - id: ecb-press
+    name: European Central Bank Press
+    url: https://www.ecb.europa.eu/rss/press.html
+    category: Central Bank
+    region: Europe
+    lang: en
+    limit: 8
+  - id: imf-news
+    name: IMF News
+    url: https://www.imf.org/en/News/RSS
+    category: Macro Policy
+    region: Global
+    lang: en
+    limit: 8
+  - id: worldbank-news
+    name: World Bank News
+    url: https://www.worldbank.org/en/news/all?format=rss
+    category: Macro Development
+    region: Global
+    lang: en
+    limit: 8
+  - id: bis-press
+    name: Bank for International Settlements
+    url: https://www.bis.org/list/press_releases/index.rss
+    category: Central Banks
+    region: Global
+    lang: en
+    limit: 8
+
+# ── AI CLI tools ──────────────────────────────────────────────────────────────
+# Tracked for per-tool digests and cross-tool comparison.
+# Each entry requires: id (filename slug), repo (owner/repo), name (display name).
+# Set paginated: true for high-volume repos with many daily updates.
+
+cli_repos:
+  - id: claude-code
+    repo: anthropics/claude-code
+    name: Claude Code
+  - id: codex
+    repo: openai/codex
+    name: OpenAI Codex
+  - id: gemini-cli
+    repo: google-gemini/gemini-cli
+    name: Gemini CLI
+  - id: copilot-cli
+    repo: github/copilot-cli
+    name: GitHub Copilot CLI
+  - id: kimi-cli
+    repo: MoonshotAI/kimi-cli
+    name: Kimi Code CLI
+  - id: opencode
+    repo: anomalyco/opencode
+    name: OpenCode
+  - id: pi
+    repo: badlogic/pi-mono
+    name: Pi
+  - id: qwen-code
+    repo: QwenLM/qwen-code
+    name: Qwen Code
+  - id: deepseek-tui
+    repo: Hmbown/DeepSeek-TUI
+    name: DeepSeek TUI
+
+# ── Claude Code Skills ────────────────────────────────────────────────────────
+# Tracked separately without a date filter, sorted by community engagement.
+
+skills_repo: anthropics/skills
+
+# ── OpenClaw (primary focus project) ─────────────────────────────────────────
+# Tracked with a dedicated deep-dive report. Set paginated: true for high-volume repos.
+
+openclaw:
+  id: openclaw
+  repo: openclaw/openclaw
+  name: OpenClaw
+  paginated: true
+
+# ── OpenClaw peer projects ────────────────────────────────────────────────────
+# Tracked alongside OpenClaw for cross-ecosystem comparison.
+
+openclaw_peers:
+  - id: nanobot
+    repo: HKUDS/nanobot
+    name: NanoBot
+    paginated: true
+  - id: hermes-agent
+    repo: nousresearch/hermes-agent
+    name: Hermes Agent
+  - id: picoclaw
+    repo: sipeed/picoclaw
+    name: PicoClaw
+    paginated: true
+  - id: nanoclaw
+    repo: qwibitai/nanoclaw
+    name: NanoClaw
+  - id: nullclaw
+    repo: nullclaw/nullclaw
+    name: NullClaw
+  - id: ironclaw
+    repo: nearai/ironclaw
+    name: IronClaw
+  - id: lobsterai
+    repo: netease-youdao/LobsterAI
+    name: LobsterAI
+  - id: tinyclaw
+    repo: TinyAGI/tinyagi
+    name: TinyClaw
+  - id: moltis
+    repo: moltis-org/moltis
+    name: Moltis
+  - id: copaw
+    repo: agentscope-ai/CoPaw
+    name: CoPaw
+  - id: zeptoclaw
+    repo: qhkm/zeptoclaw
+    name: ZeptoClaw
+  - id: zeroclaw
+    repo: zeroclaw-labs/zeroclaw
+    name: ZeroClaw
