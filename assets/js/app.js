@@ -45,6 +45,7 @@ function setSection(section) {
   state.section = section;
   pushHash();
   renderer.renderAll();
+  updateToggleBtn();
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
@@ -57,6 +58,7 @@ async function loadDate(date) {
   try {
     state.data = await loadNewsData(date);
     renderer.renderAll();
+    updateToggleBtn();
   } catch (err) {
     renderer.renderError(err);
   }
@@ -74,12 +76,35 @@ function collapseAll() {
   renderer.renderMain();
 }
 
+function isExpanded() {
+  if (!state.data || state.section === "all") return false;
+  const subs = state.data.sections[state.section]?.subcategories || {};
+  return Object.keys(subs).some((sub) => state.open.has(renderer.subKey(state.section, sub)));
+}
+
+function updateToggleBtn() {
+  const btn = $("toggleBtn");
+  if (!btn) return;
+  if (isExpanded()) {
+    btn.textContent = "⊟ Collapse";
+    btn.title = "Collapse all desks";
+  } else {
+    btn.textContent = "⊞ Expand";
+    btn.title = "Expand all desks";
+  }
+}
+
+function toggleAll() {
+  if (isExpanded()) collapseAll();
+  else expandAll();
+  updateToggleBtn();
+}
+
 function bindControls() {
   $("zhBtn").onclick = () => setLanguage("zh");
   $("enBtn").onclick = () => setLanguage("en");
   $("themeBtn").onclick = () => setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark");
-  $("expandBtn").onclick = expandAll;
-  $("collapseBtn").onclick = collapseAll;
+  $("toggleBtn").onclick = toggleAll;
   $("searchInput").oninput = (event) => {
     state.query = event.target.value;
     if (state.section !== "all") renderer.renderMain();
@@ -92,6 +117,7 @@ function bindControls() {
       renderer.renderAll();
     }
     if (date && date !== state.date) loadDate(date);
+    updateToggleBtn();
   });
 }
 

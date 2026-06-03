@@ -147,6 +147,8 @@
     .masthead-top button { color: var(--muted); letter-spacing: .14em; transition: color .15s; }
     .masthead-top button:hover { color: var(--accent); }
     .masthead-top button.active { color: var(--ink); font-weight: 700; }
+    .masthead-top a#githubLink { color: var(--muted); letter-spacing: .14em; text-decoration: none; transition: color .15s; cursor: pointer; }
+    .masthead-top a#githubLink:hover { color: var(--accent); }
     .lang-sep { color: var(--faint); }
 
     .masthead-title { text-align: center; padding: 14px 0 6px; }
