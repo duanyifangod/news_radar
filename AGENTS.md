@@ -111,7 +111,7 @@ Rules:
 
 ## Release Process
 
-- Update `CHANGELOG.md` with a new `## [x.y.z] - YYYY-MM-DD` section above existing ones.
+- Update `.changes/CHANGELOG.md` with a new `## [x.y.z] - YYYY-MM-DD` section above existing ones.
 - Follow Semantic Versioning: breaking → major, additive → minor, fix-only → patch.
 - Publish a matching GitHub Release at `v<x.y.z>` targeting `main`, pasting the new CHANGELOG section into the release body.
 - Do not retag a published version; cut a new patch instead.
