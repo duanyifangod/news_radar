@@ -4,6 +4,8 @@
 
 线上访问：<https://duanyifangod.github.io/news_radar/>
 
+![News Radar 主界面](docs/images/newsradar.png)
+
 ## 功能
 
 - 6 大板块：经济、社会、军事、科技、体育、娱乐
@@ -12,6 +14,8 @@
 - 本地优先：所有数据生成与浏览均可离线在本机/局域网完成
 - 静态部署：无服务端代码，可直接发布到 GitHub Pages、对象存储或任何静态托管
 - 自动化：GitHub Actions 每天 09:00 (Asia/Shanghai) 自动跑日报并 push
+
+![新闻抓取与板块呈现](docs/images/obtainandhearingnews.png)
 
 ## 数据流
 
@@ -103,6 +107,8 @@ pnpm serve                   # 在 0.0.0.0:3000 启动静态服务器
 ## 自动化（GitHub Actions）
 
 `.github/workflows/daily.yml` 每天 01:00 UTC（北京 09:00）跑 `pnpm daily` 并 push 回 `main`。GitHub Pages 监听 `main` 分支后自动重新发布。
+
+![GitHub Actions 自动部署流程](docs/images/auto_deploy.png)
 
 仓库需要在 **Settings → Secrets and variables → Actions** 配置：
 
