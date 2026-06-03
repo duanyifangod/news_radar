@@ -1,36 +1,36 @@
 # 多频道新闻雷达 — 科技新闻
 
-> 2026-06-03 · 窗口: 24h · 条目: 83 · 生成时间: 2026-06-03 06:15 UTC
+> 2026-06-03 · 窗口: 24h · 条目: 81 · 生成时间: 2026-06-03 07:31 UTC
 
 ---
 
 ## 板块速览
 
-今日科技板块的关键词是「监管博弈」与「成本压力」。特朗普签署 AI 自愿审查行政令，试图在创新与安全间找平衡，但内部仍有分歧；微软 Build 2026 一口气推出旗舰推理模型 MAI-Thinking-1 和智能助手 Scout，意在摆脱对 OpenAI 的依赖；Uber 却因员工过度使用 AI 而超额支出，被迫设预算上限——这种反差凸显了企业部署 AI 的落地难题。汽车领域，BYD 展示铝制框架技术，Cybertruck 意外获得哈萨克斯坦订单，证明电动化在特殊场景的韧性。HackNews 社区则聚焦 GPU 虚拟内存、编程语言体验等工具链创新。
+今日科技新闻呈现三大主线：电动汽车市场在海外与商用领域找到新增量，科技产品社会影响引发监管反思，AI行业在微软Build大会后加速但面临内外部规则博弈。
 
-- [特朗普签署行政令，要求AI模型发布前接受联邦审查](https://www.theverge.com/policy/941775/trump-ai-executive-order) —— 自愿框架引发争议：是真保护还是政治姿态？
-- [微软Build 2026：MAI-Thinking-1 和 Scout 助手登场](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) —— 微软加速自研模型，与OpenAI关系进入新阶段。
-- [Uber因AI预算四个月内花光，被迫设员工使用上限](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) —— AI成本失控成企业新痛点。
-- [BYD宣称铸铝车架比钢架更轻、更坚固、更安全](https://electrek.co/2026/06/02/byd-says-its-cast-aluminum-frame-is-lighter-tougher-and-safer-than-steel/) —— 仰望U8L通过12吨举升测试，材料革新或改变行业标准。
-- [哈萨克斯坦紧急情况部增购Cybertruck用于救援](https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/) —— 海外小市场消化美国本土需求下滑。
-- [HackNews热门：用Nvidia显存作Linux交换空间](https://github.com/c0dejedi/nbd-vram) —— 社区创意解决显存闲置问题，获230点赞。
+- **汽车**：Tesla Cybertruck在北美需求滑坡之际，意外获[哈萨克斯坦紧急服务部门采购](https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/)，证明极端工况实用性可打开利基市场；Orange EV拿下[600辆电动重卡订单](https://electrek.co/2026/06/02/orange-ev-scores-record-600-unit-order-as-demand-for-electric-semi-trucks-soars/)，凸显物流业电气化不受补贴波动影响；BYD披露[铸造铝合金框架](https://electrek.co/2026/06/02/byd-says-its-cast-aluminum-frame-is-lighter-tougher-and-safer-than-steel/)减重百磅且通过12吨测试，技术路线挑战传统钢材；纽约州起诉内政部[10亿美元贿赂石油公司](https://electrek.co/2026/06/02/new-york-sues-over-interior-dept-s-1b-bribe-to-an-oil-company-stop-wind-power/)叫停风电，清洁能源与化石燃料博弈白热化；Subaru[新电动SUV上市两月即超越Solterra销量](https://electrek.co/2026/06/02/subarus-new-evs-already-outselling-solterra/)，产品力差异决定市场成败。
 
-**后续观察**：AI监管的「自愿」框架能否有效？微软与OpenAI的「松绑」将如何影响模型生态？汽车领域材料创新与海外市场拓展正在重塑竞争格局，而开发者社区对底层效率工具的持续挖掘，提醒我们真正的创新常来自草根实践。
+- **科技产品**：索尼State of Play压轴公布[《战神：劳菲》](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)，PS5生命周期后期大作策略稳健；波兰政府批准[校园手机及智能手表禁令](https://www.engadget.com/2186323/poland-classroom-phone-ban-online-porn-age-check-bills/)，欧洲数字监管再收紧；Uber公布[数千件无人车遗留物品](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/)，从Squishmallows到假牙，侧面反映服务已常态化但运营细节待完善；Meta允许员工[从追踪程序休息30分钟](https://www.engadget.com/2186261/meta-will-reportedly-let-employees-take-30-minute-breaks-from-its-tracking-program/)，职场监控争议再升温。
+
+- **AI**：Microsoft Build 2026发布[七大公告](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements)，包括全天候个人助理和新Surface硬件，生态粘性增强；特朗普政府被曝[内部对AI监管立场对立](https://news.google.com/rss/articles/CBMinwFBVV95cUxNREtSUDhhcVBDX3hpa3ZKbDg4VzRrMzNVSk1XaTNCcjltVUpFaDZZN0EtTFZFSjI3SXJGVEVGREJDb3Jtb184aThoMXVFNEtGSHZyWXFfUmRrZ0tDWnVqZmFab0VIVzVJVWFndkQ1UHo2TFdjcUNqUFB3cGVUakZZTjJRYWpFTGlfNjVIVU5RSVVLd3AxSGpUM3c5OWpEWW8)，联邦法案进程存变数；Google允许[网站退出AI搜索结果](https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/)，英国媒体率先获此选项，内容版权博弈催生新规则；AI教父Yoshua Bengio等[涌入创业圈](https://news.google.com/rss/articles/CBMiU0FVX3lxTE12dWQweVVQQ1VUNmhqUFJmSE82UnI3NWlCRGV3M0IxVG9ZSGJtYmQtMV96Uy0wektubUY2SGVKalFwR29aNzFnSHBrUFpHUjFteE9R)，硅谷押注下一代范式；MIT Tech Review发布[小企业AI应用指南](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/)，降低AI落地门槛。
+
+**后续观察**：未来一周需关注特斯拉Q2交付数据（Cybertruck国内是否继续下滑）、微软新款Surface市场反响、美国联邦AI监管法案能否在国会取得实质进展。同时，英国媒体退出Google AI摘要的后续影响可能引发其他地区效仿，改变搜索生态格局。
 
 ---
 
-## 汽车 · 12 条
+## 汽车 · 11 条
 
-今日汽车板块呈现两极化：一边是电动卡车订单创纪录、Cybertruck海外拓展，一边是本土需求疲软和政策博弈。比亚迪的铝制框架技术可能改写车身结构标准，而Dodge Charger EV加入NACS端口则加速北美充电标准统一。
+电动汽车市场出现结构分化：高端个性化车型依赖海外需求，商用重卡和大众市场SUV则在国内加速渗透，技术路线和政策博弈成为关键变量。
 
-- [Orange EV获600辆电动重卡订单，创历史记录](https://electrek.co/2026/06/02/orange-ev-scores-record-600-unit-order-as-demand-for-electric-semi-trucks-soars/) —— 即使无联邦补贴，市场需求依然强劲。
-- [BYD展示铸铝车架：比钢轻100磅却更坚固](https://electrek.co/2026/06/02/byd-says-its-cast-aluminum-frame-is-lighter-tougher-and-safer-than-steel/) —— 仰望U8L通过12吨起重测试，材料革新或影响全行业。
-- [2027款Dodge Charger EV开售，配备NACS充电端口](https://electrek.co/2026/06/02/2027-dodge-charger-ev-adds-nacs-not-cheap/) —— 传统肌肉车电动化，但价格不菲。
-- [Subaru新电动SUV上市两个月销量即超Solterra](https://electrek.co/2026/06/02/subarus-new-evs-already-outselling-solterra/) —— 产品迭代速度决定市场份额。
+- [Cybertruck获哈萨克斯坦紧急服务订单](https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/) —— 国内需求疲软下，中亚市场为这款争议车型提供新出路，但规模有限。
+- [Orange EV创纪录600辆电动重卡订单](https://electrek.co/2026/06/02/orange-ev-scores-record-600-unit-order-as-demand-for-electric-semi-trucks-soars/) —— 无联邦激励仍获大单，证明物流行业电气化已具备经济性，二阶影响将带动充电基建需求。
+- [BYD铝合金框架减重超百磅](https://electrek.co/2026/06/02/byd-says-its-cast-aluminum-frame-is-lighter-tougher-and-safer-than-steel/) —— 仰望U8L的技术突破可能重塑大型SUV安全与能效标准，对竞品形成压力。
+- [纽约州起诉内政部10亿美元贿赂案](https://electrek.co/2026/06/02/new-york-sues-over-interior-dept-s-1b-bribe-to-an-oil-company-stop-wind-power/) —— 联邦政府用纳税人钱扼杀清洁能源项目，法律挑战或影响后续海上风电审批。
+- [Subaru新EV两月超越Solterra](https://electrek.co/2026/06/02/subarus-new-evs-already-outselling-solterra/) —— 产品力差异直接反映在销量上，为传统车企电动化转型提供警示。
 
-**收束**：电动化已从概念进入细分市场争夺，材料与充电标准的突破将决定下一阶段竞争格局。
+总体而言，电动汽车市场正从“政策驱动”转向“产品/场景驱动”，但地缘政治和政策干预仍是不可忽视的变量。
 
-<details><summary>信源 (12)</summary>
+<details><summary>信源 (11)</summary>
 
 - [Tesla found new buyers for its Cybertruck: Kazakh emergency services](https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/) — Electrek · 2026-06-03 02:33 UTC
 - [Orange EV scores record, 600 unit order as demand for electric semi trucks soars](https://electrek.co/2026/06/02/orange-ev-scores-record-600-unit-order-as-demand-for-electric-semi-trucks-soars/) — Electrek · 2026-06-02 21:34 UTC
@@ -39,24 +39,23 @@
 - [The 2027 Dodge Charger EV goes on sale with a NACS port, but it’s not cheap](https://electrek.co/2026/06/02/2027-dodge-charger-ev-adds-nacs-not-cheap/) — Electrek · 2026-06-02 20:50 UTC
 - [BYD says its cast aluminum frame is lighter, tougher, and safer than steel](https://electrek.co/2026/06/02/byd-says-its-cast-aluminum-frame-is-lighter-tougher-and-safer-than-steel/) — Electrek · 2026-06-02 20:40 UTC
 - [This California city is adding off-grid solar + storage EV chargers](https://electrek.co/2026/06/02/this-california-city-is-adding-off-grid-solar-storage-ev-chargers/) — Electrek · 2026-06-02 20:39 UTC
-- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd) — Hacker News Front Page · 2026-06-02 20:30 UTC
 - [Electrify America is changing how you pay for EV charging](https://electrek.co/2026/06/02/electrify-america-is-changing-how-you-pay-for-ev-charging/) — Electrek · 2026-06-02 19:12 UTC
 - [Anker launches SOLIX S2000 power station + bundles starting from exclusive $598, EGO Z6 zero turn riding mower bundle new low, more](https://electrek.co/2026/06/02/anker-solix-s2000-power-station-bundles-from-exclusive-598-ego-z6-zero-turn-riding-mower-more/) — Electrek · 2026-06-02 18:00 UTC
 - [Subaru’s new EVs are already outselling the Solterra](https://electrek.co/2026/06/02/subarus-new-evs-already-outselling-solterra/) — Electrek · 2026-06-02 17:54 UTC
-- [BYD ship lands as Toyota sharpens wait time - The Daily Advertiser](https://news.google.com/rss/articles/CBMimAFBVV95cUxObEZLY3BPLXBwYVE3TDN1WS1GUUk4NUtyVE1rZDhidWVSN0ZjU0FWcWtDOUJKLTVUY0t5bUdSUmxWQmNsWkcxdURFcGJRSV9TTEwtU01POXI3Wk9meEZDUUxCWjUyWU9GZElWeTBPaWdXQ3NYVDRDNURlVUUxX2xBZDZpZXczYWxmbVI3UjFBbGVFdUZ6UUMzeQ) — Google News Autos · 2026-06-02 18:06 UTC
+- [Up to 5000 BYDs land in Australia via new ship as company commits to short wait time for 2026 BYD Sealion 6, Shark 6 and more - CarsGuide](https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHFnN0U4MV84ck8wOGhfRlhteWJxdEp1blZDcUU3WDhNNGk4Z1BGamZabjJrWGNGZUE4T29oUzBnbGg0bmw5S1prTVJGRnhNRVhMeERzTzhjdHp4VDNlR0ZQbWZFZHpzZWNnQnZYNlpPaVI5LWRiWEI4LU1DU3Y5cENPTHliZUdacmdVdUY4Y3Y5eG12Vnl2WXBneGJMZWk3ZmtjczFlOWZGV2hIVnhtZkcwT3ZRRTVHMmFkSEU1NjBZeU12) — Google News Autos · 2026-06-02 07:54 UTC
 
 </details>
 
 ## 科技产品 · 35 条
 
-科技产品方面，游戏与政策成为今日焦点。Sony State of Play压轴公布《God of War Laufey》，波兰政府则推出史上最严校园手机禁令。Meta允许员工暂停追踪程序，折射出职场监控与隐私的持续拉锯。Uber机器人出租车失物清单则从侧面展示自动驾驶的日常化。
+消费电子领域呈现“大作与禁令并存”的态势：索尼以《战神》新作巩固主机生态，而波兰等国家则加速限制智能设备进入校园。无人驾驶服务的社会学细节开始浮现，Meta的内部监控政策引发争议。
 
-- [《God of War Laufey》正式公布，登陆PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer) —— Santa Monica工作室新作，未公布发售日期。
-- [波兰拟立法禁止学校使用手机和智能手表](https://www.engadget.com/2186323/poland-classroom-phone-ban-online-porn-age-check-bills/) —— 数字设备管理引发全球连锁反应。
-- [Meta允许员工每30分钟暂停一次追踪程序](https://www.engadget.com/2186261/meta-will-reportedly-let-employees-take-30-minute-breaks-from-its-tracking-program/) —— 内部监控政策让步，但效果待观察。
-- [Uber公布数千件遗落在机器人出租车中的物品](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/) —— 自动化服务仍需人工善后。
+- [《战神：劳菲》PS5独占公布](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer) —— 延续北欧神话线，未公布发售日，但作为State of Play压轴，显示索尼对第一方IP的持续投入。
+- [波兰拟禁止学校使用手机和智能手表](https://www.engadget.com/2186323/poland-classroom-phone-ban-online-porn-age-check-bills/) —— 继法国、芬兰后，欧洲教育科技市场面临政策冲击，相关硬件及管理软件厂商需调整策略。
+- [Uber公开数千件无人车遗留物](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/) —— 从玩偶到假牙，数据侧面验证无人驾驶出租车已深入日常，但遗留物品处理效率影响用户体验。
+- [Meta允许员工30分钟脱离追踪](https://www.engadget.com/2186261/meta-will-reportedly-let-employees-take-30-minute-breaks-from-its-tracking-program/) —— “监控资本主义”反噬内部管理，其他科技公司可能面临类似压力。
 
-**收束**：科技产品正面临更严格的社会审视，从游戏IP延续到隐私保护，行业边界正在被重新定义。
+当前科技产品正从“追求功能”转向“权衡社会影响”，隐私、监管和伦理议题正在重塑产品定义。
 
 <details><summary>信源 (35)</summary>
 
@@ -65,72 +64,46 @@
 - [Poland wants to ban phones and smartwatches in schools](https://www.engadget.com/2186323/poland-classroom-phone-ban-online-porn-age-check-bills/) — Engadget · 2026-06-03 05:58 UTC
 - [Peacock Promo Codes: 40% Off June 2026](https://www.wired.com/story/peacock-promo-code/) — Wired · 2026-06-03 05:00 UTC
 - [Paramount+ Coupon Codes and Deals for June 2026](https://www.wired.com/story/paramount-plus-coupon-code/) — Wired · 2026-06-03 05:00 UTC
+- [Hotels.com Coupon: 25% Off June 2026](https://www.wired.com/story/hotels-com-coupon/) — Wired · 2026-06-03 05:00 UTC
 - [Valvoline Coupons and Promo Codes for June 2026](https://www.wired.com/story/valvoline-coupons/) — Wired · 2026-06-03 05:00 UTC
 - [Bose Promo Code: 40% Off for June 2026](https://www.wired.com/story/bose-coupon-code/) — Wired · 2026-06-03 05:00 UTC
-- [Hotels.com Coupon: 25% Off June 2026](https://www.wired.com/story/hotels-com-coupon/) — Wired · 2026-06-03 05:00 UTC
 - [Newegg Promo Code: 10% Off in June 2026](https://www.wired.com/story/newegg-promo-code/) — Wired · 2026-06-03 05:00 UTC
 - [Dyson Promo Codes: 25% Off in June 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/) — Wired · 2026-06-03 05:00 UTC
 - [30% Off Samsung Promo Code | June 2026](https://www.wired.com/story/samsung-promo-codes/) — Wired · 2026-06-03 05:00 UTC
 - [AT&T Promo Codes: $50 Off This June 2026](https://www.wired.com/story/att-promo-code/) — Wired · 2026-06-03 05:00 UTC
 - [Meta will reportedly let employees take 30-minute breaks from its tracking program](https://www.engadget.com/2186261/meta-will-reportedly-let-employees-take-30-minute-breaks-from-its-tracking-program/) — Engadget · 2026-06-03 00:03 UTC
-- [Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/) — TechCrunch · 2026-06-02 23:25 UTC
+- [Nike Promo Codes and Discounts: 30% for June 2026](https://www.wired.com/story/nike-promo-code/) — Wired · 2026-06-03 05:00 UTC
 
 </details>
 
-## AI · 27 条
+## AI · 35 条
 
-AI板块今日充满张力：特朗普签署AI自愿审查行政令，与内部政策分歧并存；微软Build 2026全面押注自研模型，同时推出Scout助手对抗OpenAI；Uber因AI支出失控被迫限流，成为企业落地AI的成本警示。谷歌和斯坦福则分别展示了AI防诈骗和法律领域的突破。
+AI行业在微软Build 2026的催化下加速扩张，但同时面临监管内部分歧、内容版权冲突以及技术范式转移的临界点。
 
-- [特朗普行政令：AI公司可自愿提交模型供联邦审查](https://www.theverge.com/policy/941775/trump-ai-executive-order) —— 美国AI监管路径向左还是向右？
-- [微软发布MAI-Thinking-1推理模型和Scout个人助理](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) —— 微软加速摆脱OpenAI依赖，生态自主权增强。
-- [Uber AI预算四个月耗尽，员工使用量设上限](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) —— 鼓励AI落地的代价是成本失控。
-- [谷歌推出深度伪造电话检测，保护安卓用户](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/) —— AI攻防战进入终端侧。
-- [斯坦福研究：AI在法学考试中超越教授](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/) —— 但学术应用仍存争议。
+- [微软Build 2026七大公告](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements) —— 全天候个人助理和新Surface标志微软从“AI工具”转向“AI生活入口”，对谷歌和苹果形成直接压力。
+- [特朗普政府AI监管路线内讧](https://news.google.com/rss/articles/CBMinwFBVV95cUxNREtSUDhhcVBDX3hpa3ZKbDg4VzRrMzNVSk1XaTNCcjltVUpFaDZZN0EtTFZFSjI3SXJGVEVGREJDb3Jtb184aThoMXVFNEtGSHZyWXFfUmRrZ0tDWnVqZmFab0VIVzVJVWFndkQ1UHo2TFdjcUNqUFB3cGVUakZZTjJRYWpFTGlfNjVIVU5RSVVLd3AxSGpUM3c5OWpEWW8) —— 行政分支内部对立可能拖延联邦AI法案，各州自行立法风险上升。
+- [Google允许网站退出AI搜索结果](https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/) —— 英国媒体率先获准，此举或缓解内容生态紧张，但可能削弱AI搜索的竞争力，形成“有摘要无内容”的悖论。
+- [AI教父们涌入创业圈](https://news.google.com/rss/articles/CBMiU0FVX3lxTE12dWQweVVQQ1VUNmhqUFJmSE82UnI3NWlCRGV3M0IxVG9ZSGJtYmQtMV96Uy0wektubUY2SGVKalFwR29aNzFnSHBrUFpHUjFteE9R) —— Yoshua Bengio等顶尖学者转向创业，预示着下一代AI范式（如世界模型、因果推理）可能迅速商业化。
+- [小企业AI应用指南发布](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) —— MIT Tech Review的实操指南降低门槛，但需警惕“范围跃迁”导致的开发失控（如[HN热帖](https://news.ycombinator.com/item?id=48380952)所述）。
 
-**收束**：AI正从技术竞赛进入治理和成本管控阶段，企业、政府与开发者需重新平衡创新与约束。
+AI正从“技术试验”步入“社会融合”关键期，规则制定与技术创新之间的张力将决定未来走向。
 
-<details><summary>信源 (27)</summary>
+<details><summary>信源 (35)</summary>
 
 - [The Download: AI can run your admin department now](https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/) — MIT Technology Review · 2026-06-02 12:10 UTC
 - [The Trump Administration Is at War With Itself Over AI Regulation - The Tech Buzz](https://news.google.com/rss/articles/CBMinwFBVV95cUxNREtSUDhhcVBDX3hpa3ZKbDg4VzRrMzNVSk1XaTNCcjltVUpFaDZZN0EtTFZFSjI3SXJGVEVGREJDb3Jtb184aThoMXVFNEtGSHZyWXFfUmRrZ0tDWnVqZmFab0VIVzVJVWFndkQ1UHo2TFdjcUNqUFB3cGVUakZZTjJRYWpFTGlfNjVIVU5RSVVLd3AxSGpUM3c5OWpEWW8) — Google News AI · 2026-06-02 10:14 UTC
 - [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) — MIT Technology Review · 2026-06-02 09:00 UTC
-- [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device) — Hacker News Front Page · 2026-06-03 03:47 UTC
+- [Tell HN: AI programming has turned my "scope creep" to "scope leap"](https://news.ycombinator.com/item?id=48380952) — Hacker News AI Search · 2026-06-03 07:19 UTC
+- [Topaz AI confirmed bug that can wipe host computer](https://community.topazlabs.com/t/heads-up-avoid-moving-default-app-folders-to-prevent-file-path-issues/103164) — Hacker News AI Search · 2026-06-03 07:15 UTC
+- [He Quit Baidu. But First He Had to Build an AI Version of Himself](https://www.sixthtone.com/news/1018594) — Hacker News AI Search · 2026-06-03 07:05 UTC
+- [Where does the race to automate AI research end?](https://www.lesswrong.com/posts/gkbet5Gp7eoAE9bjY/where-does-the-race-to-automate-ai-research-end) — Hacker News AI Search · 2026-06-03 07:05 UTC
+- [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) — Hacker News AI Search · 2026-06-03 07:01 UTC
+- [UK media groups given power to opt out of Google AI search summaries](https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries) — Hacker News AI Search · 2026-06-03 06:38 UTC
+- [Drones, spider cams and AI will bring World Cup 2026 to your TV](https://www.rte.ie/brainstorm/2026/0602/1575716-world-cup-2026-broadcasting-technology-spider-cameras-var-drones-ai/) — Hacker News AI Search · 2026-06-03 06:34 UTC
+- [An MCP tool that lets ChatGPT check if a store is AI-readable](https://www.bridgetoagent.com/api/mcp) — Hacker News AI Search · 2026-06-03 06:33 UTC
+- [A harness for every task: dynamic workflows in Claude Code](https://twitter.com/trq212/status/2061907337154367865) — Hacker News AI Search · 2026-06-03 06:31 UTC
+- [Can we trust AI to build a better version of itself?](https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182) — Hacker News AI Search · 2026-06-03 06:28 UTC
 - [The godfather of AI enters the startup scene: Silicon Valley starts to bet on the "next-generation AI paradigm" - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE12dWQweVVQQ1VUNmhqUFJmSE82UnI3NWlCRGV3M0IxVG9ZSGJtYmQtMV96Uy0wektubUY2SGVKalFwR29aNzFnSHBrUFpHUjFteE9R) — Google News AI · 2026-06-03 03:02 UTC
-- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/) — Hacker News Front Page · 2026-06-02 23:43 UTC
-- [Google will allow websites to exclude themselves from AI search results](https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/) — Engadget · 2026-06-03 05:10 UTC
-- [Microsoft Build 2026: The 7 biggest announcements](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements) — The Verge · 2026-06-02 19:23 UTC
-- [Uber caps employee AI spending after blowing through budget in 4 months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) — TechCrunch · 2026-06-02 19:11 UTC
-- [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/) — TechCrunch · 2026-06-02 19:02 UTC
-- [Trump signs executive order to review AI models before they’re released](https://www.theverge.com/policy/941775/trump-ai-executive-order) — The Verge · 2026-06-02 18:33 UTC
-- [Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/) — TechCrunch · 2026-06-02 18:16 UTC
-- [Microsoft’s first advanced reasoning AI is here](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) — The Verge · 2026-06-02 18:12 UTC
-- [Microsoft launches Scout, an OpenClaw-inspired personal assistant](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/) — TechCrunch · 2026-06-02 18:02 UTC
-
-</details>
-
-## HackNews社区动态 · 9 条
-
-开发者社区今日热度集中于底层工具与语言体验。Nvidia GPU显存作为Linux交换空间的项目获230赞，解决了大模型训练时的显存闲置问题。Clojure使用心得（186赞）反映了Lisp系语言在函数式编程爱好者中的持续吸引力。Agentic Mfw网站以讽刺方式调侃AI Agent炒作，而Roku LT OS开源则给嵌入式开发带来新选择。
-
-- [用Nvidia显存作Linux交换空间](https://github.com/c0dejedi/nbd-vram) —— 创意工具，缓解VRAM压力，获230分。
-- [使用Clojure一个月后的感受](https://www.acdw.net/clojure/) —— 个人经验分享，引发186条评论深度讨论。
-- [Agentic Mfw](https://agenticmotherfucking.website/) —— 反讽当前AI Agent热潮，132分。
-- [Roku LT操作系统开源发布](https://blog.roku.com/developer/roku-lt-os) —— 电视盒系统开放，或推动家居硬件开发。
-- [Pluto.jl 1.0发布：Julia交互式笔记本](https://discourse.julialang.org/t/pluto-1-0-release/137296) —— 数据科学工具迭代，获74分。
-
-**收束**：社区对实用工具和反讽内容同样热衷，底层创新与语言选择仍是开发者关注的核心。
-
-<details><summary>信源 (9)</summary>
-
-- [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/) — Hacker News Front Page · 2026-06-03 03:47 UTC
-- [Agentic Mfw](https://agenticmotherfucking.website/) — Hacker News Front Page · 2026-06-03 02:32 UTC
-- [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/) — Hacker News Front Page · 2026-06-03 01:59 UTC
-- [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os) — Hacker News Front Page · 2026-06-03 01:13 UTC
-- [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296) — Hacker News Front Page · 2026-06-02 23:09 UTC
-- [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram) — Hacker News Front Page · 2026-06-02 22:55 UTC
-- [Show HN: Paseo – Beautiful open-source coding agent interface](https://github.com/getpaseo/paseo) — Hacker News Front Page · 2026-06-02 22:34 UTC
-- [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/) — Hacker News Front Page · 2026-06-02 22:22 UTC
-- [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/) — Hacker News Front Page · 2026-06-02 19:56 UTC
 
 </details>
 
