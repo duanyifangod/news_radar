@@ -5,3 +5,6 @@ dist/
 social/
 .run.log
 *.log
+.history/
+.vscode/
+.idea/
