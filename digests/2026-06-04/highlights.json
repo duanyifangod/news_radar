@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突升级，油价逼近100美元，全球股市承压。",
+      "欧元区通胀升至3.2%，ECB加息几成定局。",
+      "特斯拉5月交付创年内新高，本土对手穷追不舍。",
+      "Broadcom财报不及预期，股价暴跌。",
+      "SpaceX以1.77万亿美元估值启动IPO。"
+    ],
+    "news-society": [
+      "美国众议院投票叫停对伊战争，但面临总统否决。",
+      "伊朗无人机袭击科威特机场致1死多伤。",
+      "日本因中东危机面临塑料袋、餐盒短缺。",
+      "韩国执政党地方选举大胜，但首尔市长选情胶着。",
+      "知乎Q1营收降10.7%，净利润暴增147%。"
+    ],
+    "news-military": [
+      "伊朗无人机袭击科威特机场，美军回击格什姆岛。",
+      "乌军无人机首次成功袭击俄罗斯波罗的海舰队。",
+      "中国新型无帆潜艇卫星图像曝光。",
+      "南海中美同时实弹演习，日菲深化安全合作。",
+      "停火框架形同虚设，美伊冲突实质化扩散。"
+    ],
+    "news-tech": [
+      "Alphabet创纪录850亿美元融资用于AI。",
+      "特朗普签行政令要求AI模型发布前政府审查。",
+      "任天堂在欧盟销售可换电池的Switch 2。",
+      "BYD首次承诺自动驾驶事故全额赔偿。",
+      "Elixir 1.20发布渐近类型系统。"
+    ],
+    "news-sports": [
+      "瑞士前锋恩博洛因犯罪记录被拒登机，紧急申请世界杯签证。",
+      "里克尔梅竞选皇马主席，承诺签下哈兰德。",
+      "梅西获2026年阿斯图里亚斯公主体育奖。",
+      "NBA总决赛今日开打，尼克斯中锋米切尔·罗宾逊复出。",
+      "库里与李宁签10年4亿美元代言合同。"
+    ],
+    "news-entertainment": [
+      "CBS《60分钟》记者解雇风波引发新闻干预指控。",
+      "Boots Riley抨击Scorsese为钱站台AI。",
+      "BTS迎来全员回归后首次周年庆FESTA。",
+      "Jennie与Tame Impala合作曲首次打入美国电台前十。",
+      "公安部点名批评综艺节目安全带P图。"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil nears $100 on US-Iran tensions",
+      "ECB set to hike rates as inflation hits 3.2%",
+      "China tightens outbound capital flows",
+      "IEA warns oil stockpiles may fall critically",
+      "OECD predicts recessions if Iran conflict drags"
+    ],
+    "news-society": [
+      "US House votes 215-208 to halt Iran war",
+      "Ukraine drones hit St Petersburg oil facilities",
+      "Iran drone strike kills one at Kuwait airport",
+      "Japan faces plastic bag shortage from crisis",
+      "Israel and Lebanon agree to ceasefire"
+    ],
+    "news-military": [
+      "Iran drones attack Kuwait airport, one killed",
+      "US strikes Iranian control station on Qeshm",
+      "Ukraine drones hit Russia's Baltic Fleet",
+      "Ukraine strikes St Petersburg ahead of forum",
+      "New Chinese submarine design signals expansion"
+    ],
+    "news-tech": [
+      "Alphabet raises $85B for Google AI",
+      "Trump orders AI models shared with government",
+      "BYD launches low-cost 1000km-range PHEV",
+      "BYD promises full liability for self-driving crashes",
+      "Elixir graduates to a typed programming language"
+    ],
+    "news-sports": [
+      "Swiss star Embolo denied WC flight, visa appeal",
+      "Messi wins Princess of Asturias award",
+      "Knicks and Spurs set for NBA Finals Game 1",
+      "Mitchell Robinson cleared to play in Finals",
+      "Stephen Curry makes historic Li-Ning endorsement"
+    ],
+    "news-entertainment": [
+      "CBS 60 Minutes fires veteran Scott Pelley",
+      "Alumni accuse CBS of journalistic interference",
+      "BTS begins 13th anniversary FESTA",
+      "Jennie achieves historic U.S. radio chart entry",
+      "Marilyn Monroe items auctioned for 100th birthday"
+    ]
+  }
+}
