@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "博通财报重创AI概念，科技股遭轮动",
+      "SpaceX启动史上最大IPO，估值1.77万亿",
+      "中美芯片管制升级，黄仁勋被邀听证",
+      "特朗普动用战时权力宣布700亿煤炭投资",
+      "欧洲央行警告通胀与增长困境"
+    ],
+    "news-society": [
+      "泽连斯基致函普京提议面对面会谈",
+      "美众议院通过决议阻止对伊军事行动",
+      "美国南部发现食肉螺旋虫，1966年来首次",
+      "白宫舞厅改造计划规模翻倍成本攀升",
+      "民主党未能阻止加深以色列军事合作议案"
+    ],
+    "news-military": [
+      "美众议院通过80亿美元乌克兰援助法案",
+      "乌克兰无人机在圣彼得堡击中俄护卫舰",
+      "台湾2029年前反舰导弹增至1850枚",
+      "五眼联盟指控中国利用求职平台招募间谍",
+      "美国考虑从日韩船厂采购主力战舰"
+    ],
+    "news-tech": [
+      "Anthropic冲刺IPO同时呼吁暂停AI开发",
+      "Meta智能眼镜面部识别引发隐私风暴",
+      "Valve确认Steam Machine夏季上市",
+      "Audi发布混动超跑背离全电动承诺",
+      "Dashlane披露攻击：加密保险库被批量下载"
+    ],
+    "news-sports": [
+      "利物浦任命伊劳拉取代斯洛特为主帅",
+      "西班牙热身1-1伊拉克，缺亚马尔进攻乏力",
+      "皇马主席承诺1.74亿欧元签巨星引援",
+      "尼克斯G1逆转马刺，布朗森30分",
+      "库里10年4亿美元签约李宁创纪录"
+    ],
+    "news-entertainment": [
+      "SAG-AFTRA通过新约，含合成演员条款",
+      "演员James Handy被女友之子刺杀身亡",
+      "Madonna时代广场首演新专辑曲目",
+      "ZEROBASEONE成员因签售抽奖争议道歉",
+      "韩栋直播哭诉没戏拍后辟谣是剧本"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Broadcom miss triggers AI-chip selloff",
+      "Dow hits record as value stocks rally",
+      "Hezbollah rejects US-backed ceasefire",
+      "Trump signals willingness to meet Iran's leader",
+      "Sen. Warren calls Nvidia CEO to Senate hearing"
+    ],
+    "news-society": [
+      "Zelensky proposes face-to-face talks with Putin",
+      "Hezbollah rejects renewed Israel-Lebanon ceasefire",
+      "House rebukes Trump over Iran military action",
+      "Flesh-eating screwworm outbreak threatens US",
+      "South Korea's president faces legal shadow"
+    ],
+    "news-military": [
+      "House passes $8B Ukraine Support Act",
+      "Ukrainian drones strike Russian corvette near St. Petersburg",
+      "Taiwan plans 1,800 anti-ship missiles by 2029",
+      "Five Eyes warns of Chinese espionage tactics",
+      "Middle East conflict marks 100th day"
+    ],
+    "news-tech": [
+      "Anthropic revenue surges to $47B ahead of IPO",
+      "Anthropic calls for global AI development pause",
+      "Meta's smart glasses facial recognition sparks backlash",
+      "Valve and Meta announce major product updates",
+      "Congress considers AI preemption bill"
+    ],
+    "news-sports": [
+      "Liverpool appoint Andoni Iraola as head coach",
+      "Florentino Pérez vows $174M Galactico bid",
+      "Amad nets late winner as Ivory Coast stun France",
+      "Japan ditches pre-WC training site over pitch",
+      "Shakira to perform at World Cup opening ceremony"
+    ],
+    "news-entertainment": [
+      "SAG-AFTRA ratifies historic AI and pension deal",
+      "James Handy fatally stabbed at 81",
+      "Jennifer Lopez's Netflix rom-com gets mixed reviews",
+      "K-pop group Le Sserafim discusses internal conflict",
+      "Chinese social media debates 'alive vs. dead lychee'"
+    ]
+  }
+}
