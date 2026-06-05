@@ -1,90 +1,76 @@
 {
   "zh": {
     "news-economy": [
-      "博通财报重创AI概念，科技股遭轮动",
-      "SpaceX启动史上最大IPO，估值1.77万亿",
-      "中美芯片管制升级，黄仁勋被邀听证",
-      "特朗普动用战时权力宣布700亿煤炭投资",
-      "欧洲央行警告通胀与增长困境"
+      "印度央行维持利率5.25%不变",
+      "韩国股市重挫5%，AI板块抛售",
+      "SpaceX拟IPO融资750亿美元",
+      "欧盟推迟银行市场风险资本新规3年",
+      "A股成交额突破1.5万亿元"
     ],
     "news-society": [
-      "泽连斯基致函普京提议面对面会谈",
-      "美众议院通过决议阻止对伊军事行动",
-      "美国南部发现食肉螺旋虫，1966年来首次",
-      "白宫舞厅改造计划规模翻倍成本攀升",
-      "民主党未能阻止加深以色列军事合作议案"
-    ],
-    "news-military": [
-      "美众议院通过80亿美元乌克兰援助法案",
-      "乌克兰无人机在圣彼得堡击中俄护卫舰",
-      "台湾2029年前反舰导弹增至1850枚",
-      "五眼联盟指控中国利用求职平台招募间谍",
-      "美国考虑从日韩船厂采购主力战舰"
+      "泽连斯基提议与普京面对面谈判",
+      "特朗普反击众议院对伊决议",
+      "真主党拒绝以色列-黎巴嫩停火",
+      "美国南部发现食肉性螺旋蝇虫害",
+      "全球红树林生态意外恢复"
     ],
     "news-tech": [
-      "Anthropic冲刺IPO同时呼吁暂停AI开发",
-      "Meta智能眼镜面部识别引发隐私风暴",
-      "Valve确认Steam Machine夏季上市",
-      "Audi发布混动超跑背离全电动承诺",
-      "Dashlane披露攻击：加密保险库被批量下载"
+      "Altman等联手呼吁防范AI生物武器",
+      "Valve Steam Machine今夏回归",
+      "奥迪推1001马力混动超跑Nuvolari",
+      "Anthropic年化收入飙至470亿美元",
+      "宝马iX3续航485英里创纪录"
     ],
     "news-sports": [
-      "利物浦任命伊劳拉取代斯洛特为主帅",
-      "西班牙热身1-1伊拉克，缺亚马尔进攻乏力",
-      "皇马主席承诺1.74亿欧元签巨星引援",
-      "尼克斯G1逆转马刺，布朗森30分",
-      "库里10年4亿美元签约李宁创纪录"
-    ],
-    "news-entertainment": [
-      "SAG-AFTRA通过新约，含合成演员条款",
-      "演员James Handy被女友之子刺杀身亡",
-      "Madonna时代广场首演新专辑曲目",
-      "ZEROBASEONE成员因签售抽奖争议道歉",
-      "韩栋直播哭诉没戏拍后辟谣是剧本"
+      "西班牙1-1伊拉克，法国负科特迪瓦",
+      "利物浦官宣伊劳拉接替斯洛特",
+      "皇马主席承诺1.74亿签银河战舰",
+      "尼克斯G1逆转马刺，布伦森30分",
+      "库里10年4亿美元签约李宁"
     ]
   },
   "en": {
     "news-economy": [
-      "Broadcom miss triggers AI-chip selloff",
-      "Dow hits record as value stocks rally",
-      "Hezbollah rejects US-backed ceasefire",
-      "Trump signals willingness to meet Iran's leader",
-      "Sen. Warren calls Nvidia CEO to Senate hearing"
+      "Dow hits record as AI chip stocks plunge",
+      "South Korea's Kospi falls 5% on chip rotation",
+      "China tightens capital outflows, Hong Kong tumbles",
+      "Mainland investors rotate back to A-shares",
+      "SpaceX IPO looms as largest ever on Wall Street"
     ],
     "news-society": [
-      "Zelensky proposes face-to-face talks with Putin",
-      "Hezbollah rejects renewed Israel-Lebanon ceasefire",
-      "House rebukes Trump over Iran military action",
-      "Flesh-eating screwworm outbreak threatens US",
-      "South Korea's president faces legal shadow"
+      "Zelensky proposes direct talks with Putin",
+      "Hezbollah rejects US-brokered ceasefire with Israel",
+      "US Congress rebukes Trump on Iran policy",
+      "South Korea's President Lee marks year under legal cloud",
+      "Zhihu pivots to AI as core revenue slides"
     ],
     "news-military": [
-      "House passes $8B Ukraine Support Act",
-      "Ukrainian drones strike Russian corvette near St. Petersburg",
-      "Taiwan plans 1,800 anti-ship missiles by 2029",
-      "Five Eyes warns of Chinese espionage tactics",
-      "Middle East conflict marks 100th day"
+      "Taiwan plans 1,850 anti-ship missiles by 2029",
+      "Ukraine drone hits Russian corvette near Saint Petersburg",
+      "US House passes $8 billion Ukraine aid package",
+      "EU sanctions Iran as Gulf tensions grow",
+      "Five Eyes accuses China of espionage campaign"
     ],
     "news-tech": [
-      "Anthropic revenue surges to $47B ahead of IPO",
-      "Anthropic calls for global AI development pause",
-      "Meta's smart glasses facial recognition sparks backlash",
-      "Valve and Meta announce major product updates",
-      "Congress considers AI preemption bill"
+      "Valve confirms Steam Machine launch this summer",
+      "Mira Murati re-emerges cautiously in AI talent war",
+      "AI rivals unite on bioweapon prevention",
+      "Audi breaks all-electric pledge with hybrid supercar",
+      "Anthropic revenue hits $47B ahead of IPO"
     ],
     "news-sports": [
-      "Liverpool appoint Andoni Iraola as head coach",
-      "Florentino Pérez vows $174M Galactico bid",
-      "Amad nets late winner as Ivory Coast stun France",
-      "Japan ditches pre-WC training site over pitch",
-      "Shakira to perform at World Cup opening ceremony"
+      "Ivory Coast beats France 2-1 in World Cup warm-up",
+      "Spain draws Iraq without Yamal in tune-up",
+      "Knicks steal Game 1 from Spurs in NBA Finals",
+      "Liverpool appoints Andoni Iraola as head coach",
+      "Curry signs $400M Li-Ning endorsement deal"
     ],
     "news-entertainment": [
-      "SAG-AFTRA ratifies historic AI and pension deal",
-      "James Handy fatally stabbed at 81",
-      "Jennifer Lopez's Netflix rom-com gets mixed reviews",
-      "K-pop group Le Sserafim discusses internal conflict",
-      "Chinese social media debates 'alive vs. dead lychee'"
+      "Taylor Swift releases country ballad for Toy Story 5",
+      "SAG-AFTRA ratifies historic four-year deal with AI rules",
+      "K-pop groups navigate controversies and new debuts",
+      "Chinese cinema pushes global reach with heartfelt narratives",
+      "Le Sserafim and new groups lead K-pop resilience"
     ]
   }
 }

@@ -1,128 +1,131 @@
 # News Radar — 科技新闻
 
-> 2026-06-05 · Window: 24h · Items: 99 · Generated: 2026-06-05 01:50 UTC
+> 2026-06-05 · Window: 24h · Items: 86 · Generated: 2026-06-05 05:09 UTC
 
 ---
 
 ## Editor's Brief
 
-The past 24 hours in tech have been dominated by the accelerating AI IPO race, a renewed call for a global pause on AI development, and major product announcements from Valve, Meta, and automakers. The convergence of AI, hardware, and policy debates creates a landscape of both opportunity and risk for investors, developers, and consumers.
+The tech landscape this week is marked by major hardware announcements, AI governance moves, and shifting corporate strategies. Valve finally sets a summer launch window for its Steam Machine and Steam Frame, while Mira Murati re-emerges to remind the market of her presence. AI policy heats up as rivals unite on bioweapon prevention and Canada unveils a controversial national AI strategy. In automotive, Audi breaks its all-electric pledge with a hybrid supercar, BMW claims the longest EV range, and the White House doubles down on coal. HackNews communities debate SpaceX’s IPO exclusion, Microsoft’s Azure Linux 4.0, and a new transformer paper questioning QKV projections.
 
-- **AI IPO mania intensifies**: Anthropic’s annualized revenue surged to $47B as it prepares for an IPO, while CEO Daniela Amodei dismisses doubts about AI returns ([TechCrunch](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)). The broader AI IPO race is heating up, with companies even accepting Anthropic stock in real estate deals ([Wired](https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/)).
-- **Safety versus speed**: Anthropic also called for a global pause in AI development before humans lose control, citing risks of AI developing AI faster than humans can manage ([SiliconAngle](https://siliconangle.com/2026/06/04/anthropic-calls-global-pause-ai-development-humans-lose-control/); [Decrypt](https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0hKOUtOOW45bmRITFBnb2ktNk1aR3NOa19XaDg4cGdvcENwNUZjalJoQ2g2Qlc5Nk1ISmtyWFNLTk1xYXVZMXhjcXhod0pYSG04N1R1XzEzeTVkeTMtR2lLWklzNFNxWVRUX3RaQjRWSlZQNGlEVkZaVXdISFRmY0UyZC1SVGNnZk1SbDJNMFQ)). Meanwhile, Congress is considering an AI preemption bill ([Broadband Breakfast](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0l3eFljQXpHeGt0eElpcThLQlZMSmZPd21od3JOb2ZXZFRMNTFZbXBfaVNBTl84T2JWN1JpM2xVVDZCejZPS3pTcFRDbk9zTjlqMjlaenJSLXo1NGpkWDIyQ1BtQ1BZanRMUlQySGxhdkhjR3F4X3lsc0VYWXdoWU9xRG1RWHdrd0VFeHYyVzllbTA1T0VVUmEzRHNiOE5RRU9xRlhWcw)).
-- **Meta’s facial recognition on smart glasses sparks backlash**: Meta has shipped facial recognition on its smart glasses, drawing 224 points and 202 comments on Hacker News, raising major privacy alarms ([buchodi.com](https://www.buchodi.com/meta-glasses-facial-recognition/)).
-- **Valve confirms Steam Machine and Steam Frame launch this summer**: After delays, Valve says both the Steam Machine PC and Steam Frame VR headset are coming, with no price yet ([The Verge](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified); [Engadget](https://www.engadget.com/2187938/steam-machine-and-steam-frame-are-coming-this-summer/)).
-- **BYD launches electric van from Dolphin hatchback**: The Dolphin-based van offers “class-leading range” at ~$40,000, challenging legacy automakers ([Electrek](https://electrek.co/2026/06/04/byd-converts-ev-hatch-into-van-with-leading-range-for-40k/)).
-- **Dashlane explains how attackers downloaded encrypted password vaults**: The password manager detailed a targeted attack that increased success rates by hitting large user numbers ([Ars Technica](https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/)).
-- **Helion raises $465M for fusion power plant for Microsoft**: Sam Altman-backed fusion startup races to deliver power by 2028 ([TechCrunch](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/)).
+- **Valve confirms Steam Machine and Steam Frame launch 'this summer'** — After delays, Valve says both the Steam Machine PC and Steam Frame VR headset are coming this summer, though pricing remains undisclosed. The announcement comes via a blog post detailing hardware verification programs. ([The Verge](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified), [Engadget](https://www.engadget.com/2187938/steam-machine-and-steam-frame-are-coming-this-summer/))
+- **Mira Murati steps back into the spotlight** — The former OpenAI CTO emerges cautiously, signaling that staying quiet has diminishing returns in today's market. Her move suggests a need to maintain visibility amid competitive AI talent wars. ([TechCrunch](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/))
+- **AI rivals unite on bioweapon prevention, Anthropic IPO looms** — Sam Altman and other AI leaders sign onto a call for mandatory screening, while Anthropic’s Daniela Amodei shrugs off doubts about AI returns ahead of its IPO. Anthropic’s annualized revenue hit $47B. ([Benzinga](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb0d4cUJVbHlvUE1NLVhrdGtwUmU4dTA2UERHaTlqZWgxQnN1Q0dJZC03QzBkbENzX3h2S3ZrbWdsc1R5SXNCR0Y2cDdnTlRhYk5UQnVEejRwZDRIYzAySHJEaUM4ejZWWW1rVlphOHRENUJQNWVHQXczY0w5Smp5VHpxbDFQUnJSRE1MRWhVVmpRUnhvVklIc1R3djBZS1d6blZpLXViU2dyX1JmZ3RoMmRMel9RdS1iOWQ3NThFLWZ1T3FST2NlV19HeUhxbHEwRnNONkRNdw), [TechCrunch](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/))
+- **Canada announces controversial 'AI for All' strategy** — Prime Minister Mark Carney’s plan prioritizes data protections and AI adoption, but critics question its feasibility and funding. ([Engadget](https://www.engadget.com/2187720/canada-prime-minister-mark-carney-announces-questionable-national-ai-strategy/))
+- **Audi unveils 1,001-hp hybrid supercar, breaking EV-only pledge** — The Nuvolari, a V8 hybrid, signals a strategic pivot away from Audi’s 2021 promise to go all-electric by 2026. Limited to 499 units at ~$700K. ([Electrek](https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/))
+- **BMW iX3 sets EV range record: 485 miles on a single charge** — In NAF’s summer test, the iX3 outperforms rivals, solidifying BMW’s position in long-range EVs. ([Electrek](https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/))
+- **Meta builds data centers in tents, echoing Tesla's cost-cutting tactic** — The company aims to slash massive data center costs by using temporary structures, raising questions about reliability and scalability. ([TechCrunch](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/))
 
-**Watch next**: The AI IPO calendar (Anthropic, others) and regulatory responses; Meta’s facial recognition deployment and potential FTC scrutiny; Valve’s hardware pricing and impact on VR/PC gaming; BYD’s global expansion and EV market share shifts; continued fallout from the Dashlane breach as a warning for password managers.
+**Watch next:** The Steam Machine launch pricing and reviews will be critical for PC gaming hardware. Anthropic’s IPO filing will test investor appetite for high-revenue AI companies. Audi’s hybrid pivot may signal broader industry backtracking on EV commitments. Keep an eye on South Korea’s AI image censorship mandate and the final version of Canada’s AI strategy.
 
 ---
 
-## AI · 39 items
+## 科技产品 · 39 items
 
-The AI desk is buzzing with IPO fever, safety warnings, and new tools. Anthropic’s $47B revenue ahead of its IPO contrasts with its own call for a global pause on AI development. New AI programming language Jo aims for secure AI-era coding, while Alibaba open-sourced an AI code review CLI tool. On the security front, Bitwarden advises on how AI assistants should handle credentials.
+A mix of hardware announcements, privacy tools, and market positioning defines the 科技产品 desk today. Valve’s long-awaited Steam Machine and Steam Frame have a summer launch window, while Mira Murati’s return to the spotlight hints at competitive maneuvering in AI talent. A new ad blocker, Filtr, leverages a recent Apple API to block ads in nearly every iPhone and Mac app, representing a significant privacy win for users. Meanwhile, skeptics warn that viral humanoid robot videos distort real capabilities.
 
-- **Anthropic CEO shrugs off ROI doubts as IPO looms** – revenue hit $47B annualized, up from $9B in late 2025 ([TechCrunch](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)).
-- **Anthropic calls for global pause** – warns humans may be slowing down AI that is already developing AI ([SiliconAngle](https://siliconangle.com/2026/06/04/anthropic-calls-global-pause-ai-development-humans-lose-control/)).
-- **Jo – Secure Programming for the AI Era** – a new language designed to prevent AI-related vulnerabilities ([jo-lang.org](https://jo-lang.org/blog/2026-06-04-introducing-jo.html)).
-- **Alibaba open-sources Open Code Review** – an AI-powered CLI tool for code review, gaining 27 points on HN ([GitHub](https://github.com/alibaba/open-code-review)).
-- **Bitwarden on securing agentic AI access** – how to keep AI assistants from misusing passwords ([Bitwarden blog](https://bitwarden.com/blog/how-bitwarden-helps-secure-agentic-ai-access-to-your-credentials/)).
+- **Valve Steam Machine and Steam Frame confirmed for summer** — After delays, Valve sets a summer launch for the Steam Machine PC and Steam Frame VR headset, though pricing remains undisclosed. Hardware verification programs are detailed. ([The Verge](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified), [Engadget](https://www.engadget.com/2187938/steam-machine-and-steam-frame-are-coming-this-summer/))
+- **Mira Murati steps back into the spotlight** — The former OpenAI CTO re-emerges carefully, arguing that staying heads-down has diminishing returns in today's high-visibility market. ([TechCrunch](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/))
+- **Filtr ad blocker now blocks ads in almost every iPhone and Mac app** — Using a new Apple software feature, Filtr extends its ad-blocking capabilities inside apps, boosting user privacy. ([TechCrunch](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/))
+- **Skeptic's guide to humanoid robot videos** — Ars Technica warns that online demos often exaggerate robot capabilities, distorting public perception. ([Ars Technica](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/))
+- **Founders Fund launches game show with Sam Altman, Palmer Luckey** — A star-studded debut episode moderatored by Mike Solana blends tech culture with entertainment, signaling a new PR vector for elite VC firms. ([TechCrunch](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/))
 
-**Signal**: The tension between commercialization and safety will define the next AI cycle, with IPO timelines and regulatory action as key catalysts.
+**Signal:** Expect increased scrutiny on humanoid robot claims and a potential privacy arms race as ad blockers like Filtr gain Apple-backed capabilities.
 
 <details><summary>Source (39)</summary>
 
-- [The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked](https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/) — Wired · 2026-06-04 18:44 UTC
-- [AI assistant shouldn't have your passwords](https://bitwarden.com/blog/how-bitwarden-helps-secure-agentic-ai-access-to-your-credentials/) — Hacker News AI Search · 2026-06-05 01:29 UTC
-- [Anthropic calls for global pause in AI development before humans lose control](https://siliconangle.com/2026/06/04/anthropic-calls-global-pause-ai-development-humans-lose-control/) — Hacker News AI Search · 2026-06-05 01:23 UTC
-- [LLM AI Chatbots are letting me down every single day](https://umrashrf.github.io/llm-ai-chatbots-are-letting-me-down-every-single-day/) — Hacker News AI Search · 2026-06-05 01:13 UTC
-- [Jo – Secure Programming for the AI Era](https://jo-lang.org/blog/2026-06-04-introducing-jo.html) — Hacker News AI Search · 2026-06-05 00:56 UTC
-- [Show HN: Bonsai –- Using agentic AI / browser / memory to replace ChatGPT](https://drive.google.com/drive/folders/1YUQ3tmcBSLEyBKLi5JdJgmod9mqXFTgl) — Hacker News AI Search · 2026-06-05 00:51 UTC
-- [Lessons from building Claude Code: How we use skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) — Hacker News AI Search · 2026-06-05 00:09 UTC
-- [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review) — Hacker News Front Page · 2026-06-05 00:04 UTC
-- [Using AI to Ship a Real Product Without Losing the Plot](https://mckerlie.com/posts/building-calledup-using-ai-to-ship-a-real-product-without-losing-the-plot/) — Hacker News AI Search · 2026-06-04 23:59 UTC
-- [New light-powered chip could accelerate AI and quantum computing](https://www.sciencedaily.com/releases/2026/06/260601025343.htm) — Hacker News AI Search · 2026-06-04 23:50 UTC
-- [South Korean Forums Will Need to Scan Every Images with AI Censorship Tools](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341) — Hacker News AI Search · 2026-06-04 23:45 UTC
-- [Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/) — TechCrunch · 2026-06-04 22:43 UTC
-- [Airbnb’s Brian Chesky plans to launch a new AI lab](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/) — TechCrunch · 2026-06-04 22:29 UTC
-- [AI Preemption Battle Lands in Congress With Substantive Discussion Draft - Broadband Breakfast](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0l3eFljQXpHeGt0eElpcThLQlZMSmZPd21od3JOb2ZXZFRMNTFZbXBfaVNBTl84T2JWN1JpM2xVVDZCejZPS3pTcFRDbk9zTjlqMjlaenJSLXo1NGpkWDIyQ1BtQ1BZanRMUlQySGxhdkhjR3F4X3lsc0VYWXdoWU9xRG1RWHdrd0VFeHYyVzllbTA1T0VVUmEzRHNiOE5RRU9xRlhWcw) — Google News AI · 2026-06-04 21:47 UTC
+- [Mira Murati steps back into the spotlight, carefully](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/) — TechCrunch · 2026-06-05 05:06 UTC
+- [The Motley Fool Promo Code: $200 Off on Stock Advisor June 2026](https://www.wired.com/story/the-motley-fool-promo-code/) — Wired · 2026-06-05 05:00 UTC
+- [30% Off Canon Promo Codes | June 2026](https://www.wired.com/story/canon-promo-code/) — Wired · 2026-06-05 05:00 UTC
+- [LG Promo Codes and Coupons for June 2026](https://www.wired.com/story/lg-promo-code/) — Wired · 2026-06-05 05:00 UTC
+- [Dell Coupon Codes: 20% Off for June 2026](https://www.wired.com/story/dell-coupon-code/) — Wired · 2026-06-05 05:00 UTC
+- [Mattress Firm Coupons: Save up to $600](https://www.wired.com/story/mattress-firm-coupon/) — Wired · 2026-06-05 05:00 UTC
+- [Booking.com Promo Codes: 20% Off | June 2026](https://www.wired.com/story/booking-com-promo-code/) — Wired · 2026-06-05 05:00 UTC
+- [Vimeo Promo Codes and Discounts: Up to 40% Off This June 2026](https://www.wired.com/story/vimeo-promo-code/) — Wired · 2026-06-05 05:00 UTC
+- [Hydrow Discount Code: Save Up to $150 | June 2026](https://www.wired.com/story/hydrow-discount-code/) — Wired · 2026-06-05 05:00 UTC
+- [Therabody Promo Codes: 15% Off June 2026](https://www.wired.com/story/therabody-promo-code/) — Wired · 2026-06-05 05:00 UTC
+- [Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/) — TechCrunch · 2026-06-05 00:06 UTC
+- [Valve says it’s ready to launch the Steam Machine this summer](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified) — The Verge · 2026-06-04 22:48 UTC
+- [Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/) — TechCrunch · 2026-06-04 21:44 UTC
+- [Instacart Promo Code: $15 Off | June 2026](https://www.wired.com/story/instacart-promo/code/) — Wired · 2026-06-05 05:00 UTC
 
 </details>
 
-## HackNews社区动态 · 9 items
+## HackNews社区动态 · 10 items
 
-Hacker News community was most engaged with Meta’s facial recognition on smart glasses (224 points, 202 comments), a deep technical paper on transformer QKV variants (84 points), and a debate on IPv6 zones in URLs (83 points). The community also flagged Meta enabling ADB on deprecated Portal devices and showed interest in a new AWS ECS IDE tool.
+Hacker News today is dominated by debate around SpaceX’s IPO exclusion from fast-track index entry, technical deep dives into transformer architecture, and a practical hack for Meta’s deprecated Portal devices. The community is also discussing Microsoft's Azure Linux 4.0 as its first general-purpose distribution and a cautionary note on IPv6 zones in URLs.
 
-- **Meta ships facial recognition on smart glasses** – major privacy discussion; 224 points, 202 comments ([buchodi.com](https://www.buchodi.com/meta-glasses-facial-recognition/)).
-- **Do transformers need three projections?** – systematic study of QKV variants on arXiv; 84 points, 11 comments ([arXiv](https://arxiv.org/abs/2606.04032)).
-- **IPv6 zones in URLs are a mistake** – technical deep dive by Xe Iaso; 83 points, 69 comments ([xeiaso.net](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)).
-- **Meta enables ADB on deprecated Portal devices** – 30 points, 7 comments, highlighting aftermarket life ([Facebook watch](https://fb.watch/HxPu0fSyeH/)).
-- **Show HN: Mercek – Desktop IDE for AWS ECS** – open-source tool with 24 points ([mercek.dev](https://www.mercek.dev/)).
+- **SpaceX, other mega IPOs denied fast index entry by S&P** — After consultation, S&P Dow Jones keeps its rules unchanged, rejecting fast-track inclusion for SpaceX and other large IPOs. Hacker News discussion (277 points, 133 comments) highlights implications for passive funds. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation), [Hacker News](https://news.ycombinator.com/item?id=48405718))
+- **Azure Linux 4.0: Microsoft's first general-purpose Linux** — A detailed post explains how Azure Linux evolves from a container OS to a full-fledged distribution, targeting developers and cloud workloads. (34 points, 26 comments) ([Box of Cables](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/), [Hacker News](https://news.ycombinator.com/item?id=48407499))
+- **Meta enables ADB on deprecated Portal devices** — A video shows how to enable Android Debug Bridge on Meta’s abandoned Portal hardware, unlocking custom apps. (139 points, 33 comments) ([Facebook Watch](https://fb.watch/HxPu0fSyeH/), [Hacker News](https://news.ycombinator.com/item?id=48406640))
+- **Do transformers need three projections? Study of QKV variants** — A new arXiv paper (134 points, 22 comments) systematically examines Query-Key-Value projections, challenging architectural assumptions. ([arXiv](https://arxiv.org/abs/2606.04032), [Hacker News](https://news.ycombinator.com/item?id=48405931))
+- **IPv6 zones in URLs are a mistake** — A technical argument against using IPv6 zone IDs in URLs, sparking a debate on web standards (109 points, 83 comments). ([xeiaso.net](https://xeiaso.net/notes/2026/ipv6-zones-go-url/), [Hacker News](https://news.ycombinator.com/item?id=48405019))
 
-**Signal**: The community is laser-focused on privacy implications of new hardware and low-level technical debates, signaling a demand for transparency and control.
+**Signal:** The transformer QKV study could influence future model efficiency; watch for follow-up papers or industry adoption. The Portal ADB hack may revive interest in repurposing deprecated hardware.
 
-<details><summary>Source (9)</summary>
+<details><summary>Source (10)</summary>
 
-- [Meta enables adb on deprecated Portal devices](https://fb.watch/HxPu0fSyeH/) — Hacker News Front Page · 2026-06-05 00:44 UTC
+- [SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) — Hacker News Front Page · 2026-06-04 22:48 UTC
+- [SpaceX: Flying High on Impunity](https://georgiebc.wordpress.com/2026/06/01/flying-high-on-impunity/) — Hacker News Front Page · 2026-06-05 03:59 UTC
+- [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/) — Hacker News Front Page · 2026-06-05 03:14 UTC
+- [The Causes of Long Covid](https://www.science.org/content/blog-post/causes-long-covid) — Hacker News Front Page · 2026-06-05 03:04 UTC
+- [Delacroix's Entry of the Crusaders into Constantinople Restored](https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory) — Hacker News Front Page · 2026-06-05 02:48 UTC
+- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/) — Hacker News Front Page · 2026-06-05 00:44 UTC
 - [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032) — Hacker News Front Page · 2026-06-04 23:11 UTC
 - [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881) — Hacker News Front Page · 2026-06-04 23:01 UTC
 - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/) — Hacker News Front Page · 2026-06-04 21:42 UTC
 - [Queen bees emerge from special wax chambers](https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06) — Hacker News Front Page · 2026-06-04 21:31 UTC
-- [Show HN: Mercek – A Desktop IDE for AWS ECS](https://www.mercek.dev/) — Hacker News Front Page · 2026-06-04 21:15 UTC
-- [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html) — Hacker News Front Page · 2026-06-04 19:52 UTC
-- [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/) — Hacker News Front Page · 2026-06-04 19:36 UTC
-- [WSL 2 is getting faster Windows file system access](https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/) — Hacker News Front Page · 2026-06-04 19:21 UTC
 
 </details>
 
-## 科技产品 · 36 items
+## AI · 26 items
 
-Product news saw Valve’s long-awaited Steam Machine and Steam Frame confirmed for summer launch, though pricing remains unknown. Dashlane disclosed how attackers leveraged large-scale targeting to download encrypted vaults. Other notable launches include Instagram Plus subscription, Filtr ad blocker for Apple devices, and Google’s new search profiles for creators with 100k+ followers.
+The AI desk is buzzing with policy preemption, IPO narratives, and new capabilities. Rivals including Sam Altman and Meta unite on bioweapon prevention, while Anthropic prepares for its IPO with record revenue. Apple approves Poke as the first AI agent on its Messages for Business platform, marking a milestone for commercial AI agents. Google DeepMind’s CEO warns of rapid AGI arrival, and Canada announces a controversial national AI strategy. Meanwhile, a new open-source code review tool from Alibaba gains traction.
 
-- **Valve confirms Steam Machine and Steam Frame launch this summer** – no price yet ([The Verge](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified); [Engadget](https://www.engadget.com/2187938/steam-machine-and-steam-frame-are-coming-this-summer/)).
-- **Dashlane breach explained** – attackers targeted many users to increase odds; detailed forensics ([Ars Technica](https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/)).
-- **Instagram Plus subscription launches** – paying users get audience targeting tools ([Engadget](https://www.engadget.com/2187830/the-instagram-plus-subscription-has-officially-launched/)).
-- **Filtr blocks ads in almost every iPhone and Mac app** – new privacy tool leveraging Apple software update ([TechCrunch](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/)).
-- **Helion raises $465M for fusion plant for Microsoft** – Sam Altman-backed startup targets 2028 ([TechCrunch](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/)).
+- **AI rivals unite on bioweapon prevention** — Meta, Sam Altman, and others call for mandatory screening of nucleic acid synthesis, with a substantive discussion draft in Congress. ([Benzinga](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb0d4cUJVbHlvUE1NLVhrdGtwUmU4dTA2UERHaTlqZWgxQnN1Q0dJZC03QzBkbENzX3h2S3ZrbWdsc1R5SXNCR0Y2cDdnTlRhYk5UQnVEejRwZDRIYzAySHJEaUM4ejZWWW1rVlphOHRENUJQNWVHQXczY0w5Smp5VHpxbDFQUnJSRE1MRWhVVmpRUnhvVklIc1R3djBZS1d6blZpLXViU2dyX1JmZ3RoMmRMel9RdS1iOWQ3NThFLWZ1T3FST2NlV19HeUhxbHEwRnNONkRNdw), [AOL](https://news.google.com/rss/articles/CBMiekFVX3lxTE9OV25oQVBldlcwNEcxelJud24zM3RwVFpINUJYLWloNkptTGZQR0dfWUo2QXlKbGFIQTNGNEVOam9uRXhGeDh1eGtzcXBSTm9lYXRPaEFTMTNGYTM3X2V4YXZrMzBfMDREX2R2TnpHT21RcEJ6bklDeDF3))
+- **Anthropic’s Daniela Amodei shrugs off AI returns doubts ahead of IPO** — Annualized revenue crossed $47B in May, up from $9B at end of 2025. The company faces scrutiny on sustainability. ([TechCrunch](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/))
+- **Apple approves Poke as first AI agent on Messages for Business** — This allows businesses to deploy AI agents via iMessage, opening a new channel for customer interaction. ([TechCrunch](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/))
+- **Google DeepMind CEO: AGI coming fast, 'we don't have long to prepare'** — A stark warning that accelerates the timeline for AI governance discussions. ([Decrypt](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NNVRYbTNzTUp6d1JtLXhyaFMzMktFdXJpanRwTmJEZzhVQTVtY2NrZEx1cENEZW43QjU0RXk0OEJKeUtYOXdLUXhkd3JNNE5RR3FYNVY3NUtDeG5Pa21yNmZjWWg3U1HSAW9BVV95cUxPYlYyU2xnb3k1eWtMaHgzSWlWRmpzdEpnUXN2Rk1zcTYtbmhGeWFNT0pIcXF2VG1kWkdYYjNIUEdfeWQtbXU0V1BWdG1TLTNhZW9zZVE3RmlCSVU0TFIyQ1dJVzYzY2xISzRVY1lYVTA))
+- **Canada PM Mark Carney announces 'questionable' national AI strategy** — The 'AI for All' plan aims to bolster data protection and AI adoption, but faces skepticism over execution. ([Engadget](https://www.engadget.com/2187720/canada-prime-minister-mark-carney-announces-questionable-national-ai-strategy/))
+- **Alibaba’s Open Code Review: an AI-powered CLI tool** — Open-source tool gains 96 points on HN, highlighting demand for AI-assisted code quality. ([GitHub](https://github.com/alibaba/open-code-review), [Hacker News](https://news.ycombinator.com/item?id=48406358))
 
-**Signal**: Privacy and security remain top consumer concerns, while hardware gaming and fusion energy signal long-term bets.
+**Signal:** The bioweapon preemption battle in Congress is likely to set precedent for AI safety regulation. Anthropic’s IPO will be a bellwether for AI company valuations.
 
-<details><summary>Source (36)</summary>
+<details><summary>Source (26)</summary>
 
-- [Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/) — TechCrunch · 2026-06-05 00:06 UTC
-- [Valve says it’s ready to launch the Steam Machine this summer](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified) — The Verge · 2026-06-04 22:48 UTC
-- [Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/) — TechCrunch · 2026-06-04 21:44 UTC
-- [Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US](https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/) — Wired · 2026-06-04 21:30 UTC
-- [Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney](https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/) — TechCrunch · 2026-06-04 20:55 UTC
-- [The Instagram Plus subscription has officially launched](https://www.engadget.com/2187830/the-instagram-plus-subscription-has-officially-launched/) — Engadget · 2026-06-04 20:45 UTC
-- [These LLMs are the best at resisting Russian propaganda](https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/) — Ars Technica · 2026-06-04 20:44 UTC
-- [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok) — The Verge · 2026-06-04 20:07 UTC
-- [Dashlane explains how attackers managed to download encrypted password vaults](https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/) — Ars Technica · 2026-06-04 20:02 UTC
-- [Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/) — TechCrunch · 2026-06-04 18:54 UTC
-- [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center) — The Verge · 2026-06-04 18:38 UTC
-- [Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers](https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/) — Ars Technica · 2026-06-04 18:34 UTC
-- [Google is letting social media stars customize their search result page](https://www.theverge.com/tech/943233/google-search-profiles-custom-page) — The Verge · 2026-06-04 18:32 UTC
-- [Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working](https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/) — Wired · 2026-06-04 18:27 UTC
+- [AI Rivals Unite On Bioweapon Prevention - Meta Platforms (NASDAQ:META) - Benzinga](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb0d4cUJVbHlvUE1NLVhrdGtwUmU4dTA2UERHaTlqZWgxQnN1Q0dJZC03QzBkbENzX3h2S3ZrbWdsc1R5SXNCR0Y2cDdnTlRhYk5UQnVEejRwZDRIYzAySHJEaUM4ejZWWW1rVlphOHRENUJQNWVHQXczY0w5Smp5VHpxbDFQUnJSRE1MRWhVVmpRUnhvVklIc1R3djBZS1d6blZpLXViU2dyX1JmZ3RoMmRMel9RdS1iOWQ3NThFLWZ1T3FST2NlV19HeUhxbHEwRnNONkRNdw) — Google News AI · 2026-06-04 20:39 UTC
+- [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review) — Hacker News Front Page · 2026-06-05 00:04 UTC
+- [South Korean Forums Will Need to Scan Every Images with AI Censorship Tools](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341) — Hacker News Front Page · 2026-06-04 23:45 UTC
+- [Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/) — TechCrunch · 2026-06-04 22:43 UTC
+- [Airbnb’s Brian Chesky plans to launch a new AI lab](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/) — TechCrunch · 2026-06-04 22:29 UTC
+- [AI Preemption Battle Lands in Congress With Substantive Discussion Draft - Broadband Breakfast](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0l3eFljQXpHeGt0eElpcThLQlZMSmZPd21od3JOb2ZXZFRMNTFZbXBfaVNBTl84T2JWN1JpM2xVVDZCejZPS3pTcFRDbk9zTjlqMjlaenJSLXo1NGpkWDIyQ1BtQ1BZanRMUlQySGxhdkhjR3F4X3lsc0VYWXdoWU9xRG1RWHdrd0VFeHYyVzllbTA1T0VVUmEzRHNiOE5RRU9xRlhWcw) — Google News AI · 2026-06-04 21:47 UTC
+- [AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down - Decrypt](https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0hKOUtOOW45bmRITFBnb2ktNk1aR3NOa19XaDg4cGdvcENwNUZjalJoQ2g2Qlc5Nk1ISmtyWFNLTk1xYXVZMXhjcXhod0pYSG04N1R1XzEzeTVkeTMtR2lLWklzNFNxWVRUX3RaQjRWSlZQNGlEVkZaVXdISFRmY0UyZC1SVGNnZk1SbDJNMFQ) — Google News AI · 2026-06-04 21:37 UTC
+- [Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/) — TechCrunch · 2026-06-04 21:30 UTC
+- [In Support of Mandatory Nucleic Acid Synthesis Screening and Recordkeeping - The Foundation for American Innovation](https://news.google.com/rss/articles/CBMipgFBVV95cUxQelpoVm5zTXp4dkpPZTliWlRDQUdEZ2VuS2Nnc3MtdTVfazh6enMtTldNdVBKODcwS29RZUZOXy1INUh5REhjZ0t4a1VPVVNoSTd4TFk2Q21EN21SdDVjbXF5cllPYXdiOERlU28zS0ZOVm9WTDVNbkdybG9saGlndnoxc051bmItcE1rbXdkWHk2QnFCVUNicWFvOHNVTHhDZl9RZkhn) — Google News AI · 2026-06-04 21:03 UTC
+- [Wired found code for an unreleased facial recognition feature in Meta's AI app](https://www.engadget.com/2187824/wired-found-code-for-an-unreleased-facial-recognition-feature-in-meta-s-ai-app/) — Engadget · 2026-06-04 20:36 UTC
+- [Sam Altman joins rivals in call to prevent AI-developed bioweapons - AOL.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE9OV25oQVBldlcwNEcxelJud24zM3RwVFpINUJYLWloNkptTGZQR0dfWUo2QXlKbGFIQTNGNEVOam9uRXhGeDh1eGtzcXBSTm9lYXRPaEFTMTNGYTM3X2V4YXZrMzBfMDREX2R2TnpHT21RcEJ6bklDeDF3) — Google News AI · 2026-06-04 20:23 UTC
+- [Apple approves Poke as the first AI agent on its Messages for Business platform](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/) — TechCrunch · 2026-06-04 19:20 UTC
+- [Canada Prime Minister Mark Carney announces questionable national AI strategy](https://www.engadget.com/2187720/canada-prime-minister-mark-carney-announces-questionable-national-ai-strategy/) — Engadget · 2026-06-04 19:00 UTC
+- [Google DeepMind CEO Says AGI Is Coming Fast: 'We Don't Have Long to Prepare' - Decrypt](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NNVRYbTNzTUp6d1JtLXhyaFMzMktFdXJpanRwTmJEZzhVQTVtY2NrZEx1cENEZW43QjU0RXk0OEJKeUtYOXdLUXhkd3JNNE5RR3FYNVY3NUtDeG5Pa21yNmZjWWg3U1HSAW9BVV95cUxPYlYyU2xnb3k1eWtMaHgzSWlWRmpzdEpnUXN2Rk1zcTYtbmhGeWFNT0pIcXF2VG1kWkdYYjNIUEdfeWQtbXU0V1BWdG1TLTNhZW9zZVE3RmlCSVU0TFIyQ1dJVzYzY2xISzRVY1lYVTA) — Google News AI · 2026-06-04 18:54 UTC
 
 </details>
 
-## 汽车 · 15 items
+## 汽车 · 11 items
 
-The automotive desk is dominated by EV competition and policy shifts. BYD launched an electric van based on the Dolphin hatchback at $40,000, while Audi unveiled the 1,001-hp Nuvolari hybrid supercar, abandoning its all-electric pledge. BMW’s iX3 set a range record of 485 miles in NAF’s test. Nissan joined a solid-state battery project aiming to undercut Chinese costs. White House plans $700M for coal revival drew criticism.
+Automotive news today is split between EV progress and fossil fuel backsliding. BMW’s iX3 claims the longest EV range in a standardized test, while Audi launches a hybrid supercar that contradicts its earlier all-electric pledge. Tesla faces allegations of FSD fraud, and the White House allocates $700M to revive coal. On the positive side, Nissan joins a solid-state battery project aiming for 'cheaper than China' costs, and BYD converts its popular hatch into an affordable electric van.
 
-- **BYD converts Dolphin hatch into $40,000 electric van** – class-leading range boosts commercial EV options ([Electrek](https://electrek.co/2026/06/04/byd-converts-ev-hatch-into-van-with-leading-range-for-40k/)).
-- **Audi reveals 1,001-hp Nuvolari hybrid supercar** – V8 with three electric motors; abandons 2026 all-electric pledge ([Electrek](https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/)).
-- **BMW iX3 drives 485 miles on single charge** – takes longest-range EV crown in NAF summer test ([Electrek](https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/)).
-- **Nissan joins ‘Cheaper Than China’ solid-state battery project** – aims to level playing field with Gelion tech ([Electrek](https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/)).
-- **White House dumps $700M into coal** – criticized as waste on dying energy source ([Electrek](https://electrek.co/2026/06/04/white-house-will-dump-700m-of-public-funds-into-costly-unreliable-coal-again/)).
+- **Tesla erasing the past? FSD fraud allegations surface** — Quick Charge discusses potential evidence destruction related to Full Self-Driving fraud. Tesla's response is unclear. ([Electrek](https://electrek.co/2026/06/04/tesla-erases-the-past-cat-electrifies-the-future-and-ev-tech-training-today/))
+- **Audi Nuvolari: 1,001-hp hybrid supercar breaks EV-only promise** — The limited-edition V8 hybrid (499 units, ~$700K) marks a strategic retreat from Audi's 2021 all-electric commitment. ([Electrek](https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/))
+- **BMW iX3 achieves 485-mile range, longest in NAF test** — Outperforming competitors, the iX3 sets a new benchmark for EV range. ([Electrek](https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/))
+- **BYD launches electric van based on Dolphin hatch, $40K, 'class-leading range'** — The move expands BYD’s commercial EV lineup at an attractive price point. ([Electrek](https://electrek.co/2026/06/04/byd-converts-ev-hatch-into-van-with-leading-range-for-40k/))
+- **Nissan joins solid-state EV battery project aiming 'cheaper than China'** — Collaboration with Gelion targets low-cost solid-state batteries to compete with Chinese manufacturers. ([Electrek](https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/))
+- **White House dumps $700M into coal again** — The administration's move to revive coal is criticized as a waste of taxpayer money and environmentally harmful. ([Electrek](https://electrek.co/2026/06/04/white-house-will-dump-700m-of-public-funds-into-costly-unreliable-coal-again/))
 
-**Signal**: The EV market is fragmenting into range leaders (BMW), affordable conversions (BYD), and hybrid supercars (Audi), while solid-state batteries and policy battles will shape the next decade.
+**Signal:** Audi’s hybrid pivot suggests other automakers may similarly backtrack on EV-only timelines. Watch for Tesla’s response to FSD allegations and the outcome of the solid-state battery partnership.
 
-<details><summary>Source (15)</summary>
+<details><summary>Source (11)</summary>
 
-- [This rugged small off-roader is now eligible for the electric car grant - Carwow](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSGpGTlNSaHJhbUw4YUxPeFlvdWNaTW9JVEtBUk9HWklsYzB5WDdBZDNvV0tzRUFOY3Q0ZDRHLUhqOVBRSkVvakRQLThjakJHbW4wZFFXRG1PY3NNX1hNc21acw) — Google News Autos · 2026-06-04 22:26 UTC
+- [Tesla erases the past, CAT electrifies the future, and EV tech training TODAY](https://electrek.co/2026/06/04/tesla-erases-the-past-cat-electrifies-the-future-and-ev-tech-training-today/) — Electrek · 2026-06-05 01:55 UTC
 - [The Cadillac Lyriq costs $200 more for 2027, but it gains a key new feature](https://electrek.co/2026/06/04/cadillac-lyriq-ev-prices-up-200-for-2027-adds-new-feature/) — Electrek · 2026-06-04 21:35 UTC
 - [You’ve got ONE MONTH to safe harbor your solar project and get 30% off](https://electrek.co/2026/06/04/if-you-still-want-that-30-solar-tax-credit-the-new-panic-date-is-july-4/) — Electrek · 2026-06-04 19:55 UTC
 - [Houston gets a solar, storage + electricity bundle for 6¢ per kWh](https://electrek.co/2026/06/04/houston-solar-storage-electricity-bundle-6-cents-per-kwh/) — Electrek · 2026-06-04 19:42 UTC
@@ -130,12 +133,9 @@ The automotive desk is dominated by EV competition and policy shifts. BYD launch
 - [Audi reveals 1,001-hp Nuvolari hybrid supercar — so much for going all-electric](https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/) — Electrek · 2026-06-04 18:40 UTC
 - [White House will dump $700M of public funds into costly, unreliable coal again](https://electrek.co/2026/06/04/white-house-will-dump-700m-of-public-funds-into-costly-unreliable-coal-again/) — Electrek · 2026-06-04 18:38 UTC
 - [Jackery HomePower 3600 Plus power station exclusives from $1,399, EGO Select Cut Touch Drive mower $543 low, Segway, more](https://electrek.co/2026/06/04/jackery-homepower-3600-plus-power-station-exclusives-ego-select-cut-touch-drive-mower-543-low-more/) — Electrek · 2026-06-04 18:00 UTC
-- [BYD ship lands as Toyota sharpens wait time - MSN](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOcVFMN1UxTllTSDNhODFWY2d4UkFmTEdYTG44Uy1nZEtsMm1qay1qS3FyaDRrVWc5QTNwelBiOVBiS0Z5SkV1S1lOcExhU3JLa05qd0NsTkpFcnhlYkxhR0l1VENsRk5mdmhGTzJ2cDZqOFVIN3BCN2t2N1N3M3FuUUxSMGVjY2hjTmJuUm5LMjFDYTljSU1VSV9udFd0S2dyVEk0Vm53UVpEWjg3ZXh3RzRzaTdCc1FOZGZwWloyLXBvMFRnU2Mtd08zOUt5U3A0MTZjMHU1bzFBa0IzZVdWSUNwa3ppSnZCcTFJRHc3ejFPMVl6OUdudXNla0dTcThxTWpoYUVCTGFvRG1TV25HT0VkaXBBTGpFX0N1eWFzanBrZGJETU5MV2hnczNFNGZQSWNibXpkLTZ4N0t2T3BZbzBLVUxGN0s2V2ZTYlg3dlQwa1NRMHAyVlJHR0ZzamtrLTlYY1NWUlRYbDN6OEVnd0poVQ) — Google News Autos · 2026-06-04 22:10 UTC
-- [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/) — TechCrunch · 2026-06-04 19:33 UTC
 - [Nissan joins new ‘Cheaper Than China’ solid-state EV battery project](https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/) — Electrek · 2026-06-04 17:26 UTC
 - [BMW’s new iX3 drove 485 miles on a single charge, the longest-range EV in NAF’s test](https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/) — Electrek · 2026-06-04 14:26 UTC
-- [BYD Did What Tesla Never Would. Just Not For The Reasons You’d Hope - transportevolved.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUlBbjgtbTljUmxIcnROUXBMUS1ZMXVULXMyOW40eTZLV2hLNHhPSG5aMjJHMndjY2F6U0g2SGRqcHFfcTJLWTQwa1l6Y0tGSUZUMHl3UVZfMjJ5QkFtZ21fYVBqdk1BZkxUSl9EYlQ4TFhJY1ZHdXBPREUzYWZwMDBNS3Aya0hkUHJTa1FXMy1fUkdqRHVwdTd3cnlrMWh5b0JpcVdlamRVSkpaOFE4) — Google News Autos · 2026-06-04 14:00 UTC
-- [New e-bike law could help legalize those 30 and 40+ MPH ‘grey-zone’ bikes](https://electrek.co/2026/06/04/new-e-bike-law-could-help-legalize-those-30-and-40-mph-grey-zone-bikes/) — Electrek · 2026-06-04 13:54 UTC
+- [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/) — TechCrunch · 2026-06-04 19:33 UTC
 
 </details>
 
