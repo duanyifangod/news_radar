@@ -1,90 +1,90 @@
 {
   "zh": {
     "news-economy": [
-      "美股遭2026年最严重抛售，科技股领跌",
-      "比特币失守6万美元，创2024年10月新低",
-      "伊朗威胁红海航道，油价面临飙升风险",
-      "SpaceX计划750亿美元IPO，排除中国投资者",
-      "欧元区一季度GDP萎缩0.2%，6月加息成定局"
+      "美国5月非农超预期，美股创2026年单周最大跌幅",
+      "标普500终结九连阳，科技股重灾区",
+      "比特币跌破6万美元创2024年10月新低",
+      "中际旭创跃升沪深300第一大权重",
+      "欧央行6月加息已成定局"
     ],
     "news-society": [
-      "俄乌和谈彻底僵局，普京拒见泽连斯基",
-      "美国打击伊朗雷达站，科威特和巴林遭袭",
-      "法国儿童谋杀嫌犯有性侵前科，引发众怒",
-      "尼泊尔向导珠峰失联六天靠巧克力生还",
-      "广东警方打击仿冒教育考试网站"
+      "俄乌谈判破裂，普京拒绝与泽连斯基会谈",
+      "美军击落伊朗无人机，中东冲突升级",
+      "加沙停火名存实亡，以军无人机袭击致1死15伤",
+      "撒哈拉货车故障致近50人渴死",
+      "中国高考平稳开锣，破获仿冒教育考试网诈骗案"
     ],
     "news-military": [
-      "美军击落四架伊朗无人机，伊朗反击指挥中心",
-      "乌克兰无人艇在罗马尼亚港口自毁",
-      "日本与菲律宾签署军事协议，中国抗议",
-      "加拿大采购HIMARS配远程反舰导弹",
-      "美国空军紧急搜购停产MQ-9无人机"
+      "美军在霍尔木兹海峡击落4架伊朗无人机",
+      "MQ-9死神无人机战损严重，空军紧急扫货",
+      "乌克兰无人艇漂入罗马尼亚港口爆炸",
+      "台海海巡与海警船正面冲突",
+      "台湾加速扩增反舰导弹库"
     ],
     "news-tech": [
-      "Google每月向SpaceX支付9.2亿美元算力",
-      "标普500拒绝SpaceX、OpenAI等准入",
-      "特朗普欲让美国政府持有AI实验室股份",
-      "比亚迪发布1000公里续航GT，10分钟充满",
-      "《最终幻想VII：启示录》2027年发售"
+      "标普500拒绝SpaceX、OpenAI等未盈利AI公司快速纳入",
+      "OpenAI推出Lockdown Mode加强安全控制",
+      "Linus Torvalds对AI编程生产力持观望态度",
+      "大众ID. Polo与比亚迪1000公里续航GT下线",
+      "英国政府支付系统从Stripe切换至Adyen"
     ],
     "news-sports": [
-      "美国中卫理查兹因伤缺席世界杯热身",
-      "FIFA撤销禁带水瓶令，球迷可带水瓶",
-      "NBA总决赛G1收视近1700万，两球迷禁赛",
-      "小红书拿下世界杯版权，体育社区生变",
-      "梅西肌肉疲劳好转，有望热身赛登场"
+      "尼克斯2-0领先马刺，NBA总决赛激烈",
+      "NBA约谈伦纳德涉及Aspiration案",
+      "特朗普将出席NBA总决赛第三场",
+      "总决赛G1平均收视近1700万",
+      "粉丝因冲场自拍被终身禁赛"
     ],
     "news-entertainment": [
-      "Taylor Swift与Travis Kelce计划7月结婚",
-      "《吸血鬼猎人巴菲》主演Anthony Head去世",
-      "LE SSERAFIM金采源因健康暂停活动",
-      "Taylor Swift新歌创乡村女歌手流媒体纪录",
-      "Netflix拒绝与坚持院线发行的电影人合作"
+      "Taylor Swift与Travis Kelce被曝7月麦迪逊广场花园完婚",
+      "《吸血鬼猎人巴菲》演员Anthony Head去世",
+      "《龙之家族》第三季曝最昂贵战斗戏",
+      "Apple TV+有望最快实现EGOT里程碑",
+      "aespa凭《Lemonade》首次打入英国单曲榜"
     ]
   },
   "en": {
     "news-economy": [
-      "S&P 500 snaps 9-week win streak",
-      "Bitcoin falls below $60,000",
-      "Iran threatens Bab el-Mandeb Strait",
-      "China SCI 50 drops over 4%",
-      "SpaceX IPO excludes Chinese investors"
+      "Wall Street suffers worst 2026 loss",
+      "Bitcoin collapses below $60,000",
+      "Eurozone enters technical contraction",
+      "Iran threats add oil risk premium",
+      "Meta drops 6% on AI funding report"
     ],
     "news-society": [
-      "Putin rejects Zelensky's talks offer",
-      "Ukraine strikes five ships in Sea of Azov",
-      "US strikes Iranian radar sites",
-      "50 die of thirst in Sahara breakdown",
-      "Everest guide survives on chocolate"
+      "Putin rejects Zelenskyy peace talks",
+      "US shoots down Iranian drones",
+      "Gaza fishermen use doorframe dinghies",
+      "Everest guide survives 6-day ordeal",
+      "Xi prepares North Korea state visit"
     ],
     "news-military": [
-      "CENTCOM downs 4 Iranian attack drones",
-      "Ukraine drone detonates in Romanian port",
-      "Taiwan accelerates defense build-up",
-      "China confronts Taiwan patrol vessels",
-      "Five Eyes accuses China of spy recruiting"
+      "US downs Iranian drones near Hormuz",
+      "Ukrainian drone explodes in Romania port",
+      "Japan-Philippines deepen military ties",
+      "Taiwan speeds up missile buildup",
+      "Iran ceasefire appears to be fraying"
     ],
     "news-tech": [
-      "T1 Energy buys KORE Power for AI data centers",
-      "S&P 500 blocks SpaceX, OpenAI, Anthropic",
-      "Google to pay SpaceX $920M/month for compute",
-      "VW and BYD accelerate affordable EVs",
-      "GTA VI launch set for November"
+      "S&P 500 rejects SpaceX, OpenAI, Anthropic",
+      "T1 Energy buys KORE Power for AI boom",
+      "BYD launches 1,000km range EV at $40k",
+      "Volkswagen rolls out affordable ID. Polo",
+      "GTA VI pushes publishers off Nov 2026"
     ],
     "news-sports": [
-      "USMNT defender Richards injured",
-      "FIFA reverses water bottle ban",
-      "Iran players receive US visas",
-      "Germany's Lennart Karl out of World Cup",
-      "Spain crushes England 4-0"
+      "Knicks take 2-0 NBA Finals lead",
+      "NBA Finals Game 1 draws 17M viewers",
+      "Trump to attend Game 3 in New York",
+      "Fans get lifetime bans for court storm",
+      "NBA investigates Brunson-fan incident"
     ],
     "news-entertainment": [
-      "Taylor Swift plans July wedding at MSG",
-      "Toy Story 5 song breaks streaming record",
-      "Anthony Head dies at 72",
-      "Kim Chaewon on health hiatus",
-      "Apple TV could achieve EGOT milestone"
+      "Taylor Swift wedding rumors at MSG",
+      "Toy Story 5 song sets streaming record",
+      "Buffy actor Anthony Head dies at 72",
+      "Apple TV poised for fastest EGOT",
+      "Spielberg applauds horror box office"
     ]
   }
 }

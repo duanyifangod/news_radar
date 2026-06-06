@@ -1,79 +1,79 @@
 # News Radar — 科技新闻
 
-> 2026-06-06 · Window: 24h · Items: 104 · Generated: 2026-06-06 02:45 UTC
+> 2026-06-06 · Window: 24h · Items: 102 · Generated: 2026-06-06 04:45 UTC
 
 ---
 
 ## Editor's Brief
 
-The tech landscape is being reshaped by AI's insatiable demand for energy and compute, as T1 Energy acquires KORE Power to supply AI data centers and Google agrees to pay SpaceX $920M/month for compute capacity. Meanwhile, the S&P 500's refusal to waive profitability rules blocks SpaceX, OpenAI, and Anthropic from passive investment pools, signaling a market discipline moment. In automotive, Volkswagen and BYD accelerate affordable EV rollouts while Toyota oddly pulls back despite strong EV sales. The gaming world is bracing for Grand Theft Auto VI's November launch as Summer Game Fest revealed Final Fantasy VII Revelation and Control Resonant. Hacker News communities are debating the merits of AI coding, the perils of UUID primary keys, and the end of Conventional Commits.
+Today's tech landscape is shaped by contrasting forces: AI's market maturation collides with profitability hurdles, while the electric vehicle race accelerates with record range and affordability. The gaming industry braces for GTA VI's gravitational pull, and developer communities debate infrastructure choices and security vulnerabilities. Here's what moved:
 
-- AI's power hunger drives M&A: [T1 Energy buys KORE Power](https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/) to tap into the booming energy storage and AI data center market, a signal that infrastructure plays are becoming as critical as the models themselves.
-- S&P 500 rejects high-profile tech firms: [SpaceX, OpenAI, and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) are denied entry because they aren't profitable, blocking billions in passive investment; this could force them to pursue IPOs or stay private longer.
-- Google's massive compute spend: [Google will pay SpaceX $920M/month](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) for compute, underscoring the astronomical costs of running AI products and the strategic shift toward space-based data centers.
-- Automotive EV price war heats up: [VW ID. Polo and Cupra Raval](https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/) roll off the line as affordable mass-market EVs, while [BYD's Denza Z9 GT](https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/) offers 1,000+ km range and sub-10-minute charging for ~$40k — a direct challenge to legacy luxury.
-- Toyota's confusing EV strategy: [Toyota finally has EVs people want](https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/) but is pulling back; the contradiction may reflect supply constraints or a pivot to hybrids.
-- Gaming industry braces for GTA VI disruption: [Summer Game Fest reveals](https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements) that publishers are avoiding November 2026, leaving the month empty for Rockstar's behemoth.
-- Security alarms: A [USB-connected speaker can infect PCs over the air](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) (Sound Blaster Katana V2X), and a [whistleblower accuses IBM of covering up breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/) from the mid-2010s.
+- **AI faces a reality check on Wall Street**: The S&P 500 rejected SpaceX, OpenAI, and Anthropic due to profitability rules, signaling that even high-growth AI firms must prove financial sustainability to enter major indices. This comes as investors flock from Bitcoin to AI IPOs ([Reuters](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)).
+- **Energy deals surge to power AI data centers**: T1 Energy (formerly FREYR Battery) acquired KORE Power to serve the AI power boom, highlighting the growing energy infrastructure demand from AI ([Electrek](https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/)).
+- **EVs hit new milestones**: BYD launched the Denza Z9 GT with a 1,000km range and sub-10-minute charging, starting at ~$40,000, and now expands to Europe ([Electrek](https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/)). Volkswagen rolled out affordable ID. Polo and Cupra Raval EVs in Spain ([Electrek](https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/)).
+- **Toyota's EV success paradox**: Despite strong sales of its new electric SUVs, Toyota is reportedly pulling back, raising questions about its commitment to the EV transition ([Electrek](https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/)).
+- **GTA VI warps the game release calendar**: Publishers are avoiding November 2026, with multiple games shifting dates to dodge Rockstar's blockbuster, as seen at Summer Game Fest ([The Verge](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)).
+- **Security alert**: A popular USB-connected speaker (Sound Blaster Katana V2X) can be hacked over the air to infect PCs – the seller denies it's a vulnerability ([Ars Technica](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/)).
+- **UK government ditches Stripe for Adyen**: Gov.uk switched its payment provider to the Dutch firm, citing future-proofing – a significant infrastructure move with 381 HN points ([The Register](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)).
 
-**Watch next:** The US government's potential stake in AI labs (Trump's signal), and how BYD's global expansion will pressure legacy automakers. Also track the aftermath of the IBM whistleblower suit and the ongoing Section 702 surveillance reauthorization deadline on June 12.
+**Watch next**: The US-China tech talent race escalation, the impact of AI lock-down modes on user privacy (OpenAI's new feature), and whether Toyota's EV hesitation will cost it market share against BYD's aggressive expansion.
 
 ---
 
 ## AI · 36 items
 
-AI is no longer just about models — infrastructure and capital access are now the bottlenecks. The S&P 500's rejection of unprofitable AI firms and Reid Hoffman's departure from Microsoft's board to focus on his AI drug discovery startup signal a maturing market. Meanwhile, Google's massive compute deal with SpaceX and T1 Energy's acquisition of KORE Power highlight the energy and compute arm race.
+AI's financial and regulatory landscape is shifting: profitability requirements are blocking top AI firms from the S&P 500, while investors pivot from crypto to AI. Simultaneously, AI's societal impact deepens with concerns over elderly targeting and new security features like OpenAI's Lockdown Mode. Key developments:
 
-- [S&P 500 blocks SpaceX, OpenAI, and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) — A key market signal: passive index funds won't bend profitability rules, forcing these companies to either go public with a higher bar or stay private.
-- [Reid Hoffman leaves Microsoft board to go 'founder mode' with Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/) — After a decade on the board, Hoffman is pivoting to AI drug discovery, a sign that even seasoned leaders see bigger opportunities in vertical AI applications.
-- [Google to pay SpaceX $920M/month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) — Unprecedented deal that may reshape data center geography; also raises questions about cost pass-through to AI products.
-- [T1 Energy buys KORE Power to cash in on AI power boom](https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/) — The energy storage company formerly known as FREYR Battery is pivoting to serve AI data centers, a clear indicator of where the growth is.
-- [Trump Signals Interest in US Owning Stakes in Top AI Labs](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says) — A possible policy shift that could nationalize part of the AI sector; watch for legislative follow-through.
+- **S&P 500 blocks unprofitable AI firms**: SpaceX, OpenAI, and Anthropic cannot enter the index due to profitability rules, underscoring a growing tension between high valuations and earnings expectations ([Ars Technica](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)).
+- **AI power demand drives energy M&A**: T1 Energy's acquisition of KORE Power is a direct play on data center energy needs, with implications for battery storage and grid infrastructure ([Electrek](https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/)).
+- **OpenAI introduces Lockdown Mode**: A new security feature limiting data access – likely a response to enterprise compliance concerns, with 18 HN points and active discussion ([OpenAI help](https://help.openai.com/en/articles/20001061-lockdown-mode)).
+- **Bitcoin's star fades as AI IPOs attract investors**: Reuters reports capital flowing from crypto to AI megacap IPOs, suggesting a shift in speculative appetite ([Reuters](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)).
+- **AI slop infiltrates elderly homes**: A Reddit post highlights how low-quality AI-generated content is targeting seniors, raising ethical concerns about digital literacy and exploitation ([Reddit](https://old.reddit.com/r/TrueOffMyChest/comments/1ty2veb/ai_slop_has_infiltrated_the_homes_of_the_elderly/)).
 
-**Signal:** The convergence of energy, compute, and policy is creating new winners and losers — startups that can't secure cheap power or index inclusion may struggle to scale.
+**Signal**: The AI industry is entering a phase where profitability, regulation, and ethical guardrails will separate winners from hype – watch for earnings reports and policy moves.
 
 <details><summary>Source (36)</summary>
 
+- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) — Hacker News AI Search · 2026-06-06 04:38 UTC
 - [T1 Energy buys KORE Power to cash in on the AI power boom](https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/) — Electrek · 2026-06-05 21:41 UTC
-- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) — Ars Technica · 2026-06-05 18:45 UTC
+- [How to Build an AI Agent for Slack with Chat SDK and AI SDK](https://vercel.com/kb/guide/how-to-build-an-ai-agent-for-slack-with-chat-sdk-and-ai-sdk) — Hacker News AI Search · 2026-06-06 04:34 UTC
+- [Linus Torvalds on AI](https://thenewstack.io/torvalds-ai-programming-productivity/) — Hacker News AI Search · 2026-06-06 04:10 UTC
+- [The Ethical Dilemmas of AI](https://www.ft.com/content/d2c90246-11d7-4169-ac35-988de7fdb2af) — Hacker News AI Search · 2026-06-06 04:01 UTC
+- [AI slop has infiltrated the homes of the elderly](https://old.reddit.com/r/TrueOffMyChest/comments/1ty2veb/ai_slop_has_infiltrated_the_homes_of_the_elderly/) — Hacker News AI Search · 2026-06-06 03:57 UTC
+- [Claude-tinderbox: Search your Claude.ai conversation history locally via MCP](https://github.com/luckyrmp/tinderbox-archive) — Hacker News AI Search · 2026-06-06 03:39 UTC
+- [Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/) — Hacker News AI Search · 2026-06-06 03:38 UTC
+- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode) — Hacker News Front Page · 2026-06-06 03:36 UTC
+- [As US-China tech race moves to talent, change in America's immigration policy may make it 'troubling' for - The Times of India](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNQk1pTi01Mzhrc3A0LXBfNV94OWxLcS1GVVhmQnNEUnVxOWcwNU9jQ01wOFNVXzNIZXg5SjY4dVBzR0QtUF9qY2UxMjB4d3E2bDQwemJFSzJxcGlpV2VkdnlwMWFBRDNuUGJabWJyNjI0VURZRGFUTEdNWmFKbWNfa3ptZ1lTQlVqMkZhYWZXUHk0Z0Q2VnhsU3ZWYWpjR3AwWXM2ZFQ2ZEt6MHVzbzJ0WWo0azRMQjJDaFE4RWFJSDFvRFZseGIxZTRlb245NUJwYmVBWTZ6UHNHTGNETzRjMHJnZm1INmx3YUZQbTVnQVp0X0FXWXg0OTU0alE2QWFWbVJwWnZTYnozRXFzMnVaR0Q0X2lncU1JMnBWMnYxNndmTURyWXRpaDlmeFpjTHJZSV9GVGVxZ3VrYmdZY1ZCamYzVUZ1VkszWnZoSnRyOVBBWXNSdDZpQjNieDhzeEpn0gHmAkFVX3lxTE1ScmlsOEhBVFdGZHR3cnd2TVEzSHAxRXlpQjc4bl9QekFKYnh4YTFnSEIta2t2a1hsX0ZZdFA1dW1hUzZPMER1a095WW5mTzE1bENZeGNkSF80UHRmbHdjV004TURZeWRoU014QkxWSFk1dkQxSEhJT3VERFcwVktRQ1MyRGtseFl0QVU4QUNWYmNmVzJFcWpaUkotcnFFX0xObVNMUy01b1NXeDVOWkJpaWRiMVBlMW1RVVpfNzVuN29ZWU5idlN5dkZiNzNNSzNPYlpSQU1PU1N3d3BKVHFidm5mVWg3Ykdjb1M0Q3l0SzZoaV9rdkxydWhiZ3NKX1paZjZhYUNzWGVoWmFFdTFQS0V2bHI4LTJvMVZkbUNUcExnMDNnbnVvYXpyWkppbGxGbjU4eFNSMTRNVzZoRzE2N25tUllZcU9BbmZsN1YtdjYwM3djUnhaSFAzdUVnTkdpWkpFY3c) — Google News AI · 2026-06-06 03:31 UTC
+- [Scarcity is driving AI innovation outside Silicon Valley](https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/) — Hacker News AI Search · 2026-06-06 03:14 UTC
+- [The Fix for AI's Spending Problem Is Not Good for OpenAI and Anthropic [video]](https://www.youtube.com/watch?v=w1yB7ck36JA) — Hacker News AI Search · 2026-06-06 03:12 UTC
 - [Show HN: Zedra – Mobile control plane for AI coding agents](https://news.ycombinator.com/item?id=48420833) — Hacker News AI Search · 2026-06-06 02:32 UTC
-- [Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827) — Hacker News AI Search · 2026-06-06 02:31 UTC
-- [Agent-ML-skills – Teach Codex/Claude/Cursor to stop making ML mistakes](https://github.com/param087/agent-ml-skills) — Hacker News AI Search · 2026-06-06 02:21 UTC
-- [Show HN: Apple Contacts MCP – Local AI Access to macOS Contacts](https://github.com/lu-wo/apple-contacts-mcp) — Hacker News AI Search · 2026-06-06 02:21 UTC
-- [Trump Signals Interest in US Owning Stakes in Top AI Labs](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says) — Hacker News AI Search · 2026-06-06 02:14 UTC
-- [Show HN: The Deterministic Core Architecture for AI-Augmented Applications](https://brandonbellsystems.com/deterministic-core/) — Hacker News AI Search · 2026-06-06 02:07 UTC
-- [Show HN: Lite Agent redefines what an AI agent is](https://liteagent.cloud/) — Hacker News AI Search · 2026-06-06 02:00 UTC
-- [Show HN: Declank – Remove AI Watermarks from Images](https://declank.skeptrune.com/) — Hacker News AI Search · 2026-06-06 01:56 UTC
-- [Why sophrosyne, an ancient Greek virtue, matters more than ever in the age of AI](https://theconversation.com/why-sophrosyne-an-ancient-greek-virtue-matters-more-than-ever-in-the-age-of-ai-282665) — Hacker News AI Search · 2026-06-06 01:48 UTC
-- [Rethinking the Value of Generated Tests for LLM Software Engineering Agents](https://arxiv.org/abs/2602.07900) — Hacker News AI Search · 2026-06-06 01:39 UTC
-- [Microsoft AI CEO Mustafa Suleyman: My team is 'more concerned' about Anthropic, than Google, Meta and OpenAI because ... - MSN](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeFFFX0cxTVdWbFYzeFE0SUs4ellVQWJrYWdPeVY4U0puVktTNHRMaEFnNnBEQmtsTFliUWNYWWZtY3QtamxmVnMyMG9nVkdRcm5ZbFZlLXJjOTB6Y2xuTThMZGRDYjZBUVRvNVhsRTMyTUs0S09GSUF5emZCSmtfWVhjZjg3UDVDN09nTjB5c3FfUkd4b1hzYXduSDJ5dXYzLU5wR0J5WGZWbnN0RFlMdmJsMjZzWjZFb09meEhRVEYxSW1xZFJBUkxLMlFpQXlST3NhcUtGc3BnVlBIRTBKZmpSYmdTcFhjVEpObng5QjF5Zw) — Google News AI · 2026-06-05 22:44 UTC
-- [OpenAI, Anthropic, Google, And Microsoft CEOs Ask Congress To Mandate Synthetic DNA Screening - Yellow.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXRKb1lkNEw0My10VWNiX3pqNUt3RDB6cHFOVDRvbDJac2RYZEduajg1am15bHNiT0tuUmh3ZllOMnRPUy1ZN0wya01iSllvNkpYU0g0cFZGWXhrT213SE9IR1V1LUNiTWdyaGFmMUcxNzlqM0pBNGlYd3ktanZfZ3hvX2JNU0xyMW44R2RWMDc) — Google News AI · 2026-06-05 22:36 UTC
+- [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827) — Hacker News Front Page · 2026-06-06 02:31 UTC
 
 </details>
 
-## 汽车 · 17 items
+## 汽车 · 16 items
 
-The electric vehicle market is bifurcating: affordable mass-market models are finally arriving (VW, BYD), while legacy players like Toyota show hesitation. BYD's 1,000-km range luxury GT is a game-changer, and new charging infrastructure from Wallbox and Tokyo incentives for Tesla could accelerate adoption.
+The EV market is defined by record-breaking range and affordability, but legacy automakers like Toyota show mixed signals. BYD leads with a 1,000km luxury GT, while VW finally launches mass-market models. Tesla Roadster delays persist:
 
-- [VW ID. Polo and Cupra Raval begin production](https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/) — First of VW's affordable EV push; these sub-€25k models could finally make EVs mainstream in Europe.
-- [BYD Denza Z9 GT: 1,000 km range, sub-10-min charge, ~$40k](https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/) — Now launching in Europe and UK; a direct threat to Tesla Model S and Mercedes EQS at half the price.
-- [Toyota has EVs people want but is slowing down](https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/) — Surprising move given the bZ Woodland and other models are selling well; possibly capacity constraints or a strategic pivot to hybrids.
-- [Wallbox deploys first Supernova PowerRing DC fast chargers](https://electrek.co/2026/06/05/wallbox-deploys-its-first-supernova-powerring-dc-fast-chargers/) — New charging stations in Spain may signal a push for marina and urban fast charging.
-- [New Tokyo incentives could nearly halve Tesla prices](https://news.google.com/rss/articles/CBMid0FVX3lxTE1RQTVRWDljVGlGRDd6LTJYWG9LLUUtWW9mcUdxRnBZd2tNY09kVjE3cktZVERRZ1A1TklmcDFuVUVJbThJZGVlZmNNR0pIS3BkZVJkeXlGMkIwTVZKWFlXdEZjRXd4amljMmNna04zMkZfRnFfTTZ3) — If enacted, this would be a massive stimulus for EV adoption in Tokyo, especially for Tesla.
+- **BYD's Denza Z9 GT breaks barriers**: 1,000km range, 10-minute recharge, $40,000 starting price – now entering Europe and UK. This could pressure premium EV makers ([Electrek](https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/)).
+- **Volkswagen starts production of affordable EVs**: ID. Polo and Cupra Raval roll off the line in Spain, targeting the mass market with lower prices ([Electrek](https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/)).
+- **Toyota's EV success paradox**: Its new electric SUVs are top sellers, yet the company is slowing down – conflicting signals about its long-term EV commitment ([Electrek](https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/)).
+- **Tesla Roadster demo delayed again**: Now pushed to August 2026 for SpaceX thruster integration – nearly nine years since the prototype was unveiled ([Electrek](https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/)).
+- **Carvana positions as future EV retail platform**: As new EV brands seek alternatives to franchised dealers, Carvana's Slate service may become a key distribution channel ([Electrek](https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/)).
 
-**Signal:** BYD's rapid global expansion and VW's affordability push are creating a price war that legacy automakers like Toyota and GM must respond to or risk losing share.
+**Signal**: The EV battle is shifting from hype to execution – BYD's rapid expansion and VW's affordability push will test traditional automakers' response.
 
-<details><summary>Source (17)</summary>
+<details><summary>Source (16)</summary>
 
 - [Volkswagen’s push for more affordable EVs starts with these two](https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/) — Electrek · 2026-06-05 20:50 UTC
 - [BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start](https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/) — Electrek · 2026-06-05 19:58 UTC
 - [Toyota finally has EVs people want to buy — Why slow down now?](https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/) — Electrek · 2026-06-05 15:42 UTC
 - [Carvana’s bet on Slate is ACTUALLY a bet on itself, as the future of automotive retail](https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/) — Electrek · 2026-06-06 01:51 UTC
 - [Wallbox deploys its first Supernova PowerRing DC fast chargers](https://electrek.co/2026/06/05/wallbox-deploys-its-first-supernova-powerring-dc-fast-chargers/) — Electrek · 2026-06-05 22:35 UTC
+- [BYD takes responsibility for its own autonomous tech - drive.com.au](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXM0Q3JkY2h6NVJleVZZREVMNG1NNVA0OVh1amczNExydTZzYjBBVlNVZDNTc1o2dy1tc3IwM3J1SDhMT0k5bUJoeVlDeU1pSzlDZWdxZGMxenQzYXlXSV9QVjViWkhqU3J0Q2ZFVmRkRElCRzdwOHp0MnVSVTVieTI3YVFodW52OHlZTW1UZDQtREh5Zlp6bXBGUGl1aHBhTmlJN2ZmR2huSU1WMHNEVQ) — Google News Autos · 2026-06-06 01:06 UTC
 - [Tesla pushes Roadster demo to August as SpaceX thruster work continues](https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/) — Electrek · 2026-06-05 19:51 UTC
 - [Podcast: Tesla Semi nails big test, BMW iX3 range impresses, Xpeng catches up to Tesla, and more](https://electrek.co/2026/06/05/podcast-tesla-semi-nails-big-test-bmw-ix3-range-impresses-xpeng-catches-up-to-tesla-and-more/) — Electrek · 2026-06-05 19:39 UTC
-- [BYD takes responsibility for its own autonomous tech - drive.com.au](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXM0Q3JkY2h6NVJleVZZREVMNG1NNVA0OVh1amczNExydTZzYjBBVlNVZDNTc1o2dy1tc3IwM3J1SDhMT0k5bUJoeVlDeU1pSzlDZWdxZGMxenQzYXlXSV9QVjViWkhqU3J0Q2ZFVmRkRElCRzdwOHp0MnVSVTVieTI3YVFodW52OHlZTW1UZDQtREh5Zlp6bXBGUGl1aHBhTmlJN2ZmR2huSU1WMHNEVQ) — Google News Autos · 2026-06-06 01:06 UTC
-- [New Tokyo Incentives Could Cut Tesla Prices Nearly in Half - driveteslacanada.ca](https://news.google.com/rss/articles/CBMid0FVX3lxTE1RQTVRWDljVGlGRDd6LTJYWG9LLUUtWW9mcUdxRnBZd2tNY09kVjE3cktZVERRZ1A1TklmcDFuVUVJbThJZGVlZmNNR0pIS3BkZVJkeXlGMkIwTVZKWFlXdEZjRXd4amljMmNna04zMkZfRnFfTTZ3) — Google News Autos · 2026-06-05 18:33 UTC
+- [New Tokyo Incentives Could Cut Tesla Prices Nearly in Half - driveteslacanada.ca](https://news.google.com/rss/articles/CBMid0FVX3lxTE1RQTVRWDljVGlGRDd6LTJYWG9LLUUtWW9mcUdxRnBZd2tNY09kVjE3cktZVERRZ1A1TklmcDFuVUVJbThJZGVlZmNNR0pIS3BkZVJkeXlGMkIwTVZKWFlXdEZjRXd4amljMmNna04zMkZfRnFfTTZ3) — Google News Autos · 2026-06-05 18:36 UTC
 - [Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more](https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/) — Electrek · 2026-06-05 18:00 UTC
 - [Range Rover is finally ready to sell its first electric SUV: Here’s everything we know](https://electrek.co/2026/06/05/range-rover-finally-ready-to-sell-first-electric-suv/) — Electrek · 2026-06-05 17:55 UTC
 - [GM’s electric future depends on a new battery — and this facility](https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/) — TechCrunch · 2026-06-05 17:44 UTC
@@ -84,15 +84,15 @@ The electric vehicle market is bifurcating: affordable mass-market models are fi
 
 ## 科技产品 · 41 items
 
-Gaming took center stage at Summer Game Fest with major reveals and a palpable fear of Grand Theft Auto VI's November launch. Meanwhile, security and privacy issues dominated other tech product news, including a whistleblower lawsuit against IBM and a critical USB speaker vulnerability.
+Summer Game Fest dominated tech product news with major game announcements, while hardware security and policy issues also emerged. The USB speaker hack and Section 702 surveillance reauthorization stalemate add urgency:
 
-- [Summer Game Fest 2026: Biggest announcements](https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements) — Final Fantasy VII Revelation (spring 2027 on all platforms), Control Resonant, and Screenbound (September 10) highlight a packed lineup, but publishers are clearing November for GTA VI.
-- [Grand Theft Auto VI is warping the release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest) — A fascinating market dynamic: nearly no major games scheduled for November 2026, giving Rockstar a clear field.
-- [USB speaker can infect PCs over the air](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) — Sound Blaster Katana V2X vulnerability; vendor doesn't consider it a bug — a worrying trend for IoT and peripherals.
-- [IBM whistleblower accuses company of covering up data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/) — Allegations of undisclosed breaches from 2014-2016; could lead to regulatory investigations and reputational damage.
-- [Congress still can't decide on warrantless surveillance (Section 702)](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte) — Deadline June 12; failure to reauthorize could disrupt intelligence operations.
+- **Final Fantasy VII Revelation announced**: The final chapter of the remake trilogy launches spring 2027 on PC, PS5, Xbox Series X/S, and Switch 2 ([The Verge](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)).
+- **GTA VI warps release calendar**: Publishers are avoiding November 2026, leaving the month nearly empty – a testament to Rockstar's market dominance ([The Verge](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)).
+- **Critical USB speaker vulnerability**: The Sound Blaster Katana V2X can be exploited over the air to infect connected PCs; vendor downplays risk ([Ars Technica](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/)).
+- **Section 702 surveillance reauthorization in limbo**: Congress faces a June 12 deadline with no deal, risking lapse of warrantless surveillance authority ([The Verge](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte)).
+- **VC horror stories go viral**: Founders share experiences on X, with some naming names – a rare moment of transparency in startup funding ([TechCrunch](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)).
 
-**Signal:** The gaming industry is consolidating around a few blockbusters, while security vulnerabilities and corporate cover-ups are eroding consumer trust — expect more regulation.
+**Signal**: Gamers have a packed 2027 pipeline, but security and policy news remind us that technology's impact extends far beyond entertainment.
 
 <details><summary>Source (41)</summary>
 
@@ -113,30 +113,29 @@ Gaming took center stage at Summer Game Fest with major reveals and a palpable f
 
 </details>
 
-## HackNews社区动态 · 10 items
+## HackNews社区动态 · 9 items
 
-The Hacker News community is buzzing with debates on software engineering practices, a major open-source security incident, and new releases. A popular data table library was compromised, while Microsoft open-sourced a durable execution extension for PostgreSQL and a new browser reached 1.0.
+The HN community engaged deeply on technical deep-dives, infrastructure changes, and personal technology challenges. Top discussions ranged from camera lens repair to the UK's payment provider switch:
 
-- [Gov.uk replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763) — A high-profile payment provider switch with 362 points and 129 comments; implications for government tech procurement and data sovereignty.
-- [pg_durable: Microsoft open-sources in-database durable execution](https://github.com/microsoft/pg_durable) — 334 points, 78 comments; a new tool for reliable background job execution within PostgreSQL, potentially disrupting existing orchestration tools.
-- [Conventional Commits encourages focus on the wrong things](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/) — 271 points, 210 comments; a heated debate on whether structured commit messages add value or bureaucracy.
-- [Mantine-datatable (and others) compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813) — 61 points, 24 comments; a supply-chain attack on a popular React data table library, raising alarms about npm security.
-- [Launch HN: General Instinct – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869) — YC-backed startup aiming to run large models on robots and edge hardware, addressing the mismatch between datacenter assumptions and physical-world constraints.
+- **Gov.uk switches from Stripe to Adyen**: A major infrastructure decision with 381 points and 133 comments, discussing procurement, cost, and future-proofing ([The Register](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)).
+- **Perils of UUID primary keys in SQLite**: An analysis with 39 points warns of performance pitfalls, sparking debate on database design trade-offs ([Anders Murphy](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)).
+- **Intricacies of modern camera lens repair**: A detailed 2024 post (107 points) on repairing a Sigma 45mm lens, highlighting the complexity of modern optics ([Salvaged Circuitry](https://salvagedcircuitry.com/sigma-45mm.html)).
+- **Aging and eye problems**: A personal essay (72 points) resonates with many developers facing age-related vision issues, prompting a supportive discussion ([ldstephens.net](https://ldstephens.net/posts/aging-and-eye-problems/)).
+- **Pre-Modern Armies for Worldbuilders**: A scholarly article (8 points) on why pre-modern armies fight, popular among HN's creative and history-minded readers ([ACOUP](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)).
 
-**Signal:** Open-source maintainer burnout and account takeovers are a recurring risk; pg_durable from Microsoft signals that big tech is investing in database-native solutions, potentially squeezing middleware vendors.
+**Signal**: The HN community values practical engineering insights and real-world infrastructure decisions – watch for follow-up discussions on SQLite best practices and government tech procurement.
 
-<details><summary>Source (10)</summary>
+<details><summary>Source (9)</summary>
 
+- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/) — Hacker News Front Page · 2026-06-06 03:41 UTC
+- [C++: The Programming Language back cover raises questions not answered by front](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391) — Hacker News Front Page · 2026-06-06 03:23 UTC
 - [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/) — Hacker News Front Page · 2026-06-06 01:32 UTC
 - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html) — Hacker News Front Page · 2026-06-06 00:33 UTC
-- [Nordstjernen Web Browser 1.0.0 released](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0) — Hacker News Front Page · 2026-06-05 23:42 UTC
+- [Nordstjernen 1.0](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0) — Hacker News Front Page · 2026-06-05 23:42 UTC
 - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html) — Hacker News Front Page · 2026-06-05 23:13 UTC
+- [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273) — Hacker News Front Page · 2026-06-05 19:08 UTC
 - [Aging and Eye Problems](https://ldstephens.net/posts/aging-and-eye-problems/) — Hacker News Front Page · 2026-06-05 18:30 UTC
 - [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763) — Hacker News Front Page · 2026-06-05 16:55 UTC
-- [Mantine-datatable (and others) compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813) — Hacker News Front Page · 2026-06-05 16:39 UTC
-- [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869) — Hacker News Front Page · 2026-06-05 16:33 UTC
-- [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable) — Hacker News Front Page · 2026-06-05 15:59 UTC
-- [Conventional Commits encourages focus on the wrong things](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/) — Hacker News Front Page · 2026-06-05 15:39 UTC
 
 </details>
 
