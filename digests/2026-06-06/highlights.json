@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美股遭2026年最严重抛售，科技股领跌",
+      "比特币失守6万美元，创2024年10月新低",
+      "伊朗威胁红海航道，油价面临飙升风险",
+      "SpaceX计划750亿美元IPO，排除中国投资者",
+      "欧元区一季度GDP萎缩0.2%，6月加息成定局"
+    ],
+    "news-society": [
+      "俄乌和谈彻底僵局，普京拒见泽连斯基",
+      "美国打击伊朗雷达站，科威特和巴林遭袭",
+      "法国儿童谋杀嫌犯有性侵前科，引发众怒",
+      "尼泊尔向导珠峰失联六天靠巧克力生还",
+      "广东警方打击仿冒教育考试网站"
+    ],
+    "news-military": [
+      "美军击落四架伊朗无人机，伊朗反击指挥中心",
+      "乌克兰无人艇在罗马尼亚港口自毁",
+      "日本与菲律宾签署军事协议，中国抗议",
+      "加拿大采购HIMARS配远程反舰导弹",
+      "美国空军紧急搜购停产MQ-9无人机"
+    ],
+    "news-tech": [
+      "Google每月向SpaceX支付9.2亿美元算力",
+      "标普500拒绝SpaceX、OpenAI等准入",
+      "特朗普欲让美国政府持有AI实验室股份",
+      "比亚迪发布1000公里续航GT，10分钟充满",
+      "《最终幻想VII：启示录》2027年发售"
+    ],
+    "news-sports": [
+      "美国中卫理查兹因伤缺席世界杯热身",
+      "FIFA撤销禁带水瓶令，球迷可带水瓶",
+      "NBA总决赛G1收视近1700万，两球迷禁赛",
+      "小红书拿下世界杯版权，体育社区生变",
+      "梅西肌肉疲劳好转，有望热身赛登场"
+    ],
+    "news-entertainment": [
+      "Taylor Swift与Travis Kelce计划7月结婚",
+      "《吸血鬼猎人巴菲》主演Anthony Head去世",
+      "LE SSERAFIM金采源因健康暂停活动",
+      "Taylor Swift新歌创乡村女歌手流媒体纪录",
+      "Netflix拒绝与坚持院线发行的电影人合作"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "S&P 500 snaps 9-week win streak",
+      "Bitcoin falls below $60,000",
+      "Iran threatens Bab el-Mandeb Strait",
+      "China SCI 50 drops over 4%",
+      "SpaceX IPO excludes Chinese investors"
+    ],
+    "news-society": [
+      "Putin rejects Zelensky's talks offer",
+      "Ukraine strikes five ships in Sea of Azov",
+      "US strikes Iranian radar sites",
+      "50 die of thirst in Sahara breakdown",
+      "Everest guide survives on chocolate"
+    ],
+    "news-military": [
+      "CENTCOM downs 4 Iranian attack drones",
+      "Ukraine drone detonates in Romanian port",
+      "Taiwan accelerates defense build-up",
+      "China confronts Taiwan patrol vessels",
+      "Five Eyes accuses China of spy recruiting"
+    ],
+    "news-tech": [
+      "T1 Energy buys KORE Power for AI data centers",
+      "S&P 500 blocks SpaceX, OpenAI, Anthropic",
+      "Google to pay SpaceX $920M/month for compute",
+      "VW and BYD accelerate affordable EVs",
+      "GTA VI launch set for November"
+    ],
+    "news-sports": [
+      "USMNT defender Richards injured",
+      "FIFA reverses water bottle ban",
+      "Iran players receive US visas",
+      "Germany's Lennart Karl out of World Cup",
+      "Spain crushes England 4-0"
+    ],
+    "news-entertainment": [
+      "Taylor Swift plans July wedding at MSG",
+      "Toy Story 5 song breaks streaming record",
+      "Anthony Head dies at 72",
+      "Kim Chaewon on health hiatus",
+      "Apple TV could achieve EGOT milestone"
+    ]
+  }
+}
