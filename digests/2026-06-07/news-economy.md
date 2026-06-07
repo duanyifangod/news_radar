@@ -1,31 +1,35 @@
 # 多频道新闻雷达 — 经济新闻
 
-> 2026-06-07 · 窗口: 24h · 条目: 94 · 生成时间: 2026-06-07 01:36 UTC
+> 2026-06-07 · 窗口: 24h · 条目: 99 · 生成时间: 2026-06-07 05:15 UTC
 
 ---
 
 ## 板块速览
 
-## 经济新闻板块导语
-本周最后一个交易日，美股遭遇“雪崩式”抛售，三大指数从周中创下的历史高点急速回落，VIX恐慌指数终于赶上其他波动指标。芯片股的“疯涨潮”戛然而止，英伟达相关概念却仍在同花顺社区发酵。与此同时，全球央行政策分化加剧：欧洲央行被预期年内加息两次以应对逼近3%的通胀，而美联储新任主席Warsh上任后市场对利率路径的猜测再起。中国方面，监管部门宣布加强对程序化交易的监管，香港则因IPO复苏和财富回流成为高端消费热土。SpaceX高达750亿美元的IPO因美国出口管制明确将中国及香港投资者拒之门外，成为地缘经济切割的最新注脚。
+过去24小时，全球市场经历了剧烈波动。美股在创纪录高位后遭遇周五抛售潮，标普500指数单日跌幅逾2%，半导体板块领跌，VIX恐慌指数飙升。与此同时，欧洲央行释放强烈鹰派信号，市场押注年内两次加息以应对逼近3%的通胀，令欧元区经济滞胀担忧加剧。中国经济数据方面，5月外汇储备环比增加317亿美元至3.44万亿美元，但一个深层矛盾浮出水面：海外投资者通过互联互通机制无法买入内地最热门的AI股票，监管层正着手修补这一漏洞。同花顺社区动态显示，周期品涨价（锡价半年涨40%）与新股密集发行成为散户焦点，一家深圳公司股价暴跌后报警引发热议。
 
-- [**美股遭遇“逆转周”：周五抛售潮吞没周初涨幅**](https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html)：CNBC分析指出，三股力量导致市场过山车——周初AI狂欢推动创新高，但周五就业数据超预期引发加息担忧，叠加芯片股获利回吐，VIX指数报复性反弹。值得注意的是，此前一直“滞后”的恐慌指数终于与其它指标接轨。
-- [**Abel时代的伯克希尔：投向AI数百亿美元**](https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html)：巴菲特对CNBC确认，继任CEO Greg Abel已“启动”其首笔重大交易，大举布局人工智能。这标志着伯克希尔投资方向的代际转换，此前巴菲特对科技股态度谨慎。
-- [**欧洲央行“鹰派”加码：市场定价两次加息**](https://www.bloomberg.com/news/articles/2026-06-06/ecb-steps-up-as-g7-s-lead-hawk-with-interest-rate-hike-primed)：在G7中领跑紧缩，ECB被预期将在年内两次加息以对抗通胀回升至3%。该消息收紧了风险资产的融资窗口，与美股卖压形成共振。
-- [**中国证监会主席：将加强对程序化交易监管**](https://www.scmp.com/business/banking-finance/article/3356217/china-will-enhance-regulation-programme-trading-csrc-chairman)：在量化基金与机构投资者日益依赖算法交易的背景下，CSRC表态将遏制市场操纵行为。这与同日同花顺社区中“小作文”导致个股闪崩事件形成对照，监管层正试图弥合信息不对称。
-- [**SpaceX IPO切断中国资本路径**](https://news.google.com/rss/articles/CBMieEFVX3lxTFBDOVV0OFloeEV4X3Z6VDl3MGxMZGl2Zl82V0ZwdmlOV3NkZzlocmNJdGVDWktqVVc0eGFiZWtQTXI4bHA3TTAwbVItWkJTdHdGRkVIMkJEWFlINDZ4ZzBSNnBtS1JwU3puS1IxQzF2NWMzcmpTVEczYw)：承销商因美国出口管制规则禁止中国内地及香港投资者参与认购，此750亿美元估值IPO的地缘分割信号强烈，映射科技脱钩的资本端实践。
-- [**香港经济双轮驱动：IPO热潮与楼市复苏推高奢侈品消费**](https://www.scmp.com/business/companies/article/3355967/its-wealth-effect-hong-kong-luxury-malls-thrive-amid-ipo-gains-housing-recovery)：香港超越瑞士成为全球最大跨境财富中心，硬奢与珠宝连续数月强劲增长。京东落地首家MALL，计划三年内再开6-8家，显示零售实体信心回升。
-- [**同花顺社区异动：锡价半年涨40%，“小作文”致300085闪崩**](https://news.google.com/rss/articles/CBMiXkFVX3lxTE50MlZyb194c3ZFWU5JYjRvRjQ3a2IzcFR6YndSQ21WTW9aX2djQ29JMWVKeEVELXJMUnY4akZVOGNqMFJPa25NUE5Bd2xGcC04X3ZuVjFRUjNNdTRMeHc)：资源品暗战升温，锡业股份重注“北方锡都”；但流动性收紧预期与累库压力使锡价冲高回落。同时，不实消息引发股价闪崩后公司报警，折射散户情绪脆弱。
+- **[Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses](https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html)**：半导体板块此前的“暴涨式上冲”在周五彻底逆转，英伟达等龙头单日跌幅超5%，VIX终于追上其他波动指标，市场情绪从亢奋急转至恐惧。
+- **[Abel goes his own way with new Berkshire investments, including billions for AI](https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html)**：巴菲特接班人Greg Abel完成首笔重大交易，大手笔押注人工智能，证明伯克希尔资本配置正从传统价值转向科技未来。
+- **[ECB Steps Up as G7’s Lead Hawk With Interest-Rate Hike Primed](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHQ2cTBlTHBFMnNTVGtKYnJzN01LTDRXSzlOd2NVWVNRd1ZHQnlEcllwMGNZbXNDNVl5ZGk3c0hfRnltbXFFRThFZjczT0NxM3Q0ZVlrVlpvZlJKR3hQN3BSR0pXbjFDV0hPNEloVmlpVzd3VnVEUkU3dXV3NmtGX2QwSHZfYzVUbVlrLS0yX2NaZTFQbkRVVHYwNmtoZThKUnk2LVhTLWgzOVk1OVlrY0pB)**：欧洲央行成为G7中最鹰派的央行，市场已完全定价年内两次加息，但欧元区经济增速放缓使这一路径充满争议。
+- **[The Stock Connect problem: why can’t investors buy the mainland’s top AI stocks?](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXFmbHM0czdDLVAzRE1TekI0Z3BqZXRESWVrZlBqamN3QlZhd0tsbGVONXBYRFRkaS1BelpqQk1qbjJKUDNFQTNxU04yUFRtOTZOMWRZYjNWWjA1MkZDTTRkX2NuWU1NSHBvSXUzY2Q1Z3c4bDlXUFlrZGtxN19SUzRHcm01OFUyTWRmYVV3TmhTcWZiQzg4alRhcjBiSzB1N2swT2VHM1Rfd3JaMHdMYldycmhlbHRsOWfSAboBQVVfeXFMTk1xZmxzNHM3Qy1QM0RNU3pCNGdwamV0RElla2ZQampjd0JWYXdLbGxlTjVwWERUZGktQXpaakJNam4ySlAzRUEzcVNOMlBUbTk2TjFkWWIzVlowNTJGQ000ZF9jbllNTUhwb0l1M2NkNWd3OGw5V1BZa2RrcTdfUlM0R3JtNThVMk1kZmFVd05oU3FmYkM4OGpUYXIwYkswdTdrME9lRzNUX3dyWjB3TGJXcnJoZWx0bDln)**：港股通机制的设计缺陷导致国际投资者无法分享中国AI板块的IPO盛宴，证监会主席已表态将加强程序化交易监管，暗示可能改革。
+- **[锡价半年飙涨40％下的资源暗战，锡业股份1.77亿元押注“北方锡都”胜算几何？](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZeXFBb082X0xzTGM5SW92V2lQY1RPZVFBQzdGSnZIb2JWaklZNlZPdUNiWHc1Q0lOTHNaY2N5QWh5STdmWUxVU2FGX2lfSUhwR1VkV0lLRklLTmpQRUE)**：锡期货价格半年暴涨40%，锡业股份斥资1.77亿元布局内蒙古资源，反映稀缺小金属在AI和新能源需求下的战略价值。
 
-**后续观察**：下周美国CPI与美联储会议纪要将成为美股方向标。欧洲若如期加息，或进一步压制风险偏好。中国程序化交易新规落地细则值得关注，可能改变量化策略生态。SpaceX IPO的地缘限制或引发更多科技企业效仿，重塑全球资本流动格局。
+**后续观察**：下周焦点是欧洲央行6月会议是否释放明确加息信号，以及美股回调是否引发更大规模去杠杆。中国程序化交易新规细节值得关注，香港奢侈品零售数据将是验证“财富中心”成色的关键指标。
 
 ---
 
-## 美股 · 50 条
+## 美股 · 48 条
 
-美股经历了一轮“反转周”：周初AI狂潮推升指数至历史新高，但周五因就业数据超预期和芯片股获利回吐引发雪崩式抛售，VIX恐慌指数终于补涨。三股力量驱动了这场过山车行情。伯克希尔新任CEO Abel完成首笔重大交易，大手笔押注AI，暗示公司投资方向代际切换。比特币跌至2024年以来最低，但华尔街新型加密ETF（HYPE）逆势吸金。此外，[中国电动车进入美国](https://www.cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html)的预期正在突破地缘阻力，数年内可能实现销售。下周关注CPI数据能否缓解加息担忧。
+美股经历“过山车”一周：前半周标普500刷新历史新高，周五却遭抛售潮，单日跌幅为近三个月最大。半导体股票的‘崩溃式反转’是主要推手，VIX恐慌指数终于追上其他波动指标，显示市场已从贪婪切换至恐惧。不过，长线资金并未离场——伯克希尔新CEO Greg Abel完成首笔重大交易，斥资数十亿美元投资AI，巴菲特在CNBC采访中明确表示此笔交易由Abel主导，标志后巴菲特时代投资风格的独立转向。同时，比特币跌至2024年以来最低，但华尔街又掀起一股新的加密货币热潮：基于Hyperliquid平台的HYPE ETF受到追捧，投机资金在寻找新的出口。展望下周，美联储主席Warsh就任后的首次公开讲话将成市场风向标。
 
-<details><summary>信源 (50)</summary>
+- [Here are 3 forces that drove a whirlwind week for the stock market](https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html)
+- [Abel goes his own way with new Berkshire investments, including billions for AI](https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html)
+- [Bitcoin is cratering, but a new Wall Street crypto hype is on the rise](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
+- [Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses](https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html)
+
+美股短期面临获利回吐压力，但AI主题的资本开支信号（伯克希尔、台积电等）并未中断，调整后或为长线买入点。
+
+<details><summary>信源 (48)</summary>
 
 - [U.S. confirms second Texas screwworm case, Canada restricts livestock imports](https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html) — CNBC Markets · 2026-06-06 19:33 UTC
 - [Here are 3 forces that drove a whirlwind week for the stock market](https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html) — CNBC Markets · 2026-06-06 16:38 UTC
@@ -36,50 +40,34 @@
 - [Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses](https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html) — CNBC Markets · 2026-06-06 12:58 UTC
 - [Abel goes his own way with new Berkshire investments, including billions for AI](https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html) — CNBC Markets · 2026-06-06 12:31 UTC
 - [Inside the Obama-era Iran nuclear deal that Trump withdrew from](https://www.cnbc.com/2026/06/06/trump-iran-jcpoa-nuclear-deal-obama.html) — CNBC Markets · 2026-06-06 12:00 UTC
-- [Social media bans on teens risk strengthening Big Tech's grip on the sector, Bluesky exec warns](https://www.cnbc.com/2026/06/06/bluesky-teen-social-media-ban-monopolies.html) — CNBC Markets · 2026-06-06 05:00 UTC
 - [Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm) — Federal Reserve · 2026-05-28 15:00 UTC
 - [Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman](https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm) — Federal Reserve · 2026-05-22 20:15 UTC
 - [Sorry, I’m Not Available. Talk to the A.I. Version of Me.](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html) — NYTimes Business · 2026-06-07 00:19 UTC
 - [‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?](https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories) — MarketWatch Top Stories · 2026-06-06 22:51 UTC
+- [Alan Riding, Times Correspondent in Latin America and Paris, Dies at 82](https://www.nytimes.com/2026/06/06/business/media/alan-riding-dead.html) — NYTimes Business · 2026-06-06 22:14 UTC
 
 </details>
 
-## 中国经济 · 18 条
+## 欧洲经济 · 18 条
 
-中国经济焦点分化：一方面，香港凭借IPO复苏与楼市回暖重夺全球财富中心桂冠，高端消费与零售扩张（京东MALL）信号积极；另一方面，内地监管收紧程序化交易，CSRC主席表态将严打算法操纵，对应同日A股“小作文”闪崩事件。SpaceX IPO明确排除中国投资者，凸显科技脱钩的资本维度。Michael Burry声明其正在买入一只中国股票（BYD、海底捞或PDD），等待财报催化，引发关注。整体看，市场在财富效应与监管趋严间寻找平衡。
+欧洲央行（ECB）成为本周G7中最鹰派的央行。面对通胀再次逼近3%（远超2%目标）而经济增长疲软的‘滞胀’困境，市场预期ECB将在6月和7月连续加息。行长拉加德近期讲话强调了女性领导力与货币政策独立性，但实际利率路径的争议正在扩大。西班牙旅游市场创下新纪录，显示出南欧服务业的韧性，但另一方面，欧洲超市食品价格依然居高不下，消费者购买力持续承压。此外，美国国防部长Hegseth在诺曼底登陆纪念活动上称欧洲面临‘危险意识形态入侵’，尽管是政治言论，但可能影响跨大西洋贸易与投资情绪。
+
+- [ECB’s Stagflation Dilemma: Inflation Credibility vs Weak Eurozone Growth](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUk4RE9XdU1aYjRmcWwyT2poWk1xNVRwS3VmVFpBTloyTVBqNFh6aHNOM0M2Vk5TeU1KQ21QcXVub0djUXNmNEQ3U3ROZmVqVUtnSXpYTDl4R3lNSXJ2Rm9GMEZONWFpREN4SEpfUFVPQl9VVDc1c1RsSkpmQjd5eFJGNmRidnJYcldUbnBYQ0tsSmJycG9QYnRxM29FbmcwOGZUbG9OUWdTWjJi)
+- [ECB Steps Up as G7’s Lead Hawk With Interest-Rate Hike Primed](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHQ2cTBlTHBFMnNTVGtKYnJzN01LTDRXSzlOd2NVWVNRd1ZHQnlEcllwMGNZbXNDNVl5ZGk3c0hfRnltbXFFRThFZjczT0NxM3Q0ZVlrVlpvZlJKR3hQN3BSR0pXbjFDV0hPNEloVmlpVzd3VnVEUkU3dXV3NmtGX2QwSHZfYzVUbVlrLS0yX2NaZTFQbkRVVHYwNmtoZThKUnk2LVhTLWgzOVk1OVlrY0pB)
+- [Spain’s travel market leads Europe as tourism hits new records](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzlnNFBQV2ZpLUN3MEpSRDc5RmpJSU8zbE5HRTlFd2d2Tl9kRXFiVVFHYllyNEVTaWdfMk9feTRZVFJFS1JveF9kMW1JTDhoQ0w5T3NuZS1GU2E3N0FjeTY5MEJBSlB4YjA1SWxYYzV0M1pxam83ZWRWNVktOExDTk1LaC1Qdzc1NmtNSHI4YllTSTB2OU0tZDhHWHpiWTRLeEhGTlIybTdhZ25Wc0p3)
+- [Supermarkets without relief: why food in Europe is still expensive](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFY0Y3ZaZldIUkJ1NGpSaTVBY0dtMWQ4bWQ4WjZSb3VzQ3hwS2QyUS1oOTRhb2lIR3RodERsQmZGd21sdV9rWmVmSkNtU3p1ZUF1TTY0SUZJT3RFamNpYURwenZ6bnM3cHprMFpucXR6UkhTa3F6TjVQVkhydjhLZFpncmQyWGQ5LVlCSHpHVUQ4QUYtTlh4VGIzNGk)
+
+欧洲央行加息箭在弦上，但市场对衰退风险的定价尚不充分，欧元区风险资产（尤其是信用债）面临重定价。
 
 <details><summary>信源 (18)</summary>
 
-- [‘It’s the wealth effect’: Hong Kong luxury malls thrive amid IPO gains, housing recovery](https://www.scmp.com/business/companies/article/3355967/its-wealth-effect-hong-kong-luxury-malls-thrive-amid-ipo-gains-housing-recovery) — SCMP Business · 2026-06-07 01:30 UTC
-- [Eternal Group Launches 'The Eternal Path to China' at Esxence 2026, Offering a Strategic Roadmap for International Fragrance Brands Entering the Chinese Market - The Manila Times](https://news.google.com/rss/articles/CBMi3AJBVV95cUxPY0xXWDRSbmVpUXQ4Snd1S1N5Ym5PQWoxWGRpQ2ZIV2Y0RmhIRHYydW1kY0pQOWxxNnFZOVdrVmtpcVpialVEbWtwSFpMWUotNzlSZFFzUWttUVAtc2dzSnVTT2VVTk5wMl9rbTJoNmxBLWlIUTFvVVE1NThNYmZienp6eFl2UmlWdW9GRGZ3TzhvZ3FvbFUzeE9ENUhtUjZyQW94VHZYYmF0RGJvUXVfYUM4bklHb1J3Uk9HREs3V3JfQzJNdkxMMUdwYWtPX1dKQUhtU2ZaOHF4V2ZlYTY3T1o0SGdlenI0a04xTS16N0RLeVVSaWtCVEliNE5mU2FIenZJQV82TldGTjBHQ3J5Y3k4X2twZlRBT01qa2R5Z3ZTcjA0SWREWldWZE84MHpNazlha3lmVlZJYnI2RERUVkdfTkNBQWhqcE55a2loeGlYZW9QNE84ckp1RUrSAeICQVVfeXFMT0dSTkZVM1pTZTdsQkVLQ0dZNzF4ak5Wd05hOVhCMXJvdWlKeDhDelZBMXFmekkyY0ZCQ3dFSGQ1ZU5FX0lrbW1hYVNGV1J1akJjZTFLckdnQzdNdERXWF9ZNFpvRDNhYkVVdkE3VXFZeF8wZl91X3ZiNVp5Z01HZkhMMThFdklObWFqc0dLTWxwd3Z2SDh1Uk5DcVJUcW5uMW9HbzhkZ2xieUREUUpnLWVKaWN6QWlQMnJrQ040NXc1Ujl0YWJ6ZFZBWlNtVHZWQUNLWnVwVkw0enRDXzJqZFN5RHhiY1JXWlFGMGU3SzVxc3JLU2Fpc05ndEZVVzFuNjZGZTVtUWF5U2ZqcjZyUzl6ZmVyRWE3SVpLSFM4NmR0VlZxTnhmcjlXUDFjbFJiMVpoQ3J0dlRXLWVXb0RkQkYxSjJkLUcwanFNYVRNcGVnVFVpSXZSM3ZxV01DMjVBbzln) — Google News China Economy · 2026-06-06 22:01 UTC
-- [China is making it harder for mom and pop to access US stocks. Here's who will benefit - MSN](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZjZ1SnYzRFFqN0tNbElKd2RURFRJSy1uT2VhUTJSRnZrTmNTb0gwbi12Mkg0NkJsSjk2WlJPY0NIRnNIeVJwRnZ4NjZhNEpTZC1sY1NDSHRSakxndjM2SzlqSGtmUmoybFFWOFFrZU1SbUlHamJwaTFNdVZfWWtPcFdHSlJvLWQ2c3R2QmtXNk9lNUhMQTNnbF93SkJ1UE9RRUc5MTVWT1NHQVdodDhFZHozblh2d3FiaC1PcjVOOUpWN254TE1CWnh2SnNSbUNBeUVMLWVBWUh3Rnl4aWpPbktzQmVnWUsySnlueGF6WGxRa0NuTEE) — Google News China Economy · 2026-06-06 20:53 UTC
-- [JD.com Announces Opening of First JD MALL in Hong Kong, with Plans for 6–8 New Locations Over Next Three Years - markets.businessinsider.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLXFMSjJyRDVhMTlIdFdBa3N1OXY2SktnQ1RteExPdE40RjhXUi1aZEpwTm1uWjdaQkdUeFpzRXRPR05mNnNTTzY5eW54N0E5ZzRkcnB0LVA5bFk0S2YtbFNPUHlreHZfRDA1RDhSRFBNZmgwWmw1LWNIMWd4eEdHdEpBamUtc3ZkbDJKb2dvV3JFcUNENW5zbnZZY2U4MEtmNm14cUdPVVVtXzRGU1Y0eDZPZlk1LWxkRVpPRGFfU0QteVRGa3E1a29Dbi0wT3JZOGhTZm1iZEg0aHZsZ0ltYV9VaW9McHlBT01TNmhia1ZUMl9YUV9ubUxFUnk) — Google News China Economy · 2026-06-06 15:21 UTC
-- [China will enhance regulation of programme trading: CSRC chairman](https://www.scmp.com/business/banking-finance/article/3356217/china-will-enhance-regulation-programme-trading-csrc-chairman) — SCMP Business · 2026-06-06 11:51 UTC
-- [BYD, Haidilao Or PDD: ‘Big Short’ Investor Michael Burry Says He's Buying One Of These Chinese Stocks As Earnings Loom - Stocktwits](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJpRS1RX2RnemZ0T0pjSEtSVVM3SHA1UzZoWWJPdXlqWDU3UklUV04tS0ZVdXd4NWdWNGNzb3ltVTZkMWNRQ0xXdWxfVHVfWHFLbkZQY2tqX0hMclRocTB1THpUQzZqbEx6Y3JaaVB6MXhFbmswYldUcEdDUkNRZ1ZEWWdiN1hfVWsyT1lhaXFxNDRYQ1JnSUFqaHZpV0R5WmRBUzZGalVFYzR3NE5XVEIxUmxHNWFyeHc) — Google News China Economy · 2026-06-06 09:16 UTC
-- [KBA Tells The Story Of China's Equity Market Evolution - Seeking Alpha](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmJXaG9pVmM4RW5zNkpHVUtKal82QUI0cHpCdW42WUx1TkFVTElVanNqd1VMaUhFQWVyZzFtbXBkeGpqMDVWV1EzbjQ3bmFXVzRQdngzZGtjSXItby1NSkNOMEVIM0pTVFpxTUdRYTJ4dDdUZGdETlotUXZQMGNwMUVSVjdGWlh4YXgtb3NUbENVenNvYzZzOE13) — Google News China Economy · 2026-06-06 02:20 UTC
-- [SpaceX IPO bars investors from China and Hong Kong over US export control rules - Crypto Briefing](https://news.google.com/rss/articles/CBMieEFVX3lxTFBDOVV0OFloeEV4X3Z6VDl3MGxMZGl2Zl82V0ZwdmlOV3NkZzlocmNJdGVDWktqVVc0eGFiZWtQTXI4bHA3TTAwbVItWkJTdHdGRkVIMkJEWFlINDZ4ZzBSNnBtS1JwU3puS1IxQzF2NWMzcmpTVEczYw) — Google News China Economy · 2026-06-06 23:26 UTC
-- [JPMorgan and HSBC Join Hong Kong Tokenized Bonds Expert Group - The Coin Republic](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDVKSnB6M0poZ2dsUFdmdDNJVkhWZm9sakZ1NHN4bFZlOEZRTnAwNlZfaEJnanAwN2F6S09tUXN1UzVodjVUbDFzbXdoZ0FsbjlLMGFoZHJwbUdvSVhLX0JfWkhCTld3NFpySDUtdUNmaFA0WlJjVVFGblVZZXRZaE0tcEQwVVJxM1N5WnZjT2NyRHUxRXlTNnVGM3VDTEdlWVRHcEo3MmLSAa4BQVVfeXFMTll3VTh3WnI1OEpFT0lOM1NldkgtWGJ4dnkwUVZ1UjJUWWpwMmppQnFwZnZZN0lBT012YWg5ODYyaUhRNk0ycUdmaWM3RXdiM3UwQURJYjBCSU4tLUllWVlFQWZ1SWFhZEJnaXZIbGtscDBUaU8yUDFpUVI0QWpfX2NwdFNBRVV4M0dLUlhENkhnNG5rSXZiRW5pRkNjQ1hlRWR4cTZzRVc1al9ZcU1n) — Google News China Economy · 2026-06-06 19:32 UTC
-- [杰瑞股份：燃气轮机发电机组销售订单已陆续进入交付阶段 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZeFNHbUV3czNxMmZuT2dKYmU0RjF0VmFTc2hCTTVYR05SWVZaTlFsekZtNnRQampULVdPVGNsTlNBWlBnbGVqNTltYVUyb0VwWkM4) — 第一财经 中国市场 · 2026-06-07 00:55 UTC
-- [China will enhance regulation of programme trading: CSRC chairman - South China Morning Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVliOEs1MC1OSGFFdHBQelRicHNzbTY4bXY0TTJ0Y0ctUHUtR2dBMDR5WTUzSmRLZTlpb2ZiQ2F2THE2U2RjcGVVZVlacUkxV1ljZk1NS2RjQUpKaS1DbDZGTmIyV3BwWUhLTkJXRld2UUJPSlEwNnc2NExybGI3WFBNbVlHSjNidFpNcEJSb2FiZGRWSDBJc2YwUFJqNzNBTVd4SUY5NlEwNWR0a0tCUmZqNHExcHBrVWtXU2p2dUjSAcABQVVfeXFMTk1ZYjhLNTAtTkhhRXRwUHpUYnBzc202OG12NE0ydGNHLVB1LUdnQTA0eVk1M0pkS2U5aW9mYkNhdkxxNlNkY3BlVWVZWnFJMVdZY2ZNTUtkY0FKSmktQ2w2Rk5iMldwcFlIS05CV0ZXdlFCT0pRMDZ3NjRMcmxiN1hQTW1ZR0ozYnRaTXBCUm9hYmRkVkgwSXNmMFBSajczQU1XeElGOTZRMDVkdGtLQlJmajRxMXBwa1VrV1NqdnVI) — Google News China Economy · 2026-06-06 11:51 UTC
-- [SpaceX IPO underwriters ban Hong Kong and China investors due to US export restrictions - Crypto Briefing](https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRFRIZFRLSzB3djg2QWdndnR6UFlPWHNaeXZFbVZOcEhENzRvbEhxbm1FLWpvcmkyZE1falZmOWkxMnFaeFlBSl9OM0w1SEd4aGJTbnc1aE02NnRiUlJwb2VGc1Y5VG9sZnhnazRuZzM5Znl1NWFPRg) — Google News China Economy · 2026-06-06 11:40 UTC
-- [Uzbekistan, China's Hong Kong Agree to Deepen Economic Cooperation - Caspian Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDdNNl9QU0l3Tmh1U2FsU2NGWTI0eHhtYWRYZU9yazU2ckctVTZKUXVwMXBaVHdSYk96YThwSHl0NWxDQTZpak4ydGlQMjZQSXRGTk9HRzFBZUxJWllYczdYSWJpMjBkbWpvVnAxeG9pdUxWSGdkajZWTk10b2JBU3hwWU5RblZ0NUNzeGNtMlNlNUJ0aFJ5SGVCWTVCNnBMS2c) — Google News China Economy · 2026-06-06 09:39 UTC
-- [Mainlanders can still open bank accounts in Hong Kong despite new rules: HKMA](https://www.scmp.com/business/banking-finance/article/3356201/mainlanders-can-still-open-bank-accounts-hong-kong-despite-new-rules-hkma) — SCMP Business · 2026-06-06 07:24 UTC
-
-</details>
-
-## 欧洲经济 · 17 条
-
-欧洲央行成为G7紧缩领跑者，市场定价年内再加息两次以应对通胀逼近3%。此预期已开始收紧风险资产融资窗口，与美股卖压形成联动。西班牙经济逆势增长，旅游市场创新高，成为欧洲亮点。同时，食品价格高企仍困扰民众，超市利润承压。加拿大沃尔玛仓库工人首次签署集体协议，工会运动取得突破。对华贸易战方面，《卫报》评论认为特朗普策略失误，长期关税混乱将损害美国自身。
-
-<details><summary>信源 (17)</summary>
-
-- [America In Focus: US job market is rebounding, but economic frustration persists - Times West Virginian](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd2VmNXp4UjZRY0Y3d3JFaDZuQWhmSHoyQUtmcFhWekNlSTBseDJIbEFwdThQU3BRXzdodDFncHNFdXEzeTI2VTd4ejVCYU0yQ2pxdXYxWlB4NHFiUjV3NnYwbDJnT3NmNi1iSzJZamY2ZjR3MGJFaTQxQ0hEUG5JdVI0OTBxdUpIRldBU2NmcmFoWmtPdWZaay0xam1pdjVrdklFblpFdTdQQThjVEZDa05NNU13V3k1QzhiZVNrY1d4RGtGRlRjMFZaQUxVNEt5cV9VZnlvdXk1ekFVa21aZC1PNGlGdDB6Z2ZjQm16Z3FOWEwtUXh1Q3R3) — Google News Europe Economy · 2026-06-07 00:45 UTC
-- [ECB Steps Up as G7’s Lead Hawk With Interest-Rate Hike Primed - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHQ2cTBlTHBFMnNTVGtKYnJzN01LTDRXSzlOd2NVWVNRd1ZHQnlEcllwMGNZbXNDNVl5ZGk3c0hfRnltbXFFRThFZjczT0NxM3Q0ZVlrVlpvZlJKR3hQN3BSR0pXbjFDV0hPNEloVmlpVzd3VnVEUkU3dXV3NmtGX2QwSHZfYzVUbVlrLS0yX2NaZTFQbkRVVHYwNmtoZThKUnk2LVhTLWgzOVk1OVlrY0pB) — Google News Europe Economy · 2026-06-06 20:00 UTC
+- [ECB’s Stagflation Dilemma: Inflation Credibility vs Weak Eurozone Growth - equiti.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUk4RE9XdU1aYjRmcWwyT2poWk1xNVRwS3VmVFpBTloyTVBqNFh6aHNOM0M2Vk5TeU1KQ21QcXVub0djUXNmNEQ3U3ROZmVqVUtnSXpYTDl4R3lNSXJ2Rm9GMEZONWFpREN4SEpfUFVPQl9VVDc1c1RsSkpmQjd5eFJGNmRidnJYcldUbnBYQ0tsSmJycG9QYnRxM29FbmcwOGZUbG9OUWdTWjJi) — Google News Europe Economy · 2026-06-07 04:00 UTC
+- [Charting the global economy: Jobs, inflation feed rate-hike bets - The Economic Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNUxDLVdBay1zOUM1ZTdrNWQ3NS1ZSWltZWRGakRTZUNHczF3LVZhQVBTLTA1SmVaWWNUM29Jd0xCWTFqWVFOZ08tX293a0gwb3I4d1JiSkVndkNvMkthME5DazVXLUJrQ09OMk9wY1RFS1k4dnFKNmZEZm9MWVp0aUtwQWJUTDdIZWpLNlp2enROX0E2TEplTkRNMWdYeXljMWNrMThRZS1OZHc2dzExMVZCX01PcGJyUUNnbVVKZk9RaU1zUmk0bnJscHl4ME5UZ2c2bVRXaWhZSnpwVVc3V3JzUdIB6AFBVV95cUxQRUpBSjNCVzU3SDZndnpuRVJJT0dKYXVwRmpKekZvajVHbk44V1NScklpa3NJRE1wNzg0Q0F2X1QyUVUwZXFPaWhXdzFZLXpLeUxOY0Fad0VqQUtBU09kY1lYRENKYWx1SW41Yk4wY2RXZWRROWsxT3JaWkMwY21NM2hqdWRoYnJWT1RYampZN2h4S1B6T1czVkJoaUIzVzZ2QVpPS3R1dXdrRVdJLUFIU18xdW9id2g4aHlHRVB3Rm8xNnpmcWVGelJXdldCSkV6MWZZTWt5NkJBSGpYOHNSMkVkQ3dyV205) — Google News Europe Economy · 2026-06-07 03:08 UTC
 - [Christine Lagarde: Women and leadership: widening the pipeline](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260604~f5d373b29f.en.html) — European Central Bank · 2026-06-04 08:00 UTC
 - [Piero Cipollone: Europe’s money evolves so people’s freedom to pay remains](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260603_1~2801335beb.en.html) — European Central Bank · 2026-06-03 13:30 UTC
 - [Frank Elderson: Strengthening operational resilience for the age of AI](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260603~5b8e67f237.en.html) — European Central Bank · 2026-06-03 09:55 UTC
 - [Boris Vujčić: A European perspective on currency and convergence](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260602~101b71c594.en.html) — European Central Bank · 2026-06-02 14:35 UTC
-- [Spain's economy keeps growing despite Europe's decline in Q1 due to Iran war - Sur in English](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFFJdW1nN05xY2kzaWVlZ3dXUTFmcXVJY0JkamxjcnU5RnVEYzJMdVJ5WEg0aVdPb2ctY1otNVI2LUJNaTd5THBoZ2hIcFIyb3pWUEZTS2ZHaWlqUkw0YV9qRU1sZll1LWc0bW83eGJ4TnpiX0FYWWU4RlJOSHNPWFpKR3hNaV9fVkZsWjJnQ0xqUlllcTZyWFdMYnJYWWhpQTVvWVBwbldOVkR1M1FF) — Google News Europe Economy · 2026-06-06 15:11 UTC
+- [ECB Steps Up as G7’s Lead Hawk With Interest-Rate Hike Primed - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHQ2cTBlTHBFMnNTVGtKYnJzN01LTDRXSzlOd2NVWVNRd1ZHQnlEcllwMGNZbXNDNVl5ZGk3c0hfRnltbXFFRThFZjczT0NxM3Q0ZVlrVlpvZlJKR3hQN3BSR0pXbjFDV0hPNEloVmlpVzd3VnVEUkU3dXV3NmtGX2QwSHZfYzVUbVlrLS0yX2NaZTFQbkRVVHYwNmtoZThKUnk2LVhTLWgzOVk1OVlrY0pB) — Google News Europe Economy · 2026-06-06 20:00 UTC
 - [The ECB rate outlook is tightening the funding window for risk assets - Startup Fortune](https://news.google.com/rss/articles/CBMingFBVV95cUxPMFkyZUFlZS10dGxiY2NTQ2daOFktQl9pXzA4OUt5dGhucDZQdjBrblM2TFZ6YXdIcXVVMVVObkVUT0xGcnVNMFpIYkNidjlncTNkX25SUGVkNDdnS3c0bERCTkYta082bFVtdnF5R054OGtMQU91QU13MFV5d0JqbTd0cTQ1SklOVElfRTl3T2hMc1JmaXE0WXFFeVplZw) — Google News Europe Economy · 2026-06-06 14:41 UTC
 - [Spain’s travel market leads Europe as tourism hits new records - Breaking Travel News](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzlnNFBQV2ZpLUN3MEpSRDc5RmpJSU8zbE5HRTlFd2d2Tl9kRXFiVVFHYllyNEVTaWdfMk9feTRZVFJFS1JveF9kMW1JTDhoQ0w5T3NuZS1GU2E3N0FjeTY5MEJBSlB4YjA1SWxYYzV0M1pxam83ZWRWNVktOExDTk1LaC1Qdzc1NmtNSHI4YllTSTB2OU0tZDhHWHpiWTRLeEhGTlIybTdhZ25Wc0p3) — Google News Europe Economy · 2026-06-06 13:37 UTC
 - [On China, Trump picked the right battle but the wrong strategy](https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war) — The Guardian Business · 2026-06-06 11:00 UTC
@@ -90,20 +78,58 @@
 
 </details>
 
-## 同花顺社区动态 · 9 条
+## 中国经济 · 23 条
 
-社区情绪随资源品和谣言剧烈波动：锡价半年飙涨40%，但流动性收紧与累库压力导致冲高回落，锡业股份押注“北方锡都”前景存疑。贵金属受利率抑制明显，周报发出谨慎信号。个股层面，300319因“直接合作英伟达”传闻创历史新高；300085则因“小作文”闪崩后公司报警，监管与自媒体的博弈再度激化。国元证券宣布实现运营碳中和，打造零碳营业部，呼应ESG主题。沪电股份二次递表港交所，国际融资需求不减。
+国家外汇管理局公布5月外汇储备34422.38亿美元，环比增加316.91亿美元，延续回升态势，主要受美元走弱及估值效应支撑。但市场更关注结构性问题：港股通机制下，国际投资者无法买入内地最热门的AI上市公司股票，与此同时，内地投资者也无法参与港股AI新股认购。证监会主席吴清在周末表态将加强对程序化交易的监管，这可能影响高频量化策略的活跃度。香港方面，受益于全球财富管理中心地位超越瑞士，高端奢侈品商场录得连续数月双位数增长，JD.com也在香港开设首家线下MALL并计划三年拓至8家。此外，‘大空头’Michael Burry透露正在买入某中国股票（坊间猜测为BYD或PDD），其观点与当前中国消费复苏分歧形成对照。
 
-<details><summary>信源 (9)</summary>
+- [The Stock Connect problem: why can’t investors buy the mainland’s top AI stocks?](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXFmbHM0czdDLVAzRE1TekI0Z3BqZXRESWVrZlBqamN3QlZhd0tsbGVONXBYRFRkaS1BelpqQk1qbjJKUDNFQTNxU04yUFRtOTZOMWRZYjNWWjA1MkZDTTRkX2NuWU1NSHBvSXUzY2Q1Z3c4bDlXUFlrZGtxN19SUzRHcm01OFUyTWRmYVV3TmhTcWZiQzg4alRhcjBiSzB1N2swT2VHM1Rfd3JaMHdMYldycmhlbHRsOWfSAboBQVVfeXFMTk1xZmxzNHM3Qy1QM0RNU3pCNGdwamV0RElla2ZQampjd0JWYXdLbGxlTjVwWERUZGktQXpaakJNam4ySlAzRUEzcVNOMlBUbTk2TjFkWWIzVlowNTJGQ000ZF9jbllNTUhwb0l1M2NkNWd3OGw5V1BZa2RrcTdfUlM0R3JtNThVMk1kZmFVd05oU3FmYkM4OGpUYXIwYkswdTdrME9lRzNUX3dyWjB3TGJXcnJoZWx0bDln)
+- [中国5月外汇储备34422.38亿美元，环比增加316.91亿美元](https://news.google.com/rss/articles/CBMiU0FVX3lxTE12WFlKRm5ucDd0U3U3cUhDUzhBbkZ0OERBb0ctY2QyS0xLT0lyc1dadGttanZzUDBDbjN0b2VSM1VPMl9Edjh3VVllRFNsMFNjSENn)
+- [Hong Kong luxury malls thrive amid IPO gains, housing recovery](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXFmbHM0czdDLVAzRE1TekI0Z3BqZXRESWVrZlBqamN3QlZhd0tsbGVONXBYRFRkaS1BelpqQk1qbjJKUDNFQTNxU04yUFRtOTZOMWRZYjNWWjA1MkZDTTRkX2NuWU1NSHBvSXUzY2Q1Z3c4bDlXUFlrZGtxN19SUzRHcm01OFUyTWRmYVV3TmhTcWZiQzg4alRhcjBiSzB1N2swT2VHM1Rfd3JaMHdMYldycmhlbHRsOWfSAboBQVVfeXFMTk1xZmxzNHM3Qy1QM0RNU3pCNGdwamV0RElla2ZQampjd0JWYXdLbGxlTjVwWERUZGktQXpaakJNam4ySlAzRUEzcVNOMlBUbTk2TjFkWWIzVlowNTJGQ000ZF9jbllNTUhwb0l1M2NkNWd3OGw5V1BZa2RrcTdfUlM0R3JtNThVMk1kZmFVd05oU3FmYkM4OGpUYXIwYkswdTdrME9lRzNUX3dyWjB3TGJXcnJoZWx0bDln)
+- [BYD, Haidilao Or PDD: ‘Big Short’ Investor Michael Burry Says He's Buying One Of These Chinese Stocks As Earnings Loom](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJpRS1RX2RnemZ0T0pjSEtSVVM3SHA1UzZoWWJPdXlqWDU3UklUV04tS0ZVdXd4NWdWNGNzb3ltVTZkMWNRQ0xXdWxfVHVfWHFLbkZQY2tqX0hMclRocTB1THpUQzZqbEx6Y3JaaVB6MXhFbmswYldUcEdDUkNRZ1ZEWWdiN1hfVWsyT1lhaXFxNDRYQ1JnSUFqaHZpV0R5WmRBUzZGalVFYzR3NE5XVEIxUmxHNWFyeHc)
 
-- [欧尚元冲刺创业板上市：2025年毛利率同比降7个百分点，核心产品分离纯化装备毛利率跌近10个百分点 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MmdCdW93TGtWQVhSdnlHU0xqUWRpV0xuZ2xSamVjZWpEd0NRSXo4NTdIYl9JVDR0V0FMY3Rjb0gwNzh0ZnVhWWlrQWdjdnIzYVZEc2xPRUtXUW9FWXc) — 同花顺社区动态 · 2026-06-06 20:15 UTC
-- [【贵金属周报】贵金属仍受利率抑制明显 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSXVfc0gxaWJwVWFqRnIzVktUQmF3RmdMQVprV0ZyODgxOWhTaWpDTUFzMFpfdDNzOUtLa1pvenFLVFZXdHFaNnJaMU9rSUVqOTJGaU55UDJzN25rdFE) — 同花顺社区动态 · 2026-06-06 14:26 UTC
+中国股市正面临“核心资产易主”的阵痛：AI公司上市路径与外资准入不匹配。短期内，互联互通机制的修补预期可能催化港股科技股行情。
+
+<details><summary>信源 (23)</summary>
+
+- [The Stock Connect problem: why can’t investors buy the mainland’s top AI stocks? - South China Morning Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXFmbHM0czdDLVAzRE1TekI0Z3BqZXRESWVrZlBqamN3QlZhd0tsbGVONXBYRFRkaS1BelpqQk1qbjJKUDNFQTNxU04yUFRtOTZOMWRZYjNWWjA1MkZDTTRkX2NuWU1NSHBvSXUzY2Q1Z3c4bDlXUFlrZGtxN19SUzRHcm01OFUyTWRmYVV3TmhTcWZiQzg4alRhcjBiSzB1N2swT2VHM1Rfd3JaMHdMYldycmhlbHRsOWfSAboBQVVfeXFMTk1xZmxzNHM3Qy1QM0RNU3pCNGdwamV0RElla2ZQampjd0JWYXdLbGxlTjVwWERUZGktQXpaakJNam4ySlAzRUEzcVNOMlBUbTk2TjFkWWIzVlowNTJGQ000ZF9jbllNTUhwb0l1M2NkNWd3OGw5V1BZa2RrcTdfUlM0R3JtNThVMk1kZmFVd05oU3FmYkM4OGpUYXIwYkswdTdrME9lRzNUX3dyWjB3TGJXcnJoZWx0bDln) — Google News China Economy · 2026-06-07 02:30 UTC
+- [Why can’t investors buy the mainland’s hottest AI stocks via Stock Connect?](https://www.scmp.com/business/markets/article/3356193/why-cant-investors-buy-mainlands-hottest-ai-stocks-stock-connect) — SCMP Business · 2026-06-07 02:30 UTC
+- [Top 10 Companies by Market Cap in China and the US: An Uneven Ranking - 36 Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PdVlLZUs1VXlCcGdFM3pCaks2UkV0b1RaYVJQd0tCMHRleS1hN04wYXZHOFBPdUtQVWpzS1pqblRyMXpBaWhfNUt5eU0td1pnLUZV) — Google News China Economy · 2026-06-07 02:10 UTC
+- [‘It’s the wealth effect’: Hong Kong luxury malls thrive amid IPO gains, housing recovery](https://www.scmp.com/business/companies/article/3355967/its-wealth-effect-hong-kong-luxury-malls-thrive-amid-ipo-gains-housing-recovery) — SCMP Business · 2026-06-07 01:30 UTC
+- [JD.com Announces Opening of First JD MALL in Hong Kong, with Plans for 6–8 New Locations Over Next Three Years - markets.businessinsider.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLXFMSjJyRDVhMTlIdFdBa3N1OXY2SktnQ1RteExPdE40RjhXUi1aZEpwTm1uWjdaQkdUeFpzRXRPR05mNnNTTzY5eW54N0E5ZzRkcnB0LVA5bFk0S2YtbFNPUHlreHZfRDA1RDhSRFBNZmgwWmw1LWNIMWd4eEdHdEpBamUtc3ZkbDJKb2dvV3JFcUNENW5zbnZZY2U4MEtmNm14cUdPVVVtXzRGU1Y0eDZPZlk1LWxkRVpPRGFfU0QteVRGa3E1a29Dbi0wT3JZOGhTZm1iZEg0aHZsZ0ltYV9VaW9McHlBT01TNmhia1ZUMl9YUV9ubUxFUnk) — Google News China Economy · 2026-06-06 15:21 UTC
+- [China will enhance regulation of programme trading: CSRC chairman](https://www.scmp.com/business/banking-finance/article/3356217/china-will-enhance-regulation-programme-trading-csrc-chairman) — SCMP Business · 2026-06-06 11:51 UTC
+- [BYD, Haidilao Or PDD: ‘Big Short’ Investor Michael Burry Says He's Buying One Of These Chinese Stocks As Earnings Loom - Stocktwits](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJpRS1RX2RnemZ0T0pjSEtSVVM3SHA1UzZoWWJPdXlqWDU3UklUV04tS0ZVdXd4NWdWNGNzb3ltVTZkMWNRQ0xXdWxfVHVfWHFLbkZQY2tqX0hMclRocTB1THpUQzZqbEx6Y3JaaVB6MXhFbmswYldUcEdDUkNRZ1ZEWWdiN1hfVWsyT1lhaXFxNDRYQ1JnSUFqaHZpV0R5WmRBUzZGalVFYzR3NE5XVEIxUmxHNWFyeHc) — Google News China Economy · 2026-06-06 09:16 UTC
+- [Park life: why China’s malls are building forests, waterfalls and sky walkways](https://www.scmp.com/business/article/3356214/park-life-why-chinas-malls-are-building-forests-waterfalls-and-sky-walkways) — SCMP Business · 2026-06-07 02:30 UTC
+- [Hong Kong Luxury Mall Sector Upturn Driven by Affluent Spending and Wealth Hub Status - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWYxaG5lNmQtSG5WandtNi1iNWRSVU82aDA4VGgzcWJLSjM2RzR1aGZQNUQ5eVFPWDZSMEE1ekRyenY5Z2lnSUhuSE9BdXFOeXpnY0lpZ0plTURpZnI5NVg4Wklxckx2Z181NWxPVnRVQmdzZHRYbGpZank3V2g3TDhTenNiNkZkQ1ZSMFZhNWxqbFVoN19DMU83YWt2Skx1bnEtUXBxRnJJZllERXc) — Google News China Economy · 2026-06-07 02:10 UTC
+- [Is the dream over? Mainland students rethink Hong Kong over costs and cultural fit - The Korea Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVVWNDZVU3NrNFd1aDg4RThNYjYzcC1LTnBmNkxSQmM1S28tcjFWT0dxVUNiZnFyeDM1aWk0NWJncEhOQlhBclU4SVRlY0FmaV81SEhGX2ZDNURRdzNVNTFfX1ZxNEVUY0FGSkR0WVU5N1pMN084NC1SNW1xWXcyLWhsbTZ0SjZQd0p3VHBoR21LejcwVlRjN25GQnhBb0VpZmtRZWRmSFBXdGJLbXo5SHVWY0pJd19vV09MbnE1TlRhTnM5cXFxNNIByAFBVV95cUxPLVVWNDZVU3NrNFd1aDg4RThNYjYzcC1LTnBmNkxSQmM1S28tcjFWT0dxVUNiZnFyeDM1aWk0NWJncEhOQlhBclU4SVRlY0FmaV81SEhGX2ZDNURRdzNVNTFfX1ZxNEVUY0FGSkR0WVU5N1pMN084NC1SNW1xWXcyLWhsbTZ0SjZQd0p3VHBoR21LejcwVlRjN25GQnhBb0VpZmtRZWRmSFBXdGJLbXo5SHVWY0pJd19vV09MbnE1TlRhTnM5cXFxNA) — Google News China Economy · 2026-06-07 01:33 UTC
+- [Why Hong Kong’s lofty wealth status matters to high-end malls - South China Morning Post](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjdfeHpDXzAxaURmRkMzTmJIMkhFSVFEV2xldFFMQnRfeGg4TjllNE1xM3ZOcWllR211eC1CSkhvNVBlTi1TeEl4U0M3RkthX2xkMVFaVnZSemNUVklacWN4S0tjdXA4NHNwWm1na1ZsVkdOZ1FvaUh3M1NWR1ktZ055REhtc0pVdHI1cEVQbFRfWF9kd2JBdnhrUlJHeHNIZlhwSGlrWXhqN081Q2FPam5JSzdIYzJhWFRvZUJlVXFVbVIxT1M2OUY0UzhWMVlF0gHQAUFVX3lxTE5CN194ekNfMDFpRGZGQzNOYkgySEVJUURXbGV0UUxCdF94aDhOOWU0TXEzdk5xaWVHbXV4LUJKSG81UGVOLVN4SXhTQzdGS2FfbGQxUVpWdlJ6Y1RWSVpxY3hLS2N1cDg0c3BabWdrVmxWR05nUW9pSHczU1ZHWS1nTnlESG1zSlV0cjVwRVBsVF9YX2R3YkF2eGtSUkd4c0hmWHBIaWtZeGo3TzVDYU9qbklLN0hjMmFYVG9lQmVVcVVtUjFPUzY5RjRTOFYxWUU) — Google News China Economy · 2026-06-07 01:30 UTC
+- [SpaceX IPO bars investors from China and Hong Kong over US export control rules - Crypto Briefing](https://news.google.com/rss/articles/CBMieEFVX3lxTFBDOVV0OFloeEV4X3Z6VDl3MGxMZGl2Zl82V0ZwdmlOV3NkZzlocmNJdGVDWktqVVc0eGFiZWtQTXI4bHA3TTAwbVItWkJTdHdGRkVIMkJEWFlINDZ4ZzBSNnBtS1JwU3puS1IxQzF2NWMzcmpTVEczYw) — Google News China Economy · 2026-06-06 23:50 UTC
+- [中央气象台发布暴雨橙色预警 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxUjR2MW5kVmlJdlNTaGJPMEZXdVdQazJ5NTNCS1k0NUhkVzlyc1FBbDdWRWFpTWh4RDNUSXJFMUh0N09zeUdXV3lZU2FjTTg1RHZj) — 第一财经 中国市场 · 2026-06-07 02:25 UTC
+- [中国5月外汇储备34422.38亿美元，环比增加316.91亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE12WFlKRm5ucDd0U3U3cUhDUzhBbkZ0OERBb0ctY2QyS0xLT0lyc1dadGttanZzUDBDbjN0b2VSM1VPMl9Edjh3VVllRFNsMFNjSENn) — 第一财经 中国市场 · 2026-06-07 02:09 UTC
+
+</details>
+
+## 同花顺社区动态 · 10 条
+
+同花顺社区周末热度集中在三方面：新股、商品涨价与个股异动。欧尚元冲刺创业板，但其2025年毛利率骤降7个百分点、核心产品分离纯化装备毛利率跌近10个百分点，反映出IPO审核趋严下企业财务质量受质疑。锡价半年飙涨40%，锡业股份斥资1.77亿元押注‘北方锡都’，散户围绕该资源的‘暗战’逻辑展开热议。另一焦点是某深圳公司股价暴跌后报警，市场猜测涉及内幕交易或财务问题，社区讨论风险偏好明显下降。此外，**崔东树数据**显示5月新能源车平均促销力度降至9.8%的中高位，乘用车降价车型仅20款，暗示车企价格战可能暂告段落，对板块情绪构成短期利好。
+
+- [欧尚元冲刺创业板上市：2025年毛利率同比降7个百分点](https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MmdCdW93TGtWQVhSdnlHU0xqUWRpV0xuZ2xSamVjZWpEd0NRSXo4NTdIYl9JVDR0V0FMY3Rjb0gwNzh0ZnVhWWlrQWdjdnIzYVZEc2xPRUtXUW9FWXc)
+- [锡价半年飙涨40％下的资源暗战，锡业股份1.77亿元押注“北方锡都”胜算几何？](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZeXFBb082X0xzTGM5SW92V2lQY1RPZVFBQzdGSnZIb2JWaklZNlZPdUNiWHc1Q0lOTHNaY2N5QWh5STdmWUxVU2FGX2lfSUhwR1VkV0lLRklLTmpQRUE)
+- [股价暴跌！深圳一公司：已第一时间报警](https://news.google.com/rss/articles/CBMiXkFVX3lxTE03MkduM3hSa3ZtMTFzVUt6TlBacE9UN1ZFVlVyQkRDMWNXbzJ0ZDJDNVJLV2dUZmJnZnExZjZrWlhRS01HeE9ldExBY1RBdzh2U0RJQVlJZnJUY294Mnc)
+- [崔东树：5月乘用车降价20款 新能源车促销降至9.8%中高位](https://news.google.com/rss/articles/CBMiXkFVX3lxTE42YWZlNjgtbUJ1ZXVMUGRSdlM5NlZVdk1icm4zSU03WWFWd1EwckRmbXk1Y1NJbVJnWW9SMWlPRDFLVy1xbVFWSV9XVlR5MGZZd0otaDk1SWVvYU8zX3c)
+
+社区情绪呈现‘避险+挖掘结构性机会’特征，投资者对高毛利率下滑的新股保持警惕，但对资源涨价和新能源降价放缓的边际变化较为敏感。
+
+<details><summary>信源 (10)</summary>
+
+- [欧尚元冲刺创业板上市：2025年毛利率同比降7个百分点，核心产品分离纯化装备毛利率跌近10个百分点 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MmdCdW93TGtWQVhSdnlHU0xqUWRpV0xuZ2xSamVjZWpEd0NRSXo4NTdIYl9JVDR0V0FMY3Rjb0gwNzh0ZnVhWWlrQWdjdnIzYVZEc2xPRUtXUW9FWXc) — 同花顺社区动态 · 2026-06-07 03:03 UTC
+- [上海振华重工集团与东北大学举行工作会谈 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSVl3UkU3NXJLRjlMQThFSGdfdmVsemktUDk4TUZCMHdKRGItZy15dGh3X3N5SUtOZDBYMEFHSGZ5bEVuSFA0dmdhS1o2dmFMQnYyc2FlNkNJRXU5X3c) — 同花顺社区动态 · 2026-06-07 04:43 UTC
+- [崔东树：5月乘用车降价20款 新能源车促销降至9.8%中高位 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE42YWZlNjgtbUJ1ZXVMUGRSdlM5NlZVdk1icm4zSU03WWFWd1EwckRmbXk1Y1NJbVJnWW9SMWlPRDFLVy1xbVFWSV9XVlR5MGZZd0otaDk1SWVvYU8zX3c) — 同花顺社区动态 · 2026-06-07 03:49 UTC
+- [预期“高中签率”新股，来了！ - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzN0g0NWdVaDdBTU5YREJUbW9UVXBfOUQwZ3lCWFR2SjhpRmhCWTBRejVPTVg1MzVWamcyQTJyUm96QXp3Q05SYTB1UHp1cEs1UVFnUE4zeHFrcTJwNXc) — 同花顺社区动态 · 2026-06-07 03:03 UTC
+- [生意社液化天然气6月6日均线上穿 均差为6.40元/吨 - 同花顺财经](https://news.google.com/rss/articles/CBMiY0FVX3lxTE13eWlhYWNsekNTdklVQkM4UHdTTkpteG9uMllSdUthNHBhemI5WVRCdVhIMDZwTnNhQlYxLWxjUHZ5cTAwQnVmYm1aTFBoWHlWbkZQb0l6SWlScjc1MHNaemJ1UQ) — 同花顺社区动态 · 2026-06-07 01:46 UTC
 - [锡价半年飙涨40％下的资源暗战，锡业股份1.77亿元押注“北方锡都”胜算几何？ - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZeXFBb082X0xzTGM5SW92V2lQY1RPZVFBQzdGSnZIb2JWaklZNlZPdUNiWHc1Q0lOTHNaY2N5QWh5STdmWUxVU2FGX2lfSUhwR1VkV0lLRklLTmpQRUE) — 同花顺社区动态 · 2026-06-07 01:32 UTC
 - [300319，直接合作英伟达，股价创历史新高！ - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbHcwMEMxcHJKcDlSLU9ZbTdIU3NxNV9tcTF2UlRTUU5nQUxLZ3U5YTl1ODNEVW5KY0oyRk9WTW5LNDRhSHlZR3BUUDJqSVlGRmRvYmpmQnN1NzJYTWc) — 同花顺社区动态 · 2026-06-07 00:12 UTC
-- [AMD Radeon 游戏显卡正试图复制锐龙逆袭之路，但仍需“数代打磨” - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mUW9jb29IdHMtaXB1bzZhdENyM1dzWXFITDBNZUR4TlhIQ3VTb0g5bE1rVlhNSUhEQ2ZUcHZYS25YakFQTFI1QVZIeWxuM2J2azNsWWlzZkhScmdCYVE) — 同花顺社区动态 · 2026-06-06 16:13 UTC
-- [【锡周报】流动性收紧担忧叠加现实累库压力，锡价冲高回落 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUOS0taUpNUDVLYThrWXFiaTVYeXFWaWxETk1MYVRQcXR1M1p6NV9xZW10cUVQZVhZRVBQNXBLU2pPTnBVZFk0SHZCdmYwUjJPZ2Ffck9KSlNCSlptV2c) — 同花顺社区动态 · 2026-06-06 14:36 UTC
+- [股价暴跌！深圳一公司：已第一时间报警 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE03MkduM3hSa3ZtMTFzVUt6TlBacE9UN1ZFVlVyQkRDMWNXbzJ0ZDJDNVJLV2dUZmJnZnExZjZrWlhRS01HeE9ldExBY1RBdzh2U0RJQVlJZnJUY294Mnc) — 同花顺社区动态 · 2026-06-06 20:13 UTC
 - [国元证券发布：实现运营层面碳中和，打造零碳营业部 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxbW5VNEZpa2RPbk96eGVWUDNZUmF2ZW94djMwVmM0b0lfNXVTZE01X25pWXcxRHRmM2I3UEdEV201MXBnRVhtcXVOV3VlTHgxUGJwbVdySllra3VVc2c) — 同花顺社区动态 · 2026-06-06 13:30 UTC
-- [“小作文”疯传，股价“闪崩”！300085严正声明：已报警 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE50MlZyb194c3ZFWU5JYjRvRjQ3a2IzcFR6YndSQ21WTW9aX2djQ29JMWVKeEVELXJMUnY4akZVOGNqMFJPa25NUE5Bd2xGcC04X3ZuVjFRUjNNdTRMeHc) — 同花顺社区动态 · 2026-06-06 13:03 UTC
 - [沪电股份再度递表港交所 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXdmhCb184MVUwVms0bnR0T0JFeERDejdTTnB6Wi1lRnlIY2c2YllyTGFNdmhzVlRITnNkNVZQMUVJTHVWSlF4Zl9tdjcyWU5rTnJNTE1uYmNhYWtMSUE) — 同花顺社区动态 · 2026-06-06 11:36 UTC
 
 </details>

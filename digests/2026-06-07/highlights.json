@@ -1,90 +1,90 @@
 {
   "zh": {
     "news-economy": [
-      "美股遭遇逆转周，周五抛售潮吞没周初涨幅",
-      "伯克希尔继任CEO大举布局人工智能",
-      "欧洲央行预期年内两次加息以对抗通胀",
-      "中国证监会将加强对程序化交易监管",
-      "SpaceX IPO因出口管制禁止中国投资者认购"
+      "美股周五抛售，标普500跌逾2%，VIX飙升",
+      "欧洲央行鹰派，市场押注年内两次加息",
+      "中国5月外储增317亿美元至3.44万亿",
+      "港股通缺陷，国际投资者无法买AI新股",
+      "半导体板块暴跌，英伟达等跌超5%"
     ],
     "news-society": [
-      "美伊在波斯湾互袭，停火协议濒临破裂",
-      "以色列空袭黎巴嫩杀死三名高级军官",
-      "加沙帐篷营地遭袭，七个月大婴儿丧生",
-      "乌克兰无人机首次袭击圣彼得堡",
-      "加拿大因食肉蝇爆发禁止德州牛进口"
+      "美伊在波斯湾互袭，停火协议濒临崩溃",
+      "以色列击杀黎巴嫩将军，黎方称侵略",
+      "美国防长诺曼底演讲称移民为'入侵'引争议",
+      "乌克兰无人机罕见袭击圣彼得堡",
+      "韩国选举混乱引发大规模抗议"
     ],
     "news-military": [
-      "伊朗向霍尔木兹海峡发射无人机，美军击落并打击雷达站",
-      "科威特称遭七枚伊朗导弹袭击",
-      "中国驱离荷兰舰时首次启用电子干扰",
-      "东沙附近首次出现海警与勘测船协同行动",
-      "哈梅内伊称将发动‘决定性打击’"
+      "美国对伊朗导弹实施自卫打击",
+      "巴基斯坦向沙特部署8000名士兵",
+      "巴基斯坦部署JF-17战斗机和中国防空系统",
+      "伊朗新型无人机在阿曼海对峙中起作用",
+      "伊朗导弹迫使美军舰艇撤退"
     ],
     "news-tech": [
-      "特朗普要求将最先进AI交付军方使用",
-      "Meta数千账号因AI聊天机器人漏洞被黑",
-      "OpenAI推出Lockdown Mode应对注入攻击",
-      "白宫AI顾问离任，政策制定权或向智库转移",
-      "Harbinger与Rheinmetall合作开发无人军用卡车"
+      "特朗普将最先进AI移交军方，企业不得修改模型",
+      "特朗普政府可能入股OpenAI",
+      "腾讯挖角OpenAI研究员姚顺宇任首席AI科学家",
+      "多款电动车提供0%融资刺激销量",
+      "夏季游戏展示周开幕，聚焦大作"
     ],
     "news-sports": [
-      "英格兰1-0新西兰，凯恩头槌制胜",
-      "苏格兰4-0大胜玻利维亚，状态火热",
-      "威尔士1-2不敌罗马尼亚，主帅批评球队",
-      "上海男篮因球迷喊黑哨被罚核减经费",
-      "张镇麟训练中鞋底报废引热议"
+      "英格兰1-0新西兰，世界杯热身赛取胜",
+      "NBA季后赛惨案之夜，5场分差超30分",
+      "亚历山大拿下雷霆第27场季后赛30+",
+      "王祉怡直落两局击败宫崎友花",
+      "陈雨菲印尼赛半决赛止步"
     ],
     "news-entertainment": [
-      "33岁男星金泽在横店家中猝逝",
-      "aespa凭《Lemonade》首入英国单曲榜",
-      "Olivia Rodrigo宣布与Robert Smith合作新专",
-      "《60分钟》资深记者Scott Pelley被炒",
-      "红果短剧新规引发行业讨论"
+      "车俊焕有望出演tvN新剧《Palace Land》",
+      "Olivia Rodrigo与The Cure主唱合作新歌",
+      "33岁男星金泽家中猝逝",
+      "Netflix主席称不接受坚持院线的导演",
+      "Scott Pelley被60分钟解雇后感谢支持者"
     ]
   },
   "en": {
-    "news-economy-en": [
-      "Wall Street selloff deepens, VIX spikes",
-      "Berkshire's Abel invests billions in AI",
-      "Chinese EVs may enter US within years",
-      "Hong Kong luxury malls boom on wealth effect",
-      "China tightens program trading regulation"
+    "news-economy": [
+      "VIX spikes as chip stock rally reverses",
+      "Abel commits billions to AI",
+      "Bitcoin plunges to 2024 lows",
+      "ECB to hike rates amid stagflation",
+      "China forex reserves rise to $3.44T"
     ],
-    "news-society-en": [
-      "US strikes Iranian drones, Iran hits bases",
-      "Israeli airstrike kills Lebanese general",
-      "Seven-month-old baby killed in West Bank",
-      "South Korea ballot shortages spark crisis",
-      "AI impact on employment amid China exams"
+    "news-society": [
+      "US and Iran exchange strikes in Gulf",
+      "Israel kills Lebanese general in strike",
+      "Ukrainian drones hit St. Petersburg",
+      "Hegseth attacks EU migration at D-Day speech",
+      "Xi Jinping makes rare visit to Pyongyang"
     ],
-    "news-military-en": [
-      "US and Iran exchange missile and drone strikes",
-      "China uses electronic jamming against Dutch ship",
-      "Chinese ships coordinated near Pratas Islands",
-      "Iran launched drones toward Strait of Hormuz",
-      "Kuwait hit by seven Iranian missiles"
+    "news-military": [
+      "US shoots down Iranian missiles in strikes",
+      "Pakistan deploys 8,000 troops to Saudi Arabia",
+      "Pakistan deploys JF-17 fighters to Saudi",
+      "Pakistan deploys Chinese air defense system",
+      "Iran drones force US warship retreat in Oman"
     ],
-    "news-tech-en": [
-      "Trump memo puts AI under military control",
-      "Meta AI chatbot hack hits thousands of Instagram",
-      "OpenAI unveils lockdown mode for prompt injection",
-      "China recruiting US AI talent raises concerns",
-      "WWDC 2026 preview expected major announcements"
+    "news-tech": [
+      "Trump embeds AI into military operations",
+      "Trump considers government stake in OpenAI",
+      "Tencent hires ex-OpenAI researcher for AGI",
+      "Summer gaming showcases: PlayStation, Xbox",
+      "Autonomous truck program launched for military"
     ],
-    "news-sports-en": [
-      "England beats New Zealand 1-0 but concerns remain",
+    "news-sports": [
+      "England beats New Zealand 1-0 in friendly",
       "Scotland thrashes Bolivia 4-0 in warm-up",
-      "Wales loses 2-1 to Romania, must improve",
-      "CBA prospect heads to US for training",
-      "NBA playoffs see blowouts and key injuries"
+      "Wales loses 2-1 to Romania friendly",
+      "BWF confirms Khunying Patama as president",
+      "Wang Zhiyi dominates German Open badminton"
     ],
-    "news-entertainment-en": [
-      "USPEER announces official fandom name",
-      "aespa enters UK Official Singles Chart first",
-      "Lee Jun Young shocks in Reborn Rookie",
-      "My Royal Nemesis is most-watched Friday show",
-      "ILLIT takes first win on Music Core"
+    "news-entertainment": [
+      "Olympic skater Cha Jun Hwan to star in drama",
+      "Seo In Young announces remarriage to CEO",
+      "ILLIT wins first music show for 'It's Me'",
+      "Olivia Rodrigo duets with Robert Smith",
+      "Scott Pelley fired from '60 Minutes'"
     ]
   }
 }
