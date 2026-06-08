@@ -1,91 +1,77 @@
 # 多频道新闻雷达 — 娱乐新闻
 
-> 2026-06-08 · 窗口: 24h · 条目: 77 · 生成时间: 2026-06-08 01:36 UTC
+> 2026-06-08 · 窗口: 24h · 条目: 77 · 生成时间: 2026-06-08 05:22 UTC
 
 ---
 
 ## 板块速览
 
-今日娱乐头条：第79届托尼奖揭晓，P!nk主持开场引爆舞台，A24新片《Backrooms》全球票房破纪录成为其历史最高；韩流方面，二代女团Secret时隔12年宣布回归，aespa、TREASURE等接连刷新销量与榜单成绩；国内影视业则聚焦AI赋能——桐庐AIGC影视创制中心启航，华策探索AI内容生产新模式；微博热搜则因“炎亚纶押中高考作文”“浪姐没念李心洁”等话题引发争议。以下为各板块详细盘点。
+今日娱乐板块呈现三大叙事主线：**中国影视产业加速拥抱AI**，桐庐AIGC高科技影视创制中心正式启航，华策等公司探索AI重塑内容生产，与此同时戛纳电影节上对AI的批判与中国公司的“驯化”形成鲜明对照；**欧美托尼奖颁奖季落幕**，80岁约翰·利思戈创下最年长表演奖得主纪录，《Schmigadoon!》为Apple TV夺得首个最佳音乐剧，而斯科特·鲁丁在霸凌指控后获奖却未现身，以及《解放》成为近40年来首部由美国女性编剧夺得的最佳话剧；**日韩偶像回归与剧集热度**：二代团Secret时隔12年宣布回归，IOI合体旅行，新生代MEOVV创下首周销量新高，韩剧《我的王室宿敌》蝉联话题榜第一。微博社区方面，**“中产破产七件套”成为热议词**，折射经济下行焦虑；关晓彤与李昀锐综艺互动、蔡明曾沛慈生日同天约定、黄子韬怒斥牙医偷拍等琐碎热搜占据讨论空间；此外高考作文押题相关争议（炎亚纶、时代少年团）引发质疑。后续观察：AI与影视的融合将进入政策与商业落地的关键期，托尼奖的多元性与争议事件可能影响百老汇行业生态，日韩偶像回归潮能否持续带动K-pop大盘回暖值得跟踪。
 
-- [托尼奖：《Cats: Jellicle Ball》服装设计师Qween Jean成为首位公开跨性别托尼奖得主](https://deadline.com/2026/06/tony-awards-qween-jean-becomes-1236949456/) 开创历史，同时《Lost Boys》与《Schmigadoon!》领跑提名。
-- [A24《Backrooms》全球票房突破2.12亿美元，超越《Marty Supreme》成工作室最卖座电影](https://deadline.com/2026/06/box-office-backrooms-a24-record-1236942792/) 仅用10天达成。
-- [韩国二代女团Secret发布回归预告，将于6月18日携特别迷你专辑《Secret Flavor》重返乐坛](https://www.soompi.com/article/1846081wpp/watch-secret-announces-comeback-date-with-teaser-for-1st-return-in-12-years) 距上次活动已隔12年。
-- [浙江桐庐·富春江影视科技产教示范区AIGC高科技影视创制中心正式启航](https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1FQTjNxeTRWUGQzV1B5WGFfUHdWTDBUeU1WYXI4bUlyNXJDVnBWZVZkcFlqM2dyWWRqcEtRZllMbThwY1RaWHJNSjRlWWRDZFFyTWJWTC1fVm1jRHRCcktGcVhIVU5RZXJneXRONjRidjkwSW1iR3JDN1MyT3R6Si1OR0E) 华策等企业联手布局影视AI新赛道。
-- [黄子韬发文怒斥牙医偷拍并散播视频，引发明星隐私权讨论](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHd5ZV9ZbG5WMFkwTGw3NUJNMEZTT2dwT3BxczZpZklNRi1RTGMxWGpUSkxscHBOZ0pRVnZma1lob3ZTV0cyZ09iUE0tR1UzZU9CWng2YnhCZHhOSDNVdnJvOUI5bWozalZYaHRTRDlQMUFyQmk0al8zVHpPdjU5WlpiU3gzUF9Y) 登上微博热搜。
-- [John C. Reilly爆料曾劝小李子放弃《泰坦尼克号》出演《不羁夜》，理由竟是“那是艘会沉的船”](https://deadline.com/2026/06/john-c-reilly-leonardo-dicaprio-titanic-boogie-nights-1236949383/) 影史轶闻再引关注。
-
-后续观察：托尼奖的多元化突破与K-pop的强劲回归表明全球娱乐市场仍处于内容创新与粉丝经济双重驱动阶段；AI在影视制作中的实际落地正从概念走向产业园级部署，值得持续追踪其对传统编剧、后期等环节的冲击；微博热搜的娱乐化与蹭热点现象需注意监管与公众情绪的交互影响。
+- [当戛纳大骂AI之际，中国影视公司正在驯化这个洪水猛兽](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3o0QlFxY21zWnQzMkpvZGE1UFpiLXJfekI4cnBmZHExRUlkcDcwaGllc3o3d25UZGZWVFhwRDQtczY2Z0U3VUM3ZDlXTXFUZFdVSlA5Ujd5NVd5VjV6Q0U0eW5hdUxTTVNveU5PSmNfZlRhbHIzaC04ZVFKRlo1cQ) — 戛纳批评AI，中国影视公司却在加快AI应用。
+- [John Lithgow Becomes Oldest Winner Of Tony Award For Lead Actor In A Play, 53 Years After First Win](https://deadline.com/2026/06/john-lithgow-oldest-winner-tony-award-lead-actor-in-a-play-1236949857/) — 80岁利思戈创托尼奖表演奖最年长得主纪录。
+- [Secret Announces Comeback Date With Teaser For 1st Return In 12 Years](https://www.soompi.com/article/1846081wpp/watch-secret-announces-comeback-date-with-teaser-for-1st-return-in-12-years) — 二代女团Secret时隔12年回归。
+- [中國經濟下行「中產破產七件套」成網絡熱詞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE56cjRwWDdmaHJkSnFpT1RQYWdMNmtqRjZEYjcwN1VWVDYyMDJEUEViS2ZTaWxaazMxMzVDSl9IRmlUVUpSXzBvSUVKN3ZELW1ieVVPMnd5cUYyd19RODFJ0gFkQVVfeXFMUGVFdjI5TndWLUgzQ2hyLXRic2x6R0lGcnhtazBvOTUyTlpFbno1Mk5PWVFwdU9tTGRpdDFqSHJlaXdtNFhrNXFBcy1WOG4xTHZMamJNdGZNcFVuTWh1QnluV0lOYw) — “中产破产七件套”成为微博热词。
+- [中國桐庐·富春江影视科技产教示范区AIGC高科技影视创制中心正式启航](https://news.google.com/rss/articles/CBMie0FVX3lxTFB2a20temRMUWtHaFNjaU8xY3NKQWNqRzNleXl6RmZ2Q0VzWkVkaTVnR3Y5d2R2TFBWQ3l0VmJkTmhHN1JTaVhRRHF4TmJkYkR1QmZIRU1DUkwxaXNRcGpicE5oTk45VWltWmRfeGNJcy0zV01ueDZtaTV5TQ) — 浙江布局AIGC影视产业新高地。
+- [Scott Rudin Wins Tony Award After Leaving Industry Due to Bullying Claims](https://www.hollywoodreporter.com/lifestyle/arts/scott-rudin-wins-best-play-tony-awards-bullying-claims-1236616126/) — 鲁丁获奖但未到场，引发争议。
+- [MEOVV Achieves Their Highest 1st-Week Sales Yet With “BITE NOW”](https://www.soompi.com/article/1846063wpp/meovv-achieves-their-highest-1st-week-sales-yet-with-bite-now) — 新人女团MEOVV创首周销量新高。
+- [关晓彤与李昀锐在《你好星期六》综艺中有哪些被热议的互动细节？](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHVnbk5SMlRGU29lSVdrc1IzUHowM0hLandMZ1BqanlQQ2U5OGxndE56bWdHVHU3SVpZaFNsb1hmM054YlJyTGlHTTA3LTlKOWNoRm9tenIxdHhRWVF1VGVhOHBReGNRQmFQT3NlNWhKaHVrMllqZ05zMkJ2Nm5obWpoQ0RCNlNKYXYyMWlyNnhVRVVUTXR4cXF4bnVBNUQ1TVhONTJxUjdZQQ) — 综艺互动细节引热议。
 
 ---
 
 ## 中国 · 12 条
 
-今日中国娱乐板块聚焦影视技术革新与文化交流：桐庐AIGC影视创制中心正式运营，浙江欲借此重塑内容生产模式；香港电影展映杭州站开幕，推动两地光影交流；此外，曾为《哪吒2》及漫威配乐的维也纳乐团宣布来华巡演，东西方音乐对话升温。
-- [桐庐·富春江影视科技产教示范区AIGC高科技影视创制中心启航](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXU4dnZIOU82QmE4bi1GcmtrT0NidFF5MTNrTnZRWDhGMTZnbjdRMGN0bGlzeWgycHBoNm50NnJzLUJ6Y2ZBNFpSQW1pUzZxYkhoSTFZckR6MEdIR2h0VU42eGJ0Mlp0Smh4b2hYczBvR2ZHQmphNll2NzNrZDRlbS1WS3oxUVNUZGFqbw) 华策、浙江广电等多方参与，意图降低影视制作成本。
-- [“香港电影展映·杭州站”启幕 光影为媒推动文化交流](https://news.google.com/rss/articles/CBMixAJBVV95cUxNY211dW55YS03VzJTN0NEcG9sQUZrWGVubkQzX1QzM1hzT25rNTJtTHY1R0N5enliRFU4aUtndjF5Y21ieDAtbDFIWjFmMUFxMTd5aU52YVN4c2tZdUpJMUFJaEJvc09oLXlWbWZaS29HQW5TN0xZLXo4Z2l4LTJ5T2p5eDZ1UDEwWS00RFB4dmFDT1BKc2Z3eENnMHk0UXRyRDEwUlpyazRPR3ByUGN6Q0hIS0ZfNWFGNnd6ckthMW04ZXhfYlFLV0JQWk9QQXVjNU12azdrdUhDZ0NzMUNDczQzZnVIYU9fcUJSWnkzbEd5TkE3V24wRV90NGN4eFJvWTdwLV9VdkE0S1ZpWXgtOEZ0QXFOZWdtTHFXbjRTY3ZNOENGd1RST0lXU2Y1UnEyUjYwVnBvWlpIbmVMZ1lvZF9oMGU) 展映十余部经典港片。
-- [为《哪吒2》漫威配乐，这支维也纳乐团要来中国了](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHNnU2ZPYURBMDhwTk9xY2RfV0FVb3RIMTQyT2FXd216NWh5cnIxbGZ3SnBWQXFBdGxocUx2VW5RQ3FmZXA4X0U0N09oRkFzZjZ6Y2FxUnp0N01oREJBOUQ4djczVFVpRGxPWVkyTGRVZFFhQkcxRkhIOWhMUzl2dFpZc04zb0t3Z2pB) 乐团将开启中国巡演。
-
-总体来看，中国影视行业正加速拥抱AI，同时积极借助文化展映与国际演出维持市场热度，技术驱动与内容出海并行。
+中国影视板块今日围绕AI与产业落地展开。华策在桐庐启动AIGC高科技影视创制中心，被视为“破解影视创作难题”的关键实验；[当戛纳大骂AI之际，中国影视公司正在驯化这个洪水猛兽](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3o0QlFxY21zWnQzMkpvZGE1UFpiLXJfekI4cnBmZHExRUlkcDcwaGllc3o3d25UZGZWVFhwRDQtczY2Z0U3VUM3ZDlXTXFUZFdVSlA5Ujd5NVd5VjV6Q0U0eW5hdUxTTVNveU5PSmNfZlRhbHIzaC04ZVFKRlo1cQ) 一文鲜明对比戛纳的谨慎与中国的大胆。此外，NBA球星杰伦·布朗探班王鹤棣片场，体育与娱乐跨界引发关注；薛之谦经营14年的火锅连锁全部关闭，反思明星餐饮。不过周五美股大跌对影视板块的潜在影响需留意。整体看，AI赋能成为影视行业确定性趋势，但消费降级环境下娱乐产业面临阵痛。
 
 <details><summary>信源 (12)</summary>
 
-- [中国电影伦交所 ESG评级维持B-，位居A股同行业16家公司排名第3名，与恺英网络同级、高于光线传媒、低于完美世界 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE5nam50ODY3dWRIdVVCVE9ablRyelR5TFNYelluOWhmU3NSbzV0aTNtaGRHdXR5UFBWUmstR3NVRlp2VGV1Z0ktYVAtMHpMaTlFYzRoRmp6QUQ1aGFjZEJCZ1VDcXo2dUUzQ3FKbHJYSXdyS2J4M1ZWLQ) — Google News China Entertainment · 2026-06-07 23:32 UTC
 - [周五美股大跌对影视板块之影响解读～ - 财富号](https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdVQ1VTcxa1RSRGZjUC1GYmp4RGd1V2dSVEVHZUFpWFZJY3lBU1dSWjItRDlBQk4zLWYyOVRTX0xtYjl4ekdOOTd2MkxoTWpIMGtmOU1xdjAxVEVyWm5Ia1hSUVlpclJvdDRz) — Google News China Entertainment · 2026-06-07 05:26 UTC
-- [2026中国再生有色金属科技大会举办_行业新闻 - worldmr.net](https://news.google.com/rss/articles/CBMif0FVX3lxTE1Scm9CcW55SU9UMEktalRmUjJlelhLSDl1N2FLVG1VM1dUUFo3dTdMaUQtQ2VXQ2dGYWhoVXhZME9RUjJCOTBXRXE4Sk1DelI2SktpWGczQkhsMkQ2ejZXcXgtNmtYSURQV1ZYYUlVV081VFpQcVV6YnBHdlE3RnM) — Google News China Entertainment · 2026-06-08 00:50 UTC
-- [【视频】看赛车比赛时，大家是更关注明星车手，还是赛道旁的美女呢？ - 汽车之家](https://news.google.com/rss/articles/CBMia0FVX3lxTE5tMnhVSU5tbDFsOEg4UjdmR0JiSWQzR2M2dlI5LW5UaE9QSjc4dGNHTlE1VExZc1AyNjNFQ0pGTnlPWEh0M2ZFemlPa1p3TG1mNzBoOU9QTXpCMXpESHhEVlNUUVNfQThWZVJN) — Google News China Entertainment · 2026-06-07 22:28 UTC
-- [潮流体能赛事DEKA走进冬奥场馆 文体明星跨界亮相 - 新浪财经](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONW1RcnV5M0dKSC13T1h0dTdWdjk1eEhyc09pRjltNzhnVmdoSk9DREFKcEZHY0dUajJELXhaTi16REwybnZ6VUVxMTd6TWNxc1g0WHh6SmxBQ0dkV2JFUm1pal9ZMW10ZzRTZTB6NFRqcTVfQ3h5aXVwbngydm1fQVNuWmNCVXF2RThXRnZiOVY1TXpVa0x3cUZuU2NVZjZibzc1aFE5b1l1eGNINTBPbjFES2RVQ1JKbVpxNHljMWlUMlpyZzZmUHAtbnRKcGxOZGVrRw) — Google News China Entertainment · 2026-06-07 15:24 UTC
+- [当戛纳大骂AI之际，中国影视公司正在驯化这个洪水猛兽 - 新浪网](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3o0QlFxY21zWnQzMkpvZGE1UFpiLXJfekI4cnBmZHExRUlkcDcwaGllc3o3d25UZGZWVFhwRDQtczY2Z0U3VUM3ZDlXTXFUZFdVSlA5Ujd5NVd5VjV6Q0U0eW5hdUxTTVNveU5PSmNfZlRhbHIzaC04ZVFKRlo1cQ) — Google News China Entertainment · 2026-06-08 05:01 UTC
+- [全能青年王鈊玥登陆戛纳！影视、体育、艺术、公益四栖绽放香港Z世代风采 - 中国娱乐网](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQNDFXbVhGVWp3Tzh5RlhHaW5kYkpWOUpQblhkaG5KSUZ3VDFWMzQzS3Y2ZUtxUkdjR1MwVm1MbjU3cFVzX3c0SnhGNjdmV2c1aVN2dnYyWHRMQVE) — Google News China Entertainment · 2026-06-08 03:38 UTC
+- [中国桐庐·富春江影视科技产教示范区AIGC高科技影视创制中心正式启航- 中国日报网 - China Daily](https://news.google.com/rss/articles/CBMie0FVX3lxTFB2a20temRMUWtHaFNjaU8xY3NKQWNqRzNleXl6RmZ2Q0VzWkVkaTVnR3Y5d2R2TFBWQ3l0VmJkTmhHN1JTaVhRRHF4TmJkYkR1QmZIRU1DUkwxaXNRcGpicE5oTk45VWltWmRfeGNJcy0zV01ueDZtaTV5TQ) — Google News China Entertainment · 2026-06-08 02:11 UTC
+- [NBA球星杰伦·布朗为什么要探班正在中国拍戏的演员王鹤棣，他们是怎么认识的？ - 新浪网](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU09GdDlUdnVSTTRTVHozQmF2MVd2WWVIV3k1OXpBclRfdC1iVHdyMEdFazFTdC13TzVrNlNzRXlrZEQ4V19PbWF6ckJmS2xxMUstZ1JmOExQUXVfai1QQW9TeW9xZFZkVTZLU0VjbXNuUDQ4SERxZEtuU3RVX0RYaA) — Google News China Entertainment · 2026-06-08 01:52 UTC
+- [LE SSERAFIM x ILLIT x KATSEYE将于12日发行合作曲 - 中国娱乐网](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUFZIY1VhSVlvRE9kNmZ1VzFZREdhVmpoOERuOWt4cF8xRG1oZEhLalZxNGtUWjBLdTBiMUZ4SC1vWHZGN0RuV05DdmNHUXl3WXZqV2YyNmpLRTA) — Google News China Entertainment · 2026-06-08 01:47 UTC
+- [明星冠军助阵！凯瑞麟杯GPCC粤港澳大湾区匹克球城市挑战赛正式开赛 - 中华网](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uSGh0SDA0S0ktYmhoZmJzVDYzVnpKanJPZG5RbUlqQllqSUJ0UE1ONHpCZUdGU3ZzMG1McENzb0NJNDlfRkZyZ0FWQndDREZJdUJxcUNHbE9aVVpfZXc) — Google News China Entertainment · 2026-06-08 01:45 UTC
 - [打造AIGC影视产业新高地！中国桐庐·富春江影视科技产教示范区AIGC高科技影视创制中心盛大启航 - 新浪财经](https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1FQTjNxeTRWUGQzV1B5WGFfUHdWTDBUeU1WYXI4bUlyNXJDVnBWZVZkcFlqM2dyWWRqcEtRZllMbThwY1RaWHJNSjRlWWRDZFFyTWJWTC1fVm1jRHRCcktGcVhIVU5RZXJneXRONjRidjkwSW1iR3JDN1MyT3R6Si1OR0E) — Google News China Entertainment · 2026-06-07 13:56 UTC
-- [桐庐·富春江影视科技产教示范区AIGC高科技影视创制中心启航 - 搜狐网](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXU4dnZIOU82QmE4bi1GcmtrT0NidFF5MTNrTnZRWDhGMTZnbjdRMGN0bGlzeWgycHBoNm50NnJzLUJ6Y2ZBNFpSQW1pUzZxYkhoSTFZckR6MEdIR2h0VU42eGJ0Mlp0Smh4b2hYczBvR2ZHQmphNll2NzNrZDRlbS1WS3oxUVNUZGFqbw) — Google News China Entertainment · 2026-06-07 12:37 UTC
-- [“香港电影展映·杭州站”启幕 光影为媒推动文化交流 - 新浪财经](https://news.google.com/rss/articles/CBMixAJBVV95cUxNY211dW55YS03VzJTN0NEcG9sQUZrWGVubkQzX1QzM1hzT25rNTJtTHY1R0N5enliRFU4aUtndjF5Y21ieDAtbDFIWjFmMUFxMTd5aU52YVN4c2tZdUpJMUFJaEJvc09oLXlWbWZaS29HQW5TN0xZLXo4Z2l4LTJ5T2p5eDZ1UDEwWS00RFB4dmFDT1BKc2Z3eENnMHk0UXRyRDEwUlpyazRPR3ByUGN6Q0hIS0ZfNWFGNnd6ckthMW04ZXhfYlFLV0JQWk9QQXVjNU12azdrdUhDZ0NzMUNDczQzZnVIYU9fcUJSWnkzbEd5TkE3V24wRV90NGN4eFJvWTdwLV9VdkE0S1ZpWXgtOEZ0QXFOZWdtTHFXbjRTY3ZNOENGd1RST0lXU2Y1UnEyUjYwVnBvWlpIbmVMZ1lvZF9oMGU) — Google News China Entertainment · 2026-06-07 09:23 UTC
+- [中国电影(SH600977)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FV1N2RU92dlJneXppMUxZZk5WTktzS2hEMzluaTAwV291NV95c2xJR0ViSlpvR1NGbVpJOXFtTDdUODQ) — Google News China Entertainment · 2026-06-07 13:08 UTC
 - [破解影视创作难题 华策在桐庐开启怎样的AI新实验？ - 潮新闻](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TRERXdVVXaEFqR2kyRmFSY1FGNkZiamVMT1h6bVoyRmUxUHZCTE5QeFktYW5CM0JCbWhOckQ2YjlhenRzWFBDaEN5V0ZoOTF2UTBZWXZvWQ) — Google News China Entertainment · 2026-06-07 09:00 UTC
-- [浙江布局AIGC高科技影视创制中心 重塑内容生产模式 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTRBMUZVeEg0UnFhV3l0Q0gtbFZFYmg1WGFhZFM1Tk9VYUU4UnM0V3RPdF8zSFBsNkVMeUoxMHp0R2xFN0lUbFBJRjRnd3lIRU8yazlqVV9RcnVlRjljWVpSQjdrUE5zc2NhelRJV2tLanA2RjZWWHJWbXpwZjBYeTI0ZnJWVElJ) — Google News China Entertainment · 2026-06-07 08:41 UTC
-- [探索“科普+泛娱乐”新赛道，上海科技馆“科奇星光嘉年华”璀璨开幕 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbERlT0pVeGI2UFgyNEV2VmkzTmItWFF6ZTR1anBtM0NJc25YMjdTU0ZBc0kxRU0ydXc5enJ2RFdJYXdFRjkxZWdfRV9uemZ1N2o1YVdwRWgtODZmRXpTcktLZ1hXTEtaUGZMRFFuMjNaeXNYSFo1LQ) — Google News China Entertainment · 2026-06-07 08:40 UTC
-- [为《哪吒2》漫威配乐，这支维也纳乐团要来中国了 - 新浪财经](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHNnU2ZPYURBMDhwTk9xY2RfV0FVb3RIMTQyT2FXd216NWh5cnIxbGZ3SnBWQXFBdGxocUx2VW5RQ3FmZXA4X0U0N09oRkFzZjZ6Y2FxUnp0N01oREJBOUQ4djczVFVpRGxPWVkyTGRVZFFhQkcxRkhIOWhMUzl2dFpZc04zb0t3Z2pB) — Google News China Entertainment · 2026-06-07 03:34 UTC
+- [經營14年 歌星薛之謙創辦的連鎖火鍋店全關 - 大纪元](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvTFRzN3p3MWJ3UnI2VlRxNzhTcmxfOFNYRkItbE5IRGlOeHRXTVhqSFRoTlFOaWhEM3lJM0ctNjVIREZ2WWM0Vlg4TjFfS0FRWVlGOFVCeEw5Zk5JMjlOQUY1aFTSAWRBVV95cUxQb0xUczd6dzFid1JyNlZUcTc4U3JsXzhTWEZCLWxOSERpTnh0V01YakhUaE5RTmloRDN5STNHLTY1SERGdlljNFZYOE4xX0tBUVlZRjhVQnhMOWZOSTI5TkFGNWhU) — Google News China Entertainment · 2026-06-07 08:53 UTC
+- [浙江布局AIGC高科技影视创制中心 重塑内容生产模式 - 搜狐网](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRU5XVnNpRXdXRU1CckhJSHVrYzZUTmFPWmtSTkFha25sOXlhVTBwZmJxU1VIY2xDb3lLWGRDTDU4N3pwM2x5Z195ZnllUkRkYm5BSVRSZ1hlblpwWGZWX1Z0c1ZZUUwxTTVuTVZpM3hOMzhod2g2XzVuZ2RKcnpNSUM5NE9UT1dsc3BIUGl6MTFudlpRMzJZelo1T0pod2h3) — Google News China Entertainment · 2026-06-07 08:41 UTC
 
 </details>
 
-## 欧美 · 42 条
+## 欧美 · 43 条
 
-第79届托尼奖成为今日欧美娱乐最大焦点，P!nk以飞行斗篷开场致敬经典，多部剧目获奖；同时A24恐怖片《Backrooms》票房破工作室纪录，验证了互联网IP的变现潜力。此外，FCC主席公开抨击被解雇的60 Minutes记者，媒体界的政治角力持续。
-- [托尼奖红毯与颁奖：P!nk主持开场秀融合《Lady Marmalade》和多部提名剧目](https://www.hollywoodreporter.com/lifestyle/arts/pink-2026-tony-awards-host-best-moments-1236616069/) Megan Thee Stallion、Neil Patrick Harris等客串。
-- [托尼奖历史性一刻：Qween Jean凭《Cats: Jellicle Ball》服装设计成为首位公开跨性别托尼奖得主](https://deadline.com/2026/06/tony-awards-qween-jean-becomes-1236949456/) 标志性进步。
-- [《Backrooms》全球票房2.12亿美元超越《Marty Supreme》，创A24影史新高](https://deadline.com/2026/06/box-office-backrooms-a24-record-1236942792/) 恐怖/超自然题材持续吸金。
-- [John C. Reilly自曝曾劝莱昂纳多拒演《泰坦尼克号》](https://deadline.com/2026/06/john-c-reilly-leonardo-dicaprio-titanic-boogie-nights-1236949383) 如果当时成功，影史将被改写。
+第79届托尼奖成为今日欧美娱乐焦点。80岁的[约翰·利思戈凭借《巨人》成为最年长话剧男主获奖者](https://deadline.com/2026/06/john-lithgow-oldest-winner-tony-award-lead-actor-in-a-play-1236949857/)，距他首座托尼奖已53年；Apple TV+的《Schmigadoon!》拿下最佳音乐剧，实现苹果“EGOT”里程碑（此前有纪录）——《Hollywood Reporter》详细报道了[其获奖意义](https://deadline.com/2026/06/schmigadoon-egot-apple-tv-tony-awards-1236949767/)。争议方面，[斯科特·鲁丁因霸凌指控离开行业后仍获最佳复排话剧奖](https://www.hollywoodreporter.com/lifestyle/arts/scott-rudin-wins-best-play-tony-awards-bullying-claims-1236616126/)但未到场，阿莉·路易·布尔兹吉在获奖感言中呼吁关注阿拉伯戏剧人与巴勒斯坦。此外，奥布瑞·普拉扎与男友克里斯托弗·阿伯特在红毯宣布怀孕。托尼奖的多元与分裂并存，显示百老汇面临社会议题与商业的拉扯。
 
-欧美市场今日由颁奖礼与票房纪录驱动，托尼奖展现了百老汇的包容性迭代，而A24凭借独立精神再次证明小成本恐怖片的大市场。
+<details><summary>信源 (43)</summary>
 
-<details><summary>信源 (42)</summary>
-
-- [FCC Chair Brendan Carr Blasts Scott Pelley As “Completely Out Of Touch” After Journalist Says His ‘60 Minutes’ Firing Came As A Surprise](https://deadline.com/2026/06/fcc-chair-brendan-carr-scott-pelley-60-minutes-firing-1236949675/) — Deadline · 2026-06-08 01:07 UTC
-- [Pink Kicks Off 2026 Tonys With “Lady Marmalade” Parody Boasting Megan Thee Stallion, Neil Patrick Harris and Dylan Mulvaney](https://www.hollywoodreporter.com/lifestyle/arts/pink-2026-tony-awards-host-best-moments-1236616069/) — The Hollywood Reporter · 2026-06-08 00:59 UTC
-- [Tony Awards: P!nk Leads Rousing ‘Lady Marmalade’ Opener With Megan Thee Stallion, Sara Chase, The Guy With A Cake, Whitney Leavitt & Cast Members From Broadway’s Finest – Read The Lyrics](https://deadline.com/2026/06/tony-awards-pink-opening-number-megan-thee-stallion-1236941818/) — Deadline · 2026-06-08 00:28 UTC
-- [FCC Chair Says Scott Pelley Is “Completely Out of Touch” for Not Anticipating ’60 Minutes’ Firing](https://www.hollywoodreporter.com/tv/tv-news/fcc-scott-pelley-completely-out-touch-60-minutes-firing-1236616025/) — The Hollywood Reporter · 2026-06-08 00:22 UTC
-- [L.A. Mayor Drama: Raman Bests Pratt In Latest Vote Count; Incumbent Bass Rival Still TBD As Feds Open Probe](https://deadline.com/2026/06/nithya-raman-spencer-pratt-la-mayor-race-latest-vote-count-1236949341/) — Deadline · 2026-06-08 00:05 UTC
-- [2026 Tony Awards: Winners List (Updating Live)](https://www.hollywoodreporter.com/lists/2026-tony-awards-winners-list/) — The Hollywood Reporter · 2026-06-07 23:52 UTC
-- [FCC Chairman Brendan Carr Slams Scott Pelley as ‘Completely Out of Touch’ For Claiming ’60 Minutes’ Firing Was a Surprise](https://variety.com/2026/tv/news/brendan-carr-scott-pelley-out-of-touch-60-minutes-firing-1236768975/) — Variety · 2026-06-07 23:35 UTC
-- [‘Backrooms’ At $212M+ WW Is A24’s Highest Grossing Movie Ever, Besting Timothée Chalamet’s ‘Marty Supreme’ – Sunday Box Office Update](https://deadline.com/2026/06/box-office-backrooms-a24-record-1236942792/) — Deadline · 2026-06-07 23:06 UTC
-- [‘Cats: Jellicle Ball’ Costume Designer Qween Jean Becomes First Openly Trans Tony Award Winner](https://deadline.com/2026/06/tony-awards-qween-jean-becomes-1236949456/) — Deadline · 2026-06-07 23:04 UTC
-- [2026 Tony Awards Red Carpet: Billy Crystal, Queen Latifah, Cole Escola, More Stars](https://www.hollywoodreporter.com/gallery/2026-tonys-red-carpet-looks-arrivals-1236615895/) — The Hollywood Reporter · 2026-06-07 23:01 UTC
-- [India’s ‘Peddi’ Faces Backlash Over Depiction Of Female Lead, Director Agrees To Modify Scenes — Specialty Box Office](https://deadline.com/2026/06/indie-film-box-office-peddi-controversy-female-lead-india-1236949376/) — Deadline · 2026-06-07 22:52 UTC
-- [Tony Awards Winners 2026 (Updating Live)](https://variety.com/2026/legit/news/tony-awards-winners-2026-full-list-1236765656/) — Variety · 2026-06-07 22:38 UTC
-- [John C. Reilly Remembers Trying To Convince Leonardo DiCaprio To Drop Out Of ‘Titanic’ Role For ‘Boogie Nights’: “It’s About A Boat That Sinks”](https://deadline.com/2026/06/john-c-reilly-leonardo-dicaprio-titanic-boogie-nights-1236949383/) — Deadline · 2026-06-07 22:25 UTC
-- [Lawsuit Looks to Shut Down Donald Trump’s ‘UFC Freedom 250’ Fight](https://variety.com/2026/tv/news/lawsuit-donald-trump-ufc-white-house-freedom-250-1236768945/) — Variety · 2026-06-07 22:22 UTC
+- [Hwang Jung Min And Zo In Sung’s New Film “HOPE” Confirms Premiere Date](https://www.soompi.com/article/1846164wpp/hwang-jung-min-and-zo-in-sungs-new-film-hope-confirms-premiere-date) — Soompi K-pop · 2026-06-08 04:28 UTC
+- [At 80, John Lithgow Becomes Oldest Winner Of Tony Award For Lead Actor In A Play, 53 Years After First Win](https://deadline.com/2026/06/john-lithgow-oldest-winner-tony-award-lead-actor-in-a-play-1236949857/) — Deadline · 2026-06-08 04:02 UTC
+- [Tonys Snubs and Surprises: Alden Ehrenreich Beats Tight Competition, Nathan Lane Loses for ‘Salesman’ and More](https://variety.com/2026/legit/awards/schmigadoon-best-musical-cinco-paul-apple-egot-tonys-1236768936/) — Variety · 2026-06-08 03:47 UTC
+- [‘Schmigadoon!’ Wins Best Musical at 2026 Tony Awards as ‘Liberation’ Wins Best Play](https://www.hollywoodreporter.com/lifestyle/arts/tonys-2026-recap-highlights-winners-1236616152/) — The Hollywood Reporter · 2026-06-08 03:45 UTC
+- [‘Love Island USA’ Season 8 Cast Revealed](https://www.hollywoodreporter.com/lists/love-island-usa-season-8-cast/) — The Hollywood Reporter · 2026-06-08 03:45 UTC
+- [‘Schmigadoon!’ Crowns Apple TV EGOT Feat With Best Musical Tony Award Win](https://deadline.com/2026/06/schmigadoon-egot-apple-tv-tony-awards-1236949767/) — Deadline · 2026-06-08 03:26 UTC
+- [John Oliver Jokes CBS News Fired Scott Pelley For “The Crime Of Being Too Cool In A Meeting”](https://deadline.com/2026/06/john-oliver-last-week-tonight-cbs-news-scott-pelley-firing-1236949860/) — Deadline · 2026-06-08 03:20 UTC
+- [Tony Awards 2026: ‘Book of Mormon’ Stars Josh Gad and Andrew Rannells Reprise Their Roles](https://www.hollywoodreporter.com/lifestyle/arts/book-of-mormon-15th-anniversary-tonys-2026-1236614737/) — The Hollywood Reporter · 2026-06-08 03:13 UTC
+- [2026 Tony Awards: Complete Winners List](https://www.hollywoodreporter.com/lists/2026-tony-awards-winners-list/) — The Hollywood Reporter · 2026-06-08 03:11 UTC
+- [Scott Rudin Wins Tony Award After Leaving Industry Due to Bullying Claims](https://www.hollywoodreporter.com/lifestyle/arts/scott-rudin-wins-best-play-tony-awards-bullying-claims-1236616126/) — The Hollywood Reporter · 2026-06-08 03:01 UTC
+- [Aubrey Plaza and Christopher Abbott Make Red Carpet Debut at 2026 Tony Awards After Announcing Pregnancy](https://www.hollywoodreporter.com/lifestyle/arts/aubrey-plaza-christopher-abbott-2026-tony-awards-pregnant-1236616080/) — The Hollywood Reporter · 2026-06-08 02:30 UTC
+- [Queen Latifah Sets up ‘Chicago’ 30th Anniversary Tonys Performance as Alex Newell and Pink Dazzle](https://www.hollywoodreporter.com/lifestyle/arts/chicago-30th-anniversary-tonys-2026-1236615114/) — The Hollywood Reporter · 2026-06-08 02:17 UTC
+- [Ali Louis Bourzgui Speaks up for Arab Theater Artists, Palestine in Passionate Tonys Speech](https://www.hollywoodreporter.com/lifestyle/arts/ali-louis-bourzgui-palestine-fascists-tonys-speech-1236616098/) — The Hollywood Reporter · 2026-06-08 02:07 UTC
+- [At 80, John Lithgow Makes Tony History as Oldest Male Acting Winner and Sets a 53-Year Record](https://variety.com/2026/legit/awards/john-lithgow-oldest-male-acting-tony-winner-giant-1236768997/) — Variety · 2026-06-08 02:04 UTC
 
 </details>
 
-## 日韩 · 11 条
+## 日韩 · 10 条
 
-韩国娱乐今日迎来多个回归与成绩新高：二代女团Secret结束12年空白期宣布回归，引发二代团粉丝集体怀旧；aespa凭借《LEMONADE》重返Billboard 200前十；TREASURE、tripleS等也刷新生涯首周销量。整体K-pop市场在6月迎来激烈回归潮。
-- [Secret时隔12年宣布回归，6月18日发行特别迷你专辑《Secret Flavor》](https://www.soompi.com/article/1846081wpp/watch-secret-announces-comeback-date-with-teaser-for-1st-return-in-12-years) 歌迷期待值拉满。
-- [aespa《LEMONADE》空降Billboard 200第9位，创自身3年来最佳成绩](https://www.soompi.com/article/1846054wpp/aespa-scores-first-top-10-album-on-billboard-200-in-3-years-as-lemonade-debuts) 同时登上世界专辑榜第2。
-- [TREASURE《NEW WAV》首周销量破百万，成为组合第二张百万专辑](https://www.soompi.com/article/1846042wpp/treasures-new-wav-becomes-their-2nd-album-to-sell-1-million-copies-in-1st-week) 巩固YG男团地位。
-- [JTBC新剧《Reborn Rookie》4集收视翻倍至7.9%](https://www.soompi.com/article/1846088wpp/reborn-rookie-more-than-doubles-its-ratings-in-just-4-episodes) 成为近期热门剧集。
+日韩板块以二代团回归和新生代势头为亮点。**[Secret宣布时隔12年回归](https://www.soompi.com/article/1846081wpp/watch-secret-announces-comeback-date-with-teaser-for-1st-return-in-12-years)**，将于6月18日发行特别迷你专辑《Secret Flavor》，引发怀旧热潮。IOI合体参加综艺《全知干预视角》录制，展现团体感情。新人女团MEOVV凭借《BITE NOW》创下自身最高首周销量，证明新生代吸金能力。剧集方面，**[《我的王室宿敌》连续两周登顶话题榜](https://www.soompi.com/article/1846064wpp/my-royal-nemesis-and-its-stars-top-most-buzzworthy-drama-and-actor-rankings)**；《Reborn Rookie》开播仅4集收视翻倍；金秀贤确认将拍摄菲律宾品牌广告，预示活动重启。韩流偶像回归潮与剧集热度同步回升，市场注意力争夺激烈。
 
-日韩板块今日呈现“老团复活+新团巩固”的格局，二代团回归热度不减，说明怀旧经济与粉丝忠诚度仍具强大商业价值。
+<details><summary>信源 (10)</summary>
 
-<details><summary>信源 (11)</summary>
-
+- [Kim Soo Hyun Confirmed To Shoot Advertisement For Philippine Brand](https://www.soompi.com/article/1846171wpp/kim-soo-hyun-confirmed-to-shoot-advertisement-for-philippine-brand) — Soompi K-pop · 2026-06-08 04:19 UTC
+- [Choi Dae Hoon And Yoon Kyung Ho Are On Edge Moments Before Their Meeting In New Drama “Agent Kim Reactivated”](https://www.soompi.com/article/1846101wpp/choi-dae-hoon-and-yoon-kyung-ho-are-on-edge-moments-before-their-meeting-in-new-drama-agent-kim-reactivated) — Soompi K-pop · 2026-06-08 03:03 UTC
+- [Watch: Lee Jun Hyuk Is On A Mission To Save Students Possessed By Evil Spirits In New Occult Drama “Excitatio” Teaser](https://www.soompi.com/article/1846103wpp/watch-lee-jun-hyuk-is-on-a-mission-to-save-students-possessed-by-evil-spirits-in-new-occult-drama-excitatio-teaser) — Soompi K-pop · 2026-06-08 01:50 UTC
 - [XBOX New Limited Edition X25 is Pure Nostalgia Gamers Will Love - Men's Journal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlp5NDc3bzl2ZlhZSFVTTGNtM2h4WkNmbnoza1AxNE45MThxaXVvXzZfSDB6TVBFSFJQeGRYMzJfQjNxYUVzLVpfeTZVR1ZnZlZvSGRYNW5GS29Pb1RnS2ZsUTNGM0pfN2h5em4yVXh1YnhnVUVPWTYwSkVNMFk3V1JhWmNNSTI1bnFBMGpMS3JmOUQ3VUZQZC1TVkYtNHRGemx5dThOX0M) — Google News Japan Korea Entertainment · 2026-06-08 00:40 UTC
 - [“Reborn Rookie” More Than Doubles Its Ratings In Just 4 Episodes](https://www.soompi.com/article/1846088wpp/reborn-rookie-more-than-doubles-its-ratings-in-just-4-episodes) — Soompi K-pop · 2026-06-08 00:14 UTC
 - [Watch: Seo In Guk Falls For A Jaded Park Ji Hyun In “See You At Work Tomorrow!” Teaser](https://www.soompi.com/article/1846085wpp/watch-seo-in-guk-falls-for-a-jaded-park-ji-hyun-in-see-you-at-work-tomorrow-teaser) — Soompi K-pop · 2026-06-07 23:59 UTC
@@ -93,37 +79,27 @@
 - [Watch: I.O.I Goes On A Trip Together After Their Reunion Concert In “The Manager” Preview](https://www.soompi.com/article/1846077wpp/watch-i-o-i-goes-on-a-trip-together-after-their-reunion-concert-in-the-manager-preview) — Soompi K-pop · 2026-06-07 22:12 UTC
 - [“My Royal Nemesis” And Its Stars Top Most Buzzworthy Drama And Actor Rankings](https://www.soompi.com/article/1846064wpp/my-royal-nemesis-and-its-stars-top-most-buzzworthy-drama-and-actor-rankings) — Soompi K-pop · 2026-06-07 20:48 UTC
 - [MEOVV Achieves Their Highest 1st-Week Sales Yet With “BITE NOW”](https://www.soompi.com/article/1846063wpp/meovv-achieves-their-highest-1st-week-sales-yet-with-bite-now) — Soompi K-pop · 2026-06-07 20:19 UTC
-- [aespa Scores First Top 10 Album On Billboard 200 In 3 Years As “LEMONADE” Debuts](https://www.soompi.com/article/1846054wpp/aespa-scores-first-top-10-album-on-billboard-200-in-3-years-as-lemonade-debuts) — Soompi K-pop · 2026-06-07 19:45 UTC
-- [TREASURE’s “NEW WAV” Becomes Their 2nd Album To Sell 1 Million Copies In 1st Week](https://www.soompi.com/article/1846042wpp/treasures-new-wav-becomes-their-2nd-album-to-sell-1-million-copies-in-1st-week) — Soompi K-pop · 2026-06-07 19:24 UTC
-- [tripleS Breaks Their 1st-Week Sales Record With “LOVE & POP” pt.1](https://www.soompi.com/article/1846043wpp/triples-breaks-their-1st-week-sales-record-with-love-pop-pt-1) — Soompi K-pop · 2026-06-07 18:58 UTC
-- [LE SSERAFIM, CORTIS, TXT, xikers, ITZY, BTS, ILLIT, ENHYPEN, Stray Kids, And More Sweep Top Spots On Billboard World Albums Chart](https://www.soompi.com/article/1845948wpp/le-sserafim-cortis-txt-xikers-itzy-bts-illit-enhypen-stray-kids-and-more-sweep-top-spots-on-billboard-world-albums-chart) — Soompi K-pop · 2026-06-07 16:30 UTC
 
 </details>
 
 ## 微博社区动态 · 12 条
 
-微博今日热搜呈娱乐与争议交织态势：黄子韬因牙医偷拍事件公开怒斥，引发隐私边界讨论；《乘风破浪》未提及李心洁引粉丝不满；蔡明与曾沛慈同天生日的暖心互动冲上热搜第一；而炎亚纶与时代少年团被强行关联高考作文的#热搜#则遭网友吐槽“押题乱象”。
-- [黄子韬发文怒斥牙医偷拍行为，未经同意私自散播](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHd5ZV9ZbG5WMFkwTGw3NUJNMEZTT2dwT3BxczZpZklNRi1RTGMxWGpUSkxscHBOZ0pRVnZma1lob3ZTV0cyZ09iUE0tR1UzZU9CWng2YnhCZHhOSDNVdnJvOUI5bWozalZYaHRTRDlQMUFyQmk0al8zVHpPdjU5WlpiU3gzUF9Y) 明星维权引发公众共鸣。
-- [#浪姐没念李心洁热搜# 节目组遗漏介绍引粉丝不满](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LUGhFd0JPeWhLZlpUd2RhcFVYcXFLTUR3VGZDZi1YVF95ZmpMa1VJcWFhZ1R6c1E1cHVHRTZXWGpRcHh5elJOZEV2Z21ZQWNDdUgwM24wb0JLQ0wxNmFkMG1oaw) 后续节目组暂未回应。
-- [蔡明曾沛慈生日同天，暖心约定“每年都要互祝生日快乐”登顶热搜](https://news.google.com/rss/articles/CBMic0FVX3lxTE9HTGZ2R2F3ZEkxeHU1aHV1aURQOGZLYVRlY24zbC1LS0RFRDgxYnRMbnI2MDJvSDZZQzhqV0pSbXhBY3FURGpTS2dfU1lRZzdLb1QyTURQR1JqdERfV3RhRFVKY0pkbzE1bjNRTVBSWDdjWU0) 跨越代际的温情互动。
-- [#炎亚纶 高考作文##时代少年团 高考作文# 网友质疑热搜为刻意蹭热度](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WRC1jb1BYaWFZOEg0Q3NGdjlMSlB6UVFDek5wQ3JrR0hqemhkQWo1eVBBaU5xbTNDWVRHQkk0MzVlLTdmMnVJR093UVRHLUxSaUtmUTFLd21QZXF6Q0dweF9xTQ) 引发对微博热搜算法与运营的讨论。
-
-微博社区的真实声音往往比技术新闻更反映大众情绪，今日明星与粉丝的冲突、暖心事件以及热搜乱象并存，折射出社交媒体娱乐生态的多元与脆弱。
+微博社区今日情绪复杂。财经类热词“**[中产破产七件套](https://news.google.com/rss/articles/CBMiX0FVX3lxTE56cjRwWDdmaHJkSnFpT1RQYWdMNmtqRjZEYjcwN1VWVDYyMDJEUEViS2ZTaWxaazMxMzVDSl9IRmlUVUpSXzBvSUVKN3ZELW1ieVVPMnd5cUYyd19RODFJ0gFkQVVfeXFMUGVFdjI5TndWLUgzQ2hyLXRic2x6R0lGcnhtazBvOTUyTlpFbno1Mk5PWVFwdU9tTGRpdDFqSHJlaXdtNFhrNXFBcy1WOG4xTHZMamJNdGZNcFVuTWh1QnluV0lOYw)**”引发广泛共鸣，折射大众对经济下行的焦虑。娱乐向热搜方面：关晓彤与李昀锐在《你好星期六》的互动细节被热议；蔡明与曾沛慈同日生日互送祝福登上热搜第一；黄子韬发文怒斥牙医偷拍；贺峻霖俄罗斯行程营业活跃；陈都灵与周翊然二搭现偶呼声高。此外，高考作文押题热搜（#炎亚纶 高考作文#、#时代少年团 高考作文#）被网友质疑“押题押在哪”，显示粉丝文化渗透教育话题的争议性。总体来看，微博热搜呈现娱乐八卦与经济焦虑并存的两极化，反映公众注意力的碎片化。
 
 <details><summary>信源 (12)</summary>
 
+- [【翻墙必看】大陆“中产破产七件套”引共鸣| 引发共鸣 - 大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRlp6VzVTTTdpVERnYnpmYkhpZnE5d3p6dy13ZXhhdWNKVzBpWjVVQUIxazNLd1FCWDFEX0J5UlFtOVVCSW9NVXFsTVdkc1hJWDU2cW9CbUlyN0psWFFV) — 微博社区动态 · 2026-06-08 05:01 UTC
+- [关晓彤与李昀锐在《你好星期六》综艺中有哪些被热议的互动细节？ - 新浪网](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHVnbk5SMlRGU29lSVdrc1IzUHowM0hLandMZ1BqanlQQ2U5OGxndE56bWdHVHU3SVpZaFNsb1hmM054YlJyTGlHTTA3LTlKOWNoRm9tenIxdHhRWVF1VGVhOHBReGNRQmFQT3NlNWhKaHVrMllqZ05zMkJ2Nm5obWpoQ0RCNlNKYXYyMWlyNnhVRVVUTXR4cXF4bnVBNUQ1TVhONTJxUjdZQQ) — 微博社区动态 · 2026-06-08 04:43 UTC
+- [25家媒体发白鹿_新浪新闻 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1teHpORGM3bE9ucUNnallVXzZ1MnNBWkRqOVB0c0hoTmMtOWFwMU4xaFVrbVZRNVl5cTdEa3NzUWNjd2NWS1lpVkhIRDdyOUlLMzhXZEZvTlJYZnRvUUpZTVBqWQ) — 微博社区动态 · 2026-06-08 04:37 UTC
+- [兹维列夫法网夺冠终结纳达尔玩梗时代 - 新浪网](https://news.google.com/rss/articles/CBMid0FVX3lxTE5meFVQNVJVY0hvWjRicktjeFJZRFA0aHl4WGU0eDF3OWVYR0ZZZmVYcEdTZXIwbUZLLVZqTk1nUTVqTXFVX014ajY5eU40ellMSGVvd0I2LXVkTjB3cTBEMTZLeUNFT3M4bDlOV3pBUzA4Q283Vnlr) — 微博社区动态 · 2026-06-08 02:50 UTC
+- [热搜第一！蔡明曾沛慈生日同天，暖心约定“每年都要互祝生日快乐” - 新浪网](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVnZyNU0tUExCMGJkVi1qU2t3dnlrN3ZEWUNHUmRaaTFHek14bEhuZ25OZ3dpMmtJMUpRVXVYT0xUdTRCOXdxVVdZYlhJU3ZHaVJ0X001U0VkSkRXVzk5Z3hiNzRWRF9qSG4ySEFlS2M3LWlZUk5xZTJPQ2N0U1liVHlVMndGZHNpeGdvek1OZzdhLXpieHFQeDA2MDNXV1dDVENzRTg1ZVZqLWQ3TXNjVERjdkppMzFxaXRDMzBKb001OVlCYkE1Z3NBQXpSb29WbWRKVDNuUDNiUWZSYjFrQlVmaW5hV0hrVXc) — 微博社区动态 · 2026-06-07 20:57 UTC
 - [中國經濟下行「中產破產七件套」成網絡熱詞 - 大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE56cjRwWDdmaHJkSnFpT1RQYWdMNmtqRjZEYjcwN1VWVDYyMDJEUEViS2ZTaWxaazMxMzVDSl9IRmlUVUpSXzBvSUVKN3ZELW1ieVVPMnd5cUYyd19RODFJ0gFkQVVfeXFMUGVFdjI5TndWLUgzQ2hyLXRic2x6R0lGcnhtazBvOTUyTlpFbno1Mk5PWVFwdU9tTGRpdDFqSHJlaXdtNFhrNXFBcy1WOG4xTHZMamJNdGZNcFVuTWh1QnluV0lOYw) — 微博社区动态 · 2026-06-07 15:47 UTC
-- [四川九寨溝國道發生車禍 麵包車上6人全亡 - 大纪元](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BUXE3ZndQSldfbXhxRVU3ajloNE1vTE5hb1k0TkQ1emRVM2FYZnljTGF1bjNscXZpczJJM01NT3ZZUElrY283ZkJnODZmR05JczQyRlMxZXdscHhuc3hPVHl2NEvSAWRBVV95cUxOQVFxN2Z3UEpXX214cUVVN2o5aDRNb0xOYW9ZNE5ENXpkVTNhWGZ5Y0xhdW4zbHF2aXMySTNNTU92WVBJa2NvN2ZCZzg2ZkdOSXM0MkZTMWV3bHB4bnN4T1R5djRL) — 微博社区动态 · 2026-06-07 14:40 UTC
-- [浪姐没念李心洁热搜_新浪新闻 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LUGhFd0JPeWhLZlpUd2RhcFVYcXFLTUR3VGZDZi1YVF95ZmpMa1VJcWFhZ1R6c1E1cHVHRTZXWGpRcHh5elJOZEV2Z21ZQWNDdUgwM24wb0JLQ0wxNmFkMG1oaw) — 微博社区动态 · 2026-06-07 14:14 UTC
-- [热搜第一！蔡明曾沛慈生日同天，暖心约定“每年都要互祝生日快乐” - 新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTE9HTGZ2R2F3ZEkxeHU1aHV1aURQOGZLYVRlY24zbC1LS0RFRDgxYnRMbnI2MDJvSDZZQzhqV0pSbXhBY3FURGpTS2dfU1lRZzdLb1QyTURQR1JqdERfV3RhRFVKY0pkbzE1bjNRTVBSWDdjWU0) — 微博社区动态 · 2026-06-07 13:52 UTC
 - [黄子韬发文怒斥牙医：偷拍行为，未经同意私自散播 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHd5ZV9ZbG5WMFkwTGw3NUJNMEZTT2dwT3BxczZpZklNRi1RTGMxWGpUSkxscHBOZ0pRVnZma1lob3ZTV0cyZ09iUE0tR1UzZU9CWng2YnhCZHhOSDNVdnJvOUI5bWozalZYaHRTRDlQMUFyQmk0al8zVHpPdjU5WlpiU3gzUF9Y) — 微博社区动态 · 2026-06-07 13:42 UTC
-- [高考包场_新浪新闻 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pNGhGYlBrOHNPZXNLYjQ1cUxqTmk3UlNWYmtEQUZodkpxbFZHTmxERkpfYmVQU1J0R2cwaTVmMGJGUTIybTVjSmwzSTVXUVdBZ2lnUzQ1bmxGbkczSFpONmhZVQ) — 微博社区动态 · 2026-06-07 12:58 UTC
-- [好懵吧我咋热搜三十八了[泪奔] ​ - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tTjRQZGlvTVdUeW16OGxTNFIwcEdCelR5TElvMUtqX1FNSnNKTkY4b0FRNWtWVS1FcW9pcTAxQTE2M3B3bmVneGJxRnNPZERXakh4TDVtSWZRelh3TnBIblgyNA) — 微博社区动态 · 2026-06-07 11:56 UTC
-- [贺峻霖俄罗斯行程爆笑营业，粉丝全网寻找“开心催化剂” - 新浪财经](https://news.google.com/rss/articles/CBMifkFVX3lxTE9sTUJ3akQ1ZkVVWVFiTHQ4dXBFb3RYalZXdjRWY3JHM0tSQmxJdzEzWF9jQksxbXktQXE4MDVpS1RBUHcxNHNtcnJmWUZQckUwRGdvaWlmbmQyaFJreG12NnNlNExpc1luYnhQamNuNk05RjBlb2doU09UTlBKdw) — 微博社区动态 · 2026-06-07 10:41 UTC
-- [网上催促陈都灵和周翊然二搭现偶的呼声具体有多高？ - 新浪财经](https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0lFYW8xQ2V4SzY1X2FXbXozanFNSHNyZVZOOWwxNVZveFNXQVlWRGsybHNQLWRWbXBZUng5NmpLY1lNRTRaMWpTSGx2ZDZ0VDRjc2ZSWHBHcTZETmFabVQydGZDZ3JsSUN5clZ0X20yakJDTy1uS2tuME1hdm53LXVrUGs) — 微博社区动态 · 2026-06-07 10:41 UTC
+- [热搜简报截图_新浪新闻 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KekRlcjVTeGM2Q19RdGxyRVE2NUZhNXhkWnN3ZFNDLVhqOUs5T25YUkdUaUlPbHYzNEpiNHZOeUExRGVaOEpiam5hcUloTXpBTlNDd3EtdElnUTYxTHVHSWxpTQ) — 微博社区动态 · 2026-06-07 11:39 UTC
+- [贺峻霖俄罗斯行程爆笑营业，粉丝全网寻找“开心催化剂” - 新浪网](https://news.google.com/rss/articles/CBMifkFVX3lxTFBtTTZiRDk0UE5Nc01LRDg4NFJTRXV0bkNQYTQ2RHRiaXQ0RE90Rjh4dzFkYXJVc1FsN0JiSlJQUkxRM3BDdERCb3RwOE9nbHBzemtqT1RENVIxZl9IUUVNYlgzRWwzX3hPOElyanA3VkFsZ0YxcTJ1NW5xWXdFUQ) — 微博社区动态 · 2026-06-07 10:47 UTC
+- [网上催促陈都灵和周翊然二搭现偶的呼声具体有多高？ - 新浪财经](https://news.google.com/rss/articles/CBMifkFVX3lxTE5KcTI0amY4NUd3eVBnT0tQa1ZQYy16NndnUmRsVVZsWmIzTDY2ZVE4ZTA4UXhwYVlXWXVfV1A2TUJ0OXA5TUNQaTRGdVg1azJTcF9kLU1jalduZkNVbkFMQTJXTnhKME5Iemc1eDFHUF9QN1JXQU9qeDF1cm9iQQ) — 微博社区动态 · 2026-06-07 10:41 UTC
 - [新华社力挺白鹿_新浪新闻 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XLTA3eUZObUJ1eDdMYWVTcXhsaVFfci1sQkxCLTVxdzJsU292UWdhR09XT1luaWMtT3hJZ3Z2ek9WY3FtWGNXZDM5WVlvNWZhM0RQT0NpM0hyN1BlTUcxbUtPSQ) — 微博社区动态 · 2026-06-07 10:05 UTC
 - [请问这两个热搜认真的吗，押题押在哪？[费解] #炎亚纶 高考作文##时代少年团 高考作文# ​ - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WRC1jb1BYaWFZOEg0Q3NGdjlMSlB6UVFDek5wQ3JrR0hqemhkQWo1eVBBaU5xbTNDWVRHQkk0MzVlLTdmMnVJR093UVRHLUxSaUtmUTFLd21QZXF6Q0dweF9xTQ) — 微博社区动态 · 2026-06-07 08:49 UTC
-- [蛋價淡季罕見暴漲近八成 背後是產能斷層危機 - 大纪元](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JdGx2UzNjTVpUaDJNTTBNMzBIcW1hMzRVaDViZjlNUGdGWmxoN0hMSDlOUGZBcWFBUTRCRWswSTgyT1dlNHk4QW1MNkVMS0FjLTZMNy1mSmVVYW5DY29SM3Rtc2PSAWRBVV95cUxPSXRsdlMzY01aVGgyTU0wTTMwSHFtYTM0VWg1YmY5TVBnRlpsaDdITEg5TlBmQXFhQVE0QkVrMEk4Mk9XZTR5OEFtTDZFTEtBYy02TDctZkplVWFuQ2NvUjN0bXNj) — 微博社区动态 · 2026-06-07 08:02 UTC
 
 </details>
 
