@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "伊朗导弹袭击以色列，油价应声上涨",
+      "美股周五大幅收跌，芯片股领跌",
+      "日经225大跌4%，MSCI亚太跌3%",
+      "欧央行面临滞胀困境，联合发债呼声再起",
+      "同花顺商品期货全线暴跌，银锡金铜大跌"
+    ],
+    "news-society": [
+      "伊朗首次向以色列发射导弹，停火破裂",
+      "以色列空袭贝鲁特郊区报复真主党",
+      "日韩股市受中东紧张及加息预期暴跌",
+      "日韩举行8年来首次联合搜救演习",
+      "中国1290万考生参加高考，AI议题热议"
+    ],
+    "news-military": [
+      "伊朗发射弹道导弹攻击以色列北部",
+      "美军打击伊朗沿海雷达站，拦截船只",
+      "五角大楼内部恐慌，战争可能超预期",
+      "外媒敦促中国加快航母舰队升级",
+      "解放军宣布对台湾海峡实施全面军事管辖"
+    ],
+    "news-tech": [
+      "微软Xbox独占《战争机器：E-Day》，放弃多平台",
+      "《女神异闻录6》正式公布，2027年发售",
+      "OpenAI推出“锁定模式”防御提示注入攻击",
+      "AI领袖联名支持DNA筛选作为生物安全关卡",
+      "通用汽车豪掷9亿美元押注电动汽车电池"
+    ],
+    "news-sports": [
+      "丹麦埃里克森友谊赛中倒地，已恢复意识",
+      "葡萄牙莱奥拳击对手被红牌罚下",
+      "西班牙亚马尔和威廉姆斯因伤缺阵热身",
+      "特朗普观赛致NYPD取消场外派对",
+      "加拿大新星赖浩俊首夺超级1000赛冠军"
+    ],
+    "news-entertainment": [
+      "托尼奖诞生首位公开跨性别获奖者",
+      "A24《Backrooms》全球票房破2.12亿美元",
+      "韩国二代女团Secret时隔12年宣布回归",
+      "桐庐AIGC影视创制中心正式启航",
+      "黄子韬怒斥牙医偷拍散播视频"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Iran missiles hit Israel, oil prices surge.",
+      "US jobs data fuels rate-hike fears.",
+      "Tech stocks sell off on Friday.",
+      "Hang Seng falls over 1%.",
+      "MSCI Asia Pacific drops 3%."
+    ],
+    "news-society": [
+      "Iran attacks Israel after Beirut strike.",
+      "Trump calls for restraint.",
+      "Japan and South Korea resume naval drills.",
+      "12.9 million take Gaokao exam.",
+      "Fan anger over US travel bans."
+    ],
+    "news-military": [
+      "Iran launches ballistic missiles at Israel.",
+      "US strikes Iranian radar sites.",
+      "Pentagon fears drawn-out conflict.",
+      "China urged to accelerate carrier upgrades.",
+      "Ukraine drone war intensifies, nuclear site hit."
+    ],
+    "news-tech": [
+      "Xbox confirms Gears of War exclusive.",
+      "Persona 6 teased with graveyard visuals.",
+      "AI leaders back DNA screening for biosecurity.",
+      "OpenAI launches Lockdown Mode.",
+      "Summer Game Fest gaming announcements."
+    ],
+    "news-sports": [
+      "Eriksen conscious after collapsing on pitch.",
+      "Florentino Pérez re-elected as Madrid president.",
+      "Iran player criticizes FIFA over visas.",
+      "Yamal and Williams out of Spain warmup.",
+      "World Cup predictions released."
+    ],
+    "news-entertainment": [
+      "P!nk hosts Tony Awards with star-studded opener.",
+      "Backrooms becomes A24's highest-grossing film.",
+      "Qween Jean wins historic Tony.",
+      "China's AIGC film hub launches.",
+      "Secret announces first comeback in 12 years."
+    ]
+  }
+}
