@@ -2,9 +2,24 @@ name: Daily news digest
 
 on:
   schedule:
-    # 09:00 Asia/Shanghai = 01:00 UTC
-    - cron: "0 1 * * *"
-  workflow_dispatch: {}
+    # GitHub cron is best-effort and routinely delayed/skipped during peak load.
+    # Avoid the top of the hour (xx:00 UTC) — that is when most public repos
+    # schedule jobs, causing the largest queue delays. Use off-peak minutes.
+    # We schedule multiple times per day; later runs short-circuit when the
+    # day's digest already exists, so they act as fallbacks only if an earlier
+    # run was skipped or failed.
+    # 09:17 Asia/Shanghai = 01:17 UTC (primary)
+    - cron: "17 1 * * *"
+    # 12:37 Asia/Shanghai = 04:37 UTC (fallback 1)
+    - cron: "37 4 * * *"
+    # 15:47 Asia/Shanghai = 07:47 UTC (fallback 2)
+    - cron: "47 7 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Regenerate even if today's digest already exists"
+        required: false
+        default: "false"
 
 permissions:
   contents: write
@@ -37,33 +52,72 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
+
+      - name: Compute today (Asia/Shanghai)
+        id: today
+        run: |
+          STAMP=$(date +"%Y-%m-%d")
+          echo "stamp=$STAMP" >> "$GITHUB_OUTPUT"
+          echo "Today (CST) = $STAMP"
+
+      - name: Skip if today's digest already exists
+        id: guard
+        run: |
+          FORCE="${{ github.event.inputs.force }}"
+          STAMP="${{ steps.today.outputs.stamp }}"
+          TARGET="digests/$STAMP/news-data.json"
+          if [ "$FORCE" = "true" ]; then
+            echo "Force regenerate requested."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          elif [ -f "$TARGET" ]; then
+            echo "Digest already exists at $TARGET — fallback run will exit successfully."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No digest yet for $STAMP — proceeding."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Setup pnpm
+        if: steps.guard.outputs.skip != 'true'
         uses: pnpm/action-setup@v4
         with:
           version: 9.15.9
 
       - name: Setup Node.js
+        if: steps.guard.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: pnpm
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         run: pnpm install --frozen-lockfile
 
-      - name: Debug env (non-secret)
+      - name: Generate daily digest (with retries)
+        if: steps.guard.outputs.skip != 'true'
         run: |
-          echo "LLM_PROVIDER=[$LLM_PROVIDER]"
-          echo "OPENAI_BASE_URL=[$OPENAI_BASE_URL]"
-          echo "OPENAI_MODEL=[$OPENAI_MODEL]"
-          echo "OPENAI_API_KEY length=${#OPENAI_API_KEY}"
-          echo "OPENAI_API_KEY prefix=$(printf %.6s "$OPENAI_API_KEY")"
-
-      - name: Generate daily digest
-        run: pnpm daily
+          set +e
+          for attempt in 1 2 3; do
+            echo "::group::pnpm daily — attempt $attempt"
+            pnpm daily
+            code=$?
+            echo "::endgroup::"
+            if [ $code -eq 0 ]; then
+              echo "Succeeded on attempt $attempt."
+              exit 0
+            fi
+            echo "Attempt $attempt failed with exit code $code."
+            if [ $attempt -lt 3 ]; then
+              sleep $((attempt * 30))
+            fi
+          done
+          echo "All 3 attempts failed."
+          exit 1
 
       - name: Commit and push if changed
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -72,6 +126,19 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          STAMP=$(date -u +"%Y-%m-%d")
+          STAMP="${{ steps.today.outputs.stamp }}"
           git commit -m "chore(daily): digest for ${STAMP} [skip ci]"
-          git push origin HEAD:main
+          # Pull with rebase to avoid non-fast-forward push when the remote
+          # advanced between checkout and push (rare, but possible with
+          # overlapping fallback runs or manual commits).
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin main || true
+            if git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; will retry."
+            sleep $((attempt * 10))
+          done
+          echo "Failed to push after 3 attempts."
+          exit 1
