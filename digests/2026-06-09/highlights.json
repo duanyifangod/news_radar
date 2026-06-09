@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美股反弹但BofA警告科技股集中风险",
+      "OpenAI秘密提交IPO，AI竞赛白热化",
+      "五角大楼将阿里、百度、比亚迪列入军事清单",
+      "欧洲央行本周料加息",
+      "中国低价进口石油抑制布伦特原油"
+    ],
+    "news-society": [
+      "伊朗以色列暂停攻击但保留报复权利",
+      "韩国半导体抛售致股市暴跌8%",
+      "菲律宾7.8级地震至少35人死亡",
+      "亚美尼亚亲西方政府赢得选举",
+      "韩国GNI被台湾和日本超越"
+    ],
+    "news-military": [
+      "伊朗与以色列短暂交火后暂停攻击",
+      "法德下一代战斗机项目因分歧终止",
+      "北约阵风战机击落侵入拉脱维亚无人机",
+      "美军硫磺岛号返航，罗斯福号领衔RIMPAC",
+      "胡塞武装禁止以色列船只在红海通行"
+    ],
+    "news-tech": [
+      "Factorial固态电池上市，Donut Lab骗局曝光",
+      "比亚迪腾势Z和Da Han双旗舰冲击欧洲",
+      "中国电动车普及预计避免26.2万人过早死亡",
+      "OpenAI秘密提交IPO，紧随Anthropic",
+      "苹果iOS 27仅支持iPhone 11及以上机型"
+    ],
+    "news-sports": [
+      "埃里克森心脏骤停24小时后出院",
+      "索马里裁判被拒入境无缘世界杯",
+      "特朗普成首位现场观赛NBA总决赛总统",
+      "尼克斯主场票价因总决赛飙升",
+      "中国球员林葳签约NCAA北卡大学"
+    ],
+    "news-entertainment": [
+      "特朗普在NBA总决赛遭纽约主场狂嘘",
+      "独立电影《Obsession》全球票房2.25亿美元",
+      "真人秀明星Pratt败选洛杉矶市长初选",
+      "《60分钟》记者称裁员是最艰难经历",
+      "Jason Momoa退出索尼《Helldivers》电影"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "OpenAI confidentially files for IPO",
+      "Pentagon blacklists Alibaba and Baidu",
+      "Hang Seng hits two-month low",
+      "Asian markets tumble on geopolitical risks",
+      "ECB expected to hike rates this week"
+    ],
+    "news-society": [
+      "Israel-Iran ceasefire under strain",
+      "Philippines earthquake kills 35",
+      "South Korea and Japan resume naval drills",
+      "Kospi plunges 8% on tech selloff",
+      "President Xi visits North Korea"
+    ],
+    "news-military": [
+      "Air Force One gets Trump's paint job",
+      "Franco-German fighter project collapses",
+      "US helped defend Israel from Iran attack",
+      "Iwo Jima completes deployment",
+      "KC-135 tanker gets new antenna"
+    ],
+    "news-tech": [
+      "OpenAI files for IPO",
+      "Apple unveils AI features at WWDC",
+      "Solid-state EV battery milestone reached",
+      "Pentagon updates military support list",
+      "macOS 27 drops Intel Mac support"
+    ],
+    "news-sports": [
+      "Eriksen recovering after collapse",
+      "Neymar shows progress on calf injury",
+      "Timber ruled out of World Cup",
+      "USMNT's Richards returns to training",
+      "Somali referee denied US entry"
+    ],
+    "news-entertainment": [
+      "Trump booed at NBA Finals",
+      "Spencer Pratt loses LA mayoral race",
+      "Film 'Obsession' sets festival record",
+      "Wang Hedi hosts NBA star Jaylen Brown",
+      "K-pop acts aespa and LE SSERAFIM chart"
+    ]
+  }
+}
