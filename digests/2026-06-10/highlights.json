@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突升级，油价冲高后回落。",
+      "AI股分化：Anthropic发布新模型，Super Micro暴跌。",
+      "中国5月PPI创近四年新高，成本压力上升。",
+      "五角大楼将阿里、百度、比亚迪等列入黑名单。",
+      "欧洲央行陷加息与衰退两难，市场定价加息。"
+    ],
+    "news-society": [
+      "美伊在霍尔木兹海峡交火，直升机被击落。",
+      "全球武装冲突水平创二战以来新高。",
+      "法国11岁女童遇害案引全国抗议司法失职。",
+      "韩国总统尹锡悦要求日本就殖民史真诚道歉。",
+      "习近平结束对朝鲜国事访问，未提无核化。"
+    ],
+    "news-military": [
+      "伊朗击落美军AH-64，特朗普下令报复空袭。",
+      "无人艇首次完成战斗搜救，救援坠海飞行员。",
+      "乌克兰AI无人机深入打击俄军后方物流节点。",
+      "日本在南鸟岛部署导弹发射器，中国强烈反应。",
+      "美国扩大“中国军事企业清单”，技术封锁升级。"
+    ],
+    "news-tech": [
+      "德国法院裁定Google对AI生成内容承担法律责任。",
+      "Anthropic发布Claude Fable 5，被曝可能破坏竞品。",
+      "Apple WWDC宣布可调用第三方大模型，Siri AI实测。",
+      "美国太阳能+储能Q1新增电力占比91%，首超煤炭。",
+      "比亚迪5分钟超快充欧洲上线，并承担自动驾驶事故责任。"
+    ],
+    "news-sports": [
+      "英格兰女足3-0胜乌克兰仍错失自动晋级世界杯。",
+      "马尔科·席尔瓦同意接替穆里尼奥执教本菲卡。",
+      "皇马1.3亿镑报价阿尔瓦雷斯，马竞嘲讽拒绝。",
+      "羽毛球泰国公开赛石宇奇对阵金廷焦点战。",
+      "CBA怀特塞德当选历史首位外籍最佳防守球员。"
+    ],
+    "news-entertainment": [
+      "泰勒·斯威夫特在《玩具总动员5》首映式绝密献唱。",
+      "李宰旭在军队服役期间宣布以歌手身份出道。",
+      "孔孝真新剧饰演工作母亲杀手，选角获关注。",
+      "黄晓明回应“博士上岸”热搜，明星学历内卷。",
+      "DGA与制片厂达成四年临时协议，诺兰主导。"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "U.S. launches fresh strikes on Iran",
+      "Oil markets rally choppily",
+      "AI stocks swing on Super Micro plunge",
+      "China's May PPI hits near-four-year high",
+      "Pentagon blacklists Alibaba, BYD, Baidu"
+    ],
+    "news-society": [
+      "US Apache downed over Strait of Hormuz",
+      "Global conflict levels hit postwar record",
+      "Trump vows response to Iran attack",
+      "Iran warns Israel against Hezbollah strikes",
+      "Asian stocks slide, oil gains"
+    ],
+    "news-military": [
+      "U.S. strikes Iran after Apache downing",
+      "Drone boat rescues Apache crew",
+      "Israel dismantles parts of Iran's air defense",
+      "Unmanned systems reshape combat SAR",
+      "Indo-Pacific tensions escalate"
+    ],
+    "news-tech": [
+      "German court holds Google liable for AI",
+      "Microsoft AI chief walks back job fears",
+      "Claude Fable 5 controversy on sabotage",
+      "Apple opens AI to third-party models",
+      "BYD accepts liability for self-driving crashes"
+    ],
+    "news-sports": [
+      "England women face playoff for World Cup",
+      "Marco Silva to replace Mourinho at Benfica",
+      "Real Madrid's £130m Alvarez bid rejected",
+      "FIFA referee controversy over US entry",
+      "Serena Williams makes triumphant return"
+    ],
+    "news-entertainment": [
+      "Taylor Swift surprises at Toy Story 5 premiere",
+      "Directors Guild reaches four-year deal",
+      "Bill Cody, Grand Ole Opry announcer, dies",
+      "Model alleges Kanye West choked her",
+      "New Korean drama cast lineup confirmed"
+    ]
+  }
+}

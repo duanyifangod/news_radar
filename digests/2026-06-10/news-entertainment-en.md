@@ -1,0 +1,129 @@
+# News Radar — 娱乐新闻
+
+> 2026-06-10 · Window: 24h · Items: 80 · Generated: 2026-06-10 05:23 UTC
+
+---
+
+## Editor's Brief
+
+The entertainment landscape on June 10, 2026, is dominated by the blockbuster 'Toy Story 5' premiere in Los Angeles, where Taylor Swift's surprise performance with Randy Newman stole the show. The Directors Guild of America reached a tentative four-year deal with studios, signaling stability in Hollywood labor relations. In Asia, A-list Chinese actors like Huang Xiaoming and Fan Bingbing make headlines for academic and international moves, while Korean drama casting announcements and rising ratings fuel K-content momentum. The Weibo buzz is a mix of fan frenzy and viral controversies.
+- [Taylor Swift Surprises With Performance At ‘Toy Story 5’ Premiere In Los Angeles, Including Randy Newman Duet](https://deadline.com/2026/06/taylor-swift-toy-story-5-red-carpet-premiere-los-angeles-1236952098/) — Swift performed her new original song and a duet, making the premiere a pop-culture event.
+- [Directors Guild of America Reaches Four-Year Deal With Major Studios](https://variety.com/2026/film/news/directors-guild-of-america-deal-1236771002/) — The DGA's tentative agreement avoids a strike, with terms still undisclosed but likely influencing ongoing WGA and SAG-AFTRA talks.
+- [Bill Cody, Grand Ole Opry Announcer and Revered WSM Country Radio Personality, Dies at 67](https://variety.com/2026/music/obituaries-people-news/bill-cody-dead-grand-ole-opry-announcer-wsm-country-radio-1236771026/) — A legendary voice in country music passes, prompting tributes across Nashville.
+- [Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'](https://www.bbc.com/news/articles/c0q2jgkwk0no) — A new allegation adds to West's legal woes, with the model stating it was not a performance.
+- [Kong Hyo Jin And Jung Jun Won’s New Drama Confirms Cast Lineup And Broadcast Plans](https://www.soompi.com/article/1846648wpp/kong-hyo-jin-and-jung-jun-wons-new-drama-confirms-cast-lineup-and-broadcast-plans) — 'A Bona fide Killer' adds star power to MBC’s upcoming action slate, targeting work-life balance themes.
+- [演员黄晓明，回应博士上岸](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSU04cWt0ZTJQZXc2Zkk0SnBxVEtlczBzOWY0Y0IwR201el91M0NPUUtPeFhpNm9lVlRMMThhSnVvdVJObm0yZXBYVXVkRUhyRkFISG1ZVlJVaS12X2MyblF5U3VTTWxkSFNueW5CaUx6YS1sZmJFM0hieUJSLTF3V255MEVGQ2dvWWZ3) — Actor Huang Xiaoming responds to successfully entering a doctoral program, sparking discussion on celebrity education in China.
+- [范冰冰进军日本 新片有望争国际影后](https://news.google.com/rss/articles/CBMikwJBVV95cUxOYThTRW9CYVU0dTh1V1dGNE11WFY4dVROQU0xM2lwS2VXWEFidEdPb29zbWE4U0FwYlh6NXlyRHVpUHhQcGtVV3l4U1l5Rlg3N0NPY2RxLWZoVkt3UmQ5dl9jS2k0VEZkMGxpbC1NOXh6bm80THZGT2p5UFN4M0MwcFM5OXhaSDFwb0NqQUMyTkFmRm9nQ0RtaUoyOEVYWmpmaEs1RUV2dm5CbVZpNy00UFFQSmUxd1VyVHZrZG8wTjNVM3BIT0lYeExXT0RyNnM5STFZM294V3E4QXcyYjA2TUxFanczc1c2cWt1N2dwbllOU09hOFZ5bUc1QjYyYVZuOWZjcmNuUlpvbm9STVE1TG4yNA) — Fan Bingbing expands into Japan, with a new film that could earn her international awards recognition.
+-  Watch next: The DGA deal ratification process and its ripple effects on Hollywood production schedules will be closely watched. 'Doctor on the Edge' ratings trajectory and 'Toy Story 5' box office early numbers could set the tone for summer entertainment.
+
+---
+
+## 日韩 · 7 items
+
+Korean entertainment continues to drive casting and ratings news. Lee Jae Wook is expanding from acting to singing while serving in the military, and multiple new K-dramas confirm star-studded lineups. Rising viewership for 'Doctor on the Edge' signals strong audience engagement.
+- [Watch: Lee Jae Wook To Debut As Singer With Song Produced By 2AM’s Lim Seul Ong](https://www.soompi.com/article/1846645wpp/watch-lee-jae-wook-to-debut-as-singer-with-song-produced-by-2ams-lim-seul-ong) — Actor Lee Jae Wook releases debut single 'SHADOW' on June 11, blending idol and actor fandoms.
+- [Kim So Yeon, Kim Ji Suk, Yoon Hyun Min, And Hwang Woo Seul Hye Confirmed For New Drama](https://www.soompi.com/article/1846688wpp/kim-so-yeon-kim-ji-suk-yoon-hyun-min-and-hwang-woo-seul-hye-confirmed-for-new-drama) — 'Rediscovery of Love' explores divorced couple cohabitation, a trending trope.
+- [“Doctor On The Edge” Earns Its Highest Ratings Yet + “The Legend Of Kitchen Soldier” Heads Into Final Week On Rise](https://www.soompi.com/article/1846642wpp/doctor-on-the-edge-earns-its-highest-ratings-yet-the-legend-of-kitchen-soldier-heads-into-final-week-on-rise) — ENA’s rom-com starring Lee Jae Wook and Shin Ye Eun gains momentum, climbing in Nielsen ratings.
+- [THE BOYZ’s Q Is An Idol Searching For His Childhood Friend In New Time-Slip Drama “My Idol, My Debut”](https://www.soompi.com/article/1846671wpp/the-boyzs-q-is-an-idol-searching-for-his-childhood-friend-in-new-time-slip-drama-my-idol-my-debut) — Idol-turned-actor Q takes on a lead role in a time-slip narrative targeting younger demographics.
+- [Lovely visual upgrade.. Choi Ye-na releases physical album in Japan today (10th)](https://news.google.com/rss/articles/CBMieEFVX3lxTFBiZmgyTUpIT0JfNjBLdWpOWlVSTUhLdHBmQlp0amQ5NzdpMjBVenlJWE4zYkVkcXZlUXBOSS1mYS1faUJzQ2pKWlBPYjE4aGVuR3l4OGhYWm1QQUZlbE9yWHFJaXkycnZYSGNGU014ZUFEaG1Jd2xIaA) — Soloist Choi Ye-na expands her Japanese market presence with a physical album release.
+  Watch for further rating jumps for 'Doctor on the Edge' and potential chart performance of Lee Jae Wook's debut single.
+
+<details><summary>Source (7)</summary>
+
+- [Watch: Lee Jae Wook To Debut As Singer With Song Produced By 2AM’s Lim Seul Ong](https://www.soompi.com/article/1846645wpp/watch-lee-jae-wook-to-debut-as-singer-with-song-produced-by-2ams-lim-seul-ong) — Soompi K-pop · 2026-06-10 00:34 UTC
+- [Kim So Yeon, Kim Ji Suk, Yoon Hyun Min, And Hwang Woo Seul Hye Confirmed For New Drama](https://www.soompi.com/article/1846688wpp/kim-so-yeon-kim-ji-suk-yoon-hyun-min-and-hwang-woo-seul-hye-confirmed-for-new-drama) — Soompi K-pop · 2026-06-10 05:18 UTC
+- [Watch: So Ji Sub, Choi Dae Hoon, And Yoon Kyung Ho Are Former Agents Who Are Now Loving Dads In New Drama “Agent Kim Reactivated” Teaser](https://www.soompi.com/article/1846718wpp/watch-so-ji-sub-choi-dae-hoon-and-yoon-kyung-ho-are-former-agents-who-are-now-loving-dads-in-new-drama-agent-kim-reactivated-teaser) — Soompi K-pop · 2026-06-10 04:59 UTC
+- [Kong Hyo Jin And Jung Jun Won’s New Drama Confirms Cast Lineup And Broadcast Plans](https://www.soompi.com/article/1846648wpp/kong-hyo-jin-and-jung-jun-wons-new-drama-confirms-cast-lineup-and-broadcast-plans) — Soompi K-pop · 2026-06-10 02:59 UTC
+- [THE BOYZ’s Q Is An Idol Searching For His Childhood Friend In New Time-Slip Drama “My Idol, My Debut”](https://www.soompi.com/article/1846671wpp/the-boyzs-q-is-an-idol-searching-for-his-childhood-friend-in-new-time-slip-drama-my-idol-my-debut) — Soompi K-pop · 2026-06-10 02:38 UTC
+- [Lovely visual upgrade.. Choi Ye-na releases physical album in Japan today (10th) - starnewskorea.com](https://news.google.com/rss/articles/CBMieEFVX3lxTFBiZmgyTUpIT0JfNjBLdWpOWlVSTUhLdHBmQlp0amQ5NzdpMjBVenlJWE4zYkVkcXZlUXBOSS1mYS1faUJzQ2pKWlBPYjE4aGVuR3l4OGhYWm1QQUZlbE9yWHFJaXkycnZYSGNGU014ZUFEaG1Jd2xIaA) — Google News Japan Korea Entertainment · 2026-06-10 02:22 UTC
+- [“Doctor On The Edge” Earns Its Highest Ratings Yet + “The Legend Of Kitchen Soldier” Heads Into Final Week On Rise](https://www.soompi.com/article/1846642wpp/doctor-on-the-edge-earns-its-highest-ratings-yet-the-legend-of-kitchen-soldier-heads-into-final-week-on-rise) — Soompi K-pop · 2026-06-10 00:10 UTC
+
+</details>
+
+## 欧美 · 49 items
+
+Western entertainment is highlighted by the 'Toy Story 5' premiere with Taylor Swift, the DGA labor deal, and the passing of country radio icon Bill Cody. Kanye West faces a new allegation, while 'Love Island USA' deals with a fan vote glitch. The DGA deal could reset industry expectations for upcoming negotiations.
+- [Taylor Swift and Randy Newman Perform Duet of ‘You’ve Got a Friend in Me’ at ‘Toy Story 5’ Premiere](https://www.rollingstone.com/music/music-news/taylor-swift-toy-story-5-premiere-1235575169/) — Swift's surprise appearance and duet with Newman created a viral moment, boosting the film's pre-release buzz.
+- [Directors Guild of America Reaches Four-Year Deal With Major Studios](https://deadline.com/2026/06/dga-deal-christopher-nolan-lstudios-1236952188/) — The tentative four-year pact, led by Christopher Nolan, avoids labor disruption and may set a pattern for WGA and SAG-AFTRA.
+- [Bill Cody, Voice of the Grand Ole Opry, Dead at 67](https://www.rollingstone.com/music/music-country/bill-cody-grand-ole-opry-announcer-dead-obituary-1235575167/) — The passing of the beloved WSM DJ and Opry announcer leaves a void in country radio.
+- [Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'](https://www.bbc.com/news/articles/c0q2jgkwk0no) — The model refutes West's claim of a theatrical performance, adding to his legal challenges.
+- [‘Love Island USA’ Addresses App Glitch During First Fan Vote for Season 8](https://www.hollywoodreporter.com/tv/tv-news/love-island-usa-app-glitch-first-fan-vote-season-8-1236618019/) — Technical issues during fan voting spark social media backlash, highlighting engagement risks for reality TV.
+  Keep an eye on 'Toy Story 5' box office projections and the DGA ratification vote, which could influence Hollywood's labor landscape through 2030.
+
+<details><summary>Source (49)</summary>
+
+- [Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'](https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss) — BBC Entertainment & Arts · 2026-06-10 05:02 UTC
+- [Anna Faris Reveals Melania Trump Joke Cut From ‘Scary Movie’](https://www.hollywoodreporter.com/movies/movie-news/anna-faris-rmelania-trump-joke-cut-scary-movie-6-1236618009/) — The Hollywood Reporter · 2026-06-10 04:43 UTC
+- [Bill Cody, Grand Ole Opry Announcer and Revered WSM Country Radio Personality, Dies at 67](https://variety.com/2026/music/obituaries-people-news/bill-cody-dead-grand-ole-opry-announcer-wsm-country-radio-1236771026/) — Variety · 2026-06-10 04:33 UTC
+- [Rajinikanth’s ‘Kochadaiiyaan’ AI Remaster, ‘Tanu Weds Manu’ Sequel Lead Eros Innovation’s 15-Production, $355 Million U.K. Slate (EXCLUSIVE)](https://variety.com/2026/film/news/rajinikanth-kochadaiiyaan-ai-remaster-eros-uk-slate-1236770139/) — Variety · 2026-06-10 04:30 UTC
+- [‘Toy Story 5’ First Reactions Praise Pixar’s Sequel as a ‘Deeply Profound’ and ‘Moving’ Film That ‘Ranks Right Alongside’ the Original](https://variety.com/2026/film/news/toy-story-5-first-reactions-1236770390/) — Variety · 2026-06-10 04:23 UTC
+- [Late-Night Hosts Dunk On Trump For Falling Asleep During NBA Finals & “Jinxing” New York Knicks](https://deadline.com/2026/06/late-night-hosts-dunk-on-trump-nba-finals-ny-knicks-1236952262/) — Deadline · 2026-06-10 04:07 UTC
+- [Taylor Swift Surprises With Performance At ‘Toy Story 5’ Premiere In Los Angeles, Including Randy Newman Duet](https://deadline.com/2026/06/taylor-swift-toy-story-5-red-carpet-premiere-los-angeles-1236952098/) — Deadline · 2026-06-10 03:50 UTC
+- [Bill Cody, Voice of the Grand Ole Opry, Dead at 67](https://www.rollingstone.com/music/music-country/bill-cody-grand-ole-opry-announcer-dead-obituary-1235575167/) — Rolling Stone · 2026-06-10 03:24 UTC
+- [Taylor Swift and Randy Newman Perform Duet of ‘You’ve Got a Friend in Me’ at ‘Toy Story 5’ Premiere](https://www.rollingstone.com/music/music-news/taylor-swift-toy-story-5-premiere-1235575169/) — Rolling Stone · 2026-06-10 03:07 UTC
+- [Tom Hanks Says Taylor Swift’s ‘Toy Story 5’ Song Was Kept ‘Top Secret’ From the Cast Until Release Day](https://variety.com/2026/film/news/tom-hanks-taylor-swifts-toy-story-5-song-top-secret-1236771018/) — Variety · 2026-06-10 03:04 UTC
+- [‘Love Island USA’ Addresses App Glitch During First Fan Vote for Season 8](https://www.hollywoodreporter.com/tv/tv-news/love-island-usa-app-glitch-first-fan-vote-season-8-1236618019/) — The Hollywood Reporter · 2026-06-10 03:04 UTC
+- [Andy Cohen Reveals Jennifer Lawrence Is Bravo “Super Fan” Who Helped Find ‘Summer House’ Reunion Leaker](https://deadline.com/2026/06/andy-cohen-jennifer-lawrence-bravo-super-fan-summer-house-reunion-leaker-1236952236/) — Deadline · 2026-06-10 02:57 UTC
+- [Sydney Sweeney on Bringing “Sam’s Vision to Life” With Cassie’s OnlyFans Storyline in ‘Euphoria’](https://www.hollywoodreporter.com/tv/tv-news/sydney-sweeney-reacts-cassie-onlyfans-storyline-euphoria-1236617903/) — The Hollywood Reporter · 2026-06-10 02:45 UTC
+- [DGA Deal: Christopher Nolan-Led Guild Reaches Tentative Four-Year Pact With Studios](https://deadline.com/2026/06/dga-deal-christopher-nolan-lstudios-1236952188/) — Deadline · 2026-06-10 02:14 UTC
+
+</details>
+
+## 中国 · 12 items
+
+Chinese entertainment sees major figures like Huang Xiaoming and Fan Bingbing making strategic moves—academic and international respectively. The 6th New Era TV Festival nominees are announced with A-list actresses competing. Meanwhile, a Chinese-Korean comparison of star fees reveals Jackie Chan's enduring value advantage.
+- [演员黄晓明，回应博士上岸](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSU04cWt0ZTJQZXc2Zkk0SnBxVEtlczBzOWY0Y0IwR201el91M0NPUUtPeFhpNm9lVlRMMThhSnVvdVJObm0yZXBYVXVkRUhyRkFISG1ZVlJVaS12X2MyblF5U3VTTWxkSFNueW5CaUx6YS1sZmJFM0hieUJSLTF3V255MEVGQ2dvWWZ3) — Huang Xiaoming publicly addresses his doctoral admission, continuing a trend of celebrities pursuing advanced degrees.
+- [第六届新时代电视节斑彩螺奖提名揭晓，杨幂高圆圆等竞争视后](https://news.google.com/rss/articles/CBMidkFVX3lxTFBBOEtYVk9FaUQxWWZlQUw3ZlpEbTNWLWc0NTUtLXIyMGkwUDVxZGMwbHNQWUlHd3U5c1VEaFJqTTZYVHcwQmktOWswUmpHcmg4VWhUa2N6QTdGbXVvd0VuR3JETHJtY1EzTHV2UGdheE55NWpEN0E) — Yang Mi and Gao Yuanyuan are among the nominees for Best Actress at the 6th New Era TV Festival, signaling strong female-driven content.
+- [范冰冰进军日本 新片有望争国际影后](https://news.google.com/rss/articles/CBMikwJBVV95cUxOYThTRW9CYVU0dTh1V1dGNE11WFY4dVROQU0xM2lwS2VXWEFidEdPb29zbWE4U0FwYlh6NXlyRHVpUHhQcGtVV3l4U1l5Rlg3N0NPY2RxLWZoVkt3UmQ5dl9jS2k0VEZkMGxpbC1NOXh6bm80THZGT2p5UFN4M0MwcFM5OXhaSDFwb0NqQUMyTkFmRm9nQ0RtaUoyOEVYWmpmaEs1RUV2dm5CbVZpNy00UFFQSmUxd1VyVHZrZG8wTjNVM3BIT0lYeExXT0RyNnM5STFZM294V3E4QXcyYjA2TUxFanczc1c2cWt1N2dwbllOU09hOFZ5bUc1QjYyYVZuOWZjcmNuUlpvbm9STVE1TG4yNA) — Fan Bingbing's Japanese film project positions her for a potential international best actress award, marking a comeback.
+- [韩星身价大剖析：金秀贤李敏镐仅为成龙一半](https://news.google.com/rss/articles/CBMimAFBVV95cUxORjZJaldzWW41V2tlNlRYRnFWcGZKQUthWWNqTVlJUkJ1a1VGdUEtMXdiZGNTS2poQmExUlNPanpYcW56Y2tJcXJqY1VRVTU5c2hpdnJfbUVGcXZTOHo3dE51czlTU1VyMVZPaWZrNHdtZmJSTXFwS25vdXdhOEd3dElJR0xLLUs4dWY4M3lFX1p4aHRYdVNEYw) — A report reveals top Korean stars like Kim Soo-hyun command only half the value of Jackie Chan, highlighting China's star power premium.
+- [中国传媒大学与华策影视集团签署战略合作协议](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILTRJOXRlUGpwRzVwTUR2a0V3Sy16UWlhTmdsaWpGUGdCY0p2NkVsUEQ1MmpRQ2VDd3pzV1NGWFdxM1JiUWdLYXNUU3dKVnd4ZXdxbFViaExVVE1WOUE) — A university-industry partnership aims to nurture young talent for the Chinese film and TV sector.
+  Watch for Fan Bingbing's project details and Huang Xiaoming's potential new academic image; the star fee debate may influence cross-border casting decisions.
+
+<details><summary>Source (12)</summary>
+
+- [演员黄晓明，回应博士上岸 - 新浪财经](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSU04cWt0ZTJQZXc2Zkk0SnBxVEtlczBzOWY0Y0IwR201el91M0NPUUtPeFhpNm9lVlRMMThhSnVvdVJObm0yZXBYVXVkRUhyRkFISG1ZVlJVaS12X2MyblF5U3VTTWxkSFNueW5CaUx6YS1sZmJFM0hieUJSLTF3V255MEVGQ2dvWWZ3) — Google News China Entertainment · 2026-06-10 04:30 UTC
+- [第六届新时代电视节斑彩螺奖提名揭晓，杨幂高圆圆等竞争视后 - 新浪新闻_手机新浪网](https://news.google.com/rss/articles/CBMidkFVX3lxTFBBOEtYVk9FaUQxWWZlQUw3ZlpEbTNWLWc0NTUtLXIyMGkwUDVxZGMwbHNQWUlHd3U5c1VEaFJqTTZYVHcwQmktOWswUmpHcmg4VWhUa2N6QTdGbXVvd0VuR3JETHJtY1EzTHV2UGdheE55NWpEN0E) — Google News China Entertainment · 2026-06-10 03:35 UTC
+- [章子怡、甄子丹为习近平“站台” - 朝鮮日報中文版](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEZJZHhBZEw5TERBYWRqbGVNMjVncXlZSEl4RmhvTjdvRVpISGlldzYyN0ZvS1ZjNW50ZUcwbWItWjI3YUVwNHowQkFYX2VLa1ZWSldpU3VqbWs1YXJwb1NiVTRobFZCYktpbXV0SGh0NUVGT2o2UXVILU83X2NlN2JWUnM5dHF4NnMyY0FCcVhQekhQSHpWUQ) — Google News China Entertainment · 2026-06-10 01:41 UTC
+- [大咖云集！揭牌OPC社区，重磅发布14部影视作品；国际名导唐季礼、曾志伟齐聚南山|活动回顾 - thepaper.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OSmVRVEVDRmZ4aFRLYktTY1laRU42MUd2WHpYZWlEMUp2YmdSbWZpU3pJUHV2bXZjQXBkbTBzeDRaOXZhbVBQM0dQZ25XZzRZYVowOEVsOFdLRlVYN2c) — Google News China Entertainment · 2026-06-10 00:16 UTC
+- [中国传媒大学与华策影视集团签署战略合作协议 - thepaper.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILTRJOXRlUGpwRzVwTUR2a0V3Sy16UWlhTmdsaWpGUGdCY0p2NkVsUEQ1MmpRQ2VDd3pzV1NGWFdxM1JiUWdLYXNUU3dKVnd4ZXdxbFViaExVVE1WOUE) — Google News China Entertainment · 2026-06-09 15:54 UTC
+- [外籍友人在蓉点赞中国发展成就 - 新华网](https://news.google.com/rss/articles/CBMid0FVX3lxTE84X3lJZjNKdlVKRFhvbXA4NGRQaG1kNVlXZng0MkV1SE5GVTkzcm5SMG5Rbk5FMDJKX1k0M3JKcm0tZ3o4Nm5zb2lyd0E2Ym9VcjlscndtaEp1VjVza1pVTEY3a0R5MzZaNGlSaWRWNmRpM3hoclZV) — Google News China Entertainment · 2026-06-09 14:46 UTC
+- [姜伟泽 简历 - 名人简历 - Sina Sports](https://news.google.com/rss/articles/CBMid0FVX3lxTE10aEhocll6cGNxVzRQZk1ZZnJWcHFLMWFkOWl0Sl8zRGJ2RVpQeWwteGFUNW9LRzVLaVp4X0pub0hIdGN4ODBTQ0l4SkNxbHpwaks0NHpkaEd4RW5WbG5XbWVnZGJoVGdxWGNlN2JZUWpWdlNjY204) — Google News China Entertainment · 2026-06-09 11:07 UTC
+- [GREAT湾区青年影视训练营在兴宁启动 - 央广网](https://news.google.com/rss/articles/CBMieEFVX3lxTE0zdFNyUHR1c1lab0UyeFBSaVYzY1g1VWNWN2FPZFZpX1NxLTZHZnFKa2pPZWREdHc0S2RfSHdseUhUNklvS3RkLTBHLVdWMk1kUFY0Q3JGTDhpa25QODZBYVdBYzUwSXQxNmhLU2lyQ0Z1V3QyZWJKSA) — Google News China Entertainment · 2026-06-09 10:06 UTC
+- [艾热AIR&王以太首次体育馆官宣！2026「太热爱」巡回演唱会即将开启！ - 中国娱乐网](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKOW5wUVFqZWhJcHY2Rnh2X0hPcWY4S3BRWFJKazNIWm9qdHlEeEt4MVNrV2trQWZPSHJ6Yk1tMEdSRUhwZ3YydlhUZ1RhRkJRM2dWWmFGU21FOFU) — Google News China Entertainment · 2026-06-09 08:15 UTC
+- [毛卫宁:影视人别把自己过于当回事丨中国导演战疫访谈 - 新浪网](https://news.google.com/rss/articles/CBMilAJBVV95cUxQQlEzQ0RUSjQ2dEZ0dnRlcVZ5aS1TMTZPajFiWm80QXI1OFc2Umd0YlExSkdXcFRLNm1EZVZxNmduN3ZpanFncTRwMVJ1SWFRM1QtWWxzZmlDUzBrT29GSjBxZlJlcmpkLTd6LTgyNFp6Wlc1MGFHRENsUjc0UWVBQU5INjlDYkxLckhHUnBIajhHUmZ1bU16eFhQWUllcndXYXJaazlpdmd2cGFzQzVxSUlQOHFLNjNhQU9ldUFRU29IT01XNHEyQ2V6ZWVzclhwVHY1Ti1Zd1FueDJOT1liN3BVZTFyV3pnRW56R3ZCQ1AzU1htWVV0TkdRT0ppaUd0N3M2cS1QLXhTalU4NkhUcnhYWTk) — Google News China Entertainment · 2026-06-09 07:33 UTC
+- [韩星身价大剖析：金秀贤李敏镐仅为成龙一半 - 朝鮮日報中文版](https://news.google.com/rss/articles/CBMimAFBVV95cUxORjZJaldzWW41V2tlNlRYRnFWcGZKQUthWWNqTVlJUkJ1a1VGdUEtMXdiZGNTS2poQmExUlNPanpYcW56Y2tJcXJqY1VRVTU5c2hpdnJfbUVGcXZTOHo3dE51czlTU1VyMVZPaWZrNHdtZmJSTXFwS25vdXdhOEd3dElJR0xLLUs4dWY4M3lFX1p4aHRYdVNEYw) — Google News China Entertainment · 2026-06-09 07:07 UTC
+- [范冰冰进军日本 新片有望争国际影后 - 中國報 China Press](https://news.google.com/rss/articles/CBMikwJBVV95cUxOYThTRW9CYVU0dTh1V1dGNE11WFY4dVROQU0xM2lwS2VXWEFidEdPb29zbWE4U0FwYlh6NXlyRHVpUHhQcGtVV3l4U1l5Rlg3N0NPY2RxLWZoVkt3UmQ5dl9jS2k0VEZkMGxpbC1NOXh6bm80THZGT2p5UFN4M0MwcFM5OXhaSDFwb0NqQUMyTkFmRm9nQ0RtaUoyOEVYWmpmaEs1RVV2dm5CbVZpNy00UFFQSmUxd1VyVHZrZG8wTjNVM3BIT0lYeExXT0RyNnM5STFZM294V3E4QXcyYjA2TUxFanczc1c2cWt1N2dwbllOU09hOFZ5bUc1QjYyYVZuOWZjcmNuUlpvbm9STVE1TG4yNA) — Google News China Entertainment · 2026-06-09 05:30 UTC
+
+</details>
+
+## 微博社区动态 · 12 items
+
+Weibo trends on June 9-10 mix fan engagement, gaming controversies, and social topics. A Bin (BLG) pre-match interaction refusal triggers debate, while Meng Yutong's on-air job search draws business attention. Entertainment-linked hashtags like 'Gong Jun replies to Lin Yi' and 'Zhang Yue plays villain again' fuel fandom discussions.
+- [Bin哥赛前未与粉丝击掌引发热议全程黑脸|blg|EDG战队|WE战队|BLG|lpl](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xa2VKYWxMWnJJTGo5aVBTWElNYnJ3aVVkVmRxSUtoVG92WldvTGhGalVqbExBdkNXQlU2enN6dnljdjd5eV9zY0Q2UlM4THhmTHdTa2JreGE2OEtvdnFtVm1kR1RNb2dMMlBjMkpwUWZGV0Q2N0YwbTBkc1Y2QQ) — Pro gamer Bin's refusal to high-five fans at a League of Legends event goes viral, with fans divided on etiquette vs. mental focus.
+- [孟羽童节目现场向平安高管求职，郭晓涛当场表示欢迎](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTVZuUmd5LWY5TV9FQnBSUVFzbF9IV2NtX0hzcGYzZUFiakJrcW56VXdfZUh1SVJRMDBTLTR6QlZaaEJTa3VndzBjdktnNFlrc0RLYk5pT1JQbVRQVWJIN2dody0tc25mVlJLdzBCcnRBa21PbThXRXBSZHZlV3NyT1liREJCUzgyUzhtYXpwanIyUFZNTmltdnRyY05NWHl2Ulc5OTlkYTB4ZElmNjMwUjMtQXBxbkhpWDJzU3kwRkJlcEtpNzY1X3ZWN09LWktzSl9GUjYzWGFrelBKS3g0MjVfandjQ01GcFVTam11NC1wUzlWSDRLSGVLeGpJeFRFckE) — Former Meng Yutong, known for her past internship with Dong Mingzhu, makes a bold job pitch to a Ping An executive on a show, blending entertainment and career.
+- [热搜！发原创#龚俊回复林一# 热搜热门评论区安利龚俊！富婆👍1000](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GMDZLNXJiQUg3cWh1MlRLbVhRSWJ4bU1nTURueTFmcWRNMnZnTXNBcXVjWUdUcTBhTWwwRFdLSGpJb0ZKMENOcjVWNGFnZnNXMVN1cWVrOHljTVVSWi1Edl9RNA) — Actor Gong Jun's reply to Lin Yi trends on Weibo, with fans organizing to promote him.
+- [张月再战反派！浪姐后《莫离》演秦筝，妆造人设引爆热议](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNclUyOVhGSG02ZUlDLW9tcHpfLTh0Z05oaDBJNkNzbE1paUtfdDNfNGR4dVZGZW5qRWJBMmw4a1pUQnFXTWFfTnJRWHlHTWtHZU82YWZXYTdOcGphT0lESzBTdHVXaTlIZHAxaW5TSHNpMnNyaEFsNTlZT2lDM0ZUdXl6YWJjbkt2SXl0NkpfLXk4QzZjUktPNWQtck9sVklEalVWbVJKN2Z4UQ) — Zhang Yue, post-‘Sisters Who Make Waves’, returns to a villain role in 'Mo Li', with styling and character sparking discussion.
+- [预言山东物理上热搜_新浪新闻](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZSDJjVGt0UnBFWGdBdXc0akVGeDNDU2ZtTy1sUnFXVXBOUTNQcldjekhHTGU5dnJZamMxWFRDc3dheWJQMzVrN29jVERoTlJXZEc5WEkzNDNtVWhJcG52MVZ2OA) — An unusual trend hits Weibo as a physics exam prediction for Shandong province goes viral, reflecting the platform’s mix of education and humor.
+  Weibo dynamics show that gaming, celebrity interactions, and even academic topics can dominate trends; brands and agencies should monitor Bin’s PR fallout and Meng Yutong’s next career move.
+
+<details><summary>Source (12)</summary>
+
+- [热搜！发原创#龚俊回复林一# 热搜热门评论区安利龚俊！富婆👍1000http://t.cn/AXXr6SvQ娱乐榜姐http://t.cn/AXXrLjMu娱乐http://t.cn/AXXrilkh成都http://t.cn/AXXrilkP#龚俊 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GMDZLNXJiQUg3cWh1MlRLbVhRSWJ4bU1nTURueTFmcWRNMnZnTXNBcXVjWUdUcTBhTWwwRFdLSGpJb0ZKMENOcjVWNGFnZnNXMVN1cWVrOHljTVVSWi1Edl9RNA) — 微博社区动态 · 2026-06-09 09:14 UTC
+- [Bin哥赛前未与粉丝击掌引发热议全程黑脸|blg|EDG战队|WE战队|BLG|lpl_新浪新闻 - 新浪财经](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xa2VKYWxMWnJJTGo5aVBTWElNYnJ3aVVkVmRxSUtoVG92WldvTGhGalVqbExBdkNXQlU2enN6dnljdjd5eV9zY0Q2UlM4THhmTHdTa2JreGE2OEtvdnFtVm1kR1RNb2dMMlBjMkpwUWZGV0Q2N0YwbTBkc1Y2QQ) — 微博社区动态 · 2026-06-09 20:48 UTC
+- [孟羽童节目现场向平安高管求职，郭晓涛当场表示欢迎 - 新浪财经](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTVZuUmd5LWY5TV9FQnBSUVFzbF9IV2NtX0hzcGYzZUFiakJrcW56VXdfZUh1SVJRMDBTLTR6QlZaaEJTa3VndzBjdktnNFlrc0RLYk5pT1JQbVRQVWJIN2dody0tc25mVlJLdzBCcnRBa21PbThXRXBSZHZlV3NyT1liREJCUzgyUzhtYXpwanIyUFZNTmltdnRyY05NWHl2Ulc5OTlkYTB4ZElmNjMwUjMtQXBxbkhpWDJzU3kwRkJlcEtpNzY1X3ZWN09LWktzSl9GUjYzWGFrelBKS3g0MjVfandjQ01GcFVTam11NC1wUzlWSDRLSGVLeGpJeFRFckE) — 微博社区动态 · 2026-06-09 17:15 UTC
+- [中國「靈活就業人數達3.2億」話題引發熱議 - 大纪元](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4WHVHdVVnQm12anJQVVpRUm41WHJ2SWhZY0Q0Q2VhbDE4Sm5KZlI3RU9oUUlJdUs0SDhPQXlVZUg1RWtWSWRqYmw2VVNuUXowOTJGTUdGUGx4RDFnZkxJUFJxamvSAWRBVV95cUxQOFh1R3VVZ0JtdmpyUFVaUVJuNVhydkloWWNENENlYWwxOEpuSmZSN0VPaFFJSXVLNEg4T0F5VWVINUVrVklkamJsNlVTblF6MDkyRk1HRlBseEQxZ2ZMSVBScWpr) — 微博社区动态 · 2026-06-09 13:06 UTC
+- [文娱热搜了[允悲] ​ - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOdEE3M2hmaHloM0FoQlFSa1lFRGJrNnhES1o5dGI4a1Y4YVFJQmVpM0FmYzVIalkxN3REaGJQdHItT051eDZaMmxuNEdYY1lpZlFCVy12TngzTlEyQ3BIdFEybw) — 微博社区动态 · 2026-06-09 11:52 UTC
+- […谁买的热搜 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTFByUEdPTllTNWJtMUJINFNCSnRranE1X0V1N09RTXFQV0x2d0JTbzR5X0J4c1pLRnAyZ21weXNKd19LMVZtcnNvdUw0a0VONTJrcjZ2a3FtdUU3djNENGdyQkc0VQ) — 微博社区动态 · 2026-06-09 11:14 UTC
+- [张月再战反派！浪姐后《莫离》演秦筝，妆造人设引爆热议 - 新浪网](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNclUyOVhGSG02ZUlDLW9tcHpfLTh0Z05oaDBJNkNzbE1paUtfdDNfNGR4dVZGZW5qRWJBMmw4a1pUQnFXTWFfTnJRWHlHTWtHZU82YWZXYTdOcGphT0lESzBTdHVXaTlIZHAxaW5TSHNpMnNyaEFsNTlZT2lDM0ZUdXl6YWJjbkt2SXl0NkpfLXk4QzZjUktPNWQtck9sVklEalVWbVJKN2Z4UQ) — 微博社区动态 · 2026-06-09 09:22 UTC
+- ["不要擅自回复外星人"登热搜！黑暗森林法则成现实 - 17173](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ReHFBa0tWVEJVQjFpUTd6QUdGemVSMWpuN0dNS3pnS1d0bFV4OUNzZXYzenEzekdDWFMxS3ItN2c4c3E0RXR3a0xodmZvUFJRMGppbElVWVU0dlEzY2VMTGYtUEs) — 微博社区动态 · 2026-06-09 09:09 UTC
+- [#河南农商行骗贷手法多样#上热搜 网友：严查严办 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE1vNEFXcWFpUGl1TGdabWx4dlRQUHJ5OUNfdHU4S2FxaWVhRjFPRkE4RjM2OHpTbWFsRXdhUW1fWlZMZ2I1ZUZ3dFV4dkowdmdURzlrNGFzVTd1X241aVFZcTMwUm42SHd2WFJ5Wk5ZY1FGWkdoSzdNdQ) — 微博社区动态 · 2026-06-09 07:04 UTC
+- [冲上热搜，郑钦文怎么了？ - Sina Sports](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTdiREpMeDBHcDFVZEtBTVJhZUxLdGFJTmZZT1RXQlRaTmszV1RjOUgydkpiM3VLZmx1MzlIVE1nTC1pTkY3YXVLMVh0RjktT0lQTTFBeGhhZ1lXMnNOUzFTWlg5ekRESW1mNFFEVGswNHkzYTJzeld3Z2trUmxidA) — 微博社区动态 · 2026-06-09 06:46 UTC
+- [广东地理出卷人上热搜_新浪新闻 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVG80NkV6V3pOT2dzV2ctU0c3RUNIcy0wTEhhYjl3QllYMkNzamxEemlDbGJnekM1dHdEcld1TWRka3kySmcxVGM3aHJYQ2phcDVEMTlPNnpVckJFQlU1R2otaw) — 微博社区动态 · 2026-06-09 06:25 UTC
+- [预言山东物理上热搜_新浪新闻 - 手机新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZSDJjVGt0UnBFWGdBdXc0akVGeDNDU2ZtTy1sUnFXVXBOUTNQcldjekhHTGU5dnJZamMxWFRDc3dheWJQMzVrN29jVERoTlJXZEc5WEkzNDNtVWhJcG52MVZ2OA) — 微博社区动态 · 2026-06-09 05:25 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*
