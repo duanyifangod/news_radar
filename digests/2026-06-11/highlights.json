@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突升级，油价飙升，美股期货下跌",
+      "特朗普称通胀4.2%是“好消息”，华尔街担忧",
+      "甲骨文财报超预期但股价下跌，再融资200亿",
+      "欧洲股市收跌，ECB加息预期与能源压力并存",
+      "中国股市低开，地缘风险与外需担忧共振"
+    ],
+    "news-society": [
+      "伊朗宣布关闭霍尔木兹海峡回应美军空袭",
+      "美国对伊朗发动第二轮打击，战事升级",
+      "韩国首次查获利用AI智能眼镜作弊案件",
+      "日本前官房长官河野洋平逝世，曾为慰安妇道歉",
+      "知乎2025年营收下滑23.6%，加速AI商业化"
+    ],
+    "news-military": [
+      "美伊全面交火，伊朗攻击第五舰队",
+      "以色列进入戒备，准备应对伊朗导弹",
+      "普京拒绝泽连斯基谈判条件，战争持续",
+      "瑞典向乌克兰提供16架鹰狮战斗机",
+      "俄乌战线无人机与远程打击成焦点"
+    ],
+    "news-tech": [
+      "xAI工程师因Grok安全问题被解雇后起诉",
+      "加拿大出台法案要求社交平台对AI聊天机器人负责",
+      "Google DeepMind发布DiffusionGemma提速4倍",
+      "Valve因诈骗停售实体Steam礼品卡",
+      "比亚迪威胁起诉美国防部军事企业名单"
+    ],
+    "news-sports": [
+      "英格兰热身赛因极端天气延迟引发担忧",
+      "因凡蒂诺危机公关仅呼吁‘冷静放松’",
+      "皇马1.5亿报价阿尔瓦雷斯遭马竞拒绝",
+      "安洗莹成首位奖金破300万美元女单选手",
+      "东契奇因对裁判做不雅手势被罚5万美元"
+    ],
+    "news-entertainment": [
+      "BIGBANG宣布31场世界巡演庆祝20周年",
+      "泰勒·斯威夫特与特朗普同现NBA总决赛",
+      "斯皮尔伯格自曝多次申请执导007被拒",
+      "迪丽热巴陈飞宇被曝佩戴情侣手链登热搜",
+      "黄晓明48岁考博成功获赞内娱学霸"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US strikes Iran, oil prices surge",
+      "US CPI hits 4.2%, three-year high",
+      "ECB faces cautious hike dilemma",
+      "S&P 500 and Nasdaq futures extend slide",
+      "Trump says 'I love inflation'"
+    ],
+    "news-society": [
+      "Iran closes Strait of Hormuz",
+      "US strikes on Iran enter second day",
+      "Israeli strikes in Lebanon kill 17",
+      "Japan's Yohei Kono dies at 89",
+      "South Korea detects first AI cheating cases"
+    ],
+    "news-military": [
+      "US and Iran escalate into open hostilities",
+      "Iran attacks US Fifth Fleet in Bahrain",
+      "April ceasefire effectively dead",
+      "Putin rejects Zelenskyy's negotiation offer",
+      "Sweden pledges 16 Gripen jets to Ukraine"
+    ],
+    "news-tech": [
+      "Google AI model hits 1000 tokens per second",
+      "BYD predicts overtaking Toyota in five years",
+      "North Korean hackers cause half of US breaches",
+      "GM pivots to sodium-ion batteries for storage",
+      "Amazon borrows $17.5B to fund AI expansion"
+    ],
+    "news-sports": [
+      "England's World Cup readiness tested",
+      "Infantino says 'chill, relax' on visa issue",
+      "McKenna leaves Ipswich for family time",
+      "17-year-old Lutkenhaus upsets Olympic champion",
+      "Mahomes signs record-breaking NFL contract"
+    ],
+    "news-entertainment": [
+      "Taylor Swift appears at NBA Finals",
+      "BIGBANG announces 31-date world stadium tour",
+      "Spielberg says Bond producers rejected him",
+      "Mindy Kaling closes TV trilogy with new series",
+      "Knicks fans protest outside MSG over curse"
+    ]
+  }
+}

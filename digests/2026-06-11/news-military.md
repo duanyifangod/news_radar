@@ -1,0 +1,159 @@
+# 多频道新闻雷达 — 军事新闻
+
+> 2026-06-11 · 窗口: 24h · 条目: 59 · 生成时间: 2026-06-11 02:15 UTC
+
+---
+
+## 板块速览
+
+## 军事新闻日报 2026-06-11
+
+**导语**：过去24小时，全球军事格局被美伊冲突的急剧升级所主导。美国以“阿帕奇被击落”为由对伊朗本土发动空袭，伊朗革命卫队随即用无人机和导弹攻击驻巴林的美国第五舰队，双方正从代理人摩擦走向直接军事对抗。与此同时，俄乌战线、台海技术验证、欧洲防务重组与印太海军合作等议题也在同步发酵。以下是各子板块的详细分析。
+
+### 冲突局势
+- **美伊全面交火**：美国连续两天对伊朗南部目标实施打击，起因是美军一架阿帕奇直升机被击落。伊朗则宣称已向巴林和约旦的美军设施发射无人机和导弹，其中攻击第五舰队的行为标志着战事升级至区域战争边缘。以色列已进入戒备状态，准备应对伊朗可能发射的导弹。[U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter (WSJ)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1NCUi1ER19KYTBHTk80MkdYQjBxSUlJTUpKU3hNejFxZ09SYWZYV1llVlJVWlhuZUhWRENyeHpJbG5ILV9hNTN5Wi1rR1YyWm5ub2xWY2Q4dEtHMkEwVVo3V2dRSjU2R1Z2dE1oSlpBSUluOTQxdjFpUWF3ZTBhWElCVzg0LUFf) ｜ [Iran Strikes US Fifth Fleet In Bahrain (Modern Ghana)](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTm9oNmFCV2dkMUhablVuT0drWHN0MEFpYWpPWmppT3daZzM1R1lCMFpnQS1OSDdTZnBGMVc4ZVNUaG9TaHJIR25EdGhmY1lxODdnSF9ic3puRmo1b1B0elFnUktrZ0wtdlM1UjIyanZHUXhCZjhDUnIwbVlOa3pXUUNOT1E1RkVQNWRfcDZRN1Y2Y3RLbVJxSEd4UdIBmgFBVV95cUxOVUtGd2pxRGdJdGFWNUhabEVvMjlYRWJUTjIzTGpfWXVCUnpGcG42VGx4WFExTVdENGFJX00zcF9ROTBmSGl4dXBtcVRNcVhZWTJGR3FUV0F1U2lFMFlrUi16VGo5dzIxeHY5aTh6bEVNUEpfR2dMbXk5bjNoTHFjOFpOVHdtOFpRNExKYU1JSlI0cjM5bXZBdE5n) ｜ [Israel Braces for Iranian Missiles (Haaretz)](https://news.google.com/rss/articles/CBMimwJBVV95cUxQVzRFOV9aT1BJZjV1eGk0eUpFMHFvOHNDZDBXSUh4eXBGMjVONWNBeEc2cGdYX2N3ZER2a2J4ZERWNkdmQjNJMllMWVJOM0k2dW4tTkJRbVFDQUJZR29RcWhtSVE3MTBtUlI0S1E4Qll3eUJVano0emV6OThPZnRTbldDRlc2U25IeVNZSHJFQXhDaU9tQ21TdGg0aGpmc0dxSC16WTMxa2U5TjFMaE9iLVptUzh1VHRJb3hUdERaRWlpei1OVEI4OTNfY0s3c09DaDBBOXRuaHY2cjJXdHhZbW1uSWNxVTZnaDJMcDlQSVJJd2RRaUE3aWZyMHc5NldpNnF1RUc1cGVNVU4tNFNabWJxNmFlWDhqd2ZN)
+- **俄乌战线动态**：普京拒绝了泽连斯基提出的谈判条件，战争烈度持续。乌克兰对俄罗斯境内军事和能源设施发动远程打击，而瑞典宣布将向乌克兰提供16架“鹰狮”战斗机及200公里射程导弹，可能迫使俄军调整防空部署。[Putin rejects Zelenskyy’s talks offer (MSN)](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV19CbWJhVHBac3ZjMEZiM0RsSXUxelV2dGlkcFgwTjNDaTVrSXNCXzNXRHQ0UklfX011b2Q1SFVMRVFIS3pMc2hNVTg2ZE9aM0hHcDdTa0x5MzZSYW1mQlh1dThac0M1bU01blllT1JJRG96UURGVEI1R05kaEM3d2VzWnNWMDVUeE1CbDdDRDd2eVpqVDVGdWlJQ3FCeTdDTG9oNHFIcFItYXNJcF9xOEd2VzQyazlfdnVMejJ6TnlXVHZ6YzVkTEttdXNwWFUtOXk4R2lMNEFHbHRyUnBjUmxVS1dlbF9KeFVsOEpLUEw) ｜ [Sweden is sending Ukraine 16 Gripen jets (OkDiario)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZDB6M3lENnlybFBudUpFWUdtOGF4dDlGZThJSTNqYkZveVVaR3FfRTNoM3liai1WOGFNMGstWGdyR2phbWJhb2N0QXRfTXJxNGhyajl1VlJJRGlNY25idlNuc3gxNnBvQ0tTczZpMjdkT2pmR2djMmV5aEg4YVdJemtSOUd3bmZneEdpLXRsYWtPWHZWZ3dGRm1mS3Q5X1kxWWptbWlKR0tPb1R1Qk5uUXp4TklnNl9YWHZsTkpMbVZ4U1pRQnZsQUhYajNLclZoZ3Z2MTZwRTJoa1FU) ｜ [Ukraine launches long-range strikes (Los Angeles Times)](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlMtTzFnMGdMMEhaQ1JnSmlickUzTTJRdm8xdDdTNllUT1FTQ0pSZTUzUERfOFRRYkZPUUU1NzJyN1l0eHQtdUxSbVlMNjdIQjN4VXFIVDN2dnlIT2l6Sl9sRkFKRkZNSVljY0hpT2Y0UnRLeTgyOEtzY3N1TWxCaUZEdVRLRmwyWDk0ay1IclRxOTdYZ2RXUTVHTEVpWVBHSWJURGJWZjVPaHp5NTZEV2V4UU1yZ1dudFZNY2pBYWRjdw)
+- **其他线索**：土耳其正悄悄调整立场，从俄罗斯转向北约（[Foreign Affairs](https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Ry13YVBtN293anRJRWZhOGdtUWtOUkllajJTbF9vVG9TVE9ubkUyTE1SOXZQbHNHUVl5UEQwV01nYWVXak1teG1FSjR4OXhTUklfanZVd2Y1Sm9KSkdjRXZnb2tyOGdWR25oMm85UVU)）；乌克兰正尝试争取阿拉伯世界舆论支持（[Ukrinform](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXVTV09YWTl6N2ZJV3o0MkxvZk9MZmtFUVYzblFZMFR6d2gwLXhQYkRaNDRyMU9RS3hCcFdBX2VKVGlDYWdxdkRBNHo3UTg2MTN3YnNnTE1Kblc3dV9VRHNNUHR1MkNLQVprSTlQLTZwaGlzekc3NWhYUUF1VW9saWVhTkswallfSEJrQXhZLWpZWnJETG01MHZZV205WGlIYzV4RmxkTWZmd2pBbkJyS0FDTUZUMlU)）。
+
+**后续观察**：美伊冲突是否会在未来48小时内进一步扩大，取决于伊朗是否动员真主党或胡塞武装开辟第二战线，以及美国是否会转向打击伊朗核设施。同时，瑞典支援乌克兰的鹰狮战机交付时间表将直接影响东线空中平衡。
+
+### 国际安全
+- **美伊冲突激化**：美国对伊朗连续两天空袭，伊朗革命卫队宣布攻击了巴林的美第五舰队和约旦目标。一夜之间，4月8日以来的停火协议几近破裂，地区局势高度紧张。[Overnight Attacks Rattle U.S.-Iran Ceasefire (The War Zone)](https://www.twz.com/news-features/overnight-attacks-rattle-u-s-iran-ceasefire) ｜ [US strikes Iran in second day of renewed fire (WHEC.com)](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmo0X3FrOGRCRUF4VVlxTjdTM3RhcVN2TkFmdjhTLUVvMDlubDJDTktCWC1DQ2Z2TlJnYjFhSlF4bEsyMElpQi1RRVk2WUtQdGpYOXd2VFdDUVdrVDd6SGVhWnFxM3hoYzgtQ3hVUkRJenlqVHI1R3dDMFVTWlh0RTI5ZVBEZw)
+- **台海技术试验**：台湾军队首次在实弹演习中使用美制攻击无人机打击海上目标，验证了远程打击系统在“反入侵”场景中的有效性。[Taiwanese Forces Deploy American-made Attack Drones Against Maritime Targets (USNI News)](https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets)
+- **欧洲空中力量革新**：德国展示“眼镜蛇600”喷气动力拦截无人机，可携带IRIS-T导弹在数百公里外拦截目标；波音则推出第三版“幽灵蝙蝠”，具备内部弹舱可挂载AIM-120中距弹。[Germany’s Cobra 600 (The War Zone)](https://www.twz.com/air/germanys-cobra-600-is-a-jet-powered-interceptor-drone-that-slings-an-iris-t-missile) ｜ [Boeing’s New Larger Ghost Bat (The War Zone)](https://www.twz.com/air/boeings-new-larger-ghost-bat-can-carry-aim-120-amraams-internally)
+- **美国防务预算**：众院拨款委员会公布2027财年1万亿美元国防法案，重点聚焦供应链脱钩，将中国列为“主要战略对手”。[House appropriators release $1 trillion defense bill (Breaking Defense)](https://news.google.com/rss/articles/CBMingFBVV95cUxNVnVYeEFqcnJYUVZZbk9JbmwyTUxuT3pFSlVDSVpENW5rS2VNSGRwcV9VcFl0alFqdUFDRVVOR3lHMm0zZjdYamdiei1xVDVKZmxwcFNPRUU2c0JuemNtanFmOGRfb0lGQUVMRUxGd09IRV95cFR5TkZ3YjRxOVVraHRrdnQ4bW9xcHFqNFloaFJKeXhZdTVueEFUUllrZw)
+- **海上无人机救援**：美军在伊朗附近实施了一次靠无人艇完成的直升机坠毁救援，凸显无人系统在实战搜救中的潜力。[Drone rescue highlights US Navy's autonomous push (Al-Monitor)](https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3FLWE9WYlNnVV9naWZMUXdzX3pIeG0xd3ZpcXdtQVZMbUsxZkxNbjFuQ2dlaDAtNndNYjFDYTJqUjZRRzg5NGtKZUs5SkVrdFF2ME9vTFNUdWhGT2dqa3JvOWNzdlIwdE14R0liSjRjZGw0OHlKeThvNHpjUFBjTnlZd0Q0ZmkwOXVZenZ6eTdXZmRqTmc1MQ)
+
+**后续观察**：美伊冲突的不可预测性是本周最大风险；台湾无人机实战化测试将加速美国对台军售决策；欧洲无人战机的发展可能改写空战规则。
+
+### 海军与印太
+- **台海海上无人机测试**：台湾使用美制攻击无人机打击海上目标，标志着其非对称战力的实质性突破。该型无人机在模拟交战回路后成功命中离岸靶标，未来可能在反登陆作战中发挥关键作用。[Taiwanese Forces Deploy American-made Attack Drones Against Maritime Targets (USNI News)](https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets)
+- **美国下一代战略核潜艇**：哥伦比亚级首艇“哥伦比亚特区号”（SSBN-826）的艇首和艇尾分段照片在社交平台曝光，X型尾舵设计和水下静音能力备受关注。[New Look at America’s Next Ballistic Missile Submarine (Naval News)](https://www.navalnews.com/naval-news/2026/06/new-look-at-americas-next-ballistic-missile-submarine/)
+- **BALTOPS 2026演习启动**：北约在波罗的海开始年度联合演习，今年规模缩减至20艘舰艇、6000人，原因是部分舰艇被调往中东。演习首次由联合部队司令部布鲁塞尔（JFC Brunssum）指挥。[BALTOPS 2026 Exercise Begins (USNI News)](https://news.usni.org/2026/06/10/baltops-2026-exercise-begins)
+- **日韩恢复海上搜救合作**：日本海上自卫队“金刚”号驱逐舰与韩国海军在五岛列岛以西举行联合搜救演习，这是自2017年以来首次，标志两国军事关系回暖。[Japan And South Korea Resume SAREX After Nine-Year Hiatus (Naval News)](https://www.navalnews.com/naval-news/2026/06/japan-and-south-korea-resume-sarex-after-nine-year-hiatus/)
+- **葡萄牙海军换装**：西班牙EM&E公司将为葡萄牙海军提供47座遥控武器站，合同通过北约支持与采购局签署，体现北约内部装备标准化趋势。[EM&E to Supply 47 Remote Weapon Stations to Portuguese Navy (Naval News)](https://www.navalnews.com/naval-news/2026/06/eme-to-supply-47-remote-weapon-stations-to-portuguese-navy/)
+
+**后续观察**：台湾无人机实弹测试将刺激大陆方面相应反制手段的研发；哥伦比亚级潜艇是未来美国海基核威慑的主力，其建造进度影响战略平衡；日韩军事交流若能持续，可能推动更深入的安全合作。
+
+### 中国军情
+- **中国反驳日本抹黑**：针对日方指责中国正常军事活动“增加地区紧张”，中国外交部与中华网均予以驳斥，称日方“无端指责…欺骗公众”。[外交部：日方无端指责抹黑中国正常军事活动 (中国青年网)](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHdjhNTmxfazRQNjdDUmxIdVBLT2V2LXphc0dNQ3ozaHFVLWJZLXdXY2RzbHNUamNWS1AwWU9KcF8yb0YzSFdJYTBUakRpQnBxSE9yNlpRMVlOS1JtM1lDOEI1TVF6VFE) ｜ [日方无端指责抹黑中国正常军事活动 (中华网)](https://news.google.com/rss/articles/CBMicEFVX3lxTE9lXzV3dU8wbC1yNWtNQzVmaGRUNWYwem91bFhWWDgwWklRVVV5cVpwbWltTkNXUXJuQXhoMEI0Y0FUNGVGVF9ubHhCZmhxQ05UYUZOR282ajgyWDZWZE9KUmVpUVZWTURLRDRLb1VRMTE)
+- **美国扩大“中国军工企业”清单**：美国会委员会审议的2027国防授权法将中国列为主要战略对手，并新增比亚迪、宇树科技等企业进入“中国军企”清单，蔚来汽车对此表示强烈反对。[美国扩大“中国军企”清单 比亚迪、宇树皆入列 (dw.com)](https://news.google.com/rss/articles/CBMiogJBVV95cUxNQjhSa3hoS3FtSnd4LUcwMmo5eHprMjlNR0ZPUGRFN1FWRTFUZmRwNVE5MHBXc3dKRWtBZTNXR0QtRFZxd1R6WUN5Q1I5SjVqUk51b29YajdudnN1X2VtVUszUzhQSTllNjk2c2kxX1drdm1Nd0M5MUVvSXMxakJyWFJGcnQyY2dLd1RBY2xnUnBOWkZPeVZKQzJXc2RmLWJUTWNtbGFpM1pCMWU3MzR2U2M5dzNjSHUzUW1hV3ZNSkk4aGVNODgwMmpGRkR4S1QwZ050MGtvakM1SV94aGN2ZS1jaC1mQ0NOVUZiekU3SzhZbkhaZmlIQm9IU1U1anZ5VW9XaERhazBWREJUVTRTRDlnaG1mTjliVG5jZDVhVU9td9IBogJBVV95cUxQdGYzQnUybEFOT2U1U0R4ZkVBckRyaE1RZEU5NkZBV01FeS1GWlJ1UUc0WTBEMWx5YThYUmhZbWE3SG13VWFfVWVIRnItRlItem5ZaXdGVjZkNUJidG5SVVBSZmJPM0lKdEtxZUJTMXZxbUptd2ZyS2pXb3ZvLWZYeU9yakZPUTQ4SHRyX2l0bU9LM3BWZ3lOMTNYR2hrbnF3YnZsZUJmbkFRSFFaSFJfcVphc0dqQUxybXRHdTJmeFZvblltNGhFZUNiVkNUYS1qOG5XamE4YklVczNxMVVxVHNtcmdsaVY0cGp5dC1pQ0p1X0NxWGZaejZBMndRRWtPMFlPSmlWSGFwek1yVlVKTFBLRURvZ3ktNWJFQktyLWdkQQ) ｜ [蔚来汽车反驳 (汽车之家)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VzVtQUhjbWZva3RlNVdLVXNlWWp0bUx5WDJnVW1EM3BTNEpfTEYyT0MwMWFTV25RbG1kbEsxRW9VU3lMcHJDUzRlM29qZmVsNGxoNEVzanlPeDQ)
+- **捷克限制中国汽车**：捷克国防部禁止中国产汽车驶入敏感军事区域，反映欧洲对中国供应链安全的担忧正在向防务领域蔓延。[捷克国防部限制中国汽车进入敏感军事区域 (RFI)](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQSGdBeXV3SVc1OGVTVERhVVdlMU5sMV9zVTlNNlpuLTR6eXpEUy14dkdrSVNkTnowY3JPR2lGYXRNbTBScTR0TzVQZ0JLaklpUGFUbm9yVHRhODZGejlLNkgycHp0SEdYWGpUY192cWpTd280a3BfR2JsVmhMeGxqTV9WSzVwYnZYWFJEdDZSVmRZMWhiTEtnNlpqQlg5UXJQWTlCRl9RSklMM0RsQ3dTNXVScjdzb3oxdGszZU81ZmVEYUFIcFNXSHhfQUhsR0xxdHBIR250TnpQWWhfdnlaSGFlNlVtTzVwaHBkWlFNcndDZk1xYk5INENWcks4WVBHNFBrRThBcFZFcDNjUlFpYmlnY2VsanhIT0EwQ1EtallPMzlEcDhSMTNRcEhJbGdtUnpqeXpwSF9JdG8zMzhtUjRCOA)
+- **西太平洋态势**：有专家警告地区“暗流涌动”，根源在于大国竞争加剧和同盟体系硬化。[西太平洋暗流涌动 (搜狐网)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUhPM2dlMXFGc2FSWkdncXFDa0E3UkF1dDVaSVBZT3I4X21PbHAxNDF3T19MRWU2b2NOVFBCNTBLMkVHR1BxVlQzcTlHVUhub0N5UXRVWXY3Rnd0U1VZSFlLS3Z6SDM1Tkt0eVdBRlFsWUtmcmd3Ni1PRkJnQ0F4Zk45UzBVM0pU)
+
+**后续观察**：美国对华“军工企业”清单扩围将进一步影响中企海外融资与经营，蔚来等被迫自证清白可能导致司法诉讼；捷克等欧洲国家跟随美国限制中国产品，中欧防务关系面临新摩擦。
+
+---
+
+## 冲突局势 · 11 条
+
+过去24小时，美伊冲突从“打代理人”直接升级为“面对面”交火。美国因一架阿帕奇直升机被击落而打击伊朗本土，伊朗革命卫队则用无人机和导弹攻击驻巴林的美国第五舰队及驻约旦目标，双方均未退让。俄罗斯方面，普京拒绝泽连斯基的和谈提议，乌克兰则用远程武器打击俄境内军事和能源设施。瑞典宣布向乌克兰提供16架鹰狮战斗机，这将是乌军首次拥有西方先进战机。土耳其悄悄转向北约的信号值得关注。
+
+- [U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter (WSJ)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1NCUi1ER19KYTBHTk80MkdYQjBxSUlJTUpKU3hNejFxZ09SYWZYV1llVlJVWlhuZUhWRENyeHpJbG5ILV9hNTN5Wi1rR1YyWm5ub2xWY2Q4dEtHMkEwVVo3V2dRSjU2R1Z2dE1oSlpBSUluOTQxdjFpUWF3ZTBhWElCVzg0LUFf)
+- [Iran Strikes US Fifth Fleet In Bahrain (Modern Ghana)](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTm9oNmFCV2dkMUhablVuT0drWHN0MEFpYWpPWmppT3daZzM1R1lCMFpnQS1OSDdTZnBGMVc4ZVNUaG9TaHJIR25EdGhmY1lxODdnSF9ic3puRmo1b1B0elFnUktrZ0wtdlM1UjIyanZHUXhCZjhDUnIwbVlOa3pXUUNOT1E1RkVQNWRfcDZRN1Y2Y3RLbVJxSEd4UdIBmgFBVV95cUxOVUtGd2pxRGdJdGFWNUhabEVvMjlYRWJUTjIzTGpfWXVCUnpGcG42VGx4WFExTVdENGFJX00zcF9ROTBmSGl4dXBtcVRNcVhZWTJGR3FUV0F1U2lFMFlrUi16VGo5dzIxeHY5aTh6bEVNUEpfR2dMbXk5bjNoTHFjOFpOVHdtOFpRNExKYU1JSlI0cjM5bXZBdE5n)
+- [Putin rejects Zelenskyy’s talks offer (MSN)](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV19CbWJhVHBac3ZjMEZiM0RsSXUxelV2dGlkcFgwTjNDaTVrSXNCXzNXRHQ0UklfX011b2Q1SFVMRVFIS3pMc2hNVTg2ZE9aM0hHcDdTa0x5MzZSYW1mQlh1dThac0M1bU01blllT1JJRG96UURGVEI1R05kaEM3d2VzWnNWMDVUeE1CbDdDRDd2eVpqVDVGdWlJQ3FCeTdDTG9oNHFIcFItYXNJcF9xOEd2VzQyazlfdnVMejJ6TnlXVHZ6YzVkTEttdXNwWFUtOXk4R2lMNEFHbHRyUnBjUmxVS1dlbF9KeFVsOEpLUEw)
+- [Sweden is sending Ukraine 16 Gripen jets (OkDiario)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZDB6M3lENnlybFBudUpFWUdtOGF4dDlGZThJSTNqYkZveVVaR3FfRTNoM3liai1WOGFNMGstWGdyR2phbWJhb2N0QXRfTXJxNGhyajl1VlJJRGlNY25idlNuc3gxNnBvQ0tTczZpMjdkT2pmR2djMmV5aEg4YVdJemtSOUd3bmZneEdpLXRsYWtPWHZWZ3dGRm1mS3Q5X1kxWWptbWlKR0tPb1R1Qk5uUXp4TklnNl9YWHZsTkpMbVZ4U1pRQnZsQUhYajNLclZoZ3Z2MTZwRTJoa1FU)
+
+**收束判断**：美伊冲突的升级使中东停火形同虚设，后续48小时是决定全面战争还是重回谈判的关键窗口。
+
+<details><summary>信源 (11)</summary>
+
+- [Australia-United Kingdom Ministerial Consultations (AUKMIN) - Australian Minister for Foreign Affairs](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONi0yM1BYRFZQS2h3WmhVcFBrT3oyaHdnU0laMGxoQmpDbUZvanpnemhYc2JJT1g2anNsSDlvZzZUY3Zkd2tqWTJ5WURfVWpyRlJnbkhwbl9KMHlxbHd4S1BWcGJLZ05IanBOTFVSZy13M2NTSkZubW9GdjNBTzVncVJrdjFMQ3pFZlFmelRjNEhscjM5Tjk1WVI4eVZORGMxaTFRd0MzSFN0cllVZGR0UXhzblJZVkpSQUVaQ2Fra2c) — Google News Conflict Watch · 2026-06-11 01:06 UTC
+- [Russia Balances Relationship with Iran and Other Gulf States - The Jamestown Foundation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFFMRE1QYWw1NzB4WGxlQ0FTYzVpLUpuZXo0NFlRcWo4eDRBVTdtRjNjU0t3dE13ZC13ZnVUVkxlN01jVGJaXzlsb09tQlM3c0pzQ0tMMjlHeE44VG01c1JpZ3ZPaUpkREU1MDBIYWVYLWJobnMzQmZwOENCSzVUb1B3VTZKUnhQZFE0) — Google News Conflict Watch · 2026-06-10 20:16 UTC
+- [Iran Strikes US Fifth Fleet In Bahrain: IRGC Launches Drone Attack On America's Gulf Command As Region-Wide War Escalates - Modern Ghana](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTm9oNmFCV2dkMUhablVuT0drWHN0MEFpYWpPWmppT3daZzM1R1lCMFpnQS1OSDdTZnBGMVc4ZVNUaG9TaHJIR25EdGhmY1lxODdnSF9ic3puRmo1b1B0elFnUktrZ0wtdlM1UjIyanZHUXhCZjhDUnIwbVlOa3pXUUNOT1E5RkVQNWRfcDZRN1Y2Y3RLbVJxSEd4UdIBmgFBVV95cUxOVUtGd2pxRGdJdGFWNUhabEVvMjlYRWJUTjIzTGpfWXVCUnpGcG42VGx4WFExTVdENGFJX00zcF9ROTBmSGl4dXBtcVRNcVhZWTJGR3FUV0F1U2lFMFlrUi16VGo5dzIxeHY5aTh6bEVNUEpfR2dMbXk5bjNoTHFjOFpOVHdtOFpRNExKYU1JSlI0cjM5bXZBdE5n) — Google News Conflict Watch · 2026-06-10 19:45 UTC
+- [Drone rescue highlights US Navy's autonomous push - Al-Monitor](https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3FLWE9WYlNnVV9naWZMUXdzX3pIeG0xd3ZpcXdtQVZMbUsxZkxNbjFuQ2dlaDAtNndNYjFDYTJqUjZRRzg5NGtKZUs5SkVrdFF2ME9vTFNUdWhGT2dqa3JvOWNzdlIwdE14R0liSjRjZGw0OHlKeThvNHpjUFBjTnlZd0Q0ZmkwOXVZenZ6eTdXZmRqTmc1MQ) — Google News Conflict Watch · 2026-06-11 01:37 UTC
+- [Putin rejects Zelenskyy’s talks offer as war intensifies - MSN](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV19CbWJhVHBac3ZjMEZiM0RsSXUxelV2dGlkcFgwTjNDaTVrSXNCXzNXRHQ0UklfX011b2Q1SFVMRVFIS3pMc2hNVTg2ZE9aM0hHcDdTa0x5MzZSYW1mQlh1dThac0M1bU01blllT1JJRG96UURGVEI1R05kaEM3d2VzWnNWMDVUeE1CbDdDRDd2eVpqVDVGdWlJQ3FCeTdDTG9oNHFIcFItYXNJcF9xOEd2VzQyazlfdnVMejJ6TnlXVHZ6YzVkTEttdXNwWFUtOXk4R2lMNEFHbHRyUnBjUmxVS1dlbF9KeFVsOEpLUEw) — Google News Conflict Watch · 2026-06-10 21:54 UTC
+- [Troop rescue near Iran points to rising use of sea drones in combat - The Christian Science Monitor](https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1RxOEN1QjBaTVp4dDRRQWE3ZUNZdDYycDgwR2thOWpmODdnLXNqb2pBY28yY3FwbWZmenZSMGdnZFJIeTFockk0NnUxQ0tRSjVQbmt2aFpJWE8tVnhIdlpfdFE5OWhJRlloSk0wdzFxSFJhUG5MaHZScGg1SVJkcDZEdnN4cjVFX0tUUVk4MXBOc2M5alVQM0lXUnBweE3SAZ8BQVVfeXFMTlNUcThDdUIwWk1aeHQ0UUFhN2VDWXQ2MnA4MEdrYTlqZjg3Zy1zam9qQWNvMmNxcG1mZnp2UjBnZ2RSSHkxaHJJNDZ1MUNLUUo1UG5rdmhaSVhPLVZ4SHZaX3RROTloSUZZaEpNMHcxcUhSYVBuTGh2UnBoNUlSZHA2RHZzeHI1RV9LVFFZODFwTnNjOWpVUDNJV1JwcHhN) — Google News Conflict Watch · 2026-06-10 16:33 UTC
+- [Suez Canal traffic surges as Red Sea disruptions and Hormuz tensions reignite - AzerNews](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDdTkwajBzNElvRko1OC01eWZiQkxlM05zU3g1c1ZPY0ZMczhaMkJaY1p1dUtNOGpKa1F0M2NaQnBMUGRYTGtCdXh2T2IzdTZBTEdvbg) — Google News Conflict Watch · 2026-06-10 14:55 UTC
+- [Europe and India: A Marriage of Convenience - Center for European Policy Analysis (CEPA)](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SU1liWmIwQjRWMHJfU0tCMXk5UnptQTljMERDTm5peWUxWm0wWWNYOHdfU2ZOT3RCSjBYS2ljblBaall1dmRWRTdVc0YxZzU1SmpDaVZySmlLdF9UaTlsZEJzYVJCNDZIWVlZUmFhWVNRVm1ockww) — Google News Conflict Watch · 2026-06-10 12:50 UTC
+- [Winning Hearts and Minds: How Ukraine Can Reach the Arab World - Ukrinform - Ukrainian National News Agency](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXVTV09YWTl6N2ZJV3o0MkxvZk9MZmtFUVYzblFZMFR6d2gwLXhQYkRaNDRyMU9RS3hCcFdBX2VKVGlDYWdxdkRBNHo3UTg2MTN3YnNnTE1Kblc3dV9VRHNNUHR1MkNLQVprSTlQLTZwaGlzekc3NWhYUUF1VW9saWVhTkswallfSEJrQXhZLWpZWnJETG01MHZZV205WGlIYzV4RmxkTWZmd2pBbkJyS0FDTUZUMlU) — Google News Conflict Watch · 2026-06-10 09:00 UTC
+- [Turkey’s Quiet Realignment: Russia’s Loss Is NATO’s Gain - Foreign Affairs](https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Ry13YVBtN293anRJRWZhOGdtUWtOUkllajJTbF9vVG9TVE9ubkUyTE1SOXZQbHNHUVl5UEQwV01nYWVXak1teG1FSjR4OXhTUklfanZVd2Y1Sm9KSkdjRXZnb2tyOGdWR25oMm85UVU) — Google News Conflict Watch · 2026-06-10 04:00 UTC
+- [U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter - WSJ](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1NCUi1ER19KYTBHTk80MkdYQjBxSUlJTUpKU3hNejFxZ09SYWZYV1llVlJVWlhuZUhWRENyeHpJbG5ILV9hNTN5Wi1rR1YyWm5ub2xWY2Q4dEtHMkEwVVo3V2dRSjU2R1Z2dE1oSlpBSUluOTQxdjFpUWF3ZTBhWElCVzg0LUFf) — Google News Conflict Watch · 2026-06-10 03:04 UTC
+
+</details>
+
+## 国际安全 · 31 条
+
+美伊冲突是今日国际安全的最大变量，一夜之间，4月8日以来的停火协议被打破。美国对伊朗实施连续空袭，伊朗反击打到了巴林和约旦。与此同时，台湾首次用美制攻击无人机打击海上目标，验证了非对称战力的实战化。欧洲方面，德国展示“眼镜蛇600”拦截无人机，波音推出第三版“幽灵蝙蝠”可内挂导弹，美国众院公布万亿国防预算案。海上无人艇在伊朗附近完成直升机救援，凸显无人系统价值。
+
+- [Overnight Attacks Rattle U.S.-Iran Ceasefire (The War Zone)](https://www.twz.com/news-features/overnight-attacks-rattle-u-s-iran-ceasefire)
+- [Taiwanese Forces Deploy American-made Attack Drones (USNI News)](https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets)
+- [Germany’s Cobra 600 (The War Zone)](https://www.twz.com/air/germanys-cobra-600-is-a-jet-powered-interceptor-drone-that-slings-an-iris-t-missile)
+- [Boeing’s New Larger Ghost Bat (The War Zone)](https://www.twz.com/air/boeings-new-larger-ghost-bat-can-carry-aim-120-amraams-internally)
+- [House appropriators release $1 trillion defense bill (Breaking Defense)](https://news.google.com/rss/articles/CBMingFBVV95cUxNVnVYeEFqcnJYUVZZbk9JbmwyTUxuT3pFSlVDSVpENW5rS2VNSGRwcV9VcFl0alFqdUFDRVVOR3lHMm0zZjdYamdiei1xVDVKZmxwcFNPRUU2c0JuemNtanFmOGRfb0lGQUVMRUxGd09IRV95cFR5TkZ3YjRxOVVraHRrdnQ4bW9xcHFqNFloaFJKeXhZdTVueEFUUllrZw)
+
+**收束判断**：美伊冲突风险外溢，波罗的海及印太难再获资源支持；无人系统在台海和中东的实战化测试正在加速各国军备采购策略。
+
+<details><summary>信源 (31)</summary>
+
+- [Israel Braces for Iranian Missiles After New U.S. Strikes on Targets Across Iran - Haaretz](https://news.google.com/rss/articles/CBMimwJBVV95cUxQVzRFOV9aT1BJZjV1eGk0eUpFMHFvOHNDZDBXSUh4eXBGMjVONWNBeEc2cGdYX2N3ZER2a2J4ZERWNkdmQjNJMllMWVJOM0k2dW4tTkJRbVFDQUJZR29RcWhtSVE3MTBtUlI0S1E4Qll3eUJVano0emV6OThPZnRTbldDRlc2U25IeVNZSHJFQXhDaU9tQ21TdGg0aGpmc0dxSC16WTMxa2U5TjFMaE9iLVptUzh1VHRJb3hUdERaRWlpei1OVEI4OTNfY0s3c09DaDBBOXRuaHY2cjJXdHhZbW1uSWNxVTZnaDJMcDlQSVJJd2RRaUE3aWZyMHc5NldpNnF1RUc1cGVNVU4tNFNabWJxNmFlWDhqd2ZN) — Google News Global Military · 2026-06-11 00:21 UTC
+- [Taiwanese Forces Deploy American-made Attack Drones Against Maritime Targets - USNI News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0hfLWZhZzdRcWRqRkVvNFZVX0FzUVFfN3BRZF9Zcl8zalI3U2kxd2thcVp4MXlQTzN5VDRqaFRLakVrWW9ZLWpJb1RHRGF0MEVQSE0yRGExSlZZWnV3T3VQa0szcjVCT1ZIS1VFT19OdW4tMk1TdFFvY3IyTlNrZHl2RzV1M0hOS2RVRmZVMzlPYi1KblFpcF9vRldBZlNlUy1KbWJRR01EdmxKaHc) — Google News Global Military · 2026-06-10 22:14 UTC
+- [Boeing’s New Larger Ghost Bat Can Carry AIM-120 AMRAAMs Internally](https://www.twz.com/air/boeings-new-larger-ghost-bat-can-carry-aim-120-amraams-internally) — The War Zone · 2026-06-10 21:12 UTC
+- [Trump recounts how Army pilots involved in helicopter crash and drone boat rescue were ‘very lucky’ - DefenseScoop](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamM3c1VMVDFRM0VRQmJ2TktybEl3dkVsWG1iakl5WFAtRU5oRmJxQzVyeFBBSnRHUWU3VWVaWjdxak4zZUV5cG5pckxPSU5Rcmk3cG9YYzVjV0hVaEhXR0FJQ1luM0lGcjlZTTRoX0RFWnBGSFRTUDBDVWlpWHFBVWk2T281ajNqQVlfNHlXUU5uNGF3X0xya1lKYUhKM0JGZ29IT0JURXVkTTQ) — Google News Global Military · 2026-06-10 21:01 UTC
+- [Overnight Attacks Rattle U.S.-Iran Ceasefire (Updated)](https://www.twz.com/news-features/overnight-attacks-rattle-u-s-iran-ceasefire) — The War Zone · 2026-06-10 20:13 UTC
+- [Is This Secretive Air Force 737 About To Become NASA’s Next ‘Vomit Comet’?](https://www.twz.com/air/is-this-secretive-air-force-737-about-to-become-nasas-next-vomit-comet) — The War Zone · 2026-06-10 18:47 UTC
+- [US strikes Iran in second day of renewed fire - WHEC.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmo0X3FrOGRCRUF4VVlxTjdTM3RhcVN2TkFmdjhTLUVvMDlubDJDTktCWC1DQ2Z2TlJnYjFhSlF4bEsyMElpQi1RRVk2WUtQdGpYOXd2VFdDUVdrVDd6SGVhWnFxM3hoYzgtQ3hVUkRJenlqVHI1R3dDMFVTWlh0RTI5ZVBEZw) — Google News Global Military · 2026-06-11 01:50 UTC
+- [Sweden is sending Ukraine 16 Gripen jets with 200-km missiles, and Russia’s air-defense map may have to adjust - OkDiario](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZDB6M3lENnlybFBudUpFWUdtOGF4dDlGZThJSTNqYkZveVVaR3FfRTNoM3liai1WOGFNMGstWGdyR2phbWJhb2N0QXRfTXJxNGhyajl1VlJJRGlNY25idlNuc3gxNnBvQ0tTczZpMjdkT2pmR2djMmV5aEg4YVdJemtSOUd3bmZneEdpLXRsYWtPWHZWZ3dGRm1mS3Q5X1kxWWptbWlKR0tPb1R1Qk5uUXp4TklnNl9YWHZsTkpMbVZ4U1pRQnZsQUhYajNLclZoZ3Z2MTZwRTJoa1FU) — Google News Global Military · 2026-06-10 17:30 UTC
+- [Germany’s Cobra 600 Is A Jet Powered Interceptor Drone That Slings An IRIS-T Missile](https://www.twz.com/air/germanys-cobra-600-is-a-jet-powered-interceptor-drone-that-slings-an-iris-t-missile) — The War Zone · 2026-06-10 16:49 UTC
+- [With the 25HGP hypersonic glide vehicle, Japan's Self-Defense Forces field an effective response to China - meta-defense.fr](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUZIYndSZGhEQi0wUldfbll3eFRfRkVCRGk1WE5sZk03QXVZRXI4cUlVbGxtZ2t4LUN1X0JNTkFpSWY5bE5MSHB3MFBaTUtpZTJVblN1VzVtN2dKYWxnVzRtZ0kxR3BMVVNKRUFSYVQ1MDMySVNwV3NROTlPLXo3VXVNNzg5dFR4MThuU0tIQlhXaS03) — Google News Global Military · 2026-06-10 16:11 UTC
+- [House appropriators release $1 trillion defense bill for FY27 - Breaking Defense](https://news.google.com/rss/articles/CBMingFBVV95cUxNVnVYeEFqcnJYUVZZbk9JbmwyTUxuT3pFSlVDSVpENW5rS2VNSGRwcV9VcFl0alFqdUFDRVVOR3lHMm0zZjdYamdiei1xVDVKZmxwcFNPRUU2c0JuemNtanFmOGRfb0lGQUVMRUxGd09IRV95cFR5TkZ3YjRxOVVraHRrdnQ4bW9xcHFqNFloaFJKeXhZdTVueEFUUllrZw) — Google News Global Military · 2026-06-10 15:51 UTC
+- [U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmVTQlBBU2hybzN1RVMzZUZuU19hbTYtRm5GdW9kUU9Kd19KOThfbUE2aHRyNFU3NnZSS2RjREJUbW14NTZXMEVxNDJNdnlLd1I0SXh4U1JmTlVQRU9GNEhlUkRxRWc4Sm14LUdkWm0yU3dYaU8taVVGYkV0TEFGZw) — Google News Global Military · 2026-06-10 15:51 UTC
+- [Ukraine launches long-range strikes on military and energy sites in Russia - Los Angeles Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlMtTzFnMGdMMEhaQ1JnSmlickUzTTJRdm8xdDdTNllUT1FTQ0pSZTUzUERfOFRRYkZPUUU1NzJyN1l0eHQtdUxSbVlMNjdIQjN4VXFIVDN2dnlIT2l6Sl9sRkFKRkZNSVljY0hpT2Y0UnRLeTgyOEtzY3N1TWxCaUZEdVRLRmwyWDk0ay1IclRxOTdYZ2RXUTVHTEVpWVBHSWJURGJWZjVPaHp5NTZEV2V4UU1yZ1dudFZNY2pBYWRjdw) — Google News Global Military · 2026-06-10 14:27 UTC
+- [The US Launches Airstrikes on Iran After Blaming Tehran for Helicopter Crash, Prompting Retaliation - The National Herald](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHo2Z2gtWHhlcjRzal9ZbTNVbVJBTXlveUgyaldIMFN5UDJ3NWYtOUVsZElIYWNlaXdCMnMxb1RjNTYwZW1WelZFQ212YV81Y0NVNGNxcldxRjI3bTFkQndpSWo0WUxoOVRTMzFiNVRoU3R2Sm43WGhiOGRLcEdtcjVsbzFoaWhyaDhzSUVxYkZveDlwWWoxRXlYbUxKanNEQnV4NzNucw) — Google News Global Military · 2026-06-10 13:30 UTC
+
+</details>
+
+## 海军与印太 · 7 条
+
+台海方向，台湾首次使用美制攻击无人机在实弹演习中打击海上目标，标志着其非对称打击能力从理论走向实战。美国下一代“哥伦比亚级”核潜艇艇体分段曝光，展示了X型尾舵等先进设计。北约BALTOPS 2026演习在波罗的海启动，但规模因中东局势缩减。日本与韩国在时隔九年后恢复联合海上搜救演习，表明两国军事合作回暖。葡萄牙海军通过北约采购47座遥控武器站，强化近海防御。
+
+- [Taiwanese Forces Deploy American-made Attack Drones (USNI News)](https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets)
+- [New Look at America’s Next Ballistic Missile Submarine (Naval News)](https://www.navalnews.com/naval-news/2026/06/new-look-at-americas-next-ballistic-missile-submarine/)
+- [BALTOPS 2026 Exercise Begins (USNI News)](https://news.usni.org/2026/06/10/baltops-2026-exercise-begins)
+- [Japan And South Korea Resume SAREX (Naval News)](https://www.navalnews.com/naval-news/2026/06/japan-and-south-korea-resume-sarex-after-nine-year-hiatus/)
+- [EM&E to Supply 47 Remote Weapon Stations (Naval News)](https://www.navalnews.com/naval-news/2026/06/eme-to-supply-47-remote-weapon-stations-to-portuguese-navy/)
+
+**收束判断**：台湾无人机实弹测试将加大解放军反制压力；美日韩海军合作若持续，可能改变西太平洋兵力部署态势。
+
+<details><summary>信源 (7)</summary>
+
+- [Taiwanese Forces Deploy American-made Attack Drones Against Maritime Targets](https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets) — USNI News · 2026-06-10 22:14 UTC
+- [New Look at America’s Next Ballistic Missile Submarine](https://www.navalnews.com/naval-news/2026/06/new-look-at-americas-next-ballistic-missile-submarine/) — Naval News · 2026-06-10 20:39 UTC
+- [BALTOPS 2026 Exercise Begins](https://news.usni.org/2026/06/10/baltops-2026-exercise-begins) — USNI News · 2026-06-10 21:14 UTC
+- [Sailors Involved in JFK Shooting Were Part of Carrier’s In-Port Security Force](https://news.usni.org/2026/06/10/sailors-involved-in-jfk-shooting-were-part-of-carriers-in-port-security-force) — USNI News · 2026-06-10 19:27 UTC
+- [GAO Report to Congress on the Department of Homeland Security Acquisition](https://news.usni.org/2026/06/10/gao-report-to-congress-on-the-department-of-homeland-security-acquisition) — USNI News · 2026-06-10 13:58 UTC
+- [Japan And South Korea Resume SAREX After Nine-Year Hiatus](https://www.navalnews.com/naval-news/2026/06/japan-and-south-korea-resume-sarex-after-nine-year-hiatus/) — Naval News · 2026-06-10 08:31 UTC
+- [EM&E to Supply 47 Remote Weapon Stations to Portuguese Navy](https://www.navalnews.com/naval-news/2026/06/eme-to-supply-47-remote-weapon-stations-to-portuguese-navy/) — Naval News · 2026-06-10 07:55 UTC
+
+</details>
+
+## 中国军情 · 10 条
+
+今日中国军情聚焦外交摩擦与供应链安全。中国外交部批驳日本对中国正常军事活动的指责，称其“刻意渲染紧张”。美国会委员会在2027国防授权法中明确将中国列为主要战略对手，并扩大“中国军工企业”清单，将比亚迪、宇树科技等新增入列，蔚来汽车公开反驳。捷克国防部紧随美国，限制中国汽车进入军事区域。此外，有专家就西太平洋局势发出“暗流涌动”的警示。
+
+- [外交部：日方无端指责抹黑中国正常军事活动 (中国青年网)](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHdjhNTmxfazRQNjdDUmxIdVBLT2V2LXphc0dNQ3ozaHFVLWJZLXdXY2RzbHNUamNWS1AwWU9KcF8yb0YzSFdJYTBUakRpQnBxSE9yNlpRMVlOS1JtM1lDOEI1TVF6VFE)
+- [美国扩大“中国军企”清单 比亚迪、宇树皆入列 (dw.com)](https://news.google.com/rss/articles/CBMiogJBVV95cUxNQjhSa3hoS3FtSnd4LUcwMmo5eHprMjlNR0ZPUGRFN1FWRTFUZmRwNVE5MHBXc3dKRWtBZTNXR0QtRFZxd1R6WUN5Q1I5SjVqUk51b29YajdudnN1X2VtVUszUzhQSTllNjk2c2kxX1drdm1Nd0M5MUVvSXMxakJyWFJGcnQyY2dLd1RBY2xnUnBOWkZPeVZKQzJXc2RmLWJUTWNtbGFpM1pCMWU3MzR2U2M5dzNjSHUzUW1hV3ZNSkk4aGVNODgwMmpGRkR4S1QwZ050MGtvakM1SV94aGN2ZS1jaC1mQ0NOVUZiekU3SzhZbkhaZmlIQm9IU1U1anZ5VW9XaERhazBWREJUVTRTRDlnaG1mTjliVG5jZDVhVU9td9IBogJBVV95cUxQdGYzQnUybEFOT2U1U0R4ZkVBckRyaE1RZEU5NkZBV01FeS1GWlJ1UUc0WTBEMWx5YThYUmhZbWE3SG13VWFfVWVIRnItRlItem5ZaXdGVjZkNUJidG5SVVBSZmJPM0lKdEtxZUJTMXZxbUptd2ZyS2pXb3ZvLWZYeU9yakZPUTQ4SHRyX2l0bU9LM3BWZ3lOMTNYR2hrbnF3YnZsZUJmbkFRSFFaSFJfcVphc0dqQUxybXRHdTJmeFZvblltNGhFZUNiVkNUYS1qOG5XamE4YklVczNxMVVxVHNtcmdsaVY0cGp5dC1pQ0p1X0NxWGZaejZBMndRRWtPMFlPSmlWSGFwek1yVlVKTFBLRURvZ3ktNWJFQktyLWdkQQ)
+- [蔚来汽车反驳被美列入中国军工企业名单 (汽车之家)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VzVtQUhjbWZva3RlNVdLVXNlWWp0bUx5WDJnVW1EM3BTNEpfTEYyT0MwMWFTV25RbG1kbEsxRW9VU3lMcHJDUzRlM29qZmVsNGxoNEVzanlPeDQ)
+- [捷克国防部限制中国汽车进入敏感军事区域 (RFI)](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQSGdBeXV3SVc1OGVTVERhVVdlMU5sMV9zVTlNNlpuLTR6eXpEUy14dkdrSVNkTnowY3JPR2lGYXRNbTBScTR0TzVQZ0JLaklpUGFUbm9yVHRhODZGejlLNkgycHp0SEdYWGpUY192cWpTd280a3BfR2JsVmhMeGxqTV9WSzVwYnZYWFJEdDZSVmRZMWhiTEtnNlpqQlg5UXJQWTlCRl9RSklMM0RsQ3dTNXVScjdzb3oxdGszZU81ZmVEYUFIcFNXSHhfQUhsR0xxdHBIR250TnpQWWhfdnlaSGFlNlVtTzVwaHBkWlFNcndDZk1xYk5INENWcks4WVBHNFBrRThBcFZFcDNjUlFpYmlnY2VsanhIT0EwQ1EtallPMzlEcDhSMTNRcEhJbGdtUnpqeXpwSF9JdG8zMzhtUjRCOA)
+
+**收束判断**：美国扩大“中国军企”清单将加剧中企海外合规风险，捷克等欧洲国家的跟随动作表明供应链“去中国化”正从经济向防务领域蔓延。
+
+<details><summary>信源 (10)</summary>
+
+- [日方无端指责抹黑中国正常军事活动 渲染紧张局势欺骗公众 - 中华网](https://news.google.com/rss/articles/CBMicEFVX3lxTE9lXzV3dU8wbC1yNWtNQzVmaGRUNWYwem91bFhWWDgwWklRVVV5cVpwbWltTkNXUXJuQXhoMEI0Y0FUNGVGVF9ubHhCZmhxQ05UYUZOR282ajgyWDZWZE9KUmVpUVZWTURLRDRLb1VRMTE) — Google News China Military · 2026-06-11 00:05 UTC
+- [计划公布！广西招369人，其中2名女生 - 新浪财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkFacTFwX21zZDlPRG5GN0dhUUZ0UEF0MEhyTVNOaU5YejFmMXJqTHpGMm9mNDdrY2hQVWJuclBCR2U0UDVnZnVEdEx6VXBLcEYzaEVNYUYtUEdFZEdfLWlzN1VHN1BGZmZ1SDg0OG5XdWM4SUhJaTUzRm1hbWxMMEVQc0NSMWVUN1JhNWktZw) — Google News China Military · 2026-06-10 23:29 UTC
+- [美国会委员会审议《2027年国防授权法》，将中国列主要战略对手并聚焦供应链脱钩 - 美国之音](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMzNzYkl2Y0lpX1lDdVpXc3BWQUxZckNwcjltR185bUZncXZPdS15TGNfVGo4dHpvbXdXTmZOQWhrcnBpVjlKOHA1VWFpTjBFYmtZSFZQR3V1RW0xNTVhSnhTWkE1Snd6c3dyUm1fMlhXNGN1RHVRSVF4MDBldlJzVS11RVNvZnZwMmJac0FzelIwVjlOVEFfNXpZcGVIMU4zRFN2ZGhOZzFWY2JUa1Jka05MaldzWS1LUDJoOUZnQzdhMEpabjhzV3lSek5uTmRnam9BS3hINU5SUGlvcDdjU1Z6X0lmUdIB5gFBVV95cUxNMzNzYkl2Y0lpX1lDdVpXc3BWQUxZckNwcjltR185bUZncXZPdS15TGNfVGo4dHpvbXdXTmZOQWhrcnBpVjlKOHA1VWFpTjBFYmtZSFZQR3V1RW0xNTVhSnhTWkE1Snd6c3dyUm1fMlhXNGN1RHVRSVF4MDBldlJzVS11RVNvZnZwMmJac0FzelIwVjlOVEFfNXpZcGVIMU4zRFN2ZGhOZzFWY2JUa1Jka05MaldzWS1LUDJoOUZnQzdhMEpabjhzV3lSek5uTmRnam9BS3hINU5SUGlvcDdjU1Z6X0lmUQ) — Google News China Military · 2026-06-10 21:36 UTC
+- [蔚来汽车反驳被美列入中国军工企业名单 称缺乏正当依据！ - 汽车之家](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VzVtQUhjbWZva3RlNVdLVXNlWWp0bUx5WDJnVW1EM3BTNEpfTEYyT0MwMWFTV25RbG1kbEsxRW9VU3lMcHJDUzRlM29qZmVsNGxoNEVzanlPeDQ) — Google News China Military · 2026-06-10 20:37 UTC
+- [涨知识！32秒带你分清军官军衔 - video.sina.com.cn](https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0hkQldvdmU4Z1NvUXVjaG1XZlluTVd2QWlhRkZ1UVQwck9fQldjOXNGX3hONGtzV3B1SkNMeVVlcnZtQVM4NVI3eVJRdGFDMnZwSVlvQ0REVVBMUFZ1c1czOEtVZGZrbGNkeC16RzFKeE9PT0xnNkFGd3NpUldHRg) — Google News China Military · 2026-06-10 16:20 UTC
+- [捷克国防部限制中国汽车进入敏感军事区域 - RFI](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQSGdBeXV3SVc1OGVTVERhVVdlMU5sMV9zVTlNNlpuLTR6eXpEUy14dkdrSVNkTnowY3JPR2lGYXRNbTBScTR0TzVQZ0JLaklpUGFUbm9yVHRhODZGejlLNkgycHp0SEdYWGpUY192cWpTd280a3BfR2JsVmhMeGxqTV9WSzVwYnZYWFJEdDZSVmRZMWhiTEtnNlpqQlg5UXJQWTlCRl9RSklMM0RsQ3dTNXVScjdzb3oxdGszZU81ZmVEYUFIcFNXSHhfQUhsR0xxdHBIR250TnpQWWhfdnlaSGFlNlVtTzVwaHBkWlFNcndDZk1xYk5INENWcks4WVBHNFBrRThBcFZFcDNjUlFpYmlnY2VsanhIT0EwQ1EtallPMzlEcDhSMTNRcEhJbGdtUnpqeXpwSF9JdG8zMzhtUjRCOA) — Google News China Military · 2026-06-10 15:28 UTC
+- [西太平洋暗流涌动，谁在按下危险键？专家直击根源 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUhPM2dlMXFGc2FSWkdncXFDa0E3UkF1dDVaSVBZT3I4X21PbHAxNDF3T19MRWU2b2NOVFBCNTBLMkVHR1BxVlQzcTlHVUhub0N5UXRVWXY3Rnd0U1VZSFlLS3Z6SDM1Tkt0eVdBRlFsWUtmcmd3Ni1PRkJnQ0F4Zk45UzBVM0pU) — Google News China Military · 2026-06-10 14:01 UTC
+- [南海夏季风爆发？主汛期来了？ - 天气网](https://news.google.com/rss/articles/CBMiZEFVX3lxTE81RVpoVUZfNXdKdFd4bFlrVmEzYU5jN1ZQS21rS3dzekxfQ2ZLWHN3RWpuUk5wSGd0YWhFdDNZQU9lT25pVnBrVVg3WWM0LWk4WlhFazdOVE1fZ2dVVUhGd2ZnNUk) — Google News China Military · 2026-06-10 11:31 UTC
+- [外交部：日方无端指责抹黑中国正常军事活动，刻意渲染周边紧张局势 - 中国青年网](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHdjhNTmxfazRQNjdDUmxIdVBLT2V2LXphc0dNQ3ozaHFVLWJZLXdXY2RzbHNUamNWS1AwWU9KcF8yb0YzSFdJYTBUakRpQnBxSE9yNlpRMVlOS1JtM1lDOEI1TVF6VFE) — Google News China Military · 2026-06-10 09:09 UTC
+- [美国扩大“中国军企”清单 比亚迪、宇树皆入列 - dw.com](https://news.google.com/rss/articles/CBMiogJBVV95cUxNQjhSa3hoS3FtSnd4LUcwMmo5eHprMjlNR0ZPUGRFN1FWRTFUZmRwNVE5MHBXc3dKRWtBZTNXR0QtRFZxd1R6WUN5Q1I5SjVqUk51a29YajdudnN1X2VtVUszUzhQSTllNjk2c2kxX1drdm1Nd0M5MUVvSXMxakJyWFJGcnQyY2dLd1RBY2xnUnBOWkZPeVZKQzJXc2RmLWJUTWNtbGFpM1pCMWU3MzR2U2M5dzNjSHUzUW1hV3ZNSkk4aGVNODgwMmpGRkR4S1QwZ050MGtvakM1SV94aGN2ZS1jaC1mQ0NOVUZiekU3SzhZbkhaZmlIQm9IU1U1anZ5VW9XaERhazBWREJUVTRTRDlnaG1mTjliVG5jZDVhVU9td9IBogJBVV95cUxQdGYzQnUybEFOT2U1U0R4ZkVBckRyaE1RZEU5NkZBV01FeS1GWlJ1UUc0WTBEMWx5YThYUmhZbWE3SG13VWFfVWVIRnItRlItem5ZaXdGVjZkNUJidG5SVVBSZmJPM0lKdEtxZUJTMXZxbUptd2ZyS2pXb3ZvLWZYeU9yakZPUTQ4SHRyX2l0bU9LM3BWZ3lOMTNYR2hrbnF3YnZsZUJmbkFRSFFaSFJfcVphc0dqQUxybXRHdTJmeFZvblltNGhFZUNiVkNUYS1qOG5XamE4YklVczNxMVVxVHNtcmdsaVY0cGp5dC1pQ0p1X0NxWGZaejZBMndRRWtPMFlPSmlWSGFwek1yVlVKTFBLRURvZ3ktNWJFQktyLWdkQQ) — Google News China Military · 2026-06-10 03:00 UTC
+
+</details>
+
+
+
+---
+*由本地 News Radar 自动生成。*
