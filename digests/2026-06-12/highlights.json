@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "SpaceX IPO定价1.78万亿美元创纪录",
+      "特朗普宣称美伊即将签署和平协议",
+      "ECB加息25个基点至4%应对能源通胀",
+      "A股成交额突破2.5万亿元放量上涨",
+      "中国电动车市占率飙至66.7%创新高"
+    ],
+    "news-society": [
+      "伊朗和平表态虚实不定令市场波动",
+      "尹锡悦因无人机越境案被判30年",
+      "世界杯在墨西哥开幕爆发警民冲突",
+      "中国9所高校霸榜自然指数全球前十",
+      "教皇赴加那利群岛呼吁善待移民"
+    ],
+    "news-military": [
+      "美伊互攻第二天美军击毁3艘油轮",
+      "F-35战备率跌至25%五角大楼申请137亿美元",
+      "台湾首次在西海岸试射HIMARS",
+      "北约计划7月在安卡拉召开乌克兰战争峰会",
+      "欧洲依赖美国武器面临交付延误困局"
+    ],
+    "news-tech": [
+      "OpenAI计划大幅降低Token成本引爆价格战",
+      "DeepMind研究数百万AI代理交互的潜在危险",
+      "Bezos的Prometheus融资120亿美元打造物理AI",
+      "固态电池首次在北美路测成功",
+      "Waymo推出每月30美元付费会员服务"
+    ],
+    "news-sports": [
+      "世界杯揭幕战墨西哥2-0南非创三红牌纪录",
+      "尼克斯完成29分大逆转距52年来首冠一步之遥",
+      "韩国队2-1逆转捷克黄仁范一传一射",
+      "皇马官宣穆里尼奥第二次执教",
+      "日本队长远藤航因伤退出世界杯并退役"
+    ],
+    "news-entertainment": [
+      "斯皮尔伯格《Disclosure Day》首日票房约1200万美元",
+      "Taylor Swift在词曲创作者名人堂含泪致谢",
+      "Olivia Rodrigo新专辑获评新浪潮转向",
+      "白鹿起诉9人侵犯名誉权工作室澄清诉讼流程",
+      "第28届上海国际电影节今日开幕"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "SpaceX IPO set for $1.78 trillion valuation",
+      "US-Iran peace deal hopes lift stocks",
+      "ECB hikes rates for first time since 2023",
+      "China EV sales hit record 66.7% market share",
+      "A-shares surge on broad-based buying"
+    ],
+    "news-society": [
+      "Trump claims Iran deal near; Tehran denies",
+      "South Korea ex-president Yoon gets 30 years",
+      "2026 World Cup opens in Mexico amid protests",
+      "Palestinian homes razed in East Jerusalem",
+      "Sudan drone strike worsens humanitarian crisis"
+    ],
+    "news-military": [
+      "US strikes over 50 Iranian military bases",
+      "Three Indian mariners killed in blockade",
+      "Ukraine war surpasses WWI duration",
+      "Ukraine hits Crimea fuel supplies",
+      "China expands South China Sea construction"
+    ],
+    "news-tech": [
+      "OpenAI cuts token costs, sparking AI price war",
+      "Jeff Bezos's Prometheus raises $12B for AI",
+      "DeepMind funds research on multi-agent risks",
+      "Solid-state batteries enter real-world EV tests",
+      "Amazon refreshes Echo Hub; Bluesky launches chat"
+    ],
+    "news-sports": [
+      "Mexico wins World Cup opener with 3 red cards",
+      "Knicks mount largest NBA Finals comeback",
+      "South Korea beats Czechia in low-attendance match",
+      "USMNT prepares for Paraguay opener",
+      "Real Madrid reappoints José Mourinho"
+    ],
+    "news-entertainment": [
+      "Spielberg's 'Disclosure Day' opens to $12M",
+      "Taylor Swift inducted into Songwriters Hall of Fame",
+      "Olivia Rodrigo releases acclaimed third album",
+      "Celebrity fashion fuels NBA Finals viral moments",
+      "Shanghai Film Festival opens with digital push"
+    ]
+  }
+}
