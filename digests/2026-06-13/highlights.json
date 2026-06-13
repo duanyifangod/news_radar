@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "SpaceX首日暴涨25%，马斯克成万亿富豪",
+      "ECB加息25bp，市场押注一次即止",
+      "港股大跌437点，受SpaceX抽血影响",
+      "美政府要求Anthropic屏蔽新AI模型",
+      "派拉蒙与华纳合并获DOJ批准"
+    ],
+    "news-society": [
+      "美军击毙委内瑞拉黑帮头目",
+      "伊朗和谈接近达成，霍尔木兹海峡有望重开",
+      "Jessie J癌症痊愈后赴华巡演",
+      "中国AI模型反超GPT-5.5",
+      "法国女孩被杀，警方被质疑失职"
+    ],
+    "news-military": [
+      "美军A-10攻击机抵达英国携任务标记",
+      "THAAD系统宣称拦截90%伊朗导弹",
+      "印度确认3名船员死于美军打击",
+      "全球航运成本翻倍，燃油暴涨",
+      "F-35战备率跌至25%历史低点"
+    ],
+    "news-tech": [
+      "SpaceX IPO首日涨19%，马斯克成万亿富翁",
+      "美政府强制Anthropic下线两款AI模型",
+      "乌克兰全自主无人机首次击杀俄军",
+      "小米发布机器人充电臂实现自动充电",
+      "FFmpeg被曝21个零日漏洞敲响警钟"
+    ],
+    "news-sports": [
+      "美国队4-1大胜巴拉圭，巴洛贡两球",
+      "VAR出现“认错人”黄牌闹剧",
+      "英格兰队训练器材在赛前失窃",
+      "朱芳雨将空降北大篮球赛总决赛",
+      "国羽锁定澳羽男双决赛席位"
+    ],
+    "news-entertainment": [
+      "华纳兄弟以1110亿美元出售给派拉蒙获批",
+      "韩国电影《Colony》24天破500万观影",
+      "中国三协会禁止撕番，按笔画排序",
+      "BTS新单曲《Come Over》横扫全球",
+      "迪丽热巴与陈飞宇秘恋话题登热搜"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "SpaceX IPO surges 19%, market cap above $2T",
+      "Elon Musk becomes world's first trillionaire",
+      "ECB raises rates 25bp, likely one-time move",
+      "US blocks foreign access to Anthropic's new AI models",
+      "Hong Kong stocks sink to three-month low"
+    ],
+    "news-society": [
+      "US military kills Venezuelan gang leader",
+      "Iran peace deal near but not signed",
+      "David Hockney dies at 88",
+      "Taylor Swift inducted into Songwriters Hall of Fame",
+      "World Cup faces empty seats and Iran match tensions"
+    ],
+    "news-military": [
+      "Three Indian seafarers killed in US strikes near Hormuz",
+      "Only 1 in 4 F-35s is fully mission capable",
+      "Russia builds troops infrastructure near NATO's northern flank",
+      "Europe's next-gen fighter program splits with new coalition",
+      "China holds military exercises targeting Japan"
+    ],
+    "news-tech": [
+      "US orders shutdown of Anthropic's most powerful AI models",
+      "SpaceX IPO up 19%, Musk becomes first trillionaire",
+      "Ukraine deploys fully autonomous drones in combat",
+      "BYD unveils luxury sedan with 1,000-km range",
+      "Critical PeopleSoft zero-day and FFmpeg flaws found"
+    ],
+    "news-sports": [
+      "USA wins World Cup opener 4-1 against Paraguay",
+      "VAR mistaken identity booking confuses fans",
+      "England's training equipment stolen ahead of match",
+      "Topuria shoves Gaethje at Lincoln Memorial",
+      "Star-studded Chinese university basketball final"
+    ],
+    "news-entertainment": [
+      "US approves $111bn Warner Bros-Paramount merger",
+      "China bans credit-stealing disputes in actor credits",
+      "Emmy voting at fever pitch with record series",
+      "Roku stock jumps 20% on sale talks",
+      "Directors Guild deal includes AI training provisions"
+    ]
+  }
+}
