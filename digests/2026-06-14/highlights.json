@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "SpaceX IPO市值破2万亿美元成全美第六",
+      "特朗普宣布周日签伊朗和平协议油价承压",
+      "芯片股反弹费城半导体指数涨超5%",
+      "恒指重挫437点至近三月低位",
+      "JPMorgan称中国AI竞争转向企业价值兑现"
+    ],
+    "news-society": [
+      "俄家庭用AI复活战死亲人引发伦理争议",
+      "美伊和平协议时间表矛盾伊朗否认周日",
+      "瑞士右翼推动人口上限公投争议激烈",
+      "纽约尼克斯时隔50年重夺NBA总冠军",
+      "挪威王室准王妃之子涉40项指控宣判"
+    ],
+    "news-military": [
+      "伊朗精确打击巴林AR-327雷达暴露美漏洞",
+      "乌克兰夜间打击伏尔加格勒油库削弱俄能源",
+      "G7峰会重点讨论俄乌冲突与伊朗核问题",
+      "美国计划削减驻欧北约作战飞机与舰艇",
+      "中国商务部反击美中国军事企业清单制裁"
+    ],
+    "news-tech": [
+      "美国政府首次出口管制掐断Anthropic最强模型",
+      "亚马逊安全研究成Anthropic禁令导火索",
+      "OpenAI遭多州检察长联合调查",
+      "VinFast电动摩托产量突破百万辆",
+      "比亚迪发布避障专利可避免Waymo撞猫"
+    ],
+    "news-sports": [
+      "苏格兰1-0海地时隔36年世界杯赢球",
+      "巴西1-1摩洛哥维尼修斯神仙球救主",
+      "VAR技术故障致卡塔尔争议越位判罚",
+      "纽约尼克斯53年后重夺NBA总冠军",
+      "澳羽公开赛中国队冲击四冠"
+    ],
+    "news-entertainment": [
+      "尼克斯夺冠引爆好莱坞明星庆祝",
+      "Seth Rogen与James Franco彻底切割",
+      "Tyra Banks起诉Netflix诽谤纪录片",
+      "I.O.I十年后首获音乐银行冠军",
+      "歌手2024演出费流出那英200万"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "SpaceX debuted at $2 trillion on Nasdaq",
+      "Trump announced US-Iran peace deal Sunday",
+      "US chip stocks rebounded, index up 5%",
+      "China's AI shift to enterprise value",
+      "Hong Kong Hang Seng sank 437 points"
+    ],
+    "news-society": [
+      "Russian families use AI to 'resurrect' war dead",
+      "Switzerland votes on 10 million population cap",
+      "New York Knicks win first NBA title in 53 years",
+      "Two killed in Israeli strike on Gaza",
+      "Norway braces for verdict in crown prince son's rape trial"
+    ],
+    "news-military": [
+      "Iran struck US-linked base in Jordan",
+      "Ukraine hit Russian fuel terminal in Volgograd",
+      "G7 summit to discuss Ukraine and Iran",
+      "India successfully tested new missiles",
+      "US recalibrates European force commitment"
+    ],
+    "news-tech": [
+      "US bans Anthropic's Fable 5 and Mythos 5",
+      "OpenAI investigated by state attorneys general",
+      "VinFast hits one million electric motorcycles",
+      "Rivian CEO criticizes Tesla Cybertruck",
+      "BYD patents tech for Waymo-cat incident"
+    ],
+    "news-sports": [
+      "Scotland wins World Cup for first time in 36 years",
+      "New York Knicks end 53-year NBA title drought",
+      "Brazil rescued by Vinicius Jr solo goal",
+      "VAR glitch delays offside call in Qatar match",
+      "Badminton Australian Open sets up thrilling finals"
+    ],
+    "news-entertainment": [
+      "SBS drama 'My Royal Nemesis' hits ratings high",
+      "IOI takes first Music Core win with 'Suddenly'",
+      "TREASURE MV fastest K-pop to 100 million views",
+      "HYBE girl groups release joint dance practice",
+      "Seth Rogen says no plans to work with James Franco"
+    ]
+  }
+}
