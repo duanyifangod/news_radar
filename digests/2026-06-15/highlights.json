@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊达成和平协议，全球股市反弹油价暴跌",
+      "特朗普威胁对法国葡萄酒加征100%关税",
+      "SpaceX上市首日强劲，估值分歧",
+      "港交所呼吁降低创新企业上市门槛",
+      "欧洲央行维持利率不变，关注美联储压力测试"
+    ],
+    "news-society": [
+      "俄军空袭乌克兰致救援人员死亡、教堂被毁",
+      "美伊宣布结束战争协议，周五签署",
+      "特朗普白宫草坪办UFC庆生，盖奇夺冠",
+      "瑞士公投否决1000万人口上限",
+      "纽约尼克斯夺冠引发骚乱，63人被捕"
+    ],
+    "news-military": [
+      "法国推进乌克兰启发式杀伤网建设",
+      "俄加速北极基建，北约组建新部队",
+      "五角大楼或牺牲传统武器换购无人机",
+      "波兰拟增购两中队F-35，订单翻倍",
+      "台西海岸实弹测试HIMARS，辽宁舰同海域活动"
+    ],
+    "news-tech": [
+      "Kage开源项目可将任意网站离线为二进制",
+      "Windows 11用户抗议微软账号要求",
+      "联邦法院恢复太阳能5%安全港",
+      "白宫因中国可能访问Anthropic模型收紧出口",
+      "英国拟禁止16岁以下使用社交媒体"
+    ],
+    "news-sports": [
+      "尼克斯53年后重夺NBA总冠军，Brunson获FMVP",
+      "瑞典5-0横扫突尼斯，世界杯开门红",
+      "荷兰2-2憾平日本，Kamada补时绝平",
+      "科特迪瓦1-0厄瓜多尔，Diallo绝杀",
+      "皇马敲定Cucurella转会，总价6930万美元"
+    ],
+    "news-entertainment": [
+      "音乐人Oliver Tree直升机坠毁身亡",
+      "ALF演员Anne Schedeen去世，声明批特朗普",
+      "白宫UFC选手称米歇尔·奥巴马是男人",
+      "Jane Fonda呼吁阻止Paramount-WBD合并",
+      "潮汕方言片《亲爱的你》被买下北美发行权"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Iran peace deal fuels global relief rally.",
+      "Oil prices drop to three-month lows.",
+      "Trump threatens 100% wine tariffs on France.",
+      "SoftBank shares surge over 12%.",
+      "ECB maintains policy stance."
+    ],
+    "news-society": [
+      "Russia strikes Kyiv cathedral, kills rescuers.",
+      "U.S. and Iran to sign peace deal Friday.",
+      "Trump hosts UFC title fight at White House.",
+      "Knicks win NBA championship after 53 years.",
+      "Swiss reject population cap in referendum."
+    ],
+    "news-military": [
+      "France developing AI-driven 'kill web'.",
+      "Russia builds Arctic troop infrastructure.",
+      "Taiwan tests HIMARS in live-fire drills.",
+      "Pentagon shifts to drone doctrine.",
+      "Poland plans F-35 expansion."
+    ],
+    "news-tech": [
+      "China allegedly accessed Anthropic Mythos AI.",
+      "UK may ban social media for under-16.",
+      "Court restores solar tax credit safe harbor.",
+      "Semi-solid batteries emerge as alternative.",
+      "Curl halts vulnerability reports in July."
+    ],
+    "news-sports": [
+      "Sweden demolishes Tunisia 5-0 in World Cup.",
+      "Ivory Coast wins late 1-0 over Ecuador.",
+      "Japan draws 2-2 with Netherlands.",
+      "Graham Potter leads national team to win.",
+      "Real Madrid buys Cucurella for £51.7M."
+    ],
+    "news-entertainment": [
+      "UFC fighter slurs Michelle Obama on live TV.",
+      "Jane Fonda protests Paramount-WBD merger.",
+      "Oliver Tree dies in helicopter crash.",
+      "Anne Schedeen, ALF mother, dies.",
+      "ReelShort partners with Korea's Showbox."
+    ]
+  }
+}
