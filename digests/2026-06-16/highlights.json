@@ -1,0 +1,83 @@
+{
+  "zh": {
+    "news-economy": [
+      "中国5月零售销售三年来首次下降",
+      "日本央行加息至1%创1995年新高",
+      "伊朗和平协议推动油价跌至三个月低点",
+      "SpaceX首日涨20%市值超2万亿美元",
+      "港股面临2740亿美元解禁洪峰"
+    ],
+    "news-society": [
+      "美伊达成框架协议，油价暴跌",
+      "乌克兰正式启动入盟谈判",
+      "B-52轰炸机在加州坠毁致8人死亡",
+      "日经指数突破七万点",
+      "中国前5月消费增速放缓至1.4%"
+    ],
+    "news-military": [
+      "美伊海军封锁持续至周五",
+      "俄美各损失一架战略轰炸机",
+      "英国首次扣押俄影子油轮",
+      "印度两天内成功试射多型导弹",
+      "欧盟指控中国训练俄军事人员"
+    ],
+    "news-tech": [
+      "特斯拉被指提交误导性FSD数据",
+      "中国司机用假人头骗过座舱摄像头",
+      "Anthropic被美国限制海外访问",
+      "全球EV销量5月达180万辆",
+      "比亚迪主动为辅助驾驶碰撞买单"
+    ],
+    "news-sports": [
+      "伊朗2-2战平新西兰",
+      "40岁门将封零西班牙，佛得角首秀爆冷",
+      "卢卡库替补22秒造球",
+      "突尼斯主帅成世界杯首位下课者",
+      "郭昊文将参加NBA夏季联赛"
+    ],
+    "news-entertainment": [
+      "迪丽热巴获最佳女演员",
+      "百花奖提名流量明星引争议",
+      "董子健公开求职反映影视寒冬",
+      "韩国Showbox合作ReelShort",
+      "内马尔授权AI形象推微短剧"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "BOJ raised rates to 1% (highest since 1995)",
+      "RBA holds at 4.35%, warns of possible hikes",
+      "Brent crude hits 3-month low on Iran deal hopes",
+      "China retail sales drop signals economic weakness",
+      "Fed Chair Warsh expected to hold rates steady"
+    ],
+    "news-society": [
+      "US-Iran ceasefire deal sends oil down, stocks up",
+      "B-52 crash in California kills eight people",
+      "Australian activists claim Israeli forces torture",
+      "S&P 500 up 1.7%, Nasdaq up 3.1%",
+      "Trump may release Iran deal before Friday"
+    ],
+    "news-military": [
+      "US-Iran ceasefire near, naval blockade continues",
+      "UK boards Russian shadow tanker in Channel",
+      "US B-52 and Russian Tu-22M3 bombers crash",
+      "India tests missile defense and hypersonic tech",
+      "Pentagon shifts to cheaper munitions"
+    ],
+    "news-tech": [
+      "White House orders Anthropic to block foreign AI",
+      "Tesla misled European regulators on FSD data",
+      "Fox buys Roku for $22 billion",
+      "EV market surges, BYD vs Tesla rivalry",
+      "Microsoft reportedly closes game studios"
+    ],
+    "news-sports": [
+      "Cape Verde holds Spain to 0-0 in World Cup debut",
+      "Saudi Arabia draws 1-1 with Uruguay",
+      "Iran fights back twice to draw New Zealand",
+      "Iran match shows deep political fan divisions",
+      "Tuchel has selection headaches for Croatia clash"
+    ]
+  }
+}
