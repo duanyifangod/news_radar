@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊协议框架落地在即，伊朗油轮突破封锁油价下跌",
+      "A股成交额突破2.5万亿元，港股IPO热潮再起",
+      "欧洲警惕“中国冲击2.0”，G7峰会或成博弈焦点",
+      "半导体AI板块联动强势，科创ETF涨超6%",
+      "Yum中国12亿美元收购必胜客，小红书估值700亿"
+    ],
+    "news-society": [
+      "伊朗民众关注协议能否降低物价并避免战争",
+      "美国太平洋禁毒打击致208人死亡，引发人道质疑",
+      "俄罗斯无人机袭击乌克兰居民楼致7人受伤",
+      "英国调查俄军舰在英吉利海峡向游艇开火事件",
+      "日本央行加息至1%，创1995年以来最高"
+    ],
+    "news-military": [
+      "美印太司令报告警告中国战争威胁",
+      "G7声明介入东海、南海及台海",
+      "美军霍尔木兹海峡行动致3名印度人死亡",
+      "法英宣布派舰前往霍尔木兹海峡",
+      "HIMARS升级400%火力，中国R6000无人机全飞测试"
+    ],
+    "news-tech": [
+      "苹果隐私功能拟改域名或使代理邮箱易被屏蔽",
+      "Anthropic与白宫争执反推企业客户增长",
+      "高通推出超40款AI可穿戴设备方案",
+      "现代EV逼近雪佛兰成美国第二，Rivian裁员",
+      "GrapheneOS已移植至Android 17即将发布"
+    ],
+    "news-sports": [
+      "梅西戴帽追平克洛泽世界杯进球纪录",
+      "哈兰德世界杯首秀破门",
+      "法国1-0小胜塞内加尔，德尚首战告捷",
+      "英格兰主帅图赫尔拒绝因高温调整打法",
+      "西班牙27射门0进球暴露锋无力"
+    ],
+    "news-entertainment": [
+      "Crunchyroll今夏进军台湾、年底登陆韩国",
+      "Viu与爱奇艺国际在东南亚四国推出捆绑订阅",
+      "Jeremy Clarkson自曝确诊侵袭性前列腺癌",
+      "Tom Holland认为Owen Cooper是接棒蜘蛛侠绝佳人选",
+      "Mike Myers确认《Austin Powers 4》将制作"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US-Iran deal sends oil prices tumbling",
+      "Japan exports surge on chip demand",
+      "Fed expected to withhold dot plot",
+      "A-share turnover breaches 2.5 trillion yuan",
+      "ECB signals proactive stance on inflation"
+    ],
+    "news-society": [
+      "US-Iran deal brings cautious relief in Iran",
+      "Russian drone strike injures 7 in Ukraine",
+      "UK probes Russian warship warning shots",
+      "Japan Nikkei breaks 70,000 after rate hike",
+      "China issues white paper on global governance"
+    ],
+    "news-military": [
+      "US strikes kill 3 Indian nationals in Hormuz",
+      "European nations send ships to Strait of Hormuz",
+      "Indo-Pacific chief warns Congress on China",
+      "US Senate advances Taiwan, Philippines bills",
+      "China pushes back on Japanese provocations"
+    ],
+    "news-tech": [
+      "Apple may make Hide My Email less effective",
+      "Anthropic feud with White House boosts profile",
+      "Qualcomm targets post-smartphone wearables",
+      "Wolfram Language 15 launches with AI assistant",
+      "Stop Killing Games EU petition fails"
+    ],
+    "news-sports": [
+      "Messi equals World Cup scoring record",
+      "Haaland scores first World Cup goal",
+      "Mbappé becomes France's all-time top scorer",
+      "England won't adapt style for USA heat",
+      "Partey misses World Cup opener due to visa"
+    ],
+    "news-entertainment": [
+      "Jeremy Clarkson reveals aggressive cancer",
+      "Crunchyroll launches in Taiwan, South Korea",
+      "Viu and iQIYI bundle in Southeast Asia",
+      "Mike Myers confirms 'Austin Powers 4'",
+      "APAC screen economy projected to hit $200BN"
+    ]
+  }
+}

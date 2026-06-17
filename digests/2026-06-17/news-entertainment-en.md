@@ -1,0 +1,141 @@
+# News Radar — 娱乐新闻
+
+> 2026-06-17 · Window: 24h · Items: 84 · Generated: 2026-06-17 06:27 UTC
+
+---
+
+## Editor's Brief
+
+Today's entertainment landscape is dominated by two major currents: the rapid expansion of streaming services across Asia-Pacific, highlighted by major deals at the APOS conference, and a wave of personal revelations from iconic figures like Jeremy Clarkson and Mike Myers. Meanwhile, the Chinese entertainment industry is buzzing with the star-studded '2026 China Film and TV Night' and vibrant social media moments. Here are the key developments you need to know:
+
+- **Jeremy Clarkson reveals aggressive cancer diagnosis**: The Top Gear star disclosed he has prostate cancer during the final episodes of 'Clarkson's Farm' Season 5 on Prime Video. The news sent shockwaves through the industry, with multiple outlets covering the emotional on-air moment ([BBC](https://www.bbc.com/news/articles/cqj14q700rko), [Variety](https://variety.com/2026/tv/news/top-gear-jeremy-clarkson-cancer-1236783511/), [Deadline](https://deadline.com/2026/06/top-gear-jeremy-clarkson-diagnosed-aggressive-cancer-1236958106/)).
+- **Streaming wars heat up in Asia**: Crunchyroll confirmed it will launch in Taiwan this summer and South Korea later in 2026, while Viu and iQIYI International announced a bundled subscription for Southeast Asia (Indonesia, Thailand, Philippines, Malaysia) starting H2 2026 ([Variety](https://variety.com/2026/tv/news/crunchyroll-taiwan-korea-apos-1236783535/), [Deadline](https://deadline.com/2026/06/viu-pccw-iqiyi-international-bundle-southeast-asia-1236958104/)). The APOS conference also projected APAC's screen economy to hit $200BN by 2031, with monetization shifting toward retail media ([Deadline](https://deadline.com/2026/06/apos-apac-asia-screen-economy-streaming-retail-media-1236958095/)).
+- **Mike Myers confirms 'Austin Powers 4'**: During a Trevor Noah World Cup Watch Party, Myers simply responded 'yes' to a fan's question about a fourth installment, ending years of speculation ([Deadline](https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/)).
+- **Tom Holland picks his Spider-Man successor**: Holland recommended 'Adolescence' breakout Owen Cooper to take over the role after his eventual exit, spotlighting the actor's rising profile ([Deadline](https://deadline.com/2026/06/tom-holland-spider-man-owen-cooper-1236958088/)).
+- **China's film and TV night celebrates new works**: The '2026 China Film and TV Night' in Shanghai honored emerging talent and tech-driven storytelling, with stars like Dilraba Dilmurat and Shawn Dou walking the red carpet ([shobserver.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PTlhBRVdCTUV3SERwXzhGUGZEQVFTb3dXRG1YdzJVbFZoQVk2T3JxNVdDZm42S21CQkV6Q2pBRWZLSzVlM2ZNWVd2U3pERUV1WHNzTEgxZ3R4M3ZBcnc), [Sina Finance](https://news.google.com/rss/articles/CBMi8gJBVV95cUxQeHRyNlJlXzNsWDAyeGJIZUhzNlp4SVYxd2FDVFFoU3Ric2RWdi1pd01wcGVVNVduYWdGSDBjcmJfWkEyVVA5LTBHd3Y5V3JEN3hIY0NWbWw1dlRvakp4RHpBTTZyYm9OM1ZOdWc2X1hPQUdxUTk5OThDb0d2NmdabmpydC1aODh5bWVjSVdQM25YYTNvS2JKTDduUFlwT1Y0NDlSOUhSN1RncTU4Vlg3dEFoZHJrX2hvb3lNSEl6aFhobHNHeTVEVkJCejh2LTRBclI3OVJ1STVXVUdVaU9ReEFHcDYtLVRjOHhnM09PYmJoZDY4WXF4dUZ3SEdwV2c5cEQwb1B0MXdhWllEaU50UmYxNTd2MS1QS21CZFM3UWIxTF8weUxObUZnYWVHem1NZFpBN1hmTkZZaGo3WkoyUmlONGNPaHZXTm9JamV4VmFDM3U3Wk1pdFZxWkllUTNfTTU3M3pFb0ZFV1ZzdnRrY2J3)).
+- **K-drama casting spree**: New projects 'Whale Star: The Gyeongseong Mermaid', 'The Apartment Job', and 'A Shop for Killers 2' announced star-studded lineups, while 'The Legend of Kitchen Soldier' ended on a ratings high ([Soompi](https://www.soompi.com/article/1848308wpp/choi-woo-shik-mun-ka-young-heo-nam-jun-and-more-confirmed-for-new-romance-drama), [Soompi](https://www.soompi.com/article/1848335wpp/park-byung-eun-is-a-villain-who-wears-a-mask-to-achieve-his-goals-in-new-drama-the-apartment-job)).
+- **Idol brand rankings: BTS remains top**: The June brand reputation rankings for idol groups saw BTS sustaining No.1, while TVXQ's Yunho announced a multi-city tour traversing Asia ([Soompi](https://www.soompi.com/article/1848291wpp/june-idol-group-brand-reputation-rankings-announced-5), [Soompi](https://www.soompi.com/article/1848408wpp/tvxqs-yunho-announces-stops-for-tour-u-know-project-26-scene1)).
+
+**Watch next**: Keep an eye on streaming bundle uptake in Southeast Asia—the Viu-iQiyi deal may reshape competition. Jeremy Clarkson's health updates will likely dominate UK tabloids, while the 'Austin Powers 4' confirmation could trigger franchise revival talks. In China, after the glitzy film night, expect heightened social media chatter around star endorsements and upcoming releases.
+
+---
+
+## 欧美 · 51 items
+
+The Western entertainment news cycle today is defined by personal health revelations, franchise confirmations, and streaming strategy shifts. The emotional disclosure of Jeremy Clarkson's cancer diagnosis dominated headlines, while Mike Myers finally greenlit 'Austin Powers 4' and Tom Holland anointed a new Spider-Man candidate. Meanwhile, the APOS conference in Bali became a launchpad for Crunchyroll's Asian expansion and cross-platform bundles in Southeast Asia.
+
+- **Clarkson's cancer shock**: Jeremy Clarkson revealed he has 'aggressive' prostate cancer on 'Clarkson's Farm' Season 5. He told co-stars 'it's really early,' but the news has sparked global concern ([BBC](https://www.bbc.com/news/articles/cqj14q700rko), [Variety](https://variety.com/2026/tv/news/top-gear-jeremy-clarkson-cancer-1236783511/)).
+- **Austin Powers 4 confirmed**: Mike Myers ended years of speculation with a simple 'yes' answer during a Trevor Noah live event. No details were given, but fans are excited ([Deadline](https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/)).
+- **Tom Holland suggests Owen Cooper for Spider-Man**: The 'Spider-Man' star said 'Adolescence' breakout Owen Cooper would be 'awesome' as his successor, positioning him for a major franchise role ([Deadline](https://deadline.com/2026/06/tom-holland-spider-man-owen-cooper-1236958088/)).
+- **Streaming bundles and expansions**: Crunchyroll will enter Taiwan and South Korea, while Viu and iQIYI International announced a joint subscription bundle across four Southeast Asian countries ([Variety](https://variety.com/2026/tv/news/crunchyroll-taiwan-korea-apos-1236783535/), [Deadline](https://deadline.com/2026/06/viu-pccw-iqiyi-international-bundle-southeast-asia-1236958104/)).
+- **Banff Rockie Awards winners**: 'The Pitt' won Best Drama, 'The Simpsons' was recognized, and 'Empathie' took the Grand Jury Prize at the Banff World Media Festival ([Variety](https://variety.com/2026/tv/news/banff-rockie-awards-program-competition-winners-the-pitt-1236782990/), [Hollywood Reporter](https://www.hollywoodreporter.com/tv/tv-news/banff-world-media-festival-awards-2026-winners-1236623829/)).
+
+Closing signal: The convergence of personal storytelling in reality TV and franchise announcements suggests audiences craving both authenticity and nostalgia—a trend to watch in upcoming earnings calls and greenlights.
+
+<details><summary>Source (51)</summary>
+
+- [Jordanian Cinema, Deeply Rooted in Local Realities, Is Resonating on the International Stage](https://variety.com/2026/film/global/jordan-shanghai-film-festival-boomah-sink-front-row-1236780624/) — Variety · 2026-06-17 05:49 UTC
+- [Sony’s Crunchyroll to Expand in Taiwan and South Korea](https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-launch-taiwan-south-korea-1236623182/) — The Hollywood Reporter · 2026-06-17 01:00 UTC
+- [Viu and iQIYI International Strike Streaming Bundle Deal for Southeast Asia](https://variety.com/2026/tv/news/viu-iqiyi-streaming-bundle-deal-southeast-asia-1236783547/) — Variety · 2026-06-17 06:25 UTC
+- [Crunchyroll to Enter Taiwan and Korea as Anime Fandom Drives Asian Expansion](https://variety.com/2026/tv/news/crunchyroll-taiwan-korea-apos-1236783535/) — Variety · 2026-06-17 06:13 UTC
+- [Fahadh Faasil to Star in Two Malayalam Films for India’s Panorama Studios and Producer Jacob Babu (EXCLUSIVE)](https://variety.com/2026/film/news/fahadh-faasil-malayalam-films-panorama-studios-jacob-babu-1236782399/) — Variety · 2026-06-17 06:00 UTC
+- [Jeremy Clarkson reveals cancer diagnosis in show](https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&at_campaign=rss) — BBC Entertainment & Arts · 2026-06-17 05:21 UTC
+- [Filming starts for new Ruth Jones and Steve Speirs comedy '35 years in the making'](https://www.bbc.com/news/articles/cnv9z0epy7do?at_medium=RSS&at_campaign=rss) — BBC Entertainment & Arts · 2026-06-17 05:16 UTC
+- [Mike Myers Says, “Yes,” There Will Be An ‘Austin Powers 4’](https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/) — Deadline · 2026-06-17 05:08 UTC
+- [‘Top Gear’ Star Jeremy Clarkson Reveals ‘Aggressive’ Cancer Diagnosis](https://variety.com/2026/tv/news/top-gear-jeremy-clarkson-cancer-1236783511/) — Variety · 2026-06-17 04:42 UTC
+- [Viu & iQiyi International To Launch Streaming Bundle In Southeast Asia – APOS](https://deadline.com/2026/06/viu-pccw-iqiyi-international-bundle-southeast-asia-1236958104/) — Deadline · 2026-06-17 04:30 UTC
+- [‘Top Gear’s Jeremy Clarkson Diagnosed With “Aggressive” Cancer: “It’s Really Early”](https://deadline.com/2026/06/top-gear-jeremy-clarkson-diagnosed-aggressive-cancer-1236958106/) — Deadline · 2026-06-17 04:02 UTC
+- [APAC Screen Economy Set To Be Worth $200BN By 2031 With Monetization Gains Moving Towards Retail – APOS](https://deadline.com/2026/06/apos-apac-asia-screen-economy-streaming-retail-media-1236958095/) — Deadline · 2026-06-17 03:25 UTC
+- [Tom Holland On Spider-Man Successor: “Owen Cooper Would Be Awesome”](https://deadline.com/2026/06/tom-holland-spider-man-owen-cooper-1236958088/) — Deadline · 2026-06-17 02:54 UTC
+- [‘Bang My Box: The Robin Byrd Story’ Review: The Mistress of Late-Night Cable Public-Access Sex-Show Kitsch Gets Her Own Bangin’ Documentary](https://variety.com/2026/film/reviews/bang-my-box-the-robin-byrd-story-review-1236782953/) — Variety · 2026-06-17 02:44 UTC
+
+</details>
+
+## 日韩 · 9 items
+
+Korean entertainment is buzzing with new drama casting announcements and tour plans. Notably, 'A Shop for Killers 2' released teasers, 'Whale Star: The Gyeongseong Mermaid' confirmed its lead cast, and TVXQ's Yunho announced a regional tour. Meanwhile, the June idol group brand rankings saw BTS maintain dominance.
+
+- **'A Shop for Killers 2' teasers**: Kim Hye Joon and Lee Dong Wook return for the action drama sequel, based on Kang Ji Young's novel. A new poster and teaser were released ([Soompi](https://www.soompi.com/article/1848326wpp/watch-kim-hye-joon-takes-over-a-deadly-legacy-with-lee-dong-wook-by-her-side-in-a-shop-for-killers-2-teasers)).
+- **'Whale Star' cast confirmed**: Choi Woo Shik, Mun Ka Young, and Heo Nam Jun will star in the romance drama set in 1926 Gyeongseong, reimagining 'The Little Mermaid' ([Soompi](https://www.soompi.com/article/1848308wpp/choi-woo-shik-mun-ka-young-heo-nam-jun-and-more-confirmed-for-new-romance-drama)).
+- **Yunho's 'U-KNOW PROJECT 26' tour**: TVXQ's U-Know will kick off in Seoul July 17, then travel to Macau, Singapore, Bangkok, Taipei, Jakarta, and Hong Kong ([Soompi](https://www.soompi.com/article/1848408wpp/tvxqs-yunho-announces-stops-for-tour-u-know-project-26-scene1)).
+- **Idol brand rankings for June**: BTS retains No.1 in the Korean Business Research Institute's monthly index, based on big data from May 17 to June 17 ([Soompi](https://www.soompi.com/article/1848291wpp/june-idol-group-brand-reputation-rankings-announced-5)).
+- **'The Legend of Kitchen Soldier' finale**: The drama ended on a high with 7.6% ratings, securing the No.1 spot in its time slot ([Soompi](https://www.soompi.com/article/1848284wpp/the-legend-of-kitchen-soldier-ends-on-no-1-ratings)).
+
+Closing signal: With multiple high-profile dramas and tours on the horizon, the second half of 2026 looks robust for Korean entertainment exports, especially in Southeast Asian markets.
+
+<details><summary>Source (9)</summary>
+
+- [Watch: Kim Hye Joon Takes Over A Deadly Legacy With Lee Dong Wook By Her Side In “A Shop For Killers 2” Teasers](https://www.soompi.com/article/1848326wpp/watch-kim-hye-joon-takes-over-a-deadly-legacy-with-lee-dong-wook-by-her-side-in-a-shop-for-killers-2-teasers) — Soompi K-pop · 2026-06-17 06:23 UTC
+- [Kang Mina Receives Comfort From College Student Won Gyu Bin At The Beach In New Drama “See You At Work Tomorrow!”](https://www.soompi.com/article/1848353wpp/kang-mina-receives-comfort-from-college-student-won-gyu-bin-at-the-beach-in-new-drama-see-you-at-work-tomorrow) — Soompi K-pop · 2026-06-17 06:10 UTC
+- [First Impressions: “The First Jasmine” Is A C-Drama Where Revenge Meets A Healing Romance](https://www.soompi.com/article/1847983wpp/first-impressions-the-first-jasmine-is-a-c-drama-where-revenge-meets-a-healing-romance) — Soompi K-pop · 2026-06-17 05:46 UTC
+- [TVXQ’s Yunho Announces Stops For Tour “U-KNOW PROJECT 26 : SCENE#1”](https://www.soompi.com/article/1848408wpp/tvxqs-yunho-announces-stops-for-tour-u-know-project-26-scene1) — Soompi K-pop · 2026-06-17 05:22 UTC
+- [Park Byung Eun Is A Villain Who Wears A Mask To Achieve His Goals In New Drama “The Apartment Job”](https://www.soompi.com/article/1848335wpp/park-byung-eun-is-a-villain-who-wears-a-mask-to-achieve-his-goals-in-new-drama-the-apartment-job) — Soompi K-pop · 2026-06-17 02:36 UTC
+- [Choi Woo Shik, Mun Ka Young, Heo Nam Jun, And More Confirmed For New Romance Drama](https://www.soompi.com/article/1848308wpp/choi-woo-shik-mun-ka-young-heo-nam-jun-and-more-confirmed-for-new-romance-drama) — Soompi K-pop · 2026-06-17 02:01 UTC
+- [Nam Bo Ra Gives Birth To First Child](https://www.soompi.com/article/1848304wpp/nam-bo-ra-gives-birth-to-first-child) — Soompi K-pop · 2026-06-17 01:31 UTC
+- [June Idol Group Brand Reputation Rankings Announced](https://www.soompi.com/article/1848291wpp/june-idol-group-brand-reputation-rankings-announced-5) — Soompi K-pop · 2026-06-16 23:49 UTC
+- [“The Legend Of Kitchen Soldier” Ends On No. 1 Ratings](https://www.soompi.com/article/1848284wpp/the-legend-of-kitchen-soldier-ends-on-no-1-ratings) — Soompi K-pop · 2026-06-16 23:24 UTC
+
+</details>
+
+## 微博社区动态 · 12 items
+
+Chinese social media was ablaze with celebrity interactions and event highlights. Stars like Fan Bingbing's birthday celebration on 'Running Man', the 'Burning Summer' cast gathering on Douyin, and Vogue editor Liu Chong's dinner party with Bai Lu, Song Jia, and Zhang Bichen trended. Also, actor Zhao Jinmai's airport kindness went viral.
+
+- **Fan Bingbing's birthday on 'Running Man'**: The entire cast celebrated Fan Bingbing's birthday live, sharing photos that sparked fan envy over the group chemistry ([Sina](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0VJbGdwb0xTWVRPQWl1bnVLYnMzRGo4UXVZVG1XV2hRVDdYZ0ZKQ2hPWHI2X2hmSEh6X2hUSC16LUdTZV9NNlIyN0ZLcmtvbzJ0aTh6LVJTT2VpNmN2eG8tM3llM3NvRUZuZndkejVxMnNBMHVBdkcwdHF4ZWdoOEFzY0hIMlJMZWdfTA)).
+- **'Burning Summer' cast Douyin live**: Stars gathered on Douyin for an interactive session ahead of the drama's premiere, generating huge engagement ([Sina](https://news.google.com/rss/articles/CBMicEFVX3lxTE1YbGQ2cVNJMEwxdl9mWmlZanJsZE82bkRHY1VNWk96MUxXWUhuWkV4WHFKQjZDREJoSC1aVDhhbWc3bnh4TU0zelZDNUJRMzBMMXJDc0RfU1RZYlNKZ0M3WERlZEYyZEZVdmZNUGdXNkc)).
+- **Vogue editor's star-studded dinner**: Liu Chong hosted a gathering featuring Bai Lu, Song Jia, and Zhang Bichen in makeup-free looks, sparking discussions on celebrity friendships ([Sina](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnFCMFBMMDNCb1ZwU291LUhWeElwMUt1LVJiemRFUGRXUGdWRzMzTXpkNkEwNmd0UEFlemxwYVBONVZYNFdkbWJoM29CeUxoRkpVYmplT082eHZ0cTlaSm10bDNLMUxrcHNqOFR5Q1JHLTZXcnkwbjRJYlVOOFVRVF9lWTNIVWt2UmJmVm53)).
+- **Zhao Jinmai's warm airport moment**: A video of Zhao Jinmai saying 'falling is not allowed' to a fan went viral, earning praise for her sincerity ([Sina](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanc2a2VmWGozYW9fWEdjb1lZNVVCYzkyTWNvVGF3NWxZQW92TnFzYS1zSE5Wc05YeEZjbnlISXEwdi04NWIteG9IaUl3SlJaSHBpWE5LOVZuQVlqcW0wTUN5aGxfYmNqMDZzVmdBMzZYRU9VY0dWd19oZ0dlSUpDckdWM2ZfRl9YSldwUmdoemhQdHpVcEJPSHFPQUZkZkhRS2Zrc2piU09Ddw)).
+- **Cheng Xiao's red carpet 'job hunt'**: Cheng Xiao's remark about wanting work resurfaced old clips of Du Hua, reigniting debate about Yuehua Entertainment's resource allocation ([Sina](https://news.google.com/rss/articles/CBMiyARBVV95cUxNbGJHSlR4SUg5ZUh1OFJoTjdwWkhPLWV3bFBDamc1eGdsVGFUMTFBaEdEdjhnemlveWpIYVkxbkZSVTZzSm1NNXFxT0V2WkdtSkhZVjQ0b3FRc3JidFZPWmdyS2hkQnZjTmNJZ2tfV19TU1dRZndEQW1PZVlORy0tQWcyeU1XTFpiQVhUbm81VWpaSmhqNHpMMnM0TElWT0U1eXBrVFdHbWVLS3lTd19rTnNnRWNyQjIxamFscV9BbDRiU3RQbkdvZHZZbmZrWFF5R19NbWFOVThjY09fQWdkX1lHckM5blQ4UE5KTXgwM1VSM2s4UkVLZzVEUTc4Z0J0MmRnLTh6VmxDZjNLMzhvU0tLTjI4X1otaTlfNnhLZHV0d25RVk9HZXl3bjlVRmtxOERnQzZlemJ1VmtKaTd3NEVaWVZkMFFRUWJnVmd2Z1BSQXBvWU5VN2FOUEw2VkxMLUxTdl9COHBRN2FoQ3paWlozQnJ1OEw0RmZlbjJDeDFvYk13QlhrNmpyM214WDlOaVplOVdsaFJGSzJIT2xNTjJhZ2x2eUc1UjBCemRGZ1NucFVIOVQ3ZVdxSktuTTFic3I1TTNVcmREeHFIRVM2X2xOWTdtZnZmd1lPc0lBTldEWGZGRzdsOTJGejg3eGl1bkZUUlJ4WTdLMHk5Q19KaWtSQzlENVlLaUZHTlpIZ0ZMRm5rdmI4VnplYVhsbFNtNlY3Ull1ZlZnWXVDeWM0WFZZLURpSTU3ejBXNS15TEVlVWEtMEZWVg)).
+
+Closing signal: Social media remains the primary battleground for fan engagement in China—brands and agencies should monitor these viral moments closely as they shape public perception and purchasing behavior.
+
+<details><summary>Source (12)</summary>
+
+- [曾志伟夸成毅很努力有内涵 专业态度获赞 - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ueGlQT0R0MFF2NndIVzloR21WS0h5eFJXeS0wSTM3cUhFMDhnZF8zeVA1RGp5RzVrWlVDVHBBNV9LOVpsYlFud3IyWDdKRC1pX01naWZ2cGJhTVpTdkZmcUJlMUFET0JKOGVTX05hX2E) — 微博社区动态 · 2026-06-17 06:21 UTC
+- [《炽夏》主演齐聚抖音直播：高能互动引爆开播前夜 - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE1YbGQ2cVNJMEwxdl9mWmlZanJsZE82bkRHY1VNWk96MUxXWUhuWkV4WHFKQjZDREJoSC1aVDhhbWc3bnh4TU0zelZDNUJRMzBMMXJDc0RfU1RZYlNKZ0M3WERlZEYyZEZVdmZNUGdXNkc) — 微博社区动态 · 2026-06-17 05:05 UTC
+- [范丞丞生日跑男全员庆生，直播晒照团魂炸裂粉丝直呼羡慕！ - 新浪网](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0VJbGdwb0xTWVRPQWl1bnVLYnMzRGo4UXVZVG1XV2hRVDdYZ0ZKQ2hPWHI2X2hmSEh6X2hUSC16LUdTZV9NNlIyN0ZLcmtvbzJ0aTh6LVJTT2VpNmN2eG8tM3llM3NvRUZuZndkejVxMnNBMHVBdkcwdHF4ZWdoOEFzY0hIMlJMZWdfTA) — 微博社区动态 · 2026-06-17 03:58 UTC
+- [Vogue主编刘冲组局聚餐，白鹿宋佳张碧晨素颜出镜 - 新浪网](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnFCMFBMMDNCb1ZwU291LUhWeElwMUt1LVJiemRFUGRXUGdWRzMzTXpkNkEwNmd0UEFlemxwYVBONVZYNFdkbWJoM29CeUxoRkpVYmplT082eHZ0cTlaSm10bDNLMUxrcHNqOFR5Q1JHLTZXcnkwbjRJYlVOOFVRVF9lWTNIVWt2UmJmVm53) — 微博社区动态 · 2026-06-17 01:49 UTC
+- [《炽夏》开播期间，与包上恩周柯宇相关的微博话题阅读量数据表现如何？ - 新浪网](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXRNNjk5X3pKc2RhWF9QWXR0dkZIMUdOcGNBY2J6WEdRdnRsYW9lZkpMSEdwZS1RMzRobW5zeHpQdGY4OVBULTB5T0I1emh1SGgycnZPREJQSENoTkt3Z3J6T0sxb09BelJreUVUVXRLQkRtbG1TVXM3X2lmVWpSQ2hCeEhTRlUxck9JOVBrRkVNcmZoSWVaRl94SXd5aGYwRGRiZGdESUNzMWdVUDZYOTBYMURQdzl1TXI0RlZGQm5IUS1fX3k2dVNzakpjUQ) — 微博社区动态 · 2026-06-16 23:07 UTC
+- [抖音电影夜限定女团炸场！演员跨界唱跳引爆热搜 - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE9RckxJcUhYRGFQbzdLeGN0NWlzWmxhQk9VbVlMTUtwUGZJbEFBRmNGTEhIbFJyY280VmthYkFmTkVXNW1WckdGdzNGZ1FKOVJ4Y2lFeEpIenVjNHZoZXZIeWdNRGtmVUpvOV9ZYVJDRWM) — 微博社区动态 · 2026-06-16 14:11 UTC
+- [陈瑶何宣林自曝各吃一整只鸡反差萌引热议 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE55VzBUbjV4SkJvbDRRQW9WNUhCc0Y1N19HQkl2TmcydmQtZkZxOXMxNXF2ZGJOZVJ4aXZRQTFZQ0l3OWhCOG9nR3FRR1NkbUowS0M3S3FMWWZjWDROTzNNaVZ0RmVRYU5BNXNKQ2R3dXZEZw) — 微博社区动态 · 2026-06-16 13:05 UTC
+- [刘雨昕确认加盟《乘风2026》总决赛 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE8wRUVya1Y5aUNUclI1YlVMYlp1U0dVMGdfTHBvMkRaTGxyOGlIX1dpcC1waUg3MVMzVENnSXVQTFNQbU9wZEw2aXFDQjFOeVBuQjU1VzBiQm1Ra3NLV3JwZlhLT21ZbUhSSC1tSkFPQlZXQQ) — 微博社区动态 · 2026-06-16 10:56 UTC
+- [张远王霏霏深圳全开麦唱跳，教科书舞台点燃热搜！ - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE5kaFM4TDM2VmpGV1lLN3hsMlg0Z01WdkI1NVIyZHVEWFlocW5HaTJRMnVmNU9HVlhLOWViZ044NW9JeU8zSTBhbWZkYUFWV01TV1Fic0daTlF2YUs3RDlCUTZWd2cxam52YVlvZXk0REZCZw) — 微博社区动态 · 2026-06-16 10:44 UTC
+- [赵今麦机场一句“谁摔都不行”引爆热搜，这暖心回应太戳人！ - 新浪网](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanc2a2VmWGozYW9fWEdjb1lZNVVCYzkyTWNvVGF3NWxZQW92TnFzYS1zSE5Wc05YeEZjbnlISXEwdi04NWIteG9IaUl3SlJaSHBpWE5LOVZuQVlqcW0wTUN5aGxfYmNqMDZzVmdBMzZYRU9VY0dWd19oZ0dlSUpDckdWM2ZfRl9YSldwUmdoemhQdHpVcEJPSHFPQUZkZkhRS2Zrc2piU09Ddw) — 微博社区动态 · 2026-06-16 10:29 UTC
+- [李思潼无过度妆感_新浪新闻 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5Zm52cWJ1czQzNXloQ0xBZDZjckdIbHBndldVUXdWZGdGRFpxcFduMHBud0FrZk43MUZ4UkVQRFVXRFJrZFVncVl2YXc2M3p5WXl6Wi15M2Zza2owalVTRXVpSQ) — 微博社区动态 · 2026-06-16 08:43 UTC
+- [程潇红毯求工作牵出杜华旧片段，乐华资源分配引讨论 - 新浪网](https://news.google.com/rss/articles/CBMiyARBVV95cUxNbGJHSlR4SUg5ZUh1OFJoTjdwWkhPLWV3bFBDamc1eGdsVGFUMTFBaEdEdjhnemlveWpIYVkxbkZSVTZzSm1NNXFxT0V2WkdtSkhZVjQ0b3FRc3JidFZPWmdyS2hkQnZjTmNJZ2tfV19TU1dRZndEQW1PZVlORy0tQWcyeU1XTFpiQVhUbm81VWpaSmhqNHpMMnM0TElWT0U1eXBrVFdHbWVLS3lTd19rTnNnRWNyQjIxamFscV9BbDRiU3RQbkdvZHZZbmZrWFF5R19NbWFOVThjY09fQWdkX1lHckM5blQ4UE5KTXgwM1VSM2s4UkVLZzVEUTc4Z0J0MmRnLTh6VmxDZjNLMzhvU0tLTjI4X1otaTlfNnhLZHV0d25RVk9HZXl3bjlVRmtxOERnQzZlemJ1VmtKaTd3NEVaWVZkMFFRUWJnVmd2Z1BSQXBvWU5VN2FOUEw2VkxMLUxTdl9COHBRN2FoQ3paWlozQnJ1OEw0RmZlbjJDeDFvYk13QlhrNmpyM214WDlOaVplOVdsaFJGSzJIT2xNTjJhZ2x2eUc1UjBCemRGZ1NucFVIOVQ3ZVdxSktuTTFic3I1TTNVcmREeHFIRVM2X2xOWTdtZnZmd1lPc0lBTldEWGZGRzdsOTJGejg3eGl1bkZUUlJ4WTdLMHk5Q19KaWtSQzlENVlLaUZHTlpIZ0ZMRm5rdmI4VnplYVhsbFNtNlY3Ull1ZlZnWXVDeWM0WFZZLURpSTU3ejBXNS15TEVlVWEtMEZWVg) — 微博社区动态 · 2026-06-16 07:21 UTC
+
+</details>
+
+## 中国 · 12 items
+
+The '2026 China Film and TV Night' in Shanghai was the centerpiece of today's Chinese entertainment news, drawing major stars like Dilraba Dilmurat, Shawn Dou, and Liu Ye. Seoul Drama Awards voting saw Zhang Linghe take an early lead, while a nostalgic list of top Chinese stars in Korea resurfaced, reminding fans of earlier cross-cultural waves.
+
+- **China Film and TV Night highlights**: The event, themed 'new as the core, moving toward the new,' showcased upcoming projects and honored veterans. Dilraba stunned in a Georges Hobeika haute couture red gown ([Sina](https://news.google.com/rss/articles/CBMicEFVX3lxTE1sNXhwSnAtRTBlM1hEM3FnY1V5ZGRYRVpERG02T0VlSFU0YjFWalV2czVFM0lNZm1Vb3kxLW13c05EWF9jVjJkWEdkZEpNcDEwZVFpLTJnbV9ha0VtVkJqdk5Ddmd3al9Na0MtN2QtSW0)).
+- **Seoul Drama Awards: Zhang Linghe leads**: In the first day of voting for Chinese stars, Zhang Linghe took a commanding lead for the Asian Star Award ([Sina](https://news.google.com/rss/articles/CBMickFVX3lxTFBfVjNiZkIxV2IyRXVVVkNxbDJkcFhveE1GQlV0RzRyUnRfNWJOTHIwWU80Q3E4MjljQ01jZ2NVVmFtRDdLc2JVdW42NldCc1Q1Y3BDLWRINkljU285dGJ0Ti1SVFJxUjB0OXplbkNLTFdnUQ)).
+- **CCTV covers the gala**: Multiple CCTV channels (CCTV News, CCTV2, CCTV13) simultaneously reported on the Fuxing Island Starlight Gala, underscoring state media support ([Sina](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVWDk5YTdTdkNpWGFsNVJJcEhxbFhzMXZNUWNyc3A0dElVYnNLYjZHUE9BS3ZpbzhCM1VjdVM4ci1qbFpyakpKQWM0NGhMQ2lyVVozU3JRNEc)).
+- **Veteran actor Liu Ye attends with film 'Si Du'**: Liu Ye brought his project 'Si Du' to the red carpet, while 91-year-old Huang Baomei offered words of encouragement to filmmakers ([shobserver.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PTlhBRVdCTUV3SERwXzhGUGZEQVFTb3dXRG1YdzJVbFZoQVk2T3JxNVdDZm42S21CQkV6Q2pBRWZLSzVlM2ZNWVd2U3pERUV1WHNzTEgxZ3R4M3ZBcnc)).
+- **Nostalgia list: Top Chinese stars in Korea**: A ranking of the most influential Chinese celebrities in Korea sparked discussions about the heyday of Chinese cultural exports, referencing past Hallyu connections ([Sina](https://news.google.com/rss/articles/CBMicEFVX3lxTFBVUE5qaVg4bFVTamtvUGdiVk5aYWdmUFUwLW9VanVjczZKVW42RmtBc2pLNlNNOXNyNHVvbEZPMS1FZFA2Sm1yVW00Wkt1VzlxdUdoaHprbDdBZVA0WXFzWmtnNUtWU3pkVmxHaU4zLTU)).
+
+Closing signal: The heavy state media coverage and star power signal that China's entertainment industry is pivoting toward 'new quality productive forces'—tech-driven content and cultural confidence—a theme likely to dominate policy and investment in the coming year.
+
+<details><summary>Source (12)</summary>
+
+- [首尔电视剧大赏中国明星Top10首日投票：张凌赫亚洲明星奖得票断层第一 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBfVjNiZkIxV2IyRXVVVkNxbDJkcFhveE1GQlV0RzRyUnRfNWJOTHIwWU80Q3E4MjljQ01jZ2NVVmFtRDdLc2JVdW42NldCc1Q1Y3BDLWRINkljU285dGJ0Ti1SVFJxUjB0OXplbkNLTFdnUQ) — Google News China Entertainment · 2026-06-17 01:18 UTC
+- [新老影人共叙从影初心 - 上观新闻](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmaVZjUU4xUUpOX1NBdkhmSkRHRmlkWG81SURqV0U1UHZVVEJnenRKNEtyZndOVFc5OEg0RGR4VjBxXzlZWXVFZVBicFBWQThvdjc4RnpDMVVESXZUVkx3RVlHYld1bGVsdHRsd1k1bw) — Google News China Entertainment · 2026-06-16 23:51 UTC
+- [耐克阿迪签约中国球员新动作,明星球员权益逐渐被蚕食 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE5rSTZpRXpPZjNqUUt6NGRJN0ZXbVBPRGJVM2NOTGtfTG1rbWlNRkpHUUVVa3ZmSlJsZ1RkckkwX3htLWtiODgxbEp6SS1OdWNTekV6QW13T0xCY3ZwUDM4dmZiY24wZ2N3Skx4RVo4WTdjZw) — Google News China Entertainment · 2026-06-16 22:12 UTC
+- [韩国地位最高的10位中国明星排行榜，原来华流也曾这么辉煌过！ - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTFBVUE5qaVg4bFVTamtvUGdiVk5aYWdmUFUwLW9VanVjczZKVW42RmtBc2pLNlNNOXNyNHVvbEZPMS1FZFA2Sm1yVW00Wkt1VzlxdUdoaHprbDdBZVA0WXFzWmtnNUtWU3pkVmxHaU4zLTU) — Google News China Entertainment · 2026-06-16 18:57 UTC
+- [迪丽热巴穿Georges Hobeika高定亮相中国影视之夜 - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE1sNXhwSnAtRTBlM1hEM3FnY1V5ZGRYRVpERG02T0VlSFU0YjFWalV2czVFM0lNZm1Vb3kxLW13c05EWF9jVjJkWEdkZEpNcDEwZVFpLTJnbV9ha0VtVkJqdk5Ddmd3al9Na0MtN2QtSW0) — Google News China Entertainment · 2026-06-16 18:12 UTC
+- [人民的玫瑰🌹 -20260615中国影视之夜 - 新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTE9NQU1BdjVUTkJSeUNzam9pVmdWdDFsd0FoRTJHX294M2dkaHBqaS1kckRCNzJCdUFrS3hvUEdMdDdDNk9EMVVLbXdiMDBBREYyZnozRk9mYVlmWlNwUlphNzIxZlg1cHRUOGE3TzN5UFl1NGs) — Google News China Entertainment · 2026-06-16 14:54 UTC
+- [重磅！央视多平台联动报道复兴岛星光盛典，央视新闻、CCTV2、CCTV13同步聚焦_上观新闻 - 上观新闻](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVWDk5YTdTdkNpWGFsNVJJcEhxbFhzMXZNUWNyc3A0dElVYnNLYjZHUE9BS3ZpbzhCM1VjdVM4ci1qbFpyakpKQWM0NGhMQ2lyVVozU3JRNEc) — Google News China Entertainment · 2026-06-16 14:33 UTC
+- [迪丽热巴亮相中国影视之夜,高定红裙造型吸睛 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE8wQlRhcjdUYnBDc19XejZFaE5JbUx6Y1psOFdwT3MyaVIzRzN3dUI4VEF4dXF0ODByVjJJT0o4cFVRSXJNVXFRTzNqeGdmVjEzY1hZUDRwMzRSV21MR0NHSjcwYUhwcUN5bUhmVlhnbXJaUQ) — Google News China Entertainment · 2026-06-16 12:57 UTC
+- [2026中国影视之夜推荐的年度优秀影视作品有哪些？ - 新浪财经](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjB0Z1AtLWZ4RDBFOEdRcG5Hck5CQ2RSbUU2RC1kaWxoUlh2VWhsdjYzN0lwcmpBNTZRLTdDNEZwVnYzVHNVejhCeklMS2k4UTFnVzFRNmY1TzVUYWVMUjlUTERyLVFWaE94eVp3dUx5WkpwVGJ5NWs2SVdDcS13bzNrQ0I) — Google News China Entertainment · 2026-06-16 10:32 UTC
+- [《主角》里的“碎碎兵”——窦骁亮相2026中国影视之夜 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBOclBSNlBlYVZ6elVVRlVPTjVXNDJpUGNMZW5wZzd1UEM0eENnbnJNdzhUV0lBNk9GYzhHSXR4TWFhTm55OG9feHlSb3cwM2VNUHdMSVdiRXc4WEhndkhHUXRCN2hIYjJFelJSeURoQm44dw) — Google News China Entertainment · 2026-06-16 10:18 UTC
+- [“2026中国影视之夜”在上海举办：以“新”为核，向新而行！ - 新浪财经](https://news.google.com/rss/articles/CBMi8gJBVV95cUxQeHRyNlJlXzNsWDAyeGJIZUhzNlp4SVYxd2FDVFFoU3Ric2RWdi1pd01wcGVVNVduYWdGSDBjcmJfWkEyVVA5LTBHd3Y5V3JEN3hIY0NWbWw1dlRvakp4RHpBTTZyYm9OM1ZOdWc2X1hPQUdxUTk5OThDb0d2NmdabmpydC1aODh5bWVjSVdQM25YYTNvS2JKTDduUFlwT1Y0NDlSOUhSN1RncTU4Vlg3dEFoZHJrX2hvb3lNSEl6aFhobHNHeTVEVkJCejh2LTRBclI3OVJ1STVXVUdVaU9ReEFHcDYtLVRjOHhnM09PYmJoZDY4WXF4dUZ3SEdwV2c5cEQwb1B0MXdhWllEaU50UmYxNTd2MS1QS21CZFM3UWIxTF8weUxObUZnYWVHem1NZFpBN1hmTkZZaGo3WkoyUmlONGNPaHZXTm9JamV4VmFDM3U3Wk1pdFZxWkllUTNfTTU3M3pFb0ZFV1ZzdnRrY2J3) — Google News China Entertainment · 2026-06-16 10:09 UTC
+- [刘烨携《四渡》亮相、黄宝妹寄语影人，“2026中国影视之夜”在沪举办 - shobserver.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PTlhBRVdCTUV3SERwXzhGUGZEQVFTb3dXRG1YdzJVbFZoQVk2T3JxNVdDZm42S21CQkV6Q2pBRWZLSzVlM2ZNWVd2U3pERUV1WHNzTEgxZ3R4M3ZBcnc) — Google News China Entertainment · 2026-06-16 07:30 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*
