@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美联储鹰派信号，点阵图暗示年内可能加息",
+      "2年期美债收益率急速攀升",
+      "香港金管局预计跟随美国加息",
+      "中国叫停外卖平台补贴",
+      "Pop Mart国内线上销售首现同比下降"
+    ],
+    "news-society": [
+      "美伊签署停战协议，全球市场震荡",
+      "油价跌破80美元，股市企稳",
+      "以色列仍对黎巴嫩发动新打击",
+      "美国FBI披露白宫UFC袭击策划",
+      "中国十五五就业优先规划答记者问"
+    ],
+    "news-military": [
+      "美伊战争结束，特朗普签署和平协议",
+      "美国国会质疑对乌供应爱国者能力",
+      "欧洲与乌克兰合作寻求远程打击能力",
+      "美空军选定两种CCA投入生产",
+      "俄罗斯唯一航母库兹涅佐夫号退役"
+    ],
+    "news-tech": [
+      "OpenAI年亏数十亿美元，财务承压",
+      "Noam Shazeer从谷歌跳槽OpenAI",
+      "Estonia率先为AI代理发放身份证",
+      "福特开始在美生产低成本LFP电池",
+      "Tim Cook确认因内存涨价提高产品价格"
+    ],
+    "news-sports": [
+      "英格兰4-2大胜克罗地亚，世界杯开门红",
+      "葡萄牙0-0被刚果民主共和国逼平",
+      "利物浦触发穆尼奥斯3460万英镑解约金",
+      "图赫尔中场训话激发英格兰反弹",
+      "C罗哑火，未能像其他巨星闪光"
+    ],
+    "news-entertainment": [
+      "全AI电影《Dreams of Violets》首映引争议",
+      "Tom Holland反驳AI有灵魂，捍卫人类创造力",
+      "Sabrina Carpenter获五年限制令",
+      "Jay Leno炮轰深夜秀，称播客是新脱口秀",
+      "霍启山与娜然婚讯登微博热搜"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Fed holds rates, signals 2026 hike",
+      "Treasury yields surge on hawkish Fed",
+      "Apple warns of unavoidable price hikes",
+      "Europe fears 'China Shock 2.0'",
+      "Gundlach warns Warsh not easy money"
+    ],
+    "news-society": [
+      "US and Iran sign MoU to end war",
+      "Oil tumbles below $80 on deal",
+      "Foiled sniper plot at White House UFC",
+      "Long Island serial killer gets life",
+      "Japan trade balance swings to deficit"
+    ],
+    "news-military": [
+      "US-Iran peace deal signed at G7",
+      "Patriot missile crisis deepens for Ukraine",
+      "Ukraine scrambles for alternative weapons",
+      "China withdraws from Scarborough Shoal",
+      "G7 warns on Taiwan and maritime disputes"
+    ],
+    "news-tech": [
+      "Elon Musk cashes $116B Tesla payday",
+      "Apple blames RAM shortage for price hikes",
+      "Fortinet firewall breach hits enterprises",
+      "OpenAI loses billions per year",
+      "Musk exercises options, locks stock until 2028"
+    ],
+    "news-sports": [
+      "England beats Croatia 4-0 in World Cup",
+      "Ronaldo struggles as teammates shine",
+      "Kane uses stuttered run-up for penalty",
+      "Liverpool triggers Munoz release clause",
+      "Tuchel's half-time talk inspires England"
+    ],
+    "news-entertainment": [
+      "First AI-made film premieres at Tribeca",
+      "Sabrina Carpenter gets 5-year restraining order",
+      "Jay Leno declares late-night dead",
+      "Hollywood elites join Thiel's secret society",
+      "Knicks to visit Trump at White House"
+    ]
+  }
+}
