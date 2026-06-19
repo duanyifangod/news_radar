@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊协议谈判波折，油价反弹超1%",
+      "日元跌至161.80，创近两年新低",
+      "SpaceX上市后两日跌7%，打新浮亏",
+      "科创板允许未盈利AI与量子企业IPO",
+      "Momenta转向香港IPO，推人民币国债期货"
+    ],
+    "news-society": [
+      "美伊签署初步协议结束战争，双方宣称胜利",
+      "乌克兰无人机袭击莫斯科油厂引发黑雨",
+      "尼日尔机场遭袭35死，反恐形势严峻",
+      "中国5月用电量同比增6.9%，经济复苏",
+      "知乎热议Model Y拆解及打工人焦虑"
+    ],
+    "news-military": [
+      "乌克兰无人机大规模袭击莫斯科炼油厂",
+      "英国向乌克兰提供15万架无人机及导弹",
+      "美国解除对伊朗海上封锁，签署60天备忘录",
+      "美军在菲律宾用无人艇为后勤船护航",
+      "中国航母回应日本首次向南海派遣陆自"
+    ],
+    "news-tech": [
+      "G7峰会呼吁建立美国主导全球AI规则联盟",
+      "SpaceX IPO前中国投资者秘密入股引关注",
+      "特斯拉FSD在欧盟遇阻，瑞典要求否决",
+      "本田与QuantumScape达成固态电池合作",
+      "台湾加速打造无人机供应链服务防御需求"
+    ],
+    "news-sports": [
+      "加拿大1-0卡塔尔创世界杯首胜，科内重伤",
+      "英格兰轮休日友谊赛9-0大胜，图赫尔开球",
+      "乔纳森·戴维与曼赞比或加盟英超",
+      "哈兰德晒金发金靴合影宣示金靴野心",
+      "美国公开赛首日因大雾延迟，麦克罗伊稳健"
+    ],
+    "news-entertainment": [
+      "ILLIT成员Moka因健康问题二次暂停活动",
+      "《玩具总动员5》周四提前场票房看涨",
+      "Jelly Roll离婚后否认出轨传闻",
+      "娜然与霍启山婚讯引热议，霍家未回应",
+      "白鹿误传32张照片反成热搜"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US-Iran talks stall, oil up 1%",
+      "European shares fall on Fed worries",
+      "Yen slides past 161, near 40-year low",
+      "SpaceX shares tumble 7% post-IPO",
+      "STAR Market allows pre-profit IPOs"
+    ],
+    "news-society": [
+      "US-Iran deal under scrutiny",
+      "Ukraine drone attack hits Moscow refinery",
+      "35 killed in Niger airport attack",
+      "Japan-South Korea ties show caution",
+      "China outlets push ideological messaging"
+    ],
+    "news-military": [
+      "Ukraine strikes Moscow refinery",
+      "UK pledges 150,000 drones to Ukraine",
+      "US ends naval blockade of Iran",
+      "60-day MOU signed with Iran",
+      "South China Sea tensions rise"
+    ],
+    "news-tech": [
+      "Chinese investors bought SpaceX pre-IPO",
+      "Taiwan boosts drone production",
+      "Telegram ban in India sparks VPN rush",
+      "Satellite rescue mission in record time",
+      "Whoop promo code 20% off June"
+    ],
+    "news-sports": [
+      "Canada wins first World Cup match",
+      "Kone injured in Canada win",
+      "Tuchel throws baseball first pitch",
+      "Usyk-Verhoeven bout controversy",
+      "Simpson collapses, improving"
+    ],
+    "news-entertainment": [
+      "ILLIT's Moka halts activities",
+      "Toy Story 5 sets preview record",
+      "Ailee's agency denies pregnancy",
+      "Jelly Roll responds to divorce rumors",
+      "Barker's third horror film set"
+    ]
+  }
+}
