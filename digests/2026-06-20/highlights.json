@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "SpaceX上市造富，马斯克成首位万亿富豪",
+      "内存危机升级，苹果或被迫提价",
+      "美伊协议执行生变，油价波动",
+      "恒指跌1.59%，半导体逆势走强",
+      "金饰克价年内大跌近450元"
+    ],
+    "news-society": [
+      "意大利总理梅洛尼斥特朗普编造合影故事",
+      "以色列与真主党达成停火协议",
+      "传奇导演詹姆斯·伯罗斯去世，享年85岁",
+      "澳大利亚报告首例H5N1禽流感病例",
+      "全球流离失所人数十年来首次下降"
+    ],
+    "news-military": [
+      "五角大楼向国会索要800亿美元追加经费",
+      "黑海无人机袭击致商船船员死亡",
+      "中国五年建成十艘万吨巡洋舰",
+      "美军退役最后一艘巡洋舰，航母航程存疑",
+      "乌克兰无人机技术向日本和台湾输出"
+    ],
+    "news-tech": [
+      "AlphaFold之父离开DeepMind加入Anthropic",
+      "比亚迪豪华SUV年底登陆欧洲",
+      "Telo微型卡车实现400kW持续超充",
+      "Nothing因内存涨价取消CMF手机发布",
+      "GPS干扰规模远超预期"
+    ],
+    "news-sports": [
+      "世界杯首张‘捂嘴’红牌引争议",
+      "巴西3-0胜海地但进攻流畅度不足",
+      "苏格兰遭遇争议判罚0-1负摩洛哥",
+      "亚马尔父亲称儿子潜力仅发挥20%",
+      "马龙结束国乒12年队长任期"
+    ],
+    "news-entertainment": [
+      "《玩具总动员5》北美开画预计1.6亿美元+创纪录",
+      "《超级少女》先期口碑褒贬不一",
+      "导演詹姆斯·伯罗斯去世，众星悼念",
+      "TWICE《CHEER UP》MV播放量破6亿",
+      "李现受邀担任世界杯开球嘉宾"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil prices rise on US-Iran deal doubts",
+      "SpaceX IPO triggers risky ETF land grab",
+      "Apple faces memory crisis, price hikes likely",
+      "Europe inflation shock; ECB urges caution",
+      "China consumer optimism vs financial caution"
+    ],
+    "news-society": [
+      "Ukraine calls Poland's honor strip a mistake",
+      "Meloni accuses Trump of fabricating G7 story",
+      "Israel-Hezbollah ceasefire agreed, but doubts remain",
+      "Australia confirms first H5N1 bird flu case",
+      "African nations demand slavery reparations"
+    ],
+    "news-military": [
+      "Pentagon requests $80B more for Iran war",
+      "China builds 10 cruisers in 5 years",
+      "Russia unveils next-generation strategic weapons",
+      "Drone warfare accelerates in Ukraine and Indo-Pacific",
+      "US retires last cruisers as China builds"
+    ],
+    "news-tech": [
+      "John Jumper leaves DeepMind for Anthropic",
+      "BMW opens i3 orders early due to demand",
+      "BYD luxury SUV gets 150,000 pre-orders",
+      "RAM inflation cancels Nothing's budget phone",
+      "Bobby Prince, Doom composer, mourned"
+    ],
+    "news-sports": [
+      "Almiron first sent off for covering mouth",
+      "Scotland denied penalties in loss to Morocco",
+      "Brazil still below top form despite win",
+      "Yamal's father says he's at 20% potential",
+      "Jiang and Wei advance to badminton semis"
+    ],
+    "news-entertainment": [
+      "Toy Story 5 on track for $160M+ opening",
+      "Supergirl first reactions mixed but praise cast",
+      "TWICE's CHEER UP hits 600M YouTube views",
+      "UNB teases reunion with 'REBORN' hint",
+      "Director James Burrows dies, Hollywood tributes"
+    ]
+  }
+}
