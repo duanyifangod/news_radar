@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "伊朗再关霍尔木兹海峡，特朗普下令打击，美股期货大跌",
+      "美联储转鹰，中国需求走弱，新兴市场承压",
+      "北京强化资本外流管控，明确资金应留在国内",
+      "自动驾驶独角兽拟赴港IPO筹资10亿美元",
+      "欧洲央行官员支持跨境银行业整合，将继续加息"
+    ],
+    "news-society": [
+      "哥伦比亚总统决选，内战升级至2016年以来最烈",
+      "伊朗声称关闭霍尔木兹海峡，美伊将在瑞士会谈",
+      "以色列空袭加沙与黎巴嫩，记者与环保人士遇难",
+      "法国热浪红色警报，音乐节禁酒以保护医疗系统",
+      "日本青少年AI成瘾引发社会担忧，政府加强监管"
+    ],
+    "news-military": [
+      "美国解除对伊朗海军封锁，但索要800亿美元战争经费",
+      "中国首次官宣东风-17高超音速导弹试射画面",
+      "美菲完成今年第四次南海双边海事合作活动",
+      "台湾在野党削减国防预算，美方批评向中共让步",
+      "俄罗斯核动力巡洋舰纳希莫夫海军上将号即将重返现役"
+    ],
+    "news-tech": [
+      "诺奖得主John Jumper从DeepMind跳槽Anthropic，AI人才战升级",
+      "特斯拉Autopilot致一死，自动驾驶安全再敲警钟",
+      "Linux六年努力废除strncpy API，共360个补丁",
+      "多国民调认为中国在AI竞赛中领先美国",
+      "Signal总裁警告：AI聊天机器人不是你的朋友"
+    ],
+    "news-sports": [
+      "门线技术否认日本进球，仅差1毫米日本憾平突尼斯",
+      "德国替补Undav第94分钟绝杀科特迪瓦，率先晋级",
+      "库拉索门将Room单场15扑救，创世界杯历史",
+      "纽卡斯尔拒绝热刺对托纳利8000万镑报价",
+      "迈阿密国际签下卡塞米罗，将与梅西联手"
+    ],
+    "news-entertainment": [
+      "纪录片《Declarations》用AI赋予历史主体能动性",
+      "《Rogue Trooper》导演强调本片绝无AI",
+      "上海电影节新人导演赢金爵奖，梁朝伟谈AI威胁",
+      "BLACKPINK《JUMP》成2025年首支破4亿韩流MV",
+      "Netflix拿下《芝麻街》电影版权，经典IP重生"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Iran reportedly closes Strait of Hormuz",
+      "S&P 500 and Dow futures drop sharply",
+      "Fed turns hawkish amid AI debt binge",
+      "ECB signals rate hike regardless of growth",
+      "Beijing intensifies capital controls"
+    ],
+    "news-society": [
+      "Colombia presidential runoff threatens peace process",
+      "Iran claims closure of Strait of Hormuz",
+      "Israeli strikes kill six in Gaza",
+      "Israeli strike kills Lebanese conservationist",
+      "Bolivia declares state of emergency"
+    ],
+    "news-military": [
+      "US ends naval blockade of Iran, signs MOU",
+      "Pentagon seeks $80 billion for Iran war",
+      "Russia's nuclear cruiser Admiral Nakhimov nears return",
+      "US Army stands up drone-centric unit for Pacific",
+      "China releases first footage of DF-17 hypersonic test"
+    ],
+    "news-tech": [
+      "Nobel laureate John Jumper leaves DeepMind for Anthropic",
+      "Most countries view China as leading AI race",
+      "Hacker News debates AI's practical role",
+      "Tesla Autopilot under scrutiny after fatal crash",
+      "NASA rover advancements announced"
+    ],
+    "news-sports": [
+      "Goalline technology denies Japan by fractions",
+      "Curacao earns first World Cup point",
+      "Germany's super-sub Undav wins it late",
+      "Newcastle reject £80m Tottenham bid for Tonali",
+      "Korean dominance and controversy in badminton"
+    ],
+    "news-entertainment": [
+      "AI in filmmaking sparks ethics debate",
+      "BLACKPINK's JUMP hits 400M YouTube views",
+      "K-pop groups enter UK Official Singles Chart",
+      "ATEEZ wins Grand Prize at Seoul Music Awards",
+      "Shanghai Film Festival showcases rising Chinese talent"
+    ]
+  }
+}
