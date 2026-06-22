@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊谈判推动油价回落",
+      "中国对美企实施出口管制",
+      "港股接近熊市",
+      "智谱AI市值破万亿",
+      "银之杰涨停因散户董事长"
+    ],
+    "news-society": [
+      "俄军威胁顿涅茨克关键城市",
+      "哥伦比亚总统决选转向强硬",
+      "日本签证费暴涨5倍",
+      "澳洲楼市创六年新低",
+      "法国高温红色警报禁酒"
+    ],
+    "news-military": [
+      "中国公开DF-17发射画面",
+      "美军将Typhon系统部署日本",
+      "乌克兰无人机袭击克里米亚",
+      "美伊签署60天备忘录",
+      "巴基斯坦试射Taimoor巡航导弹"
+    ],
+    "news-tech": [
+      "AlphaFold创始人加入Anthropic",
+      "Polymarket造假风波",
+      "福特电动Mustang派克峰夺冠",
+      "爱沙尼亚为AI代理发身份证",
+      "中国钠电池重卡上路测试"
+    ],
+    "news-sports": [
+      "佛得角逼平乌拉圭",
+      "埃及世界杯首胜",
+      "尼克斯夺冠游行",
+      "老鹰签约CJ麦科勒姆",
+      "巴萨绝杀皇马"
+    ],
+    "news-entertainment": [
+      "Kanye West遭市长抵制",
+      "Olivia Rodrigo专辑冠军",
+      "龙之家族第三季首播",
+      "张颂文获上影节影帝",
+      "白玉兰场刊引粉圈混战"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Oil falls on U.S.-Iran deal roadmap",
+      "China retaliates with trade curbs on US firms",
+      "Hong Kong stocks near bear market",
+      "Nikkei surges to record high",
+      "Fed's quiet revolution under Warsh begins"
+    ],
+    "news-society-en": [
+      "Russia threatens key Ukrainian city",
+      "Colombia elects hardline president",
+      "China sanctions 10 US defense firms",
+      "France under red heat alert",
+      "Australian housing clearance rates hit 6-year low"
+    ],
+    "news-military-en": [
+      "US lifts naval blockade of Iran under 60-day MOU",
+      "US deploys Typhon missile system to Japan",
+      "China showcases DF-17 hypersonic missile",
+      "Russia-Ukraine drone warfare continues",
+      "Pentagon requests $80 billion for Iran war expenses"
+    ],
+    "news-tech-en": [
+      "Polymarket paid creators for fake betting videos",
+      "Ubisoft co-founder dies in plane crash",
+      "AlphaFold creator leaves DeepMind for Anthropic",
+      "Estonia to give AI agents legal IDs",
+      "EV dominates Pikes Peak hill climb"
+    ],
+    "news-sports-en": [
+      "Cape Verde draws with Uruguay in World Cup",
+      "Egypt wins first World Cup match ever",
+      "Iran holds Belgium to 0-0 draw",
+      "Knicks win first NBA title in 53 years",
+      "Japan sets sights on World Cup glory"
+    ],
+    "news-entertainment-en": [
+      "Kanye West faces cancellation in San Antonio",
+      "Ballerina gets sequel and TV series",
+      "House of the Dragon Season 3 premieres with death",
+      "Shanghai International Film Festival wraps up awards",
+      "K-pop global march continues"
+    ]
+  }
+}
