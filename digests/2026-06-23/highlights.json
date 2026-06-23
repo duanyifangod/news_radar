@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "全球并购交易额预计达4万亿美元，创2021年以来最强",
+      "Alphabet因AI人才出走大跌，SpaceX IPO后暴跌16%",
+      "特斯拉Autopilot致命事故遭联邦调查，科技股承压",
+      "中国618增速放缓，A股成交2万亿但创业板跌超2%",
+      "欧洲央行拉加德称伊朗战争冲击“显著但不会持久”"
+    ],
+    "news-society": [
+      "美联储前主席格林斯潘逝世，享年100岁",
+      "欧洲多国发布红色高温警报，40℃热浪持续",
+      "卡塔尔天然气设施爆炸致13死，能源安全受关注",
+      "中国最高检：强制报告制度已发现案件1.7万件",
+      "知乎扭亏为盈，但营收下滑23.6%，加速AI商业化"
+    ],
+    "news-military": [
+      "中国航母辽宁舰完成40天远海部署返港",
+      "美国陆军在西太平洋成立新司令部反制中国",
+      "俄战略轰炸机抵近北约北极空域，建防护掩体",
+      "土耳其船只在黑海被无人机击中，航运风险增加",
+      "伊朗战争经验：大数据与不对称战争成分析焦点"
+    ],
+    "news-tech": [
+      "谷歌因AI人才流失单日市值蒸发2700亿美元",
+      "特斯拉Autopilot致命事故引发联邦调查",
+      "小模型VibeThinker 3B参数超越Claude Opus 4.5",
+      "Lucid裁员18%，美国电动车市场冷却",
+      "微软与雪佛龙计划建设大型天然气数据中心"
+    ],
+    "news-sports": [
+      "梅西破纪录成世界杯历史射手王，阿根廷晋级",
+      "法国3-0伊拉克，姆巴佩双响锁定小组第一",
+      "挪威3-2塞内加尔，哈兰德两球助球队出线",
+      "曼城接近任命马雷斯卡接替瓜迪奥拉",
+      "国羽18岁女双新星35天夺双冠，成希望"
+    ],
+    "news-entertainment": [
+      "西班牙电影借上海电影节加速中西合拍",
+      "Netflix剧集《肯尼迪》放弃波士顿口音引讨论",
+      "Liam Payne 9岁儿子成为2900万美元遗产继承人",
+      "Carly Rae Jepsen宣布双专辑《Day and Night》",
+      "中国端午档票房3.92亿，微短剧成国际标杆"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Global M&A on Track for Record Year",
+      "Alphabet shares suffer worst day in a year",
+      "Tesla faces federal probe over fatal crash",
+      "China's consumer weakness persists",
+      "ECB reiterates measured stance on inflation"
+    ],
+    "news-society": [
+      "Alan Greenspan dies at 100",
+      "Europe braces for severe heatwave",
+      "China sanctions 10 U.S. defense firms",
+      "Japan defense ambitions face internal resistance",
+      "China top prosecutor highlights mandatory reporting"
+    ],
+    "news-military": [
+      "U.S. Army stands up new Pacific command",
+      "Russia sends Tu-160 bombers near NATO Arctic",
+      "Beijing announces export and procurement controls",
+      "Iran nuclear deal faces renewed pressure",
+      "Turkish vessel struck by drone off Ukraine"
+    ],
+    "news-tech": [
+      "DeepMind loses Nobel winner to Anthropic",
+      "Google loses $270B in market cap",
+      "Alphabet stock plunges 6%",
+      "AI talent exodus to OpenAI and Anthropic",
+      "Discussion on AI model firewalls"
+    ],
+    "news-sports": [
+      "Norway and France advance in World Cup",
+      "Messi breaks World Cup scoring record",
+      "Man City set to appoint Enzo Maresca",
+      "Real Madrid targets Schlotterbeck",
+      "Chinese badminton prodigy makes waves"
+    ],
+    "news-entertainment": [
+      "Clive Davis dies at 91",
+      "Stephen Chow's 'Kung Fu Soccer' gets global distribution",
+      "Stray Kids announce 'RUN IT' world tour",
+      "Chinese micro-dramas become global benchmark",
+      "Amazon unveils agentic AI ads"
+    ]
+  }
+}
