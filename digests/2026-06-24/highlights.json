@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美股科技股因杠杆平仓和估值担忧暴跌",
+      "A股逆势放量至2万亿，显示内资韧性",
+      "Alphabet将取代Verizon加入道指",
+      "SpaceX在IPO后通过债务融资250亿美元",
+      "ECB警告欧元区通胀可能仍保持高位"
+    ],
+    "news-society": [
+      "美伊协议签署后霍尔木兹海峡航运量猛增",
+      "以色列与黎巴嫩边境零星交火，违反停火",
+      "德国铁路因IT故障全国停运超两小时",
+      "朝鲜最高领导人批评日本演变为战争国家",
+      "知乎2025年营收下滑23.6%，加速AI商业化"
+    ],
+    "news-military": [
+      "美国国会通过决议要求终止对伊军事行动",
+      "乌军声称击中克里米亚铁路桥孤立俄占半岛",
+      "美军启动Valiant Shield与Resolute Dragon演习",
+      "美向菲律宾移交无人水面/水下航行器",
+      "中国航母福建号穿越台湾海峡"
+    ],
+    "news-tech": [
+      "Google DeepMind诺奖得主被Anthropic挖角",
+      "比亚迪豪华电动车和插电式皮卡全面出海",
+      "法拉利首款纯电Luce营销失当换负责人",
+      "Prime Day微软Surface Laptop降至$835",
+      "Meta开发独立预测市场应用"
+    ],
+    "news-sports": [
+      "英格兰0-0闷平加纳，进攻乏力暴露",
+      "贝林厄姆与加纳教练奎罗斯赛后冲突",
+      "C罗成为首位六届世界杯进球球员",
+      "19岁瑞典前锋施罗德创女足转会纪录",
+      "8支球队提前出局，小组赛末轮默契球风险"
+    ],
+    "news-entertainment": [
+      "传奇音乐制作人Clive Davis去世",
+      "是枝裕和新片《Sheep in the Box》聚焦AI伦理",
+      "BTS新歌《Come Over》空降Billboard冠军",
+      "中国影视院线板块早盘逼近跌停",
+      "孙俪本名因演员署名新规登热搜"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Global equity futures rise after chip stock selloff",
+      "Alphabet replaces Verizon in Dow index",
+      "SpaceX raises $25 billion in debt sale",
+      "ECB warns inflation may stay stubborn",
+      "China A-share turnover exceeds 2 trillion yuan"
+    ],
+    "news-society": [
+      "Congress passes war powers measure rebuking Trump",
+      "Brad Lander wins NYC Democratic primary",
+      "Israel kills two Hezbollah operatives in Lebanon",
+      "40 drownings in France heatwave since Thursday",
+      "Eight sentenced to 450 years for Texas riot"
+    ],
+    "news-military": [
+      "US Senate joins House to halt Iran war",
+      "F-15E pilot saw jellyfish-like drone swarm",
+      "US launches Valiant Shield 2026 exercises",
+      "China Fujian carrier transits Taiwan Strait",
+      "Fiber-optic killer drones appear in Lebanon"
+    ],
+    "news-tech": [
+      "Alphabet stock plunges 5% on AI defection",
+      "Meta pauses employee-tracking after data leak",
+      "Ferrari replaces marketing chief after EV launch",
+      "Toyota cuts overseas output due to Iran war",
+      "Prime Day sales flood consumer market"
+    ],
+    "news-sports": [
+      "England draws 0-0 with Ghana in World Cup",
+      "Ronaldo first to score at six World Cups",
+      "FIFA says hydration breaks are sporting matter",
+      "Real Madrid signs record women's transfer",
+      "Eight teams have nothing left to play for"
+    ],
+    "news-entertainment": [
+      "Clive Davis remembered by Rob Thomas, Alicia Keys",
+      "Eros Innovation launches AI music label",
+      "Kore-eda's AI family drama trailer released",
+      "Chinese film stocks tumble on regulatory shifts",
+      "K-pop idols break Billboard records"
+    ]
+  }
+}

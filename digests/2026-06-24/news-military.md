@@ -1,0 +1,136 @@
+# 多频道新闻雷达 — 军事新闻
+
+> 2026-06-24 · 窗口: 24h · 条目: 60 · 生成时间: 2026-06-24 05:11 UTC
+
+---
+
+## 板块速览
+
+今日军事新闻聚焦三大战线：美国国会历史性地通过决议叫停对伊军事行动，乌克兰加强对克里米亚的无人机封锁切断俄军补给，以及印太地区美军启动大规模演习并加速向菲律宾移交无人系统。此外，中国航母福建号通过台湾海峡、日本再军事化引发中方警告，各国无人机采购与反制技术竞赛持续升温。
+
+- **美国国会叫停伊朗战争**：参议院继众议院后通过决议，要求总统终止未经授权的军事行动，这是1973年《战争权力法》以来首次两院同时通过此类决议。[参考链接](https://www.defensenews.com/news/pentagon-congress/2026/06/24/us-senate-joins-house-in-voting-to-halt-iran-war/)
+- **乌克兰打击克里米亚铁路桥**：乌军声称击中通往克里米亚的铁路桥，意图孤立俄占半岛，同时俄方加大无人机封锁。[参考链接](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjJNY1oxS3BZOEw4RFNvSG5pVWZ3UmdwUEU1Q1ZlWFBUeGxlOHRSM2I2T2lHN0hFbFNPZUJOS3dVcVAzQlpyM29RbmRlLVVNZ3pJX0o0Mjg5VzZuc3hqeU8yaUFCS0xoVEl4b1B2ZHYyUndkQTBWTUtWWnJGdm15WXViTjM3T3ZYX3FzSUkyOUVkaTZoREdPMHp4aUFBWS1JN016NV9BVlhNV2RNdUVtcG9idlJuUXpvbm9venpVcDNvNGJzSHBUVVdXbUExZW9QclpF)
+- **美军启动Valiant Shield与Resolute Dragon演习**：印太司令部主导，涉及关岛、马里亚纳群岛、日本等地，旨在强化联合全域作战能力。[参考链接](https://news.usni.org/2026/06/23/u-s-kicks-off-western-pacific-exercises-valiant-shield-resolute-dragon)
+- **美向菲律宾移交无人水面/水下航行器**：四艘Ocean Aero Triton交付菲海军，并计划2027年前移交攻击型无人机，加强南海不对称威慑。[参考链接](https://news.usni.org/2026/06/23/u-s-asymmetric-aid-program-transfers-unmanned-vessels-to-the-philippines-plans-attack-drone-transfer-by-2027)
+- **中国航母福建号穿越台湾海峡**：台湾“备战操演”期间，福建号通过台海，引发关注。[参考链接](https://news.google.com/rss/articles/CBMixgJBVV95cUxPTFRVSHRqcGtkN3dDdGNxZHAzRlBiWkQyQmJQWVZ4Y2tKeFFaSWxXNUYzTG5ndlgzZnZ6X2NLS2wzS3FQOWN2R2pweXJnUXNUX0FXTnRsRWVaQTYyTEctMVdBTlN4UDM0aXVRcHVnazc0SkJZcy1tYU1Sd1pxQUk3S3lxZDNlMFFHU29PY0UxUVBzVTJ0Z2E1SUdLRFhMbi05SmVRdW5sZ3FQWnBYb1Nhd0Y1MnFtcDVoRG9PcXRBLU1UdjBjNW5lR0JMNWRmdktmRlpINXFvYjExRlp6NV9XZEtma3Q5R0RrQnFva19NMlltbS1jLUNfT0hWMDVPT1BmSk9yVEU1VFRFY0VhTWJxazhqVlFGWnhKOXFWc1JhaUtlWE03QjNOOGVPYlMxT0xha2Z0eGE2MHJOMlhTRy1PM05vZTdyZ9IBxgJBVV95cUxQQW16SHhicWpvS3ctWnZ5MFlTcHBXQm4xaWhtQ1FTSThWX1NzUmg4bUR1OURKaEphaDlHQVBrNHFud09qV2h0Ni1KY2tHQkhqcmJ0RllQTmNSLXpMc0MxWjFRa1EyQUMxVW1ueUpkelVKTEF0RnpBQVdiak1hbkdiaThFVHotM1BoMFNpVEtvbWhNS05hYmNiemZHMGtVeEVJay1iYlZhUUlCem1EeVhoUWc1QjhkanJwLWwwYXVyejNZV3hIOFV6SE9qb2JPWWs0YW0yU0F6bWFpY0RkMHZXVVQwbWlrbnZZYUJIVEQwRW1zRkFRZ3I4ZzZwYmVIemgxXy15aHcxVUJzTWh2TEdTakxkQ2UtQld3Vml6RjJxaGZqbkwzWmc2SnU4N1FoM0tqYVVVbHp4eFN6MGswZHlwVDM3QVEtdw)
+- **波兰采购Shield AI V-Bat无人机**：用于海上作战，该机在乌克兰战场表现出抗电子战优势。[参考链接](https://breakingdefense.com/2026/06/poland-buys-v-bat-uavs-from-shield-ai-for-naval-forces/)
+- **NATO与乌克兰悬赏开发破坏俄机场系统**：面向私营部门征集方案，旨在瘫痪俄空军基地。[参考链接](https://www.twz.com/news-features/nato-and-ukraine-turning-to-private-sector-to-help-crater-russian-airfields)
+- **DARPA X-65无人机获翼即将试飞**：采用“射流控制”技术，无传统舵面，预计2027年首飞。[参考链接](https://www.twz.com/air/darpa-x-plane-designed-to-maneuver-with-just-bursts-of-air-finally-gets-its-wings)
+
+**后续观察**：今日信息凸显两大趋势：一是美国国内对中东军事行动的立法约束加强，与印太地区军事部署的扩张形成对比；二是无人系统在乌克兰战场证明价值后正快速向全球扩散，从波兰到菲律宾都在加速列装。同时，中国航母常态化穿越台海表明解放军远海作战能力步入新阶段，台海与南海的博弈将更加依赖无人平台和不对称手段。
+
+---
+
+## 国际安全 · 29 条
+
+美国国会历史性叫停伊朗战争，同时欧洲驻军审查启动，防务开支争论升温。无人机技术扩散与反制成为焦点。
+- **参众两院通过决议**要求总统停止未经授权的对伊军事行动，这是1973年以来首次，反映国会战争权力回摆。[链接](https://www.defensenews.com/news/pentagon-congress/2026/06/24/us-senate-joins-house-in-voting-to-halt-iran-war/)
+- **防长Hegseth启动欧洲驻军态势审查**，评估美军部署是否适应新威胁。[链接](https://breakingdefense.com/2026/06/behind-hegseths-european-posture-review-plus-a-big-cca-program-update/)
+- **波兰采购V-Bat无人机用于海军**，该机在乌克兰抗电子战表现突出，将部署于舰艇。[链接](https://breakingdefense.com/2026/06/poland-buys-v-bat-uavs-from-shield-ai-for-naval-forces/)
+- **以色列面临新威胁**：光纤制导杀手无人机抵达黎巴嫩，技术源自乌克兰战场。[链接](https://www.defensenews.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/)
+- **美国海军陆战队在冲绳接收反舰与反无人机系统**，强化第一岛链防御。[链接](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmWFhfZmN3SURfcUdSbzkyUG1EU1B3WHNMX1o2QW5SZ3VQY0FNWVdFb2tyRDkxRVNuYTR1d25ySHFGMzM1MUJLLThRdk4wSnFSMTVPSTFoOE1xV3dfSU9zN0g5Nk5odWFDZWdFcXp3)
+
+美国国会约束与欧洲态势调整表明，华盛顿正重新平衡全球兵力，但无人机技术的“乌克兰化”扩散使各地战场面临新挑战。
+
+<details><summary>信源 (29)</summary>
+
+- [US Senate joins House in voting to halt Iran war](https://www.defensenews.com/news/pentagon-congress/2026/06/24/us-senate-joins-house-in-voting-to-halt-iran-war/) — Defense News · 2026-06-24 03:50 UTC
+- [How Much Is Too Much? The Defense Spending Dilemma – Analysis - Eurasia Review](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmFVcUs0S1pnVkwxUjl6aWx2SzBlY1ZSdzJhLXFpTGRtelN3RW9VNHMxem1KV3UzSlNOYmp4X25sWUlLYUZQRE5oMFl0Y2o3alJqZkNNUzVvMEs1MWRJc1djcmI3TEtVNjZFRlN6ZTVGTlAxdmcyZ2w1V3U0RGRDVV82NldPalNCRkJqXzU5T3p3bWtIMFRCaUJPRVJJUTQ) — Google News Global Military · 2026-06-24 00:12 UTC
+- [Army Pioneers Use of Generative AI “Data Minutes” for Multi- Domain Missions - Warrior Maven](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOUg3WWVmRE5aOGFCNzlXRHg5aHJfUDhPQXhTeGVQQkRGLTM0bHgwTkd3N3ZrVXFBNDgtYXFzLTdwaFJxUGRuOW9ZT3F3Smk4TmIzZzUzRHRHWXE0WHN5MENEM2JDYnlQNXRza2IwSV9Ha28xNWZDal9hMlFxTFl4YUJNdExGX2ZuczRIbUt4X0FWd1I3S1Y2d0M3eHdzYUo4WWg2Vk5XWWhSaC1K) — Google News Global Military · 2026-06-24 00:01 UTC
+- [The U.S. Marine Corps Has a Fleet of ‘Secret’ Aircraft Carrier - 19FortyFive](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmV0N1hpeXNJVDlFZXZxS19hM2pNZk9RMmtBZENUUnlQS2VKRFNVRVpFVVVZY2tvSHFUMTZyd0RkMnhEdnZxQnhxYlhqeUZoWDViVVVfTEZVbDJ2Unh1c2JGLWJpanU2U25IRDhTYjJ0TWE4NU02ZWR0Q3BUbHFIX2dFVEw4SjdtalhvNng1ZnR4Qng4dERIdXBnWnQ) — Google News Global Military · 2026-06-23 23:24 UTC
+- [Poland buys V-Bat UAVs from Shield AI for naval forces](https://breakingdefense.com/2026/06/poland-buys-v-bat-uavs-from-shield-ai-for-naval-forces/) — Breaking Defense · 2026-06-23 20:20 UTC
+- [NATO And Ukraine Turning To Private Sector To Help Crater Russian Airfields](https://www.twz.com/news-features/nato-and-ukraine-turning-to-private-sector-to-help-crater-russian-airfields) — The War Zone · 2026-06-23 19:43 UTC
+- [Air Force’s Fightertown Alaska Plan Takes Shape](https://www.twz.com/air/air-forces-fightertown-alaska-plan-takes-shape) — The War Zone · 2026-06-23 19:30 UTC
+- [What Was The “Jellyfish-Like” Drone Swarm The Downed F-15E Pilot Reportedly Saw Over Iran?](https://www.twz.com/air/what-was-the-jellyfish-like-drone-swarm-the-downed-f-15e-pilot-reportedly-saw-over-iran) — The War Zone · 2026-06-23 19:02 UTC
+- [DARPA X-Plane Designed To Maneuver With Just Bursts Of Air Finally Gets Its Wings](https://www.twz.com/air/darpa-x-plane-designed-to-maneuver-with-just-bursts-of-air-finally-gets-its-wings) — The War Zone · 2026-06-23 18:00 UTC
+- [U.S. Kicks Off Western Pacific Exercises Valiant Shield, Resolute Dragon - USNI News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXQ2UUhTMW1TYVNlVDBPRmdkUEZFdzVZdHl2OUhGdXN1aG5OOXZ2bHBDVm16Zzh2QjNjcHliekxJcWtaMElsXzByTmJRT3NId2d0cmg0MWZueE84Z2dHckhGYjU0dTBfMGxzS3ZzalJhMnFYYVVVOWczOHBoTUFyM3I1MXNVLVdIZUNHR1M0eHdQNWtmZHpvZ0U1UEJvVnl2dmMtQkF3) — Google News Global Military · 2026-06-23 17:34 UTC
+- [Rheinmetall and Lockheed Martin highlight Fuchs JAGM - Defence Industry Europe](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEp0WlpxVnJhaks4TF9famtZQ2JRU0hGUWlNc0R0TUswRzRWem84LUlyTkhXcndTeEhFZWxoWHRaaGRESGlEZUt0YTVCWGJNMVFhV1hMSEw3amlvcHZtam16TkU0ZG9id1V2ajJDLWdUaWdtenFrdi1pV3RXbXhjdkJMdWZ2cHMw) — Google News Global Military · 2026-06-23 16:55 UTC
+- [Behind Hegseth’s European posture review, plus a big CCA program update](https://breakingdefense.com/2026/06/behind-hegseths-european-posture-review-plus-a-big-cca-program-update/) — Breaking Defense · 2026-06-23 15:58 UTC
+- [Iran peace deal: What does it mean for defense stocks like Lockheed Martin? - MSN](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbVdvelMwbllLOElXQjg1SklBcTFpZ3ludDNjeHZGeTZMQzhmdjlXY1U4TmZxeU5TbjUwNF9LZkExZ0x2elJlRnNiczNwb0RUSnZOeEtUUVBCY1dRX3dJUVhndWNxRkRGVzJqTEZxVE9FLWtnc0RRc2FlQjlVblM5QXAzWjF6dVpmbWhXSEkxUVkzaTRCZnhhRXcwc0tEa2Zwa3hNbG9pTmFoVEZJZ09JajlYdFRBeFVVRE5IQWI5ZGo2V3VIeHV6VXFtOF9kUmgzM1d5cGpTb2x3MUJMTTRZcGt2ZlRiZlBL) — Google News Global Military · 2026-06-23 15:02 UTC
+- [Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon](https://www.defensenews.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/) — Defense News · 2026-06-23 14:43 UTC
+
+</details>
+
+## 中国军情 · 10 条
+
+台湾在野党削减国防预算引发美方关切，阿里巴巴起诉五角大楼，中国航母福建号穿越台海，外交部批评日本再军事化。
+- **台湾在野党削减国防预算**，美国称此举是向中共让步，台海安全格局出现变数。[链接](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1RsckpZdWVOZEVUcDVvUEZuSm9zLUEzcUhiMGw2OWNORWRnT041MFlZSFV3amNLNldFTEVnQTBlQUQ1YUdRcDg4UEtaOGpKdE8wdV9wRVdTcXZGZ004blhCaWhHRFRkZEpuai1nOElMYTZtZHl1QklXaDVCVWU3ZEVaY29icWJHNjJv)
+- **阿里巴巴向联邦法院起诉美国国防部**，要求从“中国军事企业”名单移除，凸显中美科技脱钩升级。[链接](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQdFh2SlIxcE1nVGVESkY2U0U3d2xCTjBjQ2JWVWZ3SFU4ZW83ZmNUemhYX3VRdEx4UzhMdHF1andwbXRFeXRvNU1kZWMzNDNUTUhPVUF3TnA0WjRVc3p5OFBCcGt3RVZBX3FKa1Y3bFp3YVRlM2h3TDdNUFhvVXZUVC10SnR6cFV0c3VRWXA1NENUVHprQWFXZ1VhU2FpN3NCbVBUWThidGtSeER1X1lRajFJSE1qdlU3dV9CTnVXZUZGZEYwUHN1bGtSVlRST0ZrZWVMT3lWWDk2Njkxc0RPT1Bqa3o1TGhmV184ZUxHdFNsNHBRTGtiVUVKVzJMUkxUV1pwc0lFZWxOUmMyZEdPMlE5TG5ZeS1oem9SaDV0R0w5ZENYakNPVFBRYVd5cE5SdFZ3MFJrdUoyNUs0eTcyQ2x0cWo3WGhSVTJaWXhLYUlDSzZOVUdweFpEWXlnSmxHZlpidVBQenpMOFpoTERr)
+- **福建号航母在台军“备战操演”期间通过台湾海峡**，展示战备能力。[链接](https://news.google.com/rss/articles/CBMixgJBVV95cUxPTFRVSHRqcGtkN3dDdGNxZHAzRlBiWkQyQmJQWVZ4Y2tKeFFaSWxXNUYzTG5ndlgzZnZ6X2NLS2wzS3FQOWN2R2pweXJnUXNUX0FXTnRsRWVaQTYyTEctMVdBTlN4UDM0aXVRcHVnazc0SkJZcy1tYU1Sd1pxQUk3S3lxZDNlMFFHU29PY0UxUVBzVTJ0Z2E1SUdLRFhMbi05SmVRdW5sZ3FQWnBYb1Nhd0Y1MnFtcDVoRG9PcXRBLU1UdjBjNW5lR0JMNWRmdktmRlpINXFvYjExRlp6NV9XZEtma3Q5R0RrQnFva19NMlltbS1jLUNfT0hWMDVPT1BmSk9yVEU1VFRFY0VhTWJxazhqVlFGWnhKOXFWc1JhaUtlWE03QjNOOGVPYlMxT0xha2Z0eGE2MHJOMlhTRy1PM05vZTdyZ9IBxgJBVV95cUxQQW16SHhicWpvS3ctWnZ5MFlTcHBXQm4xaWhtQ1FTSThWX1NzUmg4bUR1OURKaEphaDlHQVBrNHFud09qV2h0Ni1KY2tHQkhqcmJ0RllQTmNSLXpMc0MxWjFRa1EyQUMxVW1ueUpkelVKTEF0RnpBQVdiak1hbkdiaThFVHotM1BoMFNpVEtvbWhNS05hYmNiemZHMGtVeEVJay1iYlZhUUlCem1EeVhoUWc1QjhkanJwLWwwYXVyejNZV3hIOFV6SE9qb2JPWWs0YW0yU0F6bWFpY0RkMHZXVVQwbWlrbnZZYUJIVEQwRW1zRkFRZ3I4ZzZwYmVIemgxXy15aHcxVUJzTWh2TEdTakxkQ2UtQld3Vml6RjJxaGZqbkwzWmc2SnU4N1FoM0tqYVVVbHp4eFN6MGswZHlwVDM3QVEtdw)
+- **中国外交部回应日本推进再军事化**，称威胁地区和平稳定。[链接](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tUXlXdFdHb0ZtMFBjQ010R3h6Y09DOTlPRV9sZXgxUXp4dHJ3akRLa0oweFg4SUpuSUttdjdMcng1ZEhiZ1lLS3MyQkk)
+- **美国向菲律宾移交太阳能无人艇**，加强南海监测能力，中方或反应。[链接](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN2hWbDhMYUVsenRfNTFKbmRXUExYY19acVRPb3F3VENYM2Jzck9mOXpEdll5eEUxV3M0Qi1yLUNGYTZOVlp1WUZQTVlNODZlelJWeGt3cFpTaHNfN2VzbkZ5WTVlclV2VHo2WGNZaFprcjc1WnhDZ3EtUnhMQ1ZxZ1lGd203RWJ6YlNSc3ZvbzRYV1RGcDc3UVVDUUNMLU1CLVdpa1FLYk9yemV2cU1vNHBkaFV2QnZidnhsNnkycHEtUW1hMFQxTmdMM19SMGJKazEzek1oYlk5T1l5Rk83TFFIRdIB5gFBVV95cUxOZUFvMjE2bG5RX010NEQ5cmdvUHh3QXdZQmVobk40RjE0dUFPM2lQR1RhNkpLYVBGR29oS2ZiVTFTUVNkalNzZ09ScDdxcF9LLUZmU254clZyQ09nMy1hVUlSRU5qUVBGWjhnZXBXS3BZQUs2aXNxZ0JBOU42bDFpWFJNSlFydHJvNmhrQzF1dER2M0xILVBzbkFRWDJRXzZvRmVxRjU1dVpkSTJrYUFid19HOVlKYXpScFZ1UU5UN2xENHAtaUNxaUZ5b2YwOUVrMXc0RUxRV29CRXVyXzZodFpFVnR2dw)
+
+中美在台海与南海的军事博弈持续加码，同时科技领域的法律战进一步激化，台湾内部政治变化可能影响美国对台承诺。
+
+<details><summary>信源 (10)</summary>
+
+- [赖清德“呼吁中国放弃在南海东海及台海扩军，放弃武力攻台”，国台办：以最大诚意、尽最大努力争取和平统一前景，但决不承诺放弃使用武力 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTZldENsSVBHd2lsVS00S3o1UW1FLURxRXc5ZnlfZ1R6S0Jtd1NiVEpWTEQwUHhmc3hyMGhacE1mY0ZjeksyQzhvM3dJMU1wVllYS1pYRWU0ckhSU3pRUTFFbmp3WlpoY2hHbFZWYUgwYl96UTJrN2xQbTJ3bTNpNVFwNWxxbm85) — Google News China Military · 2026-06-24 03:00 UTC
+- [阿里巴巴起诉五角大楼，要求将其移出军事相关企业名单 - 华尔街日报中文网](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQdFh2SlIxcE1nVGVESkY2U0U3d2xCTjBjQ2JWVWZ3SFU4ZW83ZmNUemhYX3VRdEx4UzhMdHF1andwbXRFeXRvNU1kZWMzNDNUTUhPVUF3TnA0WjRVc3p5OFBCcGt3RVZBX3FKa1Y3bFp3YVRlM2h3TDdNUFhvVXZUVC10SnR6cFV0c3VRWXA1NENUVHprQWFXZ1VhU2FpN3NCbVBUWThidGtSeER1X1lRajFJSE1qdlU3dV9CTnVXZUZGZEYwUHN1bGtSVlRST0ZrZWVMT3lWWDk2Njkxc0RPT1Bqa3o1TGhmV184ZUxHdFNsNHBRTGtiVUVKVzJMUkxUV1pwc0lFZWxOUmMyZEdPMlE5TG5ZeS1oem9SaDV0R0w5ZENYakNPVFBRYVd5cE5SdFZ3MFJrdUoyNUs0eTcyQ2x0cWo3WGhSVTJaWXhLYUlDSzZOVUdweFpEWXlnSmxHZlpidVBQenpMOFpoTERr) — Google News China Military · 2026-06-24 03:16 UTC
+- [972人！江西公布一项招生计划 - 新浪财经](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0VHV2RMQXdnZkhDR3dkS3VzQVRDTGxubjNkZWI4WThaR2VtSXd0TE03QmxEZC1PZ1hmX1Z6MTQzQUxPR29WcERtejA2bVVqV2plVGFGSjRRd2RlWmluVHlTa2JUYWxic3l6Q3piNFptTmxvN25yTUJ3Zy00RzM2bDVDT0FzRlVRczkzaDU4aE1aUXZoaXNQRklNWVRObUppeFlsdFVLM3lhMzVyV3dQaHl2QlBEb0E5U3NNNHhpQzh0UDEwMkdtanJ2bDMwUFUtSENPVmxTQ1k) — Google News China Military · 2026-06-24 02:53 UTC
+- [阿里巴巴起诉美国国防部，要求从“中国军事企业”名单移除 - 星岛环球网](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKYXJ3MldobjhUQ0s4Z25vREtuZDV0T0d6dk1YeHJSSnRuQ0hWLW93RVFFdTNwS1lYY04zeVZnVjI2LUp5WURoLUtPTHF4NnlLRC1UWQ) — Google News China Military · 2026-06-24 01:03 UTC
+- [一旦美军与中国交手，那么美国霸权将在冲突里彻底终结 - 风闻](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OWnQzUXp3YVZvYmJSTVNwQjhTTU5ETFpGc0lrYTViRjU1VzQ0VzlaaUhxMGtYMnhhcVBKRVJNdTA4MkdKblduM1haRFdOZ2xqVTdiNDkwVlFrVGc) — Google News China Military · 2026-06-24 00:59 UTC
+- [台湾在野党削减国防预算…美国称“这是向中共让步” - 朝鮮日報中文版](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1RsckpZdWVOZEVUcDVvUEZuSm9zLUEzcUhiMGw2OWNORWRnT041MFlZSFV3amNLNldFTEVnQTBlQUQ1YUdRcDg4UEtaOGpKdE8wdV9wRVdTcXZGZ004blhCaWhHRFRkZEpuai1nOElMYTZtZHl1QklXaDVCVWU3ZEVaY29icWJHNjJv) — Google News China Military · 2026-06-23 22:17 UTC
+- [【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lNkFTU3BzV0dnYW9CS2dmck9QYUZrMzZaVVY5YWVWMFRyMndsY3ZTajdBVFFJRVJfNE9ub1NGUHhQR01vR2ltRg) — Google News China Military · 2026-06-23 20:45 UTC
+- [美国向菲军移交太阳能无人艇，以加强在南中国海的监测能力 - 美国之音](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN2hWbDhMYUVsenRfNTFKbmRXUExYY19acVRPb3F3VENYM2Jzck9mOXpEdll5eEUxV3M0Qi1yLUNGYTZOVlp1WUZQTVlNODZlelJWeGt3cFpTaHNfN2VzbkZ5WTVlclV2VHo2WGNZaFprcjc1WnhDZ3EtUnhMQ1ZxZ1lGd203RWJ6YlNSc3ZvbzRYV1RGcDc3UVVDUUNMLU1CLVdpa1FLYk9yemV2cU1vNHBkaFV2QnZidnhsNnkycHEtUW1hMFQxTmdMM19SMGJKazEzek1oYlk5T1l5Rk83TFFIRdIB5gFBVV95cUxOZUFvMjE2bG5RX010NEQ5cmdvUHh3QXdZQmVobk40RjE0dUFPM2lQR1RhNkpLYVBGR29oS2ZiVTFTUVNkalNzZ09ScDdxcF9LLUZmU254clZyQ09nMy1hVUlSRU5qUVBGWjhnZXBXS3BZQUs2aXNxZ0JBOU42bDFpWFJNSlFydHJvNmhrQzF1dER2M0xILVBzbkFRWDJRXzZvRmVxRjU1dVpkSTJrYUFid19HOVlKYXpScFZ1UU5UN2xENHAtaUNxaUZ5b2YwOUVrMXc0RUxRV29CRXVyXzZodFpFVnR2dw) — Google News China Military · 2026-06-23 15:22 UTC
+- [台湾“备战操演”之际 中国航母“福建号”通过台湾海峡 - dw.com](https://news.google.com/rss/articles/CBMixgJBVV95cUxPTFRVSHRqcGtkN3dDdGNxZHAzRlBiWkQyQmJQWVZ4Y2tKeFFaSWxXNUYzTG5ndlgzZnZ6X2NLS2wzS3FQOWN2R2pweXJnUXNUX0FXTnRsRWVaQTYyTEctMVdBTlN4UDM0aXVRcHVnazc0SkJZcy1tYU1Sd1pxQUk3S3lxZDNlMFFHU29PY0UxUVBzVTJ0Z2E1SUdLRFhMbi05SmVRdW5sZ3FQWnBYb1Nhd0Y1MnFtcDVoRG9PcXRBLU1UdjBjNW5lR0JMNWRmdktmRlpINXFvYjExRlp6NV9XZEtma3Q5R0RrQnFva19NMlltbS1jLUNfT0hWMDVPT1BmSk9yVEU1VFRFY0VhTWJxazhqVlFGWnhKOXFWc1JhaUtlWE03QjNOOGVPYlMxT0xha2Z0eGE2MHJOMlhTRy1PM05vZTdyZ9IBxgJBVV95cUxQQW16SHhicWpvS3ctWnZ5MFlTcHBXQm4xaWhtQ1FTSThWX1NzUmg4bUR1OURKaEphaDlHQVBrNHFud09qV2h0Ni1KY2tHQkhqcmJ0RllQTmNSLXpMc0MxWjFRa1EyQUMxVW1ueUpkelVKTEF0RnpBQVdiak1hbkdiaThFVHotM1BoMFNpVEtvbWhNS05hYmNiemZHMGtVeEVJay1iYlZhUUlCem1EeVhoUWc1QjhkanJwLWwwYXVyejNZV3hIOFV6SE9qb2JPWWs0YW0yU0F6bWFpY0RkMHZXVVQwbWlrbnZZYUJIVEQwRW1zRkFRZ3I4ZzZwYmVIemgxXy15aHcxVUJzTWh2TEdTakxkQ2UtQld3Vml6RjJxaGZqbkwzWmc2SnU4N1FoM0tqYVVVbHp4eFN6MGswZHlwVDM3QVEtdw) — Google News China Military · 2026-06-23 14:17 UTC
+- [中国外交部：日本推进再军事化威胁地区和平稳定 - 凤凰网](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tUXlXdFdHb0ZtMFBjQ010R3h6Y09DOTlPRV9sZXgxUXp4dHJ3akRLa0oweFg4SUpuSUttdjdMcng1ZEhiZ1lLS3MyQkk) — Google News China Military · 2026-06-23 13:03 UTC
+
+</details>
+
+## 冲突局势 · 12 条
+
+乌克兰加大对克里米亚的无人机封锁，俄军补给线受损；美国国会叫停伊朗战争同时，中东和平协议讨论影响防务市场。
+- **乌克兰击中通往克里米亚的铁路桥**，意图切断俄军后勤，无人机封锁密度增加。[链接](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjJNY1oxS3BZOEw4RFNvSG5pVWZ3UmdwUEU1Q1ZlWFBUeGxlOHRSM2I2T2lHN0hFbFNPZUJOS3dVcVAzQlpyM29RbmRlLVVNZ3pJX0o0Mjg5VzZuc3hqeU8yaUFCS0xoVEl4b1B2ZHYyUndkQTBWTUtWWnJGdm15WXViTjM3T3ZYX3FzSUkyOUVkaTZoREdPMHp4aUFBWS1JN016NV9BVlhNV2RNdUVtcG9idlJuUXpvbm9venpVcDNvNGJzSHBUVVdXbUExZW9QclpF)
+- **Atlantic Council分析**称普京原想“去军事化”乌克兰，反而催生了一个强大军事力量。[链接](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLU04Z2w4Tk8yNzlLRUJYandtLVlDSk94Z1lMNmx5TV9ubFJXTzBLb2ZwQjVoU2doSFJMTjdFY1ZDY3l0c043dE5OaWtfSG5hd3ZfMmJWZWFvRWhUM2hnSXdHOHVkRTQ2MFY1dnVkWlBsWmJqUm1pTGZxcE5ZZ2pDS3JhSHRXaGk4eVVNZ2huR2RXLWRNLVF3OVZJUVJFT1VsYS1HYzVjem5INXRFd1k0bDI5TFpWOU5BeGVMenVTeDh4UDVLOGhxUA)
+- **美军进行海上无人机救援演练**，此前因真实事件（Apache被击落）而加速实战化。[链接](https://news.google.com/rss/articles/CBMipAFBVV95cUxQOU5NTUhSOUs1Z0wwc0hRd3AxNE5nZ0VWZDZFR3NyNE83Y2ZlN2RCR3JHdXM1ODg4RUdhUFRic0hWOEluMHBURG1oODlGMmp0UGU1Z0xaWGJXUmFxcEt4ZmdkLXBOZmFpV1NQODk1RGtMa2c2RFZYV1dJODg0ZXJrVGdiTFFMb2lYLWRSaWxoQzN0QktEVXYyMGpESXBiaGhfLXhLdQ)
+- **霍尔木兹海峡不对称作战分析**：水雷与无人系统正在重新定义海军力量。[链接](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVVVbDFEOVpWMnBvZjJ2ZlE3M2FOWTh4b0JDUXN3dXlHVndrZWlMZzVJal9oTzVFMTZVbVpWQnFjMlZXMTR4NW56bzBLWFcybVhnd1ZWeko4dmk2akZ6ZlhIaVNxN3FRaUs4QU02NzBjQ3VTSDdka3dOQU8ybXNaWGQxOV9hN3BtdjFjQTJUWnhBNnhyUzlvdTc5dUk3Ym5QNnc5aC1UdEtXdHhqT1dSREJoYTk)
+- **伊朗和平协议前景导致防务股波动**，洛克希德·马丁等面临不确定性。[链接](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbVdvelMwbllLOElXQjg1SklBcTFpZ3ludDNjeHZGeTZMQzhmdjlXY1U4TmZxeU5TbjUwNF9LZkExZ0x2elJlRnNiczNwb0RUSnZOeEtUUVBCY1dRX3dJUVhndWNxRkRGVzJqTEZxVE9FLWtnc0RRc2FlQjlVblM5QXAzWjF6dVpmbWhXSEkxUVkzaTRCZnhhRXcwc0tEa2Zwa3hNbG9pTmFoVEZJZ09JajlYdFRBeFVVRE5IQWI5ZGo2V3VIeHV6VXFtOF9kUmgzM1d5cGpTb2x3MUJMTTRZcGt2ZlRiZlBL)
+
+乌克兰战场呈现“无人机围困”新形态，中东则处于战争与外交的十字路口，两个热点均对全球军事部署产生连锁影响。
+
+<details><summary>信源 (12)</summary>
+
+- [Ukraine says it hit a railway bridge to Crimea, seeking to isolate the Russian-held peninsula - The Washington Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjJNY1oxS3BZOEw4RFNvSG5pVWZ3UmdwUEU1Q1ZlWFBUeGxlOHRSM2I2T2lHN0hFbFNPZUJOS3dVcVAzQlpyM29RbmRlLVVNZ3pJX0o0Mjg5VzZuc3hqeU8yaUFCS0xoVEl4b1B2ZHYyUndkQTBWTUtWWnJGdm15WXViTjM3T3ZYX3FzSUkyOUVkaTZoREdPMHp4aUFBWS1JN016NV9BVlhNV2RNdUVtcG9idlJuUXpvbm9venpVcDNvNGJzSHBUVlVXbUExZW9QclpF) — Google News Conflict Watch · 2026-06-23 23:55 UTC
+- [Putin vowed to demilitarize Ukraine. Instead, he created a major military power. - Atlantic Council](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLU04Z2w4Tk8yNzlLRUJYandtLVlDSk94Z1lMNmx5TV9ubFJXTzBLb2ZwQjVoU2doSFJMTjdFY1ZDY3l0c043dE5OaWtfSG5hd3ZfMmJWZWFvRWhUM2hnSXdHOHVkRTQ2MFY1dnVkWlBsWmJqUm1pTGZxcE5ZZ2pDS3JhSHRXaGk4eVVNZ2huR2RXLWRNLVF3OVZJUVJFT1VsYS1HYzVjem5INXRFd1k0bDI5TFpWOU5BeGVMenVTeDh4UDVLOGhxUA) — Google News Conflict Watch · 2026-06-23 21:20 UTC
+- [- Cyprus Shipping News - Cyprus Shipping News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFY2NjlNYkRYQnBoN1JJbzZYbjFnMlhoQXBaN3FObTRjUEVEeDBVVTB0RjAzX2Z4ellXV0tqZW5GZjl0dkZ3QWRNTzRTVldOSktVeE53ZGlkZDhud20tU1kzR0JRNlN4Q0s0X09yWUZ4Y2RfS1VkaUJMY2lHaU5XRnJnT0dqaTBiRU9jdWgxWDlJa2dtSlotTFJiSmVnd2s) — Google News Conflict Watch · 2026-06-24 03:41 UTC
+- [The Middle Corridor is Having a Moment - International Policy Digest](https://news.google.com/rss/articles/CBMidkFVX3lxTFBlcEo2b1dQd1BPOGZvMTRQcnJCaVN0ZTZtQUFfZEk3cE55NjZLeVg1cWNJU0piUFRhMW9VZjhvT0p1akRodk45eEdINU81aF91S3FlcEJFdUROV3h2cEtMRVluenBsc1BwY1RTTEFvcWRld1Q1dlE) — Google News Conflict Watch · 2026-06-23 23:19 UTC
+- [Ukraine tightens drone blockade of Russian-occupied Crimea - Atlantic Council](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFhhc2lJNHpVU2R4WWNQN0N6XzJJRjAwWEJxVS1SeDhBblI2RkV0MmE1cTI4aldBdDZxQVlScGw2YlR0M3QxSzYzNzVFb1d0U1RSUWtoUjNSSjdHRFZiMV8zYjladkFKR0xabUVTZC0wMDRoZ3F6MndGS3hWQjNBS1RUOFNzYkJ6X3BNMVRLaDFZMUdQdXAwSmpEanpGVFgtQy01MDNpWWd1SHJua3pr) — Google News Conflict Watch · 2026-06-23 20:40 UTC
+- [Senate backs House measure to end unauthorized action in Iran - Stars and Stripes](https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1Y4Y1hKN3VJOGktUGRGeWlvUnBUYThhdU50RWxDbEhkbnpFalRYeGx2Z1Z2Ym13TkJHbV9tZlVHQ083cVlpcjBUQWl5ZnJIcDRYYnItY3MxME1qMHdKSEg2NXBjVm5SbkpsQVZBZUJNd2ZydlYzLWhqWGF5cDFQZ0UzaFNsdUczRTB2TmZtMmJDT1dFVVM4) — Google News Conflict Watch · 2026-06-23 20:34 UTC
+- [Make no mistake: A peace deal with Tehran is a blow to Jewish security worldwide - Cleveland Jewish News](https://news.google.com/rss/articles/CBMilAJBVV95cUxQM1cteHZUcENBX0dPWlZjZlpyU1J6dElzaFd1Rm44T1BscURMWFRmY2tqMjNOT1NVVUlFYmdGQ3RTREp0U1lDNHhIdDNCZlptOHBLTlB3N1VrY3owb3dsaUhZMldPcHFuN2RDYkhvMVk5YnhaUzVpZWpGWkxhTkp4QVFYQzlJb3lhSnduRmlyZE02WW5TWGR3d3dhRnlLREVTWWkwa1g4eDVnOXBOSzc4clJIU1daUVdreGhTUHNTemtVR3ZKNVN3NEQxV2V6M2NRNFNaRjFuSTZsMDNVeHJ4clhCOG9nSlBZNXJfZlVhS29nTTRROXE3NTZyUVFYQ1JIeTJ3SzR5TVlhYW1aNEFwaTI2NDnSAZoCQVVfeXFMTjdoMTFoRlV4UmtiWnpYTUo4empWZEFuVkNKZ3ByZlF5U1hDNlRBU243QkV5NnpRWHprRGJVLW02MWN3NkItOUdzUnpLNW9lZ2IxWjc3R3VqZlR2ZDBnOUM2WUZ5VFZKZWtjUVJSTWdYTjlmQnVVM21oemhqVWo5Tnp0Q05VMFktMkpwOGNGU2h5ZmdBTzFGOS1OTzgyZmpIZmdMeTdzcXcwcWozOEVRWVRnQ19wQnNsU21KYXl3RVE5MDVCRHhtalFSVWY1ZVJVOXRiX0VFSkoyaWFZaUJaMG51MW9Qc2V3dVJFSG9XeXhMRXZpRVlsMFJNVmxJdFRiYmxHOVJEclJFSWtCVVUyNFM3STFtczBtYjRB) — Google News Conflict Watch · 2026-06-23 20:00 UTC
+- [US forces started running sea-drone rescue drills years before the downing of an Apache forced them to do it for real - Business Insider](https://news.google.com/rss/articles/CBMipAFBVV95cUxQOU5NTUhSOUs1Z0wwc0hRd3AxNE5nZ0VWZDZFR3NyNE83Y2ZlN2RCR3JHdXM1ODg4RUdhUFRic0hWOEluMHBURG1oODlGMmp0UGU1Z0xaWGJXUmFxcEt4ZmdkLXBOZmFpV1NQODk1RGtMa2c2RFZYV1dJODg0ZXJrVGdiTFFMb2lYLWRSaWxoQzN0QktEVXYyMGpESXBiaGhfLXhLdQ) — Google News Conflict Watch · 2026-06-23 13:20 UTC
+- [The Destruction of Civilian Infrastructure and the Role of IHL Today - Just Security](https://news.google.com/rss/articles/CBMiggFBVV95cUxOekpYRHhrdzZFR09xenpldVFaVDNRM1lvS3JWeWlEbzdudW1uYWdtVVdNOFBuWndhX3Q0WFJ3M1VSRm1yRE96em82Z0c1Z1JZdFloYWduU1hxX0t3WXl2SWZBSmhNOHU1QUF6ZFplX1lOMVlQS3F5ZFJBWXQxcWJlSWRR) — Google News Conflict Watch · 2026-06-23 13:11 UTC
+- [Hormuz and the Era of Asymmetry: Sea Mines, Unmanned Systems, and the Redefinition of Naval Power - Center for International Maritime Security](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVVVbDFEOVpWMnBvZjJ2ZlE3M2FOWTh4b0JDUXN3dXlHVndrZWlMZzVJal9oTzVFMTZVbVpWQnFjMlZXMTR4NW56bzBLWFcybVhnd1ZWeko4dmk2akZ6ZlhIaVNxN3FRaUs4QU02NzBjQ3VTSDdka3dOQU8ybXNaWGQxOV9hN3BtdjFjQTJUWnhBNnhyUzlvdTc5dUk3Ym5QNnc5aC1UdEtXdHhqT1dSREJoYTk) — Google News Conflict Watch · 2026-06-23 10:00 UTC
+- [OPINION | A tiny fleet of nuclear submarines comes at the cost of a weaker Australian military - Baird Maritime](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY2ZzMTN2Y09NeUZxZWVvaUdFYWhWdkQzTHFQay03ek9hZHNpaE1jVk9fQVVqMkozOVB1bXBKaVFqWmhoUmFTa3RYdHY1ZmdWUk9PWEVtZG1OVEUtWWJ0V1lpdDM2a1phRnJadjI3NlpCOUMwQk5Lc2tCcHBjTGpJeDk0Wjc4dG9lWjVDbFIydmcxdHdMQzcxcUNKWHYtSkczVnpIY1BHa204bUFRaFJNRlRfejIzYXdaZWRIN2NZOXI4YjNZMGF2WFh3ZFhMT2ZfVzZWT2lTQWY3TWtCYU9oTUx1QTFIeVpnU1lUddIB-gFBVV95cUxNRTVPNHFzOUJfWG5MQ0J6SU9wVU95Y2hUNkZQeTVBTEgydTdlRUc5NGtqamtlOXdGM2M2ZDNmdkprQnB0eHhfUUxaMC1KRVdhRmtiVUNUTUFNa1RJbk5VZWV1amM0dDlHM01ZVi03SC1sLW1VUVZ5NzJub1N3VC1OdHJjUEMzWmp1NEd2bDBUeWNRSWo4Z3pGSHF1elV4cUZkLTBOdVNqLTlsZ0FKVEZIOEh2LU8xWjJXSWpnSkRMUkpSTnhDMDI0SG5NbzM2NUYtQm1Day1MRGI5QVdmU2lnWTh1T1pTdjNjUFVMYThpNjIxR180LWpKRjNB) — Google News Conflict Watch · 2026-06-23 08:54 UTC
+- [Ukraine, Europe and Global Security - Lavrov - IntelliNews](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc194ZGVtak1ZakRvc3hSTGdRMmY0MmgtUXZtZjE0YzlqVGg4cUV5Z2JWaG5rZDlDbFRoaE9EN3hkQTBLV1l5V0tLR1dFeTFONU5QdEE5ZjVmWk9qQUd3T2J5MFk3ejJVN3pxOHM3X3hlOEFDZmFjSGdrelRFcldtVFprRWdMR050cS1jbmtvOFJEb1RqV0E) — Google News Conflict Watch · 2026-06-23 18:48 UTC
+
+</details>
+
+## 海军与印太 · 9 条
+
+美军启动大规模西太演习，加速商业油轮采购填补后勤缺口，并向菲律宾移交无人系统。印尼潜艇获得导弹能力，澳大利亚核潜艇争议再起。
+- **Valiant Shield 2026与Resolute Dragon 26同时启动**，美日及多国部队参与，规模近年最大。[链接](https://news.usni.org/2026/06/23/u-s-kicks-off-western-pacific-exercises-valiant-shield-resolute-dragon)
+- **美海军计划采购10艘商业油轮**快速扩大后勤舰队，以应对太平洋补给短板。[链接](https://www.navalnews.com/naval-news/2026/06/u-s-navy-sets-sights-on-10-commercial-tankers-to-rapidly-expand-logistics-fleet/)
+- **美向菲律宾移交4艘Ocean Aero Triton无人艇**，并计划2027年移交攻击无人机，提升南海态势感知。[链接](https://news.usni.org/2026/06/23/u-s-asymmetric-aid-program-transfers-unmanned-vessels-to-the-philippines-plans-attack-drone-transfer-by-2027)
+- **印尼首批Scorpene Evolved潜艇确认具备导弹发射能力**，由国内建造，提升水下威慑。[链接](https://www.navalnews.com/naval-news/2026/06/indonesias-first-two-scorpene-evolved-will-have-missile-launch-capability/)
+- **澳大利亚核潜艇计划遭批评**：小型核潜艇舰队牺牲常规战力，成本过高。[链接](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY2ZzMTN2Y09NeUZxZWVvaUdFYWhWdkQzTHFQay03ek9hZHNpaE1jVk9fQVVqMkozOVB1bXBKaVFqWmhoUmFTa3RYdHY1ZmdWUk9PWEVtZG1OVEUtWWJ0V1lpdDM2a1phRnJadjI3NlpCOUMwQk5Lc2tCcHBjTGpJeDk0Wjc4dG9lWjVDbFIydmcxdHdMQzcxcUNKWHYtSkczVnpIY1BHa204bUFRaFJNRlRfejIzYXdaZWRIN2NZOXI4YjNZMGF2WFh3ZFhMT2ZfVzZWT2lTQWY3TWtCYU9oTUx1QTFIeVpnU1lUddIB-gFBVV95cUxNRTVPNHFzOUJfWG5MQ0J6SU9wVU95Y2hUNkZQeTVBTEgydTdlRUc5NGtqamtlOXdGM2M2ZDNmdkprQnB0eHhfUUxaMC1KRVdhRmtiVUNUTUFNa1RJbk5VZWV1amM0dDlHM01ZVi03SC1sLW1VUVZ5NzJub1N3VC1OdHJjUEMzWmp1NEd2bDBUeWNRSWo4Z3pGSHF1elV4cUZkLTBOdVNqLTlsZ0FKVEZIOEh2LU8xWjJXSWpnSkRMUkpSTnhDMDI0SG5NbzM2NUYtQm1Day1MRGI5QVdmU2lnWTh1T1pTdjNjUFVMYThpNjIxR180LWpKRjNB)
+
+印太地区海军竞赛聚焦无人化、后勤弹性和水下战力，美军通过商业手段和盟友合作弥补数量劣势，而中国航母活动彰显其区域拒止能力。
+
+<details><summary>信源 (9)</summary>
+
+- [The Navy’s Big 3-D Printing Bet](https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet) — USNI News · 2026-06-23 18:47 UTC
+- [GAO Report on Countering China](https://news.usni.org/2026/06/23/gao-report-on-countering-china) — USNI News · 2026-06-23 14:48 UTC
+- [Indonesia’s First Two Scorpene Evolved Will Have Missile Launch Capability](https://www.navalnews.com/naval-news/2026/06/indonesias-first-two-scorpene-evolved-will-have-missile-launch-capability/) — Naval News · 2026-06-23 09:54 UTC
+- [U.S. Navy Sets Sights on 10 Commercial Tankers To Rapidly Expand Logistics Fleet](https://www.navalnews.com/naval-news/2026/06/u-s-navy-sets-sights-on-10-commercial-tankers-to-rapidly-expand-logistics-fleet/) — Naval News · 2026-06-23 08:30 UTC
+- [U.S. Kicks Off Western Pacific Exercises Valiant Shield, Resolute Dragon](https://news.usni.org/2026/06/23/u-s-kicks-off-western-pacific-exercises-valiant-shield-resolute-dragon) — USNI News · 2026-06-23 17:34 UTC
+- [Shield AI’s V-BAT to support Polish naval operations](https://www.navalnews.com/naval-news/2026/06/shield-ais-v-bat-to-support-polish-naval-operations/) — Naval News · 2026-06-23 16:13 UTC
+- [U.S. Asymmetric Aid Program Transfers Unmanned Vessels to the Philippines, Plans Attack Drone Transfer by 2027](https://news.usni.org/2026/06/23/u-s-asymmetric-aid-program-transfers-unmanned-vessels-to-the-philippines-plans-attack-drone-transfer-by-2027) — USNI News · 2026-06-23 15:42 UTC
+- [MBDA and Fly-R Launch Co-development Contract for Diamond-Shaped Loitering Munition in U.A.E.](https://www.navalnews.com/naval-news/2026/06/mbda-and-fly-r-launch-co-development-contract-for-diamond-shaped-loitering-munition-in-u-a-e/) — Naval News · 2026-06-23 15:37 UTC
+- [U.S. Transfers Ocean Aero Tritons to Philippine Navy USV Unit](https://www.navalnews.com/naval-news/2026/06/u-s-transfers-ocean-aero-tritons-to-philippine-navy-usv-unit/) — Naval News · 2026-06-23 11:17 UTC
+
+</details>
+
+
+
+---
+*由本地 News Radar 自动生成。*
