@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美光毛利率84.9%成新利润率之王",
+      "SK海力士计划纳斯达克募资294亿美元",
+      "Anthropic指控阿里巴巴非法提取AI能力",
+      "霍尔木兹海峡油轮复航油价回落",
+      "中国收紧资本管制，工商银行暂停个人黄金交易"
+    ],
+    "news-society": [
+      "特朗普向国会申请870亿美元对伊战争拨款",
+      "委内瑞拉7.5级地震致32人死亡",
+      "西欧热浪破纪录，法国检讨空调禁令",
+      "纽约民主党初选体现加沙战争分歧",
+      "澳大利亚独立议员组建中间派新党"
+    ],
+    "news-military": [
+      "白宫申请876亿美元补充拨款，670亿用于军事",
+      "霍尔木兹海峡数百艘船只疏散计划成形",
+      "乌克兰远程打击俄天然气厂和卫星中心",
+      "欧洲反制美国芯片限制，ASML出口再受限",
+      "海湾国家向土耳其采购防空系统"
+    ],
+    "news-tech": [
+      "Google AI研究员接连跳槽Anthropic",
+      "Cerebras财报后股价暴跌因毛利率误解",
+      "欧洲反击美国芯片战，限制ASML设备出口",
+      "Faraday Future卖车15辆后改卖机器人",
+      "GTA6实体版仅含激活码引数字所有权讨论"
+    ],
+    "news-sports": [
+      "黄蜂认真探讨拉梅洛·鲍尔交易",
+      "里夫斯预计4年1.85亿顶薪续约湖人",
+      "巴西3-0苏格兰，维尼修斯双响",
+      "韩国雪藏孙兴慜0-1南非濒临出局",
+      "灰熊选秀评级A+，湖人C-"
+    ],
+    "news-entertainment": [
+      "Netflix成人动画部门重组归喜剧主管",
+      "中国新规要求明星公开真实姓名引热议",
+      "Zendaya穿35美元古着T恤宣传蜘蛛侠",
+      "BLACKPINK Jennie与BTS入Billboard半年榜",
+      "刘亦菲与金智秀Dior双代言暗战升级"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Anthropic builds AI data centers globally",
+      "SK Hynix surges 12% after Micron earnings",
+      "Iran declares new Hormuz route 'unacceptable'",
+      "Oil prices erase wartime gains",
+      "Micron stock jumps 15% on revenue quadrupling"
+    ],
+    "news-society": [
+      "Trump asks Congress for $87bn Iran war funds",
+      "Venezuela earthquake kills at least 32",
+      "France, UK, Spain hit record heatwave temps",
+      "Mamdani-backed candidates sweep NY primary",
+      "Crimea's biggest city without power after strikes"
+    ],
+    "news-military": [
+      "House approves $1.1 trillion Pentagon bill",
+      "White House requests $87.6 billion for Iran war",
+      "Lockheed Martin inks $35 billion THAAD deal",
+      "China leads world in submarine construction",
+      "Pentagon bill renames department 'War Department'"
+    ],
+    "news-tech": [
+      "Google loses senior AI researchers to Anthropic",
+      "Google joins Dow Jones but stock falls",
+      "Cerebras stock plunges after earnings",
+      "Europe pushes back on US export controls",
+      "Slate Auto launches record-low $18k EV"
+    ],
+    "news-sports": [
+      "Brazil top Group C with 3-0 win over Scotland",
+      "South Korea faces World Cup exit after loss",
+      "Hornets in serious trade talks for LaMelo Ball",
+      "Austin Reaves intends $185M Lakers extension",
+      "Canada loses 2-1 to Switzerland but advances"
+    ],
+    "news-entertainment": [
+      "Beatles series 'Hamburg Days' adds Butterfield",
+      "Zendaya wears $35 Spider-Man T-shirt in Paris",
+      "Alex Cooper addresses Unwell toxic claims",
+      "Netflix moves adult animation under comedy head",
+      "Liu Yifei and Jisoo in Dior brand war"
+    ]
+  }
+}
