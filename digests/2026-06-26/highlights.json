@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "油价反跌至72.24美元，供应过剩压倒地缘溢价",
+      "软银暴跌13%引发AI基建成本恐慌蔓延",
+      "欧盟拟将AWS和Azure纳入数字市场法案",
+      "中国156款新车涌入，价格战逼近10万元",
+      "联邦内部对通胀路径存分歧，关注核心PCE"
+    ],
+    "news-society": [
+      "委内瑞拉双震7级以上致235死，救援艰难",
+      "美最高法院裁定终止海地和叙利亚移民TPS",
+      "特朗普施压国会拨款对伊朗战争，党内分裂",
+      "日韩防长会晤推动签署ACSA安全合作升级",
+      "新华网调查揭青少年吸食新型毒品隐秘危机"
+    ],
+    "news-military": [
+      "朝鲜列装崔贤级驱逐舰，宣布建造万吨巡洋舰",
+      "美空军寻求射程超1000海里远程导弹",
+      "霍尔木兹海峡船舶计划因伊朗袭击暂停",
+      "菲律宾部署美制无人侦察机监视黄岩岛",
+      "乌克兰无人机厂商与德国合作生产反导系统"
+    ],
+    "news-tech": [
+      "内存危机致苹果微软Valve集体涨价",
+      "特朗普政府要求OpenAI推迟GPT-5.6发布",
+      "Polestar因中国联网车辆规则被逐出美国",
+      "Polymarket遭黑客攻击用户资金被盗",
+      "Anthropic Claude在付费市场逆袭ChatGPT"
+    ],
+    "news-sports": [
+      "厄瓜多尔2-1逆转德国，抢下世界杯淘汰赛门票",
+      "拉梅洛·鲍尔被交易至森林狼换里德及选秀权",
+      "曼城创纪录转会费签下安德森",
+      "施魏因斯泰格涉歧视言论遭科特迪瓦主帅抨击",
+      "羽毛球新加坡赛争议判罚后逆转取胜"
+    ],
+    "news-entertainment": [
+      "《The Bear》大结局创Hulu同时在线纪录",
+      "DGA四年合同压倒性通过，诺兰领衔",
+      "中国影视崩盘论发酵，但行业之夜仍聚集一线",
+      "Charli XCX新单MV延续挑衅风格",
+      "Clive Davis葬礼阵容含Alicia Keys等巨星"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Global tech rout: SoftBank down 13%, SK Hynix 10%",
+      "Oil slides to $72.24 despite Strait of Hormuz attack",
+      "EU targets Amazon, Microsoft in cloud regulation",
+      "China auto price wars and Trip.com antitrust",
+      "Hong Kong pushes financial infrastructure upgrades"
+    ],
+    "news-society-en": [
+      "Venezuela twin earthquake kills at least 235",
+      "Trump asks Congress for billions for Iran war",
+      "Supreme Court ends TPS for Haitians, Syrians",
+      "Paris restricts alcohol as Europe heatwave shifts",
+      "Japan advances to World Cup knockout stage"
+    ],
+    "news-military-en": [
+      "North Korea commissions first guided-missile destroyer",
+      "US Air Force plans new 1,000-nautical-mile missile",
+      "Iran war reshapes energy security in Hormuz",
+      "Ukraine innovates drone-based ballistic missile defense",
+      "RIMPAC 2026 exercise kicks off in Hawaii"
+    ],
+    "news-tech-en": [
+      "Component crisis 'RAMageddon' drives price hikes",
+      "Apple raised prices on most MacBooks",
+      "Polestar barred from US over connected vehicle rule",
+      "White House asks OpenAI to delay GPT-5.6",
+      "Anthropic's Claude gaining paid users"
+    ],
+    "news-sports-en": [
+      "USMNT loses to Turkey but advances to round of 32",
+      "Ecuador stuns Germany 2-1 to reach knockout stage",
+      "Japan and Sweden advance after 1-1 draw",
+      "LaMelo Ball traded from Charlotte to Minnesota",
+      "Ivory Coast coach accuses Schweinsteiger of racism"
+    ],
+    "news-entertainment-en": [
+      "DGA ratifies four-year deal to protect jobs",
+      "'The Bear' airs series finale",
+      "Report claims 200,000 Chinese extras out of work",
+      "Liu Yifei vs Jisoo battle for Dior",
+      "SEVENTEEN wins legal victory, TWS injury update"
+    ]
+  }
+}

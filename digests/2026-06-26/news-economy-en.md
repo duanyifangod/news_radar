@@ -1,0 +1,147 @@
+# News Radar — 经济新闻
+
+> 2026-06-26 · Window: 24h · Items: 123 · Generated: 2026-06-26 05:39 UTC
+
+---
+
+## Editor's Brief
+
+Markets this week were dominated by a sharp tech selloff that rippled from the US to Asia, while oil prices defied geopolitical jitters to slide below pre-conflict levels. Central bank messaging remained hawkish on both sides of the Atlantic, and the EU took a significant step toward regulating cloud services, targeting Amazon and Microsoft. In China, a new wave of auto price wars and antitrust scrutiny on Trip.com underscored the fragile recovery, even as Hong Kong pushed ahead with financial infrastructure upgrades.
+
+- **Global tech rout deepens**: SoftBank plunged 13% and SK Hynix fell 10% on rising AI infrastructure costs ([CNBC](https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html)). The Hang Seng Index was on track for its worst week in over a year (-5.8%) as tech names tumbled ([SCMP](https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names)). US futures also dropped as the sector struggled to find its footing ([Yahoo Finance](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWNiM0JieWtIZTY2SGx0bko4Z1VPMEJnYS0wRjVqM2NwYlJ5RDlpT1VmZDBsVjRRU3VIX1BsQXR3aURyUHlXc3c1WnhhTmREYTJSUXoweG9fM0JLRHBielQ1dGY2czJIUGlsVl9WeDFrazZFWUhRbGJDRjdWQ2l1b000eEZ3em91MlhXZ095NmdjdS04ekN1U25RNzZLaXdySGxXbjY3WlZFb21SWVc2cmhaaW9wYU5wQTBhMlFSTnpXN2ZxQ3lVeHd5ZlRtM2RCbThKaTZMdzk)).
+
+- **Oil slides despite Strait of Hormuz attack**: Brent crude fell to $72.24, back to pre-war levels, after a container ship was struck near Oman ([Guardian](https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz)). The UN paused its ship evacuation plan, and a US official blamed Iran ([CNBC](https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-)). Markets looked past supply risks, focusing on the demand outlook.
+
+- **Central bank divergence**: Chicago Fed’s Goolsbee said inflation is too high, while Fed’s Williams sees easing price pressures ([CNBC](https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html)). ECB’s Schnabel signaled more tightening even after the Iran ceasefire ([Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzR6T2RpMkdwcnM2VmFkVVVrVTFFOGpZOWloNmU3VWxXR2czdGsydU83TWthX2UyUU5NTjk5aDJheUVjenl4SUtJNUs4TVNHNHlhV1RmTmc5bnZmTE9tZm5rUEFkNDhnWUZ3dTRxV2FkMS1RcnpDTndhS3hEWjlHSnRrOFpfcGNJaHIxeDYyU1kydHd1TEc4)).
+
+- **EU targets Big Tech cloud**: The European Commission reached a preliminary view that AWS and Azure should be designated under the Digital Markets Act ([Euractiv](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjJwTkZYOEI4NjByeTZnd3JhWkNKcVRidnk2VU95Q1RYZTZmV0pPR0Z2djh2SlYtc1hXQUpQc2dMTGp4b3RveTlLTXZmUmpSbkdqSF9CTHBzZGRuQ0hLcEhKSFVNeWYxb1ItRHoyRDZDYXIzT2VmMVlEYlJLSHQ4Nld0a2ZEdTVQcHhsZ3laQW51ekxZakFZVHV6TFotU0tv)). This could force changes in how the two giants operate in Europe.
+
+- **China auto price war escalates**: A record 156 new models are expected in H2, pressuring small carmakers into a ‘do or die’ battle ([SCMP](https://www.scmp.com/business/china-business/article/3358193/do-or-die-small-carmakers-china-market-braces-156-new-models-price-war-looms)). Only leading EV makers with brand recognition are likely to survive.
+
+- **Trip.com faces antitrust fine**: The online travel giant warned of a ‘significant fine’ from China’s market regulator and reported slowing revenue growth of 3–8% in Q2, its weakest in three years ([SCMP](https://www.scmp.com/tech/article/3358354/chinas-tripcom-faces-revenue-slowdown-warns-significant-fine-antitrust-probe)).
+
+- **Watch next**: Friday’s FTSE Russell reconstitution will be one of the biggest volume days of the year ([MarketWatch](https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496)). Keep an eye on how the tech rout impacts earnings season, and whether the EU’s cloud designation triggers a broader regulatory wave.
+
+---
+
+## 美股 · 60 items
+
+US equity futures dropped on Friday morning as technology stocks struggled to recover from the week’s sharp selloff. The Dow, S&P 500, and Nasdaq all pointed lower, with Big Tech and AI-related names under pressure following SoftBank’s 13% plunge in Asia. Meanwhile, a UN agency paused Hormuz ship evacuations after an attack, but oil prices continued to slide, suggesting markets are increasingly discounting Middle East risk.
+
+- **Tech selloff deepens**: SoftBank Group plummeted 13% and SK Hynix lost 10% on concerns over rising AI infrastructure costs, dragging Asian tech stocks lower ([CNBC](https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html)). US-listed tech names are expected to follow.
+- **Fed speakers split**: Chicago Fed President Goolsbee said inflation is too high but declined to comment on rate direction, while New York Fed’s Williams saw price pressures easing ([CNBC](https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html)).
+- **ON Semi buys Synaptics for $7B**: The deal expands ON Semiconductor’s total addressable market by $30 billion to $243 billion by 2030, targeting physical AI applications ([CNBC](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html)).
+- **Record rebalancing day**: FTSE Russell’s semi-annual reconstitution on Friday is expected to generate one of the highest volume days of the year, with potential for volatility ([MarketWatch](https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496)).
+
+**Bottom line**: The tech rout may deepen on Friday as index rebalancing amplifies moves, but falling oil prices could provide a cushion for broader markets.
+
+<details><summary>Source (60)</summary>
+
+- [Oil slides 2% as markets look past fresh Iran tensions and focus on supply outlook](https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html) — CNBC Markets · 2026-06-26 05:01 UTC
+- [SoftBank plunges 13%, SK Hynix slides 10% as Asia tech rout tracks declines in the U.S.](https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html) — CNBC Markets · 2026-06-26 04:58 UTC
+- [Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents](https://www.cnbc.com/2026/06/26/airwallex-series-h-funding-11-billion-valuation-ai-finance.html) — CNBC Markets · 2026-06-26 04:48 UTC
+- [UN agency pauses Hormuz ship evacuation plan after first vessel attack under peace deal](https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html) — CNBC Markets · 2026-06-26 02:07 UTC
+- [Trump keeps turning Republican wins into loyalty tests — and political liabilities](https://www.cnbc.com/2026/06/25/trump-gop-housing-bill-save-act-fisa.html) — CNBC Markets · 2026-06-25 23:45 UTC
+- [ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html) — CNBC Markets · 2026-06-25 22:59 UTC
+- [Democrats probe Trump's troubled $16 million reflecting pool renovation](https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html) — CNBC Markets · 2026-06-25 22:07 UTC
+- [Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing](https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html) — CNBC Markets · 2026-06-25 21:03 UTC
+- [Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW](https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html) — CNBC Markets · 2026-06-25 19:46 UTC
+- [Luxury spending now driven by experiences and 'inheritourism'](https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html) — CNBC Markets · 2026-06-25 16:46 UTC
+- [Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm) — Federal Reserve · 2026-06-25 15:00 UTC
+- [Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm) — Federal Reserve · 2026-06-25 15:00 UTC
+- [The Wall Street equivalent of roster-cut day happens Friday. It’ll be one of the biggest volume days of the year.](https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496?mod=mw_rss_topstories) — MarketWatch Top Stories · 2026-06-26 04:47 UTC
+- [Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing - Yahoo Finance](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWNiM0JieWtIZTY2SGx0bko4Z1VPMEJnYS0wRjVqM2NwYlJ5RDlpT1VmZDBsVjRRU3VIX1BsQXR3aURyUHlXc3c1WnhhTmREYTJSUXoweG9fM0JLRHBielQ1dGY2czJIUGlsVl9WeDFrazZFWUhRbGJDRjdWQ2l1b000eEZ3em91MlhXZ095NmdjdS04ekN1U25RNzZLaXdySGxXbjY3WlZFb21SWVc2cmhaaW9wYU5wQTBhMlFSTnpXN2ZxQ3lVeHd5ZlRtM2RCbThKaTZMdzk) — Google News US Stocks · 2026-06-26 03:03 UTC
+
+</details>
+
+## 欧洲经济 · 22 items
+
+European stocks edged higher on Thursday as oil’s retreat to pre-Iran-war levels eased inflation fears. ECB officials continued to signal a hawkish stance, with Schnabel calling for more tightening even after the ceasefire. A significant development emerged as the European Commission moved toward designating Amazon’s AWS and Microsoft’s Azure under the Digital Markets Act, which would impose strict operational rules.
+
+- **ECB tightening not over**: ECB board member Isabel Schnabel said further tightening is needed despite the Iran ceasefire, citing persistent inflation pressure ([Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzR6T2RpMkdwcnM2VmFkVVVrVTFFOGpZOWloNmU3VWxXR2czdGsydU83TWthX2UyUU5NTjk5aDJheUVjenl4SUtJNUs4TVNHNHlhV1RmTmc5bnZmTE9tZm5rUEFkNDhnWUZ3dTRxV2FkMS1RcnpDTndhS3hEWjlHSnRrOFpfcGNJaHIxeDYyU1kydHd1TEc4)).
+- **EU cloud regulation ramps up**: The European Commission reached a preliminary conclusion that AWS and Azure should be designated under the DMA, potentially forcing changes in data portability and interoperability ([Euractiv](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjJwTkZYOEI4NjByeTZnd3JhWkNKcVRidnk2VU95Q1RYZTZmV0pPR0Z2djh2SlYtc1hXQUpQc2dMTGp4b3RveTlLTXZmUmpSbkdqSF9CTHBzZGRuQ0hLcEhKSFVNeWYxb1ItRHoyRDZDYXIzT2VmMVlEYlJLSHQ4Nld0a2ZEdTVQcHhsZ3laQW51ekxZakFZVHV6TFotU0tv)).
+- **Consumer spending fears**: A WSJ report highlighted that Europeans are terrified of spending money, weighing on the region’s economic recovery ([WSJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzktaU5FeG1nNnlsekpvN1hjWEVtMWtnY0Z0eWRaNUZuYXk5c204R1A3TFNSRVdRVWZ6M3RIQlZwaE9QZ2dlMjZrOFFtNnNzNGxfUkxsVXpfWUVyaElmTWN6NnVRLUJvTVZ3T1BzU29fT2FyQm9LNDBtcmlKLXNFODZzODFjZkVBWktjQ2lUYmdxRXAtbENlNEFDOXptdzNtb29WSHRCZEpKa2hxWTJmUw)).
+- **TotalEnergies climate ruling**: A Paris court ruled the oil major must disclose climate risks related to its products, a partial victory for the city and NGOs ([Guardian](https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case)).
+
+**Bottom line**: Hawkish ECB and cautious consumers keep European growth under pressure, but regulatory momentum against Big Tech could reshape competitive dynamics.
+
+<details><summary>Source (22)</summary>
+
+- [Piero Cipollone: Central bank money for the digital era](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf) — European Central Bank · 2026-06-25 12:00 UTC
+- [ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html) — European Central Bank · 2026-06-25 08:00 UTC
+- [Isabel Schnabel: Interview with Die Zeit](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html) — European Central Bank · 2026-06-25 07:00 UTC
+- [European Stocks - 25-06-26 - Armenpress](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RT010RDJrN3V6Z3h5U1VKWEtXNUNuS3F3dTA4WVc2TnNLSUNiMDlZQW5Ia3Z0MjJhMU9UZkZ6TUl5VWQ4WVk2NEdUTjdqVVlOU1HSAVdBVV95cUxQeXZ0dURVTnVNdC11SjFfRkpQTGFnakVJYm5YM2ZoN1VrYTRNcFpOWXEydGJScWw1dWtWRWxiZW5pRC0zYWVLenRHS2JaOHZSUTNTeXBuSUk) — Google News Europe Economy · 2026-06-26 04:53 UTC
+- [Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz](https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz) — The Guardian Business · 2026-06-25 15:41 UTC
+- [Commission reaches preliminary position that Amazon’s and Microsoft’s market leading cloud services should be designated under the DMA - The European Sting](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeHNidnBPSGJxZ1dsTFhtVHI1VE5TamdRM21pWi1wTkx0cXk5ZUxPSUlPVVN3a0x0MEpNblRfT1hwRDlpV25objc5S0MyWFdWM1BYQ2RaWWxzandnV1VRNlZZZzJRZjU1QXhwZFpadV9zOEVQRTF5R2tGTFdBVXJNRjVIcl9naTRVVS1QSmtXd2FRemtJTjBMekhXdTZCbVBCQmJtUldPcFMwNndXUjl0RzhzVzdnT1FhTGN2MWoxMUVxS0U3Nzg5V2ZMc3dNNHhVUmdHcGZMNVRIbG92WWpHeXotRkRqZzYzdElNU0JmUjdSTzZ3S3VzLTJrM1gyV00) — Google News Europe Economy · 2026-06-25 11:32 UTC
+- [Time to Take Profit in These 5 European Large-Cap Stocks - Morningstar](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHI3QVFURXdZRmtuME9odWR0VkhTS3JSd0dWcXV1WVE3bWY5YTZGODZQZ0oydFFDX1RUOTNQOVJmb0pZSHRQeTVtaWh0TmVXQXVOdGlaRDhkUUlxUXpObWY1SnhxY1lCb18tSFd1NlhuUGpJVXRla1RKMDhUaE5uQVk0U3JvallQeDgtTVIzUW1GVjJzdmhlakxn) — Google News Europe Economy · 2026-06-25 09:55 UTC
+- [Russia’s War Economy Is Running Down. Europe Should Press Harder - Вокс Україна](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQi1tU3pBWlJseW1OMmZ4SUNnb016N205WWhNSFZSSldkOWxENm5KTzc2NEFiRVg2cUlnVlV0dlppdU1wX3VJaWFPUjRpYXBqOHJXUV9RcHIyN3ZBeWxPMlhxV0pEd21vN05TaFMwVEVUTGdybWhVN0NlTkJuRmR3Y1l3c0tpX3BfVjZFWkRaZEdCNE0) — Google News Europe Economy · 2026-06-25 09:37 UTC
+- [ECB's Schnabel sees more tightening even after Iran ceasefire - Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzR6T2RpMkdwcnM2VmFkVVVrVTFFOGpZOWloNmU3VWxXR2czdGsydU83TWthX2UyUU5NTjk5aDJheUVjenl4SUtJNUs4TVNHNHlhV1RmTmc5bnZmTE9tZm5rUEFkNDhnWUZ3dTRxV2FkMS1RcnpDTndhS3hEWjlHSnRrOFpfcGNJaHIxeDYyU1kydHd1TEc4) — Google News Europe Economy · 2026-06-25 08:15 UTC
+- [The Future of AT1s: Regulatory Overhaul or Market Evolution? - 9fin](https://news.google.com/rss/articles/CBMiekFVX3lxTE5odWt4Um91eHJBM21NSzFseGR3WnZrbFEydG1OWnNCcjVHY2xxSkYwM0tKWWg2M1FWQ1lGbVJMQTZGUW5QVmVVQmZwc1pPMDY5MXBkbThuQUg2MDdyZ1VRYWk0TVlnT2psbUl4Sy1pTUxyUE5NU19STldB) — Google News Europe Economy · 2026-06-25 09:24 UTC
+- [US media regulator Brendan Carr accuses Disney of ‘misinformation’ on investigations](https://www.theguardian.com/media/2026/jun/25/disney-brendan-carr-fcc-investigation) — The Guardian Business · 2026-06-25 19:21 UTC
+- [EU Moves to Expand Big Tech Competition Rules to Cloud Services, Targeting AWS and Microsoft Azure - PYMNTS.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxNR2lOSUE4aFBZSndhcjRkOExNdEpvTVRETkZrdGduM3A5RlFLcjAyaEdBSEp1TFFuMWdMMWluY3hqdzRkd3hhVVhOZm1zUHhwLWgyd1FEZ3hIcHJNRmRfaEJxU044M0RPRGc0dGNickFmNWh0OXFFT2t1YzNTdlY3V3FrR1pjMUd0TjNvQW85RUd4VG9LYWw1UDFadjJ0ZGFpTUhGUEFLc3pOUl85QnVabEdiby1YcUp0N2FEMUVqUWtaWXlrSzZNUlI1RQ) — Google News Europe Economy · 2026-06-25 18:38 UTC
+- [Europeans Are Terrified of Spending Money, and It’s Hurting the Economy - WSJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzktaU5FeG1nNnlsekpvN1hjWEVtMWtnY0Z0eWRaNUZuYXk5c204R1A3TFNSRVdRVWZ6M3RIQlZwaE9QZ2dlMjZrOFFtNnNzNGxfUkxsVXpfWUVyaElmTWN6NnVRLUJvTVZ3T1BzU29fT2FyQm9LNDBtcmlKLXNFODZzODFjZkVBWktjQ2lUYmdxRXAtbENlNEFDOXptdzNtb29WSHRCZEpKa2hxWTJmUw) — Google News Europe Economy · 2026-06-25 17:16 UTC
+- [City of Paris achieves partial victory over TotalEnergies in climate risks case](https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case) — The Guardian Business · 2026-06-25 16:25 UTC
+
+</details>
+
+## 中国经济 · 32 items
+
+Chinese and Hong Kong markets suffered heavy losses on Friday, led by a sell-off in technology stocks. The Hang Seng Index fell 2.3% to 22,538, on track for its worst week in over a year. Mainland A-share turnover surged past 2.5 trillion yuan, with a trillion-yuan market cap heavyweight dropping sharply. Meanwhile, structural shifts continued: HKEX launched its first ETF tracking the Tech 100 Index, and a record wave of new car models raised concerns about a brutal price war.
+
+- **Tech rout hits China**: AI-related shares drove Chinese stocks to new lows, with the Hang Seng down 5.8% for the week ([SCMP](https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names)). A-share turnover exceeded 2.5 trillion yuan, the highest in recent memory, driven by a trillion-yuan stock’s sharp drop ([同花顺](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jR29NaExuX2pIa01qdXNIN0xyRmdjV1pRdWdINFhZUDdkbHJkSlpicEQ3MEd1aU1SRlBiQV9NSXFJcDY4WDBiYUxRWWw1cVlYSkk5SWstQlVjMWw4MXl0c0xn)).
+- **Auto price war intensifies**: A record 156 new models will hit the Chinese market in H2 2026, with mass-market EVs priced around 100,000 yuan. Only leading OEMs with strong brands are likely to survive ([SCMP](https://www.scmp.com/business/china-business/article/3358193/do-or-die-small-carmakers-china-market-braces-156-new-models-price-war-looms)).
+- **Trip.com antitrust warning**: The online travel giant faces a 'significant fine' from China’s market regulator and guided Q2 revenue growth of only 3–8%, its slowest in three years ([SCMP](https://www.scmp.com/tech/article/3358354/chinas-tripcom-faces-revenue-slowdown-warns-significant-fine-antitrust-probe)).
+- **SMIC gets Big Fund backing**: China’s state-backed Big Fund became SMIC’s third-largest shareholder after the company completed a record Star Market buyout ([SCMP](https://www.scmp.com/tech/big-tech/article/3358332/chinas-big-fund-becomes-smics-third-largest-shareholder-after-record-star-market-buyout)).
+- **HKEX expands index offerings**: The exchange launched its first ETF tracking the HKEX Tech 100 Index, aiming to capture the AI-driven tech rally that traditional indices have missed ([SCMP](https://www.scmp.com/business/markets/article/3358375/hkex-pushes-deeper-index-business-ai-reshapes-hong-kong-market)).
+
+**Bottom line**: China’s equity markets face headwinds from global tech weakness and domestic competition, but state-backed investment in semiconductors and new financial products signal long-term strategic bets.
+
+<details><summary>Source (32)</summary>
+
+- [Asian Market Highlights: Penny Stocks To Watch In June 2026 - simplywall.st](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaWcwcHJtcHVoSHFwS0hVbmtneDBibzlLVjBOSDMwamQ2Nmw2QXh1ZC0zdmVwazhjalpXNHI1NFc3emJ5T2J4bkJxdFg1dnhsQ2FpWENFZHB2YTFLTlJ1T0FMZEdvOFlqcGlvOElOVE5MVXVtbzN1YnY4c0xGRjBKNzBDYy10b2lpMUlkVW0wc2hBLXNqZEZleFVHSzdKdERWcUxnNjcwbGFnemxuSmowRS13RW5iaXotN080MEVOUkxfSFpQTFh4SXFBZjVYbUJjcG9qU1BhV2V1d2VRay1XN1g4NnjSAeoBQVVfeXFMTUZuQWd2MlAySHNIQjZjM1VVOUt6Q3NmbVFOVDdCN3FBQUZPLTNEV0tFRFNMR3BPckRnMVN6RmI3MnRndWRwdENDc0NYTmk4YlFTOGdOWXdET0tfcVdjeXNaLWFXVEhacGtCM0RqU1MtRE0wUHlHZ3NOVUtVNi1HaUVvVl9XMTFYeXR2c1BJTDlpZFp5Mk5yeVM3SlFkc1Y2NExPZlhYZkJlNXBYa1JRbFdmd040OUNsMmlsMEkydFlraTU2OVdIc0xmaVp4a1d2Y3ZtMmhqVVVnbEJLU2VIdXFtNzdWZ01IdlF3) — Google News China Economy · 2026-06-26 04:07 UTC
+- [Hang Seng Index heads for worst week in over a year as renewed sell-off engulfs tech names](https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names) — SCMP Business · 2026-06-26 03:42 UTC
+- [Indonesian miner Merdeka Gold taps Hong Kong market with $310m listing - Nikkei Asia](https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2dNWWotT3RKbXA2UXB0azRmU2tLRkxoN1ZnLUtjWm04bExoWk01Z3NWNkh2MUgxTzNVQUlmdWRlSTh3LURvRVNRanVIOEdVdnlMd1NXa1lkcDBQeUlOUW05TEdZUG9JekhseFg2eWU2Q1ZjTnlWT1lLRlFZWUdocEJTY0h4RVByZTljNklhMW4zUUdOTFpKQkVlQmZCTU04RlFGbWF1QlVaMXduUnc4dENEZDE) — Google News China Economy · 2026-06-26 01:51 UTC
+- [‘Do or die’ for small carmakers: China market braces for 156 new models as price war looms](https://www.scmp.com/business/china-business/article/3358193/do-or-die-small-carmakers-china-market-braces-156-new-models-price-war-looms) — SCMP Business · 2026-06-26 01:00 UTC
+- [IPO Connect pitched as Hong Kong’s next move to boost finance hub role. But hurdles loom](https://www.scmp.com/business/banking-finance/article/3358365/ipo-connect-pitched-hong-kongs-next-move-boost-finance-hub-role-hurdles-loom) — SCMP Business · 2026-06-25 23:00 UTC
+- [HKEX pushes deeper into index business as AI reshapes Hong Kong market](https://www.scmp.com/business/markets/article/3358375/hkex-pushes-deeper-index-business-ai-reshapes-hong-kong-market) — SCMP Business · 2026-06-25 22:00 UTC
+- [A股成交额突破2.5万亿元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wN0psRzdURHUzTTBPS21RUnJnQVRhMkJfTHJYcVB3Ym95alF3cC02VmZ4bWRRVmc2eXkzekE1OVhaZDNablJvck81SlhwazFkQUNJ) — 第一财经 中国市场 · 2026-06-26 05:08 UTC
+- [AI Shares Drag Down China Stocks to Record Lows - Devdiscourse](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWViVU4wNzRBSW5GQXRHLUxkOV9nLUtERUZVV1dobk1OVU1wcjBMLWg1Y3hEdjdKWGhEZVg5cXFYQUY2N2hBRVRFUGJYY1Q2U2wtRWh4b3E4TUJtSS0wMkYwazhZZ2t6MWdWdkVIZlhtbzBmTzdlTGptUVdSUmk5OE9zVWg2ZzZCWlRNTHpCbENtMHhVSnJrVUMtOTNXYXU0TE9R0gGoAUFVX3lxTFBEcmpQbXlwMWZTcTJiYUhqRFVFRHh0SjlpdG5xSmRtX3F3dklkS3NFTDZ3R2F3LTRBYWJhUVd2MDR5WG1xamFhS1hFS3JXckhqczRnb1k0WG9hek8xUS1vT2dvVjR6R1RYM3hJdVZka3BmcnVKa1d5RDFDT0RHbXVROTJBd3FWWGxQV1FBZDBra3l0QndkOUhWME8tOUlkcndOQjk1ZndqUg) — Google News China Economy · 2026-06-26 04:25 UTC
+- [万亿龙头股，大跌，成交额A股第一 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jR29NaExuX2pIa01qdXNIN0xyRmdjV1pRdWdINFhZUDdkbHJkSlpicEQ3MEd1aU1SRlBiQV9NSXFJcDY4WDBiYUxRWWw1cVlYSkk5SWstQlVjMWw4MXl0c0xn) — 同花顺社区动态 · 2026-06-26 02:46 UTC
+- [Hong Kong Stock Exchange: Hang Seng Falls 1.43% as Rate Concerns and Tech Valuation Fears Weigh - BBN Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxPek1zWlNNVFYxSWpvZmxGQ0V6Qi1LY0thMXhpZ2tTT3VKeHRocmx3TnN6UVRObGI2dG5yclZxMkdSY0tBbW03WWx3OHdZTXdoeEtmSC1ZTFN2bWVLbjhjUHk3blJpTURoT2djdDVlVXB5Zno0S0hlQ1A1SDU0cGQ2TkZVNHFiOGEwc2g2RUh4RmZuMWpkbEQ1U3dQQ3gycDNkaFhxeHNFZlRCUFZOU3JSUTJ4N09NS3MzV1JKLXNVZGxOZUtFMGhBTV9IX3J3UQ) — Google News China Economy · 2026-06-25 21:12 UTC
+- [China’s capital markets lower entry threshold but ramp up accountability - Law.asia](https://news.google.com/rss/articles/CBMie0FVX3lxTE81b2tPMnp5U21RYTEtS1ZZZEVOcHFnNVFiNjhKeUJRTFZKeGstZWx6cmZtMjZmWlp0Qm03SThfclo0RTRIRDhraFhVR0FBRC1hdjRHdGEwYjNoVTZXSHBDX3JDMmtPTWl3U0prYUxvX0ZpWmJSWDVzN1RlWQ) — Google News China Economy · 2026-06-25 13:45 UTC
+- [China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe](https://www.scmp.com/tech/article/3358354/chinas-tripcom-faces-revenue-slowdown-warns-significant-fine-antitrust-probe) — SCMP Business · 2026-06-25 11:30 UTC
+- [China’s Big Fund becomes SMIC’s third-largest shareholder after record Star Market buyout](https://www.scmp.com/tech/big-tech/article/3358332/chinas-big-fund-becomes-smics-third-largest-shareholder-after-record-star-market-buyout) — SCMP Business · 2026-06-25 09:30 UTC
+- [CK Asset sells penthouse in Hong Kong’s Mid-Levels for US$48.5m, sets pricing benchmark](https://www.scmp.com/business/article/3358380/ck-asset-sells-penthouse-hong-kongs-mid-levels-us485m-sets-pricing-benchmark) — SCMP Business · 2026-06-26 05:30 UTC
+
+</details>
+
+## 同花顺社区动态 · 9 items
+
+Retail investor sentiment on Tonghuashun was mixed amid the market rout, with volume-driven chatter around a sharp drop in a trillion-yuan market cap stock and heavy turnover. Community discussions also tracked foreign fund flows, with Morgan Stanley and Goldman Sachs adjusting their positions. Key commodity price alerts included white-feathered broiler chicks and palm oil, while gold ETF holdings declined.
+
+- **Trillion-yuan stock plunges**: A major heavyweight saw heavy selling, becoming the highest-turnover stock on the A-share market, sparking intense discussion among retail investors ([同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jR29NaExuX2pIa01qdXNIN0xyRmdjV1pRdWdINFhZUDdkbHJkSlpicEQ3MEd1aU1SRlBiQV9NSXFJcDY4WDBiYUxRWWw1cVlYSkk5SWstQlVjMWw4MXl0c0xn?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans)).
+- **Foreign capital moves**: Morgan Stanley and Goldman Sachs revealed their latest position adjustments, with community participants analyzing which stocks are being favored by foreign capital ([同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE55cWxsYURZMFhYR25rOEYtLVktTmFMX1RlU1l6d1RRbnJIZHI0RHMyZXN4TzVXRGpLNFJQa3JySzZORERuMmtGRUJTY1hET0duNS0yLTVqS1ZGck5wVGYwX3F3?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans)).
+- **Gold ETF holdings decline**: SPDR Gold Trust holdings dropped by 6.27 tonnes, signaling reduced safe-haven demand despite geopolitical tensions ([同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CYXNrUExtNngwZkVTUjlaTkNJOElLRjdGQzR5SWdZWVRPR1lTTjJ6Z2l6YlB5Q1BvQjc1RlFnTHBGallURW9QZTVwRUN1ZGNvbG5qcFVDUDNzaXpVeFE?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans)).
+- **Commodity price alerts**: The community flagged price changes in white-feathered broiler chick prices and palm oil, with traders watching for short-term volatility ([同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BY3FlMDFTcl9rRWk3b3NZMlRxbWJwRkM1c3ZKSXZCaklDcThMNDJOeXBoNDV2ank3NTdyZ3NBYW5yOTZQeE1na1ctQklGMWNRY2lTamJtbXAyZEl6Q2c?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans) & [同花顺](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HTEZsa3lSbEw5WU82UU1kdGVhaTEyMnlqSU9lTmVJNjVrOHpUNExQNW5FcHROaVBXbTFkVjlfVURHYVhTVDRiSFpHV1R2dEJ3a1o2OWM4MUU1UVhZUmRDUkJR?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans)).
+- **Shenzhen warns on real estate misinformation**: Authorities flagged and penalized social media accounts posting false property market information ([同花顺](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aa1VWUUEzWU0taW14T3hxZEdaUmREOWJPMzh2NzlDTU51TUhVeFhiRTJIY000dDRQbndIQ2xPZlBhbTBENVhDZDhodlFKUVU3V21POUlBalNKNFMzNlc2Y3pB?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans)).
+
+**Bottom line**: The community is hyper-focused on large-cap volatility and foreign positioning, with commodity price moves offering short-term trading cues, but overall sentiment remains cautious amid the broader selloff.
+
+<details><summary>Source (9)</summary>
+
+- [芯碁微装正式登陆香港交易所主板 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VaWIyaDhPYmEyZXY0WnNOeF8yYWpXeXluVXFuLTZ4eGRSeUJSemR1dlRGM3dHYkVkWVM3SEFpWGY0RzhEbjM3TzBEM28wSVlvY2wzaHNMaC02Vk9obUU1amVn) — 同花顺社区动态 · 2026-06-26 05:36 UTC
+- [深圳通报房地产领域违规自媒体账号典型案例 - 同花顺](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aa1VWUUEzWU0taW14T3hxZEdaUmREOWJPMzh2NzlDTU51TUhVeFhiRTJIY000dDRQbndIQ2xPZlBhbTBENVhDZDhodlFKUVU3V21POUlBalNKNFMzNlc2Y3pB) — 同花顺社区动态 · 2026-06-26 04:59 UTC
+- [外资动了！摩根士丹利、高盛调仓动向曝光，哪些个股获青睐？ - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE55cWxsYURZMFhYR25rOEYtLVktTmFMX1RlU1l6d1RRbnJIZHI0RHMyZXN4TzVXRGpLNFJQa3JySzZORERuMmtGRUJTY1hET0duNS0yLTVqS1ZGck5wVGYwX3F3) — 同花顺社区动态 · 2026-06-26 04:46 UTC
+- [【预告】6月29日16城39宗地块挂牌截止，其中涉宅用地20宗 - 同花顺](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pOXlLcWdtaExKVlM0RzhoVTdqejBqYUY5c2o2Wk5vMGZxSlVydkpvbnA4M1J6cEg4R0JQT1Vjal96YXpQRFJtYXNMUVVQTUpQdFNWNTUtWmVQcWlsMjdOVTJn) — 同花顺社区动态 · 2026-06-26 04:28 UTC
+- [【现货】6月26日马来西亚棕榈油现货价格汇总 - 同花顺](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HTEZsa3lSbEw5WU82UU1kdGVhaTEyMnlqSU9lTmVJNjVrOHpUNExQNW5FcHROaVBXbTFkVjlfVURHYVhTVDRiSFpHV1R2dEJ3a1o2OWM4MUU1UVhZUmRDUkJR) — 同花顺社区动态 · 2026-06-26 03:43 UTC
+- [价格前线|6月26日白羽肉鸡苗出场价异动提示 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BY3FlMDFTcl9rRWk3b3NZMlRxbWJwRkM1c3ZKSXZCaklDcThMNDJOeXBoNDV2ank3NTdyZ3NBYW5yOTZQeE1na1ctQklGMWNRY2lTamJtbXAyZEl6Q2c) — 同花顺社区动态 · 2026-06-26 01:13 UTC
+- [价格前线|6月25日费城半导体指数(SOX)异动提示 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SRlVkOHdrNEdGZUI3SGo5T0JndVBCbkZmX1RXTnZMbnpBN2lMQ0kwV0VyNGpKZXgyTXNOTEU0dGNsbjRZQVNPOHBxUlVJZER2dVFzano4a1V1MFRPVHc) — 同花顺社区动态 · 2026-06-26 01:13 UTC
+- [全球最大的黄金ETF SPDR Gold Trust持仓较前日减少6.27吨 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CYXNrUExtNngwZkVTUjlaTkNJOElLRjdGQzR5SWdZWVRPR1lTTjJ6Z2l6YlB5Q1BvQjc1RlFnTHBGallURW9QZTVwRUN1ZGNvbG5qcFVDUDNzaXpVeFE) — 同花顺社区动态 · 2026-06-26 00:26 UTC
+- [价格前线|6月25日WTI原油—ICE期货收盘价(连续)异动提示 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UGJBakRiRk9rRHBHQnhmbXpzWEpyejRyUDRpdlFwVjZia0JqcXR6Nm1tU01fWmFFOEVkeDM4LUNuanJ6N2M2R0Rzb1FVRjFnemFCT2NnV2tEQmI2U2c) — 同花顺社区动态 · 2026-06-25 23:42 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*
