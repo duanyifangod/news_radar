@@ -1,0 +1,108 @@
+# 多频道新闻雷达 — 娱乐新闻
+
+> 2026-06-27 · 窗口: 24h · 条目: 79 · 生成时间: 2026-06-27 05:03 UTC
+
+---
+
+## 板块速览
+
+今日娱乐板块多头并进：欧美圈迎来《The Bear》系列大结局的温情致敬、Harvey Weinstein上诉案出现戏剧性转折，以及Bill Maher与副总统JD Vance的政论碰撞引发热议；日韩方面BTS稳坐品牌声誉榜首，但《爱丽丝梦游边境》演员涉暴力丑闻为K-pop蒙上阴影；中国影视圈白玉兰奖尘埃落定，85花演技获评蜕变，而韩红催票翻车事件则折射行业寒冬；微博社区因杨幂搀扶孙俪杨紫的礼仪瞬间、辛芷蕾回乡撸串的烟火气以及《藏海传》颗粒无收的质疑声持续沸腾。
+
+- **[《The Bear》系列大结局致敬Rob Reiner](https://www.rollingstone.com/tv-movies/tv-movie-news/the-bear-series-finale-rob-reiner-tribute-1235585395/)**：这部备受关注的餐厅剧集在最终集中以细腻方式纪念已故演员Rob Reiner（他饰演了餐厅顾问Albert），成为全季情感高光点。
+- **[Harvey Weinstein洛杉矶上诉被驳回但获重新量刑](https://deadline.com/2026/06/harvey-weinstein-conviction-upheld-l-a-1236968805/)**：在纽约案出现“部分无罪”后的次日，加州上诉法院维持其2022年性侵定罪，但以程序问题为由撤销原判，发回重判。检察官拟求刑20年，标志着#MeToo司法进程的复杂推进。
+- **[JD Vance做客Bill Maher节目，Maher坦言可能投共和党](https://variety.com/2026/tv/news/bill-maher-played-by-jd-vance-real-time-hbo-may-vote-republican-2028-1236795870/)**：副总统在美伊冲突升级的背景下按原计划接受采访，Maher事后承认被对方“套路”，并透露2028年或转投共和党，引发自由派观众哗然。
+- **[Luca Guadagnino谈《Artificial》发行困境与AI威胁](https://deadline.com/2026/06/luca-guadagnino-gives-hope-artificial-release-1236968824/)**：在Amazon MGM放弃发行后，导演暗示该片可能另寻出路，同时警告AI正“彻底改变世界身份”，其担忧比“令人不安”更甚。
+- **[BTS蝉联6月歌手品牌声誉榜首](https://www.soompi.com/article/1850646wpp/june-singer-brand-reputation-rankings-announced-8)**：韩国企业评价研究所数据显示，BTS凭借无可撼动的媒体指数与粉丝参与度继续领跑，巩固了K-pop金字招牌地位。
+- **[第31届白玉兰奖揭晓，85花被评“演技蜕变”](https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXRoTkZpNkdudmxyTFpwb0E0NTQ5Y3pBeVRqVldPVkFxZ2NKUEN0QkJWSVlEQkZaclNnQU91R2o5WENFN0YzZ3hVOXhZcTZ6T1hnakRWRHE3OFIwTDVYdVo0aTZVUjdBT0tabU00ejdoNnNxbUVyekVpeHhPUDgxNkFVaE1uRWxEV1hRdlZJem9CZVh4UG9nUTV4Y28wTU1OM0FaVjRnbU9QS2JlTDhzRHNIczZMSFd0cWZHcVZwTjBnN2FCeUkwT0pkUXNfT3hEMHdQV05wckpEbzFWdHJJdTFEVFloOTJOLXhZV0Nham9iRVB2Z05HNE9Ra3RUU3NvYUI2cHhxSVR1NVp5N05CUDlZV3hQWVF6akVJ)**：新浪娱乐评论指出，这届获奖名单背后是中生代女演员从流量向实力的集体转向，行业评价体系正在重塑。
+- **[杨幂搀扶孙俪杨紫登台引爆全网](https://news.google.com/rss/articles/CBMickFVX3lxTE42cXJtNkxFUldSdzRjRUZrRE1JZjRyM3NwS2ppZldvYnYtZVljVHYxaHg1Q0tpWEZoUW43dnpJdV8tVkJMQ2NRUjg0QjNaRGdmb0FKMnFSMnNNRmktSE5Hb1BhQnprczAxTklEbDUxSnJoZw)**：白玉兰晚宴上这一细节被赞“教科书级礼仪”，折射出圈内人际关系的微妙信号，成为微博当日最高赞话题之一。
+
+**后续观察**：美国最高法院是否受理Catherine Herridge的请愿将影响记者保护判例；《The Bear》大结局口碑可能为艾美奖布局预热；韩红翻车事件若持续发酵，或将加速国内综艺赞助模式调整；白玉兰奖后85花的片约与代言变化值得追踪。
+
+---
+
+## 欧美 · 47 条
+
+今日欧美娱乐线头繁杂：司法与政治人物交叉上场，剧集与音乐新动态并存。Harvey Weinstein在洛杉矶上诉中虽保住了定罪，却被发回重判（[Deadline](https://deadline.com/2026/06/harvey-weinstein-conviction-upheld-l-a-1236968805/)），检察官拟求刑20年，这与其纽约案走向形成微妙张力。Bill Maher与副总统JD Vance的对话（[Variety](https://variety.com/2026/tv/news/bill-maher-played-by-jd-vance-real-time-hbo-may-vote-republican-2028-1236795870/)）不仅是政坛真人秀，更意外暴露Maher的政治摇摆性。与此同时，Luca Guadagnino因Amazon放弃发行《Artificial》而公开表达对AI的忧虑（[Deadline](https://deadline.com/2026/06/luca-guadagnino-gives-hope-artificial-release-1236968824/)），业界正观望该片是否能找到下家。娱乐产业方面，《The Bear》大结局致敬已故演员Rob Reiner（[Rolling Stone](https://www.rollingstone.com/tv-movies/tv-movie-news/the-bear-series-finale-rob-reiner-tribute-1235585395/)），情怀满格；《Romy & Michele》续集正式开拍（[Deadline](https://deadline.com/2026/06/mira-sorvino-marks-first-day-romy-michele-sequel-filming-1236968848/)），Mira Sorvino晒片场照引发怀旧狂潮。此外，Fox News前记者Catherine Herridge因拒绝泄密面临每日800美元罚金，已向最高法院请愿（[Deadline](https://deadline.com/2026/06/catherine-herridge-petitions-supreme-court-halt-800-daily-fine-1236968878/)），此案牵动新闻自由红线。整体看，欧美圈正经历司法、政治与创意的多重碰撞，需要密切关注后续走向。
+
+<details><summary>信源 (47)</summary>
+
+- [Last Call: Beats Headphones Are 57% Off for Prime Day — Their Lowest Price Ever](https://variety.com/shop/beats-headphones-deals-1235148439/) — Variety · 2026-06-27 00:24 UTC
+- [The Playlist: Common on Uplifting Music and Crafting “Vision” for ESPN’s Stuart Scott Doc](https://www.hollywoodreporter.com/music/music-news/the-playlist-common-music-vision-espns-stuart-scott-doc-1236632037/) — The Hollywood Reporter · 2026-06-27 04:00 UTC
+- [‘The Bear’ Pays a Sweet and Subtle Tribute to Rob Reiner in Series Finale](https://www.rollingstone.com/tv-movies/tv-movie-news/the-bear-series-finale-rob-reiner-tribute-1235585395/) — Rolling Stone · 2026-06-27 03:50 UTC
+- [Reporter Catherine Herridge Petitions Supreme Court To Halt $800 Daily Fine For Not Revealing Source](https://deadline.com/2026/06/catherine-herridge-petitions-supreme-court-halt-800-daily-fine-1236968878/) — Deadline · 2026-06-27 03:02 UTC
+- [Bill Maher Gets Played by JD Vance on ‘Real Time,’ Admits He May Vote Republican in 2028](https://variety.com/2026/tv/news/bill-maher-played-by-jd-vance-real-time-hbo-may-vote-republican-2028-1236795870/) — Variety · 2026-06-27 03:02 UTC
+- [‘Vanderpump Rules’ Alum Tom Sandoval Allegedly Pushes Ex-Girlfriend’s Dad Into Fire Pit in New Video](https://www.hollywoodreporter.com/tv/tv-news/vanderpump-rules-tom-sandoval-ex-girlfriend-dad-video-1236632040/) — The Hollywood Reporter · 2026-06-27 02:53 UTC
+- [Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview](https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss) — BBC Entertainment & Arts · 2026-06-27 01:41 UTC
+- [‘Life, Larry’ Director Jeff Schaffer on Obama’s Notes and Why Larry David Will Never Retire: ‘He’s Like a Prostitute Who Has Sex When He’s Not Working’](https://variety.com/2026/tv/news/larry-david-new-show-jeff-schaffer-obamas-notes-curb-1236790792/) — Variety · 2026-06-27 01:32 UTC
+- [Mira Sorvino Marks First Day Of ‘Romy & Michele’ Sequel Filming: “‘One Day’ Has Become Day One”](https://deadline.com/2026/06/mira-sorvino-marks-first-day-romy-michele-sequel-filming-1236968848/) — Deadline · 2026-06-27 01:11 UTC
+- [Was ‘The Bear’ Series Finale a Delicious Dessert or an Unnecessary Add-On?](https://www.hollywoodreporter.com/tv/tv-reviews/the-bear-series-finale-review-critics-debate-1236631869/) — The Hollywood Reporter · 2026-06-27 00:51 UTC
+- [Harvey Weinstein’s L.A. Appeal Fails, But New Sentence Ordered For West Coast Sex Crimes Conviction](https://deadline.com/2026/06/harvey-weinstein-conviction-upheld-l-a-1236968805/) — Deadline · 2026-06-27 00:39 UTC
+- [Luca Guadagnino Gives Hope For ‘Artificial’ Release, Worries AI Is “Completely Changing” The World: “More Than Just Disturbing”](https://deadline.com/2026/06/luca-guadagnino-gives-hope-artificial-release-1236968824/) — Deadline · 2026-06-27 00:25 UTC
+- [Academy Of Country Music Awards Sets 2027 Date](https://deadline.com/2026/06/academy-of-country-music-awards-acms-2027-date-1236968825/) — Deadline · 2026-06-27 00:22 UTC
+- [JD Vance Sticks To Bill Maher Sit-Down For ‘Real Time’ As US & Iran Spar Again; “Violence Will Be Met With Violence,” VP Says](https://deadline.com/2026/06/jd-vance-bill-maher-iran-violence-1236968728/) — Deadline · 2026-06-27 00:12 UTC
+
+</details>
+
+## 日韩 · 8 条
+
+今日日韩焦点集中在品牌声誉、偶像伤亡与负面丑闻。BTS毫无意外再度登顶6月歌手品牌声誉榜（[Soompi](https://www.soompi.com/article/1850646wpp/june-singer-brand-reputation-rankings-announced-8)），维持着K-pop天花板的影响力。但偶像行业仍面临波折：TWS成员Youngjae因排练左大腿肌肉受伤，需调整表演动作（[Soompi](https://www.soompi.com/article/1850603wpp/twss-youngjae-to-modify-performances-due-to-leg-injury)）；FIFTY FIFTY的亚洲巡演临时取消印尼站、推迟马来西亚站（[Soompi](https://www.soompi.com/article/1850607wpp/fifty-fifty-announces-changes-to-asia-fancon-tour-including-indonesia-cancellation-and-malaysia-postponement)），运营调整引发粉丝不满。负面消息方面，知名《爱丽丝梦游边境》男演员被曝殴打女友且已向检方承认（[Google News Japan Korea Entertainment](https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVm5wV0pQazVNZHhESnNiUWtLOUEyQm5TdUZyZi1vaUJ1alRsay1RbHhPRVpQUXo1X1JhQlNDZW5ndW1reVh5Nmt0RFlZZFdOdW15ZU1iOTFGd1pZSjY4eFhQczVHTHM5YmRBbg)），此事若坐实将严重冲击其职业生涯。此外，BL类型剧集在骄傲月获得推荐（[Soompi](https://www.soompi.com/article/1850437wpp/5-short-but-sweet-bls-to-watch-during-a-busy-pride-month)），反映了市场对小众题材的持续包容。日韩娱乐圈在光鲜与风险之间摇摆，粉丝管理与艺人健康管理仍是两大痛点。
+
+<details><summary>信源 (8)</summary>
+
+- [June Singer Brand Reputation Rankings Announced](https://www.soompi.com/article/1850646wpp/june-singer-brand-reputation-rankings-announced-8) — Soompi K-pop · 2026-06-27 04:16 UTC
+- [5 Short But Sweet BLs To Watch During A Busy Pride Month](https://www.soompi.com/article/1850437wpp/5-short-but-sweet-bls-to-watch-during-a-busy-pride-month) — Soompi K-pop · 2026-06-27 02:00 UTC
+- [Watch: CLOSE YOUR EYES, AHOF, idntt, And FLARE U Hunt For Hidden Imposters In Chaotic “IDOL SCHOOL CAMP” Teaser](https://www.soompi.com/article/1850631wpp/watch-close-your-eyes-ahof-idntt-and-flare-u-hunt-for-hidden-imposters-in-chaotic-idol-school-camp-teaser) — Soompi K-pop · 2026-06-26 11:25 UTC
+- [3 Reasons To Tune In To Kim Myung Soo And Kang Min Ah’s New Rom-Com “Love In Sync”](https://www.soompi.com/article/1850623wpp/3-reasons-to-tune-in-to-kim-myung-soo-and-kang-min-ahs-new-rom-com-love-in-sync) — Soompi K-pop · 2026-06-26 09:51 UTC
+- [Famous 'Alice in Borderland' Actor Reportedly Admits Assaulting Girlfriend, Referred to Prosecutors - KbizoOm](https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVm5wV0pQazVNZHhESnNiUWtLOUEyQm5TdUZyZi1vaUJ1alRsay1RbHhPRVpQUXo1X1JhQlNDZW5ndW1reVh5Nmt0RFlZZFdOdW15ZU1iOTFGd1pZSjY4eFhQczVHTHM5YmRBbg) — Google News Japan Korea Entertainment · 2026-06-26 09:37 UTC
+- [Park You Na Is Hani’s Cool-Headed Younger Sister Who Never Settles In “Love On The Menu”](https://www.soompi.com/article/1850612wpp/park-you-na-is-hanis-cool-headed-younger-sister-who-never-settles-in-love-on-the-menu) — Soompi K-pop · 2026-06-26 07:34 UTC
+- [FIFTY FIFTY Announces Changes To Asia Fancon Tour Including Indonesia Cancellation And Malaysia Postponement](https://www.soompi.com/article/1850607wpp/fifty-fifty-announces-changes-to-asia-fancon-tour-including-indonesia-cancellation-and-malaysia-postponement) — Soompi K-pop · 2026-06-26 05:56 UTC
+- [TWS’s Youngjae To Modify Performances Due To Leg Injury](https://www.soompi.com/article/1850603wpp/twss-youngjae-to-modify-performances-due-to-leg-injury) — Soompi K-pop · 2026-06-26 05:28 UTC
+
+</details>
+
+## 中国 · 12 条
+
+国内影视行业在“2026中国影视之夜”与白玉兰奖两大盛事中迎来高光时刻。白兰奖揭晓（[shobserver.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RMm95MDdhamFiSktCUHh5MXFJSjdYOVRwVU9GTjRmMHpUQ1loM2psWklhR0NBNEJZTDljTzBMTzRQdU5kSzRrTFRGaS0yU1E4bjNhX0h3NUtwUzR1dVE)）后，新浪娱乐发文剖析85花演技蜕变（[新浪网](https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXRoTkZpNkdudmxyTFpwb0E0NTQ5Y3pBeVRqVldPVkFxZ2NKUEN0QkJWSVlEQkZaclNnQU91R2o5WENFN0YzZ3hVOXhZcTZ6T1hnakRWRHE3OFIwTDVYdVo0aTZVUjdBT0tabU00ejdoNnNxbUVyekVpeHhPUDgxNkFVaE1uRWxEV1hRdlZJem9CZVh4UG9nUTV4Y28wTU1OM0FaVjRnbU9QS2JlTDhzRHNIczZMSFd0cWZHcVZwTjBnN2FCeUkwT0pkUXNfT3hEMHdQV05wckpEbzFWdHJJdTFEVFloOTJOLXhZV0Nham9iRVB2Z05HNE9Ra3RUU3NvYUI2cHhxSVR1NVp5N05CUDlZV3hQWVF6akVJ)），指出行业评价正从流量转向演技，这是平台与制作方共同推动的结果。然而，韩红催票翻车事件（[新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zR05KODZNOGtvR1ZLclNnX2Q2S2g2ZXlLV2lKLTN2OTBEVHdZZy02WVluV1hGUjhKZGY2WUczWnJmalBlaHlzUE01LWxRU21Cb0p2VW9EaVM1MXlNWGJGVNIBZkFVX3lxTE1hMUtTaGdrQ2dybV9pTnBlTDlpQmNOZ2hIOGllaVBLdVRxeThEbk1wQlBCemVpRGdVT0VaNVlvV0wyREZTamVxb3NsOTEzSlpLS1g4Y3JGVlZLUm1HSHd4SDZpZ3dGdw)）成为流量狂欢的反面教材，被指暴露了影视行业“全面熄火”的困境。同日，《TNT》MV播放量破千万（[中国娱乐网](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEck05VmEyU1Q4N3pmem1SV1RJTXV5TXBJQW42YTE2ejh1X0lXWnpDYzYwWGxlSmQ1R204Y29pQTBXRHBVN0ktRkJWQ1VDT2o4N19wNEg0a295TE0)），显示仍有新生力量突围。值得注意的是，LE SSERAFIM将重返BlizzCon闭幕演出（[中国娱乐网](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00eE1JMEdwWGV3ZzdIZzlrUGpmTi1BR3p4OVZ0VjEwbjRkcWI0aVdKcHU0MkhKUmtmLWpibWRKcGQ2RVBDT183MDdqMGFQWDQxZEF2UG9sVDFheG8)），这是K-pop与游戏产业融合的新信号。中国影视出海动作也在持续（[ent.tom.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsQVZMdU9OVVVibmlVaGVPbjlCUDNvaVVUZmpCR0h1d09PSUNULTJqMXM4enFPNGFNeXp2U2M1aVBSSmpoeWMwTjRwX0xIVzV6RlFneA)），但“明星跨界频频翻车”（[华人头条](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FLUZYSzQyektyaXBkckZHVXRZQWRtUEJFQkZPdGEzTEhNSHRkcGVvUENmckJvbmVxNVp2QjBLT3czQjM0WjZCR1JXNlI5ZnhOMWtYYWg3VUs2Z2pjYUE)）的反思预示着市场对专业度的要求回升。整体而言，中国影视正经历结构调整，奖杯与危机并存。
+
+<details><summary>信源 (12)</summary>
+
+- [今晚播出！“2026中国影视之夜”在复兴岛与你共赴仲夏之约 - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE1vYkZHdDN2bTBRcGIydWFTOVRQT24tRTNNelh2SlhWbld3OXRWeFBwbGYxdVZxeHhvWjkyejRoNlZPUWdfMHU3Umg2NmpMb2RaQ0dlU2ZEaFoyMmxvV2ZvMm5sUDlIa3NRVGtiTGtiWWw) — Google News China Entertainment · 2026-06-27 04:41 UTC
+- [第十届中国新西兰电影嘉年华开幕 共话影视合作新机遇 - 搜狐网](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGZiaHM4bzk2b0UtQUFLX3lzU1AxbXd4TVFOSjRNNWsya0tPOUplNlVZbHFnclluclM3d1pTdHV4VTRkUHEyXzNJQldXSTc0TVZfRUhUeDlINUo1eUZpUU5qNU9RRWNnMU9wRmFURWN6d256VHdjU3BBZU5OUS13cEZhMHZxNkRpdXZ4MQ) — Google News China Entertainment · 2026-06-27 02:51 UTC
+- [CORTIS再创佳绩 《TNT》MV播放量突破1000万 - 中国娱乐网](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEck05VmEyU1Q4N3pmem1SV1RJTXV5TXBJQW42YTE2ejh1X0lXWnpDYzYwWGxlSmQ1R204Y29pQTBXRHBVN0ktRkJWQ1VDT2o4N19wNEg0a295TE0) — Google News China Entertainment · 2026-06-27 01:35 UTC
+- [85花演技蜕变:白玉兰奖背后的行业变革 - 新浪网](https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXRoTkZpNkdudmxyTFpwb0E0NTQ5Y3pBeVRqVldPVkFxZ2NKUEN0QkJWSVlEQkZaclNnQU91R2o5WENFN0YzZ3hVOXhZcTZ6T1hnakRWRHE3OFIwTDVYdVo0aTZVUjdBT0tabU00ejdoNnNxbUVyekVpeHhPUDgxNkFVaE1uRWxEV1hRdlZJem9CZVh4UG9nUTV4Y28wTU1OM0FaVjRnbU9QS2JlTDhzRHNIczZMSFd0cWZHcVZwTjBnN2FCeUkwT0pkUXNfT3hEMHdQV05wckpEbzFWdHJJdTFEVFloOTJOLXhZV0Nham9iRVB2Z05HNE9Ra3RUU3NvYUI2cHhxSVR1NVp5N05CUDlZV3hQWVF6akVJ) — Google News China Entertainment · 2026-06-26 18:34 UTC
+- [玉兰绽放临港，薪火接续荣光——第31届白玉兰奖揭晓 - shobserver.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RMm95MDdhamFiSktCUHh5MXFJSjdYOVRwVU9GTjRmMHpUQ1loM2psWklhR0NBNEJZTDljTzBMTzRQdU5kSzRrTFRGaS0yU1E4bjNhX0h3NUtwUzR1dVE) — Google News China Entertainment · 2026-06-26 17:03 UTC
+- [明星跨界，为什么频频翻车？_中国_苏里南_新闻 - 华人头条](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FLUZYSzQyektyaXBkckZHVXRZQWRtUEJFQkZPdGEzTEhNSHRkcGVvUENmckJvbmVxNVp2QjBLT3czQjM0WjZCR1JXNlI5ZnhOMWtYYWg3VUs2Z2pjYUE) — Google News China Entertainment · 2026-06-26 12:40 UTC
+- [中国影视人谈表演最动人的力量 - video.sina.com.cn](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQkNnZ1M5UVBnR2ZreERyamNacF9qdFpDQ2dEcDZrcmItemlHb3dHOGFSc0hrdFdPS05rdXFfbFdTcDhkMFdJRW5DOVJHcnZRdEFnRnk1QS1vYnN0dWFqV2hmZXQ5OHFDVGQ3cDhBZDgzbEFDVmxVUDhic0plRnVxSQ) — Google News China Entertainment · 2026-06-26 10:15 UTC
+- [韓紅催票翻車背後 中國影視業全面熄火（視頻） - 新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zR05KODZNOGtvR1ZLclNnX2Q2S2g2ZXlLV2lKLTN2OTBEVHdZZy02WVluV1hGUjhKZGY2WUczWnJmalBlaHlzUE01LWxRU21Cb0p2VW9EaVM1MXlNWGJGVNIBZkFVX3lxTE1hMUtTaGdrQ2dybV9pTnBlTDlpQmNOZ2hIOGllaVBLdVRxeThEbk1wQlBCemVpRGdVT0VaNVlvV0wyREZTamVxb3NsOTEzSlpLS1g4Y3JGVlZLUm1HSHd4SDZpZ3dGdw) — Google News China Entertainment · 2026-06-26 09:49 UTC
+- [中国明星席卷海外！全球粉丝在哪追星？ - 财经号](https://news.google.com/rss/articles/CBMia0FVX3lxTE1yUm9XdlBZc3BacWFaZTl1MnBUaWM1V1MyTzNMM2ttT2h0bmUyTEpXWFJVMVBtekpwYmVUQjNtdzFia3RiUnBOM2hSa3JHS3ZDNjdaajRtRXlxY1Rydnh6RThZZVVFUjdRNDNF) — Google News China Entertainment · 2026-06-26 07:39 UTC
+- [“投票刷流量”存在弊端！中国的“偶像养成”综艺没了，但反思仍在 - 新浪网](https://news.google.com/rss/articles/CBMimwJBVV95cUxORTBrVWZFZ3dBb09IX2lUbmFzTmd6Ui0yY3B1NzhjMVRIM0E0cVI1OTZ6THpiUGYyS3g4Q1VaNG1aQkZDaUw2NWF2SE5GcFdUY2lZb2FZVnJhSTFCS2prUEZ1TkhTclJlcEg0YVNWUnkxT2NxOU05WHBUZHNESFRpLTVzUXJkZV9vYjBxWmNPWWszWnJOZkpRMDRLMG5RdjlIVVF5YzdVVzhCWjJWSEFFSndmREZFZU1YdzI0Q3UxOTJheXhJWjBkNmhlTG9zZ0EyV0FNcnhPX1NwWFA1XzJKcUVrcUFkTy1rUjF2cHdQMzl4WV9YNVp0XzlJamNuMk1tWFpzQVpfbWFWQXhsY3lLcVZ1cHZmcGRLbVNN) — Google News China Entertainment · 2026-06-26 06:31 UTC
+- [LE SSERAFIM时隔三年重返BlizzCon 将担任2026暴雪嘉年华闭幕演出嘉宾 - 中国娱乐网](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00eE1JMEdwWGV3ZzdIZzlrUGpmTi1BR3p4OVZ0VjEwbjRkcWI0aVdKcHU0MkhKUmtmLWpibWRKcGQ2RVBDT183MDdqMGFQWDQxZEF2UG9sVDFheG8) — Google News China Entertainment · 2026-06-26 06:14 UTC
+- [承载中国故事交流，影视出海再扩版图 - ent.tom.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsQVZMdU9OVVVibmlVaGVPbjlCUDNvaVVUZmpCR0h1d09PSUNULTJqMXM4enFPNGFNeXp2U2M1aVBSSmpoeWMwTjRwX0xIVzV6RlFneA) — Google News China Entertainment · 2026-06-26 05:27 UTC
+
+</details>
+
+## 微博社区动态 · 12 条
+
+微博今日热搜被白玉兰奖相关话题承包，但生活化与争议性内容同样抢眼。杨幂在白玉兰晚宴上搀扶孙俪与杨紫的细节（[新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE42cXJtNkxFUldSdzRjRUZrRE1JZjRyM3NwS2ppZldvYnYtZVljVHYxaHg1Q0tpWEZoUW43dnpJdV8tVkJMQ2NRUjg0QjNaRGdmb0FKMnFSMnNNRmktSE5Hb1BhQnprczAxTklEbDUxSnJoZw)）被网友解读为“娱乐圈高情商现场”，迅速登顶话题榜。另一边，辛芷蕾回鹤岗连吃两顿烧烤（[新浪网](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQVlpYnp0SjM3a0JLNVJNVWVqVlM2eXRsZVVUb1FONkhPSUhkN0t5YzZXdkZyaE00SEwzQ184YjFZajlmTnVxVHVwR28xQzZlUU1XWU5ScGNCdVl6WFJOeGNGckpjaEVmQmpIN1ZiUWkzdmVuM0lCRU1ZWXJ4UjdKVjBxeGJmaU4tYzVUVUM4bVBSV1pRM3lyQ3A3a25sMFhDTUo0aTcwUlNzZU9rRVUtOGFMcllnakx3M1ZEWi1QTjJ2enBsTXp1R1QxNElUYndVNVVtQklobzA5OFJTSmlna1BReDhHTjZ2WVdHWVpuZ09XTG5kdTVjLWpIaHU3MWJNNjNTRnJ4WlE)）的接地气形象成为一股清流，店家互动细节获得百万点赞。争议方面，《藏海传》在白玉兰奖“颗粒无收”引发粉丝质疑黑幕（[新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE5KV3R1dXJjZjk0WHVDd0dFMXYxbnRRajJFcDM4N0o1bERBaDJhS2VOeWVzSjlBeUtMc2l2TmZrTWtjS1FiS1NvZDRKZk10OTh4dW1fbXM5UExYb3hxVWJMZXlxNWFqcUliVkhmc0tOQlk)），与腾讯优酷晚宴上“肖战角色齐夏vs藏海传”的隔空斗法（[新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjWHBBNEpFbWNpNDJ1a3pHeFh6Vkh1OWNBWWVkSW44cTdFeGhieFU2aDN5eTlOcWlOcHUyaHUzaW9JZG10Yjg3SGw2TXhVeFBPUkY4YXFoUFVUZzQzRFR5MGR5WVRmZVJfTzZtQ3I0bnVISWc)）形成对照，显示出IP争夺的激烈程度。此外，苏醒、薛之谦为梅西发声登顶热搜（[新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE1iaUJSZlNUYzdWME42c3p0OGR4eDFUVEJIZXNHMHZ2VWU0bklBRFNBbmdyVm9qeVRuNktUQ0YwOU5nMlRmU0FLU01FTWJfQWl3QWU3TmN3WEd4Nk52c3R6ZTdlOXhVZmZpQ3VsOHg4UDk4UQ)），将体育与娱乐深度融合。赵今麦杂志大片展示健身痕迹（[新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE8zTDNWSHJrOHNmbmZsVmd1OVN5NUk0Z1dUNTJEcFZVT2pac3dJNGpLQndRNUJaQnhnRGc1WlBFeEJ3WUxHdzdTTHhqSnhxRTA2MlB1X3NWb216LVhGQzlWd1lWcHJDaXp1OWJlRHZrUk1XZw)）、曾舜晞拿破仑外套造型（[新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBmaUVZU1BwN2dvQ0dFanl0UFNscE5LenV4dkFYdUFUNDdaZWRGN2dZN201R0hoalVJbXdRZTZDZHpIZWItRHBOUmM1V1BxeWZJcGN3RnBKelVoOUpnTVNkMm9QVjlqSTBVXzZlTFNlMnJhZw)）等话题则延续了颜值经济的热度。微博社区继续充当着娱乐圈“舆情放大器”的角色，任何细节都可能发酵为全网议题。
+
+<details><summary>信源 (12)</summary>
+
+- [穆祉丞的个人巡演最终嘉宾是谁？ - 新浪网](https://news.google.com/rss/articles/CBMimwJBVV95cUxORXVqcERjYkxsVGl3SmpBR0JiaG9CNTVsVzRfOF93eU1CeHNQc0diMTI3cXItT2VDeTJJYUxFZk5yQm5Lamd0aTEtQ0dTSGdPRXY5dmlQazJjMVZmQmNzY2dMQmFEWlIyajh2Q1hMQ0FPRkFObnBkc29SYlZhVEpPRE52Z2s0OVBFVWFFcElYOUdsc2pUX0RzQkJwY2l6RG8yR3hoNDJzd1I3WFJNT1poVVY0cmtrT29hZWhTRVA3UzFfOFZkUzVVN0NKXzVQOTNsZGlMYjFKc2Y0cjR3eGdwOUltdnNzbkYyWjVKYmdFeFRXdS1kOERKUnNKZm9ka3hENW10bk54ZklYRjRubmh5R0pDVFFKTERGRy1B) — 微博社区动态 · 2026-06-27 04:25 UTC
+- [力挺偶像，“苏醒薛之谦为梅西发声”登顶微博热搜|阿根廷|梅西|迈阿密国际|懂球帝 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE1iaUJSZlNUYzdWME42c3p0OGR4eDFUVEJIZXNHMHZ2VWU0bklBRFNBbmdyVm9qeVRuNktUQ0YwOU5nMlRmU0FLU01FTWJfQWl3QWU3TmN3WEd4Nk52c3R6ZTdlOXhVZmZpQ3VsOHg4UDk4UQ) — 微博社区动态 · 2026-06-27 03:30 UTC
+- [《藏海传》颗粒无输真的有黑幕吗？ - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE5KV3R1dXJjZjk0WHVDd0dFMXYxbnRRajJFcDM4N0o1bERBaDJhS2VOeWVzSjlBeUtMc2l2TmZrTWtjS1FiS1NvZDRKZk10OTh4dW1fbXM5UExYb3hxVWJMZXlxNWFqcUliVkhmc0tOQlk) — 微博社区动态 · 2026-06-27 00:45 UTC
+- [腾讯优酷晚宴隔空斗法：肖战角色齐夏对战藏海传 - 新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjWHBBNEpFbWNpNDJ1a3pHeFh6Vkh1OWNBWWVkSW44cTdFeGhieFU2aDN5eTlOcWlOcHUyaHUzaW9JZG10Yjg3SGw2TXhVeFBPUkY4YXFoUFVUZzQzRFR5MGR5WVRmZVJfTzZtQ3I0bnVISWc) — 微博社区动态 · 2026-06-27 00:40 UTC
+- [“辛芷蕾回鹤岗撸串”上热搜！她一天撸了两顿，一顿外卖一顿堂食，店家：她点了不少特色菜品，我要了签名还合了影 - 新浪网](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQVlpYnp0SjM3a0JLNVJNVWVqVlM2eXRsZVVUb1FONkhPSUhkN0t5YzZXdkZyaE00SEwzQ184YjFZajlmTnVxVHVwR28xQzZlUU1XWU5ScGNCdVl6WFJOeGNGckpjaEVmQmpIN1ZiUWkzdmVuM0lCRU1ZWXJ4UjdKVjBxeGJmaU4tYzVUVUM4bVBSV1pRM3lyQ3A3a25sMFhDTUo0aTcwUlNzZU9rRVUtOGFMcllnakx3M1ZEWi1QTjJ2enBsTXp1R1QxNElUYndVNVVtQklobzA5OFJTSmlna1BReDhHTjZ2WVdHWVpuZ09XTG5kdTVjLWpIaHU3MWJNNjNTRnJ4WlE) — 微博社区动态 · 2026-06-26 23:50 UTC
+- [小沈阳沈春阳相守22年，娱乐圈爱情范本 - 新浪网](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlQ4bmdRLUhwcmZmckNxQ2VESlFiZmc5V3VwV0w3LW80RWNaRlJDU0Nna1ByQXJMekIxR2tsRGNyMmRFYk9wSU14Nm8yUlVxQnhseUI2Qi1YcU14Ni1jRlQxWm51Y1NPekx1QXpxRzRCbHJUUlpqdmJLNk16bnp5czd5bW1FM1IwOC1Zc251Y3FSM3JKZEVRamZwbk96Wk9rVUhySnlLaERqMlhCcEFoODN0dS05NW5OY0R6QVI2bWwybmRPRExPVGFnamRlUQ) — 微博社区动态 · 2026-06-26 20:51 UTC
+- [杨幂搀扶孙俪杨紫登台引爆全网 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE42cXJtNkxFUldSdzRjRUZrRE1JZjRyM3NwS2ppZldvYnYtZVljVHYxaHg1Q0tpWEZoUW43dnpJdV8tVkJMQ2NRUjg0QjNaRGdmb0FKMnFSMnNNRmktSE5Hb1BhQnprczAxTklEbDUxSnJoZw) — 微博社区动态 · 2026-06-26 18:49 UTC
+- [曾舜晞穿拿破仑外套登天赐，复古贵气爆热搜 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBmaUVZU1BwN2dvQ0dFanl0UFNscE5LenV4dkFYdUFUNDdaZWRGN2dZN201R0hoalVJbXdRZTZDZHpIZWItRHBOUmM1V1BxeWZJcGN3RnBKelVoOUpnTVNkMm9QVjlqSTBVXzZlTFNlMnJhZw) — 微博社区动态 · 2026-06-26 16:25 UTC
+- [宋威龙鞠婧祎《千香》咬脖片段引爆热搜 - 新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYXE4NmlqbWNsM1paWVFRQnZ2Sl90SG5vbHlsdHlGOEVGeWlSS0hUbnVNNlZ2TnBkNkdmejFTUU1VZDBmVEdlUk9GcmY1YTJFdnpqUng2c1c4X1BXX0QyLU5ZYS1YZDZBcWhfcFZ6c3dLa1k) — 微博社区动态 · 2026-06-26 13:20 UTC
+- [赵今麦杂志大片展健身痕迹 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE8zTDNWSHJrOHNmbmZsVmd1OVN5NUk0Z1dUNTJEcFZVT2pac3dJNGpLQndRNUJaQnhnRGc1WlBFeEJ3WUxHdzdTTHhqSnhxRTA2MlB1X3NWb216LVhGQzlWd1lWcHJDaXp1OWJlRHZrUk1XZw) — 微博社区动态 · 2026-06-26 10:32 UTC
+- [王濛团秀热度破百万_新浪新闻 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE40MldCU25EcGszRkdRbEwtd1Zqem5FQkNCWHFWdlVQSWZ6RTB6WGRfbC1ubUloNkpiaTRJeXNubXhKOVhxQWN2RzdfSmxXc0YxY3dJckpCYWVOeURPVU44cjdVMA) — 微博社区动态 · 2026-06-26 07:06 UTC
+- [杨幂黑长直红唇造型亮相白玉兰晚宴 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE5hbTFvR2xTSzJVSXlzb25qcWtwTjU1UW5mV3ZVQ2ZpTEpEbE9MVUVYa0hJM1VlN1hiMGRkYkNaZmREbElzY2JaZFF0U0ZDU21wN2JuUjdiUFBPOHNpZlFySGdyQzB2SlBIclA5Y2RreWgwUQ) — 微博社区动态 · 2026-06-26 06:05 UTC
+
+</details>
+
+
+
+---
+*由本地 News Radar 自动生成。*

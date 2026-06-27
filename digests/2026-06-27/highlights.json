@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美国空袭伊朗霍尔木兹海峡，布伦特原油飙升",
+      "美联储压力测试显示大银行可抵御严重衰退",
+      "Oracle因AI支出失控暴跌，本周跌幅创2001年来最差",
+      "中国A股与港股同步大跌，恒指触及一年新低",
+      "美国限制Anthropic和OpenAI模型出口，AI监管升级"
+    ],
+    "news-society": [
+      "美国对伊朗发动军事打击，中东停火面临崩溃",
+      "委内瑞拉7.5级强震已致920人死亡",
+      "德国录得41.3℃历史最高温，欧洲热浪致命",
+      "前特朗普顾问博尔顿认罪，面临最高5年监禁",
+      "刚果近300名埃博拉确诊者下落不明"
+    ],
+    "news-military": [
+      "美伊停火协议破裂，美军打击伊朗导弹和雷达设施",
+      "煤炭因中东能源安全焦虑意外回归投资焦点",
+      "克里米亚宣布紧急状态，俄乌冲突外溢持续",
+      "以色列与黎巴嫩签署框架协议，被称和平第一步",
+      "美国陆军成立新太平洋司令部，印太博弈升温"
+    ],
+    "news-tech": [
+      "Prime Day最后一天，苹果Watch Series 11史低价",
+      "特朗普政府批准Anthropic部署Mythos 5给超100家企业",
+      "特斯拉FSD致死案和解，但联邦调查继续",
+      "Slate电动皮卡起售价24950美元，冲击市场",
+      "EFF呼吁阻止加州3D打印机监控计划"
+    ],
+    "news-sports": [
+      "乌拉圭门将穆斯莱拉失误致球队小组赛耻辱出局",
+      "佛得角0-0逼平沙特，历史性晋级32强",
+      "NBA自由市场开启，拉梅洛·鲍尔被送至森林狼",
+      "梅西确认替补参加阿根廷末轮小组赛",
+      "哈滕施泰因3年7500万留守雷霆"
+    ],
+    "news-entertainment": [
+      "《The Bear》系列大结局致敬已故演员Rob Reiner",
+      "Harvey Weinstein洛杉矶上诉被驳回但将重新量刑",
+      "BTS蝉联6月歌手品牌声誉榜首",
+      "第31届白玉兰奖揭晓，85花被评演技蜕变",
+      "杨幂搀扶孙俪杨紫登台引爆微博热议"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US strikes Iran after ceasefire violation",
+      "AI export controls on Anthropic, OpenAI",
+      "Hang Seng Index hits one-year low",
+      "A-shares lose 2.9 trillion yuan in day",
+      "European markets slip on rising oil"
+    ],
+    "news-society": [
+      "US launches strikes on Iran",
+      "Venezuela earthquake kills at least 920",
+      "Europe heatwave breaks German records",
+      "John Bolton pleads guilty to mishandling documents",
+      "Texas mandates Bible stories in schools"
+    ],
+    "news-military": [
+      "US strikes Iran, ceasefire collapses",
+      "Israel-Lebanon sign US-brokered framework",
+      "RIMPAC 2026 begins with 30 nations",
+      "Ukraine unveils massive underwater drone",
+      "House approves $1.1 trillion Pentagon bill"
+    ],
+    "news-tech": [
+      "Prime Day final hours with deep discounts",
+      "Anthropic's Mythos 5 released to US firms",
+      "OpenAI previews GPT-5.6 and custom chip",
+      "Slate Auto unveils $25,000 electric truck",
+      "Tesla Q2 delivery consensus at 406,024"
+    ],
+    "news-sports": [
+      "Uruguay crashes out of World Cup",
+      "Cape Verde qualifies for last 32 debut",
+      "Spain wins group but injury doubts",
+      "Bielsa's Uruguay reign ends in disgrace",
+      "Muslera howler gifts Spain 1-0 win"
+    ],
+    "news-entertainment": [
+      "Weinstein conviction upheld, resentenced",
+      "Bill Maher may vote Republican in 2028",
+      "Madonna hints at Glastonbury performance",
+      "Herridge takes source case to Supreme Court",
+      "The Bear finale pays tribute to Rob Reiner"
+    ]
+  }
+}
