@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突升级，原油和避险资产飙升",
+      "美股科技股连续第五周下跌",
+      "SpaceX快速纳入纳斯达克100指数",
+      "德国汽车业裁员，中国电动车冲击全球",
+      "A股IPO回暖，近700亿融资"
+    ],
+    "news-society": [
+      "美伊冲突升级，美军轰炸伊朗目标",
+      "委内瑞拉强震死亡1430人，救援受阻",
+      "欧洲热浪破纪录，1.5亿人受影响",
+      "北京中信大厦遭小型飞机撞击",
+      "日韩防务合作向AI延伸"
+    ],
+    "news-military": [
+      "美国空袭伊朗境内目标",
+      "伊朗报复攻击巴林、科威特",
+      "特朗普警告“军事完成任务”",
+      "乌克兰打击俄罗斯石油枢纽",
+      "中国南海军事任务禁航区"
+    ],
+    "news-tech": [
+      "Oracle股价创2001年以来最差周",
+      "亚洲初创公司推出替代Anthropic模型",
+      "Ford用AI替代工人后遭反噬",
+      "IP Crawl曝光全球开放网络摄像头",
+      "Apple请求从被黑名单中国公司买内存"
+    ],
+    "news-sports": [
+      "梅西连续七场世界杯进球",
+      "英格兰2-0胜巴拿马但表现平庸",
+      "苏格兰主帅克拉克辞职",
+      "凯恩成英格兰队史世界杯射手王",
+      "奥地利3-3逼平阿尔及利亚晋级"
+    ],
+    "news-entertainment": [
+      "Prime Video续订《Every Year After》第二季",
+      "Annecy动画节授予哥伦比亚2027荣誉主宾国",
+      "Musk在X平台发布Armie Hammer争议电影",
+      "BTS第13首获英国银认证单曲",
+      "肖战递还奖杯瞬间引爆全网"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US strikes Iran after tanker hit in Hormuz",
+      "S&P 500 slides below 50-day moving average",
+      "Nasdaq suffers worst week in months",
+      "German auto industry announces job cuts",
+      "Citi says Chinese internet stocks a buy"
+    ],
+    "news-society": [
+      "US-Iran conflict escalates with retaliatory strikes",
+      "Venezuela earthquake death toll passes 1,430",
+      "Europe heatwave affects 150 million people",
+      "Israel strikes southern Lebanon after deal",
+      "Bad Bunny first Latin artist to headline UK stadium"
+    ],
+    "news-military": [
+      "US airstrikes hit Iranian missile and radar sites",
+      "Iran retaliates with drone strikes on Bahrain and Kuwait",
+      "Trump warns US may militarily complete the job",
+      "US strikes first since peace memorandum signed",
+      "Ukraine war: Kyiv hits Russian oil hub"
+    ],
+    "news-tech": [
+      "Oracle stock worst week since 2001 dot-com bust",
+      "Asian AI startups launch Mythos-like models",
+      "Apple seeks to buy RAM from blacklisted supplier",
+      "Tesla settles first fatal Full Self-Driving lawsuit",
+      "Ford's AI automation backfired badly"
+    ],
+    "news-sports": [
+      "England top World Cup group L after 2-0 win",
+      "Messi scores in seventh consecutive World Cup game",
+      "Scotland's Steve Clarke resigns after elimination",
+      "Austria survives scare with last-gasp equalizer",
+      "Faker reaches historic MSI milestone in esports"
+    ],
+    "news-entertainment": [
+      "Prime Video renews Every Year After for Season 2",
+      "Annecy names Colombia 2027 Country of Honor",
+      "Nolan advises Coogler to use IMAX for Sinners",
+      "K-pop dominates charts globally",
+      "White House cancels Vanilla Ice appearance"
+    ]
+  }
+}

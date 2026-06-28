@@ -1,0 +1,130 @@
+# 多频道新闻雷达 — 经济新闻
+
+> 2026-06-28 · 窗口: 24h · 条目: 91 · 生成时间: 2026-06-28 05:45 UTC
+
+---
+
+## 板块速览
+
+过去24小时，全球市场在多重冲击中剧烈震荡。地缘冲突（美伊在霍尔木兹海峡交火）推动原油和避险资产飙升，但美股科技股在资金轮动和内存危机中连续第五周下跌；欧洲面临德国汽车业裁员潮和特朗普关税威胁；中国经济则呈现内热外冷特征——IPO显著回暖、AI算力投资加码，但新能源车龙头发出需求预警。以下为本日关键动态：
+
+- **[美伊冲突升级，油轮在霍尔木兹海峡被袭后美军打击伊朗目标](https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html)**。60天停火协议名存实亡，布伦特原油与美元同步走强，欧洲股市承压，但美股期货因停火谈判曙光而短暂反弹。
+- **[美股科技板块遭遇5年最差一周，纳斯达克连跌5日](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnBDU0oyQkU3QUtPWm5vYzBiLTliSWNPazJXM2UzTU9aOGFnMWJzQnRJQm00RzVKakVKbjBqVVhWckJqeF8xMW9iTUFmUXU0TTBPdGhUVHRZZG5fYzJJWEliY1MtMzVmT2FCZ2pqc2IzSDVrRGtVb2NuM1VYMTBxQW85WWhMdkl3d3JaYVpsOTBLU2s2bDN3WXZhcG5fbGNxN3FtVnNsaXlGQmphRDNxN1RuNXJ5dw)**。背后是华尔街从科技向价值/能源轮动，同时内存短缺演变为小厂商的‘生存危机’[来源](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html)。
+- **[SpaceX被快速纳入纳斯达克100指数](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html)**，将触发大规模ETF被动买入，成为纳斯达克‘快速通道’机制的首批受益者之一。但上市后股价已有所冷却，而太空经济招聘热度不减。
+- **[德国汽车制造商开启历史性裁员](https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2d5cl90UFRyMTdPNUFwVkxvN3ZvclY5UEFweF9haVEwVU92ZDBubXp1Rm1aMG9pZ093R2ltYjNJcndIMVFNN0R0T1ZnRWR5R3ZxdEFBUjhXcWIxUDVCRXlGblp2YjJEb0w0eXJISE43M1A3V1JMQVJYbmZHSVV6eTdzWWU)**，中国电动车企低价冲击全球市场，美国重卡电动化正借补贴向东南亚和非洲出口[来源](https://www.scmp.com/business/china-business/article/3358516/chinas-big-trucks-go-electric-and-abroad-subsidies-help-pave-road-net-zero-freight)。
+- **A股IPO显著回暖，近700亿融资规模**（[同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YU21GaHVxVE5wOVRpbUZpLWlydnJNYVRTYXppVTRqVXkydkJleHMxVWhfalVNdGZuMnJtTHN5Z0pDMWpRT3FJMUlHY2ZGWlNHWmhycTB4SlFKdnJlSEE)），协创数据拟定增80亿元加码AI算力与存储[来源](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWYklnTEJybkZyZTdxMkZQX0V2X2NUZGNxdDR2d2sxVU9oM2hUZHE5R3lTQUo5aXoxMTN1QlNMWkxEMXJ6UmVHTG85RENONEhHVWtKNHNSTHJfUFVFNFhYaW53)，市场风险偏好回升。
+- **欧洲央行委员Isabel Schnabel演讲标题‘通胀回来了吗？’**[来源](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf)引发关注，而全球债券投资者被建议转向加息周期不同步的非美市场[来源](https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html)。
+
+**后续观察**：本周焦点将集中在美伊停火谈判能否实质推进，以及美联储年度压力测试结果是否影响银行资本分配。若地缘风险不退，能源通胀将压制全球央行降息预期；若冲突缓和，前期超跌的中国互联网股可能迎来技术性反弹。
+
+---
+
+## 美股 · 51 条
+
+纳指连跌5天创数月最大周跌幅，科技股遭资金抛售。地缘冲突推高原油和军工，但市场关注焦点在SpaceX快速纳入指数与内存短缺的连锁反应。
+- **[纳指、标普500期货因美伊停火协议消息而大涨](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNE5zR3h3Yl9rSE9rRmNjY0I1alNkSnVBeTZNZmdDY0ZCSXFlcFRTakFFN0lxR1hvdkhwRjg3NDRHX1p6clJFSENRS2Y3c3NkTVhHNnpIbkpJeUtyZ09uMVNFS3pEVDdPZFVXT29MeU83ZlRXTEV6dmVDaVJFOVlBMVkyNS1faTYtSmxueHJVUE1YNWxUTWN4SmdfNFZlcXgtVzNIRTMxXzh5ZDU0LXFrem1mTDFCUlBNNVhnLTV2ck5YVnM3bFBBWE1lMlZJOC1pd0wzSHIxeVlySWlyQ1E)**，但此前盘中已体现对美联储鹰派立场的忽略。**科技与能源板块形成跷跷板**，投资者需关注后续资金流向。
+- **[苹果和微软提价应对内存成本飙升，小公司面临‘生存危机’](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html)**。这暴露了AI需求带来的供应链瓶颈，可能持续扰动消费电子行业。
+- **[GE Vernova展示为AI数据中心建造的大型燃气轮机](https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html)**，xAI的Colossus和微软德克萨斯数据中心均采用——AI对能源的饥渴正在重塑电力设备投资逻辑。
+- 市场判断：科技股短期仍受制于利率预期和地缘风险，但SpaceX纳入指数带来的被动买入效应和能源基建投资主题值得中长期跟踪。
+
+<details><summary>信源 (51)</summary>
+
+- [From protein coffee to CBD soda: How brands are cashing in on the functional beverage boom](https://www.cnbc.com/2026/06/28/protein-coffee-cbd-soda-starbucks-functional-beverage-boom.html) — CNBC Markets · 2026-06-28 05:00 UTC
+- [U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz](https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html) — CNBC Markets · 2026-06-27 22:54 UTC
+- [SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html) — CNBC Markets · 2026-06-27 21:34 UTC
+- [Why investors may want to prioritize bond markets outside the U.S.](https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html) — CNBC Markets · 2026-06-27 15:00 UTC
+- [‘Heated Rivalry’ fuels a boom in gay romance stories, with women leading the fandom](https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html) — CNBC Markets · 2026-06-27 14:54 UTC
+- [The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) — CNBC Markets · 2026-06-27 13:21 UTC
+- [SpaceX stock has cooled. Hiring for jobs in the space economy hasn't](https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html) — CNBC Markets · 2026-06-27 13:17 UTC
+- [Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game](https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html) — CNBC Markets · 2026-06-27 12:11 UTC
+- [How GE Vernova builds the massive gas turbines powering the AI data center boom](https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html) — CNBC Markets · 2026-06-27 12:00 UTC
+- [From concerts to train rides, bots are winning the ticket wars — but they're only part of the problem](https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html) — CNBC Markets · 2026-06-27 09:46 UTC
+- [Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm) — Federal Reserve · 2026-06-25 15:00 UTC
+- [Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm) — Federal Reserve · 2026-06-25 15:00 UTC
+- [Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm) — Federal Reserve · 2026-06-24 20:00 UTC
+- [S&P 500 and Nasdaq Forecast: S&P Slides Below 50-Day MA as Nasdaq Drops 5th Straight - FXEmpire](https://news.google.com/rss/articles/CBMizAFBVV95cUxNVE9JcUU5R1lKUmpPN2JScFBzOVNZWkpyQ3dDZWg1RG1PeldBQjJjcTBsWHBWdlJzTWF3RUl3VXRoTUpzNTB5Ym9mWFlLZkZKeXNldGtWV2RNb3UxbUQ0dUp0Ql9PNVJQQWpGeXhfRmdzR1NYeE1FOTRoRmUwSFRnV1plM1ZwMERjdzZDNlhnX1RYWUhhMHpHb1NFZVptaEcyOWtvbnR6bnlLWmNMZW9JeWNBSVNHWE5hY0FVb2tNdlBKMDI3OFItazkyUXg) — Google News US Stocks · 2026-06-28 04:43 UTC
+
+</details>
+
+## 欧洲经济 · 15 条
+
+欧洲面临内外交困：德国制造业加速崩溃，美欧贸易战（数字税）一触即发，中东冲突推高能源成本。欧元区通胀再次成为央行关注焦点。
+- **[德国‘开放模式’正从优势转为弱点](https://news.google.com/rss/articles/CBMisgFBVV95cUxNampJX0doVGVWQVYtWnZ6Y294MkNvU3hmWGVSVUR0ay1HVmpqMS1XV2ZYNjBvSXA1QWhkY1BRbFBvUjZ5QTB3SWlVWXUyWHp1a040SVFLanVpYmJWYzhpZ3B2SmZKOWptRFN4eTJKSWFfcWZOWHhOTUdVVmQzdDdHNGdDZHJNM2NWOXIzZUZOUUQtLXR4dFlxUGctWDZ0dVVtSzZlMGZOMm5GNFlkNGpaVmRn)**——WSJ分析指出，当全球保护主义兴起，德国出口依赖成为脆弱点。汽车业失业潮是直接体现。
+- **[特朗普威胁对征收数字税的欧洲国家实施100%关税](https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax)**，剑指法国、意大利等国，可能升级为跨大西洋贸易冲突，影响科技、奢侈品等多个行业。
+- **伊朗战争对全球经济的冲击波**（[Eurasia Review](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZVlPeVlPdkxKc3dMeDN0ek4yMGVNYlBSa3N3TzNBRVE5a3VyZWVNVUZfTUszYktBZ2tDTk5DYTczTldfaXctNC1iRF9yQ0NNZWVZV2hncjNySE1zYW5NY0M3VkVrVlJtbTFZaUEySWRmNF9jSmsxeWd1TlhNS21yR0JrY241TmFsMm1RRkNQTjBySHlvMmZ5cWdvNDJYdGxVblFZNnQ3aENjOVJ1cEpxUkJOWnVHal9paWx0bkw2QUVLSGlGWW5DQjZrdFhTd0cyYUhwY28xZ2NDQQ)），结合欧洲股市当日下跌，能源危机将最先打击欧洲制造业。
+- 收束判断：欧洲央行面临进退两难——通胀威胁（Schnabel演讲）与增长停滞，短期内欧元资产将继续承压，关注欧元区国债收益率曲线变化。
+
+<details><summary>信源 (15)</summary>
+
+- [Isabel Schnabel: Is inflation back?](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf) — European Central Bank · 2026-06-27 13:45 UTC
+- [Spain’s stock market is in the hands of foreign funds: these are the real owners of the Ibex 35 - EL PAÍS English](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVGZ2cVZoXzlnXzhUYnhhblA1UWdxQ0pGM3dNQ2JuOVFmU01ONWh6RkRPX3RPTjV0a2p5RVFTRXJJdld3dTRjMDNVajFESjd3RS1iQlhmU1IwUEhDZ2s5NkdFWFJWWFlETEF6REtGaTZOdjJRX2FmcGF5eFh0VUowLTRFdThudzRkSG4tVEpvbDBnYVVFZ29teDZvbGZGa0ZIeHVmdE90WVVfdHJCUVo5X0EwSVFCSXIxbGluQzdyUmlVZ2FXZUpIeUQyNWxISzhaRy1HaG02Umt0NEYzMi1HUVNSQUp4SUFLNV9NT0ZR0gGCAkFVX3lxTFBVa1RvWkhVWmFqWUw2eXVlM1M5UnREaU9fX0FQR21yTWw0M0lWRDNJN2JJUEpob0ZLc2QxUUs3WmFZb3JITENHMzYwOXFwWW9LTUt5NUliZTllRmJrYW03SGlzQ2paSk8tZDc5Z0QzMGwyZ2JhU2JKNHVtdVpyTkVITUZINkVvck94MFRUeUVVQlV2S1FTNWp1ZnVKSFBRYk01bS13R3VNeTRnRGFMWllxWGFjOFJtMFNfMHVZOW1MY0x6aUlWcHlsbk9pbEVDTkcwTXdOVktfdHZYMmdZRmVrSlFINGFUWkFCOE9SYkhIbXhxbzBYYkJIUU9wcFhraGt1dw) — Google News Europe Economy · 2026-06-28 04:30 UTC
+- [Shockwaves From The Gulf: The Iran War And Its Impact On The Global Economy And Energy Markets – Analysis - Eurasia Review](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZVlPeVlPdkxKc3dMeDN0ek4yMGVNYlBSa3N3TzNBRVE5a3VyZWVNVUZfTUszYktBZ2tDTk5DYTczTldfaXctNC1iRF9yQ0NNZWVZV2hncjNySE1zYW5NY0M3VkVrVlJtbTFZaUEySWRmNF9jSmsxeWd1TlhNS21yR0JrY241TmFsMm1RRkNQTjBySHlvMmZ5cWdvNDJYdGxVblFZNnQ3aENjOVJ1cEpxUkJOWnVHal9paWx0bkw2QUVLSGlGWW5DQjZrdFhTd0cyYUhwY28xZ2NDQQ) — Google News Europe Economy · 2026-06-27 23:11 UTC
+- [US-China Tariff War: Why Third-Country Gains Are Uneven - economy.ac](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBydXludHpGclpOMklCenQ5T1VPUVk2OHoyOG9kWXhScWxRUHRiSl9iS2lXOHJ6eDh3V3UyeGFJV0lnSmEzYWhnYi1XemE5b2NSd3o4V2VtRlVKUQ) — Google News Europe Economy · 2026-06-28 02:22 UTC
+- [Why investors may want to prioritize bond markets outside the U.S. - CNBC](https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0F4bVRkRkRmZmNYUzFqWXcyaEVlOGZ2OW9UaXAwWF94N2FwY195NXpqZTRTZXU2QjZtZHczMU1iRG9jaF9ubjRablY0clh1d0M1WW1WTTlzLUtXaFFNRFNhWjkzTGMxUWN1QVh6eDRpM3V1RFFybHg0VGM5ckxhSFlyeWc4MGdqTi00Vzdkc20zRWZnZzNRdlluSTlwNDlV0gGgAUFVX3lxTFBfQXhtVGRGRGZmY1hTMWpZdzJoRWU4ZnY5b1RpcDBYX3g3YXBjX3k1emplNFNldTZCNm1kdzMxTWJEb2NoX25uNFpuVjRyWHV3QzVZbVZNOXMtS1doUU1EU2FaOTNMYzFRY3VBWHp4NGkzdXVEUXJseDRUYzlyTGFIWXJ5ZzgwZ2pOLTRXN2RzbTNFZmdnM1F2WW5JOXA0OVU) — Google News Europe Economy · 2026-06-27 15:00 UTC
+- [German carmakers embark on historic job cuts as Chinese rivals flood market - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2d5cl90UFRyMTdPNUFwVkxvN3ZvclY5UEFweF9haVEwVU92ZDBubXp1Rm1aMG9pZ093R2ltYjNJcndIMVFNN0R0T1ZnRWR5R3ZxdEFBUjhXcWIxUDVCRXlGblp2YjJEb0w0eXJISE43M1A3V1JMQVJYbmZHSVV6eTdzWWU) — Google News Europe Economy · 2026-06-27 11:00 UTC
+- [Is Saab Stock a Buy After Its Recent Share Price Weakness? - Morningstar](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkV1UWdvR01BalFfSUZzUXU4MEpNQW00eUt5UnlTdmdYTGtOaS1NaFVTdFExSXB0bi1tTmhqQWNIVTM1bmFVVVZ0NURTV2pjVmNLbFhheG0zSmEyb1haOHJoaUZUdTV1bml6OGJyZ0xwS2JITkU2QnJLS214ZEdNMnc0QUc2YmIwZmp6ZC1tNDhYaFc4SWlwZjUxMDh0Y2Qx) — Google News Europe Economy · 2026-06-27 07:17 UTC
+- [Best quarter in six years but don’t expect it to get much better - The Australian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUER5MHB5NW55UkdHSU1sNmFaWEJpekM5ajFtdHA5ZGpVUEJ4MFFGY0FSTGtyQmZTcFRlS3liZGJLMUtTbFR4RExjdi0zOWxSRnBSaFZVdXdfajg0UjZ1SVRiQWZHaE0teDNWX3VjQWE0VjJMaUQwSDFocG1aQ2dQVUVsNmtSRXppclM4Zm96M3FlQTMwUC1xNERUenRZZkl5M3Q3ZFZ1U1FzVm9BMXFDS2MtSzdYMHpCU3QzcU82MmVXbFZhaWdDdWMwUFFFSkE5Zm1DX2tHMlh5RHNnamVKVkdPU0JxZDhhUEZTekJvLUYwQzJRZ3luddIB_gFBVV95cUxQdU5kdlVackIteHI0T0U5aWxUTVNjVE9STHM2SWJLVmtiak9qMHB0U2N2aGJkV0dsSk5ZcVJSc255WlplZE5ndVNySHhVc08zc3VCTFJaS2dfZGJXZHQweVlVek5wRTNBMkZiRkt0Zjk3VmRqVE5rc1lIYWM1MFZmSy13YWktUHFyaTIyOUtqN3R6WlJvck1RcnJIMl9HSHY2cHltcmFkZXhwSkV0clNPWXRHWlFLV3pxQTNrMFhfT1JTcFhyV090RFNpejlFZXlQb3pLTTk5YjUtaDFLQmlURVRSY2NzX3hvMEJNd0JrdEctT3BTcW1ITl9XR0UzUQ) — Google News Europe Economy · 2026-06-28 04:30 UTC
+- [The Openness That Powered Germany’s Economy Is Now Its Biggest Weakness - WSJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxNampJX0doVGVWQVYtWnZ6Y294MkNvU3hmWGVSVUR0ay1HVmpqMS1XV2ZYNjBvSXA1QWhkY1BRbFBvUjZ5QTB3SWlVWXUyWHp1a040SVFLanVpYmJWYzhpZ3B2SmZKOWptRFN4eTJKSWFfcWZOWHhOTUdVVmQzdDdHNGdDZHJNM2NWOXIzZUZOUUQtLXR4dFlxUGctWDZ0dVVtSzZlMGZOMm5GNFlkNGpaVmRn) — Google News Europe Economy · 2026-06-28 03:00 UTC
+- [Brent crude and DXY advance on geopolitical concerns; European equities slip - equiti.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjJRTFBVc0xia0tzNURfTDk3Wm9Od2ROVDYwb1VJTEV3dmMzTXd6b0xFTS1IR0JwaFotSzVYbTZGcld0ZXlxeGJxUUR1LUt4SVNnV25BQ2lBREpmVndWNHI5QVNaclFKbkduYjloSGFieFVEOV9BUUxwSllnVThGYjNGbWI1TmhUOFd4eUp5U3RiOTgyOE9tZXJ0cTVHSTZ3TDdvRUdyQklkX2xMdHZ2X3NpUVZnNTdxZWc2OEh6bw) — Google News Europe Economy · 2026-06-27 23:43 UTC
+- [Europe: armed for peace - Euractiv](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WVWhBV21ocEQ1Y1Y4bjhpZHlXU2dXRVlxV2tTR0dSTFlrNTY5ZkJXRU83WF9QVVJxcm5KSjJJOWtmajBsREVUYmh5TTVyQmtkTnQ0UFhNZEpSSzB1VUhPdVNjZw) — Google News Europe Economy · 2026-06-28 02:05 UTC
+- [Why Israel cannot afford to lose Europe as an ally - The Jerusalem Post](https://news.google.com/rss/articles/CBMiV0FVX3lxTE43eVNlbGhtdlQ1dks4QTNHeVRRSC1EdVRqa3NLMDRnQkptaGlZUEhNRmlRQThJXzdXX1QtQUVMTWtxQ1ktWkY2R3A3NEpFcGRidm14WGJFbw) — Google News Europe Economy · 2026-06-27 10:50 UTC
+- [Trump threatens 100% tariff on European countries that impose digital tax](https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax) — The Guardian Business · 2026-06-27 10:20 UTC
+- [Here’s what to do if your StubHub World Cup resale ticket is canceled](https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket) — The Guardian Business · 2026-06-27 10:00 UTC
+
+</details>
+
+## 中国经济 · 16 条
+
+中国资产在外部动荡中呈现结构性分化：香港超富裕人口激增体现财富集聚，但蔚来CEO预警汽车行业可能滑坡20%；AI产业链（碳化硅芯片、算力存储）和政策驱动的新能源重卡出口成为亮色。
+- **[蔚来CEO称中国车市或暴跌20%，但公司坚持50%增长目标](https://news.google.com/rss/articles/CBMilwJBVV95cUxNUHRtMHhfSG5JaEtUR2FiOGZzemZsejJ2TzBkQVBFbnhTYmE3ZDdwWnE0TEFvSXV6YkRPay0zT09MTVJjRlJxX1QzR2J1OWNZQldNYXJnZlhlY3h1WkJiRnM3ZXRYNmtRcXZidnhyYV9PT2JvUEk1TS1mcldYMjExWHlmdXBybm10dnY4TnI4cEF5Nm5WN19xd2lNOXNjSS1ONWFqOG15eDNiMXc0YnZfTE5aRWxVX3dCR2NCeWlMMHRrazFLZnlFLTZJQ255ZVRVVmJ4U1pnZEV5bnZqamsxRGpqcmpjcFlHTzAyZ2ZBaTVEYkR1RHFRMEs1cEU5QVRoTWY1RGxDaUVSbXVTMEVzS2g2OHFQdU0)**。这一矛盾信号暗示价格战加剧，行业洗牌期远未结束。
+- **Citi建议逢低买入中国互联网股票**（[Investing.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWdseUZOR2I0LXJWVGV5cm8xdjVCRHp0M2NDdktzRHNXSGFja3VyVFpHV2lYeXI1UTZqaVFMLTMtUGFmYjFsVmN0YTVsSHhLQkptU190OEZ3R3pfeTJCX3F1RUlaS2pKeVIzNmtvNzBHRjBqTzlUUFp0Mng2Yl9tOV9CbTFYRVdGV0Y4V21xTk0xYy1Ud3RIeUV6ZDJvaHN5QUlwa0xHX2xBVjM2RUhnZlZaLTVnQmxWa0V6N3I5d2QzVHgwZGJnUDA1emh5Zw)），但港股和A股科技股受全球科技低迷拖累同步走弱[来源](https://news.google.com/rss/articles/CBMizgFBVV95cUxQejl6cU9IaE1xWFVsbWFSR3FpWm9ocE04MnZqSEVGMWVTXzdIZWZzbGNtcVpVQ1pjUlhhN0RnUEx0X3ppamtUVEpVd2hmeXQ5bE80cnFWNmlIUXZ3Z1duNFFsUTlwUEFldGpiV3RsVEZTT0ZLNTg4RzlfemdnZ29hUV9WTmtYVHgxaUVLaU9MTkNpbW94RzRJMWp2bXhtTDBTUG1USzNpSjc2RmozaEhxOGNZTjN6Y18tc2RBMG9GdERhYVJnRGZwRUg0YS16QQ)，估值修复需等待外部风险出清。
+- **[中国芯片企业押注碳化硅（SiC）应对AI数据中心能耗危机](https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic)**，深圳基本半导体通过上市聆讯，标志着国产替代在宽禁带半导体领域加速。
+- **[A股IPO回暖近700亿](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YU21GaHVxVE5wOVRpbUZpLWlydnJNYVRTYXppVTRqVXkydkJleHMxVWhfalVNdGZuMnJtTHN5Z0pDMWpRT3FJMUlHY2ZGWlNHWmhycTB4SlFKdnJlSEE)**，叠加协创数据80亿定增，反映资金向AI算力和存储方向聚集。
+- 收束判断：中国经济短期受外部冲击压制，但AI基建和政策驱动的‘新三样’（新能源车、光伏、电池）正向重卡和半导体延伸，结构性机会大于总量机会。
+
+<details><summary>信源 (16)</summary>
+
+- [Hong Kong leads top markets in ultra-rich population growth, surpassing New York, Tokyo - VnExpress International](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTWoybDRoQXEzaE1BSF84SGx1c045Q0JSblQ5VlRsaUs5T1JGRFlvRkVBWW9sSEhQUk5TeXNhZmFvekRRakNfLVp3dlhnZ1lfWXJLc2tyVU56ZEpMRHJHeWZ2OWJJVXM5WFhQMWVheEpjUkw4Uy1aejk4czBRLThKd3NNOVZONGs1cE5EMkZUYWJZeThLbENqeEMwa1BDV1cweG8yNnNlR21MS3YwamVTTVB2QTI1cGFpSDIzTnJKNkxoZ3dlVGx5em5lQ29pM1dCMld6UTdFV1hyTzlG) — Google News China Economy · 2026-06-28 01:34 UTC
+- [Will Japan’s tourist visa fees, interest rate policy impact its booming property market?](https://www.scmp.com/business/article/3358584/will-japans-tourist-visa-fees-interest-rate-policy-impact-its-booming-property-market) — SCMP Business · 2026-06-28 01:00 UTC
+- [NIO stock slips in Hong Kong: CEO warns China auto sales could plunge 20%, but sticks to 50% growth target for Nio - MSN](https://news.google.com/rss/articles/CBMilwJBVV95cUxNUHRtMHhfSG5JaEtUR2FiOGZzemZsejJ2TzBkQVBFbnhTYmE3ZDdwWnE0TEFvSXV6YkRPay0zT09MTVJjRlJxX1QzR2J1OWNZQldNYXJnZlhlY3h1WkJiRnM3ZXRYNmtRcXZidnhyYV9PT2JvUEk1TS1mcldYMjExWHlmdXBybm10dnY4TnI4cEF5Nm5WN19xd2lNOXNjSS1ONWFqOG15eDNiMXc0YnZfTE5aRWxVX3dCR2NCeWlMMHRrazFLZnlFLTZJQ255ZVRVVmJ4U1pnZEV5bnZqamsxRGpqcmpjcFlHTzAyZ2ZBaTVEYkR1RHFRMEs1cEU5QVRoTWY1RGxDaUVSbXVTMEVzS2g2OHFQdU0) — Google News China Economy · 2026-06-27 23:36 UTC
+- [Li Auto Officially Enters Macao Market, Further Expanding Its Global Footprint - EIN News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2J6UlFzWHFBWnN6bzlmM3dkVFlfckItQTVydERYYThla0ZFQzFMQ2VTWkVJeUdrd2w5T2V5T3UyQ1J6NDJpVEJCSWN0WE16bmZGcEdpcWxaTzZ6UzZITzVzeTF4STlnSm44U3JYd19GMnhSbWpQcldIdktDekNCTTRkTFpLYVNGcU5lTndNVEhsYzVEMEJZR29seEdaUVBzeFM4Q1lGcklPdjVKemZVb0k1R3gybkxmRi1HVXN2TU3SAcABQVVfeXFMTTdielJRc1hxQVpzem85ZjN3ZFRZX3JCLUE1cnREWGE4ZWtGRUMxTENlU1pFSXlHa3dsOU9leU91MkNSejQyaVRCQkljdFhNem5mRnBHaXFsWk82elM2SE81c3kxeEk5Z0puOFNyWHdfRjJ4Um1qUHJXSHZLQ3pDQk00ZExaS2FTRnFOZU53TVRIbGM1RDBCWUdvbHhHWlFQc3hTOENZRnJJT3Y1SnpmVW9JNUd4Mm5MZkYtR1Vzdk1N) — Google News China Economy · 2026-06-27 22:08 UTC
+- [Citi says these beaten-down China internet stocks are worth buying on the dip - Investing.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWdseUZOR2I0LXJWVGV5cm8xdjVCRHp0M2NDdktzRHNXSGFja3VyVFpHV2lYeXI1UTZqaVFMLTMtUGFmYjFsVmN0YTVsSHhLQkptU190OEZ3R3pfeTJCX3F1RUlaS2pKeVIzNmtvNzBHRjBqTzlUUFp0Mng2Yl9tOV9CbTFYRVdGV0Y4V21xTk0xYy1Ud3RIeUV6ZDJvaHN5QUlwa0xHX2xBVjM2RUhnZlZaLTVnQmxWa0V6N3I5d2QzVHgwZGJnUDA1emh5Zw) — Google News China Economy · 2026-06-27 11:26 UTC
+- [Chinese Stocks Falter on Continuing Global Slump in Tech Shares - citynewsservice.cn](https://news.google.com/rss/articles/CBMizgFBVV95cUxQejl6cU9IaE1xWFVsbWFSR3FpWm9ocE04MnZqSEVGMWVTXzdIZWZzbGNtcVpVQ1pjUlhhN0RnUEx0X3ppamtUVEpVd2hmeXQ5bE80cnFWNmlIUXZ3Z1duNFFsUTlwUEFldGpiV3RsVEZTT0ZLNTg4RzlfemdnZ29hUV9WTmtYVHgxaUVLaU9MTkNpbW94RzRJMWp2bXhtTDBTUG1USzNpSjc2RmozaEhxOGNZTjN6Y18tc2RBMG9GdERhYVJnRGZwRUg0YS16QQ) — Google News China Economy · 2026-06-27 05:55 UTC
+- [近700亿！A股IPO显著回暖（附名单） - 同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YU21GaHVxVE5wOVRpbUZpLWlydnJNYVRTYXppVTRqVXkydkJleHMxVWhfalVNdGZuMnJtTHN5Z0pDMWpRT3FJMUlHY2ZGWlNHWmhycTB4SlFKdnJlSEE) — 同花顺社区动态 · 2026-06-27 07:39 UTC
+- [As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC](https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic) — SCMP Business · 2026-06-28 05:00 UTC
+- [China’s big trucks go electric and abroad as subsidies help pave road to net-zero freight](https://www.scmp.com/business/china-business/article/3358516/chinas-big-trucks-go-electric-and-abroad-subsidies-help-pave-road-net-zero-freight) — SCMP Business · 2026-06-28 03:00 UTC
+- [Opinion | Hong Kong’s AI push needs a broader vision and more realistic goals - South China Morning Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRVh1T1VpeEdLZFpERkQ4MHVUREJsanpkaVNPT0JsY05aelRSOVRaZU8zcEFNcVpiN1RYa0czZXRBTmZLQWdlTzJSck00M01DMmxiR2YzRUVNQnhSSDFZT3k1aEhBb3p0c1BoWjFualVsOFdrSFc2WHF0WlNfTEtCcjVkdjFaVUM3WnppcDA4bnQ5M05qdVpsVzRUb1ZYS0lHSEFkUVhxSXJ3NWVLaUpoQUMzQ0FsYU1wcS1CeXJ1SVZOQTZRbWfSAcYBQVVfeXFMTjlIM19uMWQ0bmlpMTlObERnZFFCVmsteUxfcUJxTkxRazNkVWNaX19rRFRPM2p2MTJjNlFibzZYdWt0YmREcFk5d3JfM2U0VnpJbUVVQm14M0FoajBieGQ0QmhEWm04LW5qeUlkNFJkNWdDVXAtaUswQS1YclhrUG5QMnZUX05XZkhITjlVMXcydEtCdFNGS1F0WVNCT2JiSmcyNTU5aUl1QjYyc3gxSExFbXRsM1NTNlYyT1c2OTRDVElGNW53) — Google News China Economy · 2026-06-28 01:30 UTC
+- [Editorial | Hong Kong’s Cantonese restaurants must innovate and adapt to survive - South China Morning Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenJpVURjc0c5UXJrV1hlNmwxbUFxQmRfbHc4RTVyYUY5YTlDT1RfajdTRmpLYmxOWmtuRUFpMFZXdE9DUDU5ZVJiNUVGM091R3NqODJZb05GXzh6YjhEaWxyank1cjlDdUVudm92cTR2UnlZZ0VPYnJISE1ualJwTkx1RWRHeHBzVDFtTXlJaDkzdmN6eWxpWW4yRDJHeVNlOUtwRzBiSDFtSzRxMzRQNmx0RG1lZ1FD0gG4AUFVX3lxTE56cmlVRGNzRzlRcmtXWGU2bDFtQXFCZF9sdzhFNXJhRjlhOUNPVF9qN1NGaktibE5aa25FQWkwVld0T0NQNTllUmI1RUYzT3VHc2o4MllvTkZfOHpiOERpbHJqeTVyOUN1RW52b3ZxNHZSeVlnRU9ickhITW5qUnBOTHVFZEd4cHNUMW1NeUloOTN2Y3p5bGlZbjJEMkd5U2U5S3BHMGJIMW1LNHEzNFA2bHREbWVnUUM) — Google News China Economy · 2026-06-27 22:45 UTC
+- [As Beijing raises Shanghai’s offshore yuan profile, where will Hong Kong fit in? - South China Morning Post](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNsdS1ER0VBU19zdG10cEpHeVVTZWVCY2JOeFFPcDVRZlQ3UXRON1YzRl9XQ0NaS0hjSjdUaGJvc1doSGNGU2h3V1ZqMFZSb2N4dmVyWjlSTld1U2VKTElXejltQ1dXUEpCb3RIazM1cS1lc2V0SWRvbjV6UmwwRHdUYnNONmlWRkZZOGNZamNEYnY1MG4tSjUxU3ZEaDJGYUJKXzYwbUxTZ1ZXYllNR0pqZ1N5ZTcwSkZKQy1vMVdLUndjMV93Qm1kNTZhZGfSAc8BQVVfeXFMTTF3NkVLR0k0S25lVnJ6Wm0wZlpZdHFkeW9FVFFmSm13NEdVTnpsLVJfSkF0eGlBc3ozaE50Uk95NFBrZ2lWbmY5OGtGRkNueFdSUG9FWUZGQVY3b3hWbXFVLWZLUkdBbDk5S2R3Y2FkQVRSdDNleWdJWERCU015NllxeVNlWHRTVUlwcnZnMURVdEY3TkJhYzAyVndOSnlyQXgySWsxYlhNWW54QTBUWkF0eF9mRVBxZTJzOWd3Z2FzRXNVdDlJZ0N6elR1Zl9v) — Google News China Economy · 2026-06-27 22:00 UTC
+- [China Construction Bank Sets 2025 Final Dividend and Tax Terms for H Shareholders - The Globe and Mail](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWEdkaVhxMzBHNXhwbDhyUVVTUGd4UFI2SjhMQmg4dnZGdGVJaGVaSnNZYXBKZ2VGVFdpMUtaX3gxWndTVG5zRTBwbndYcTdFaEUtY2lzU3NOd2xnTmo0T1VlUEVzSk9UVnBzX1pyWlRQdEU5c0NGbjZWNmN0cWNZb3JkUE52ZjFNNVNRejVZY2J4cUF2SEc4cXRmRVp4RFZvTDI1dFh1OEtXM3BrX2RmempSUzlza25DOGpDQ1pCemVlNDVsR0VsMVFSOXE1SThkQzRlWF9fVkNfV205VGk2Y0dfZzM3Yjc3MlVkV0pvWmlQeWoxWkdWOHp6dw) — Google News China Economy · 2026-06-27 14:24 UTC
+- [China CITIC Bank Takes 14.52% Stake in Yunnan Hongta Bank to Boost Industry-Chain Finance - The Globe and Mail](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS2RxQ3dLdzJ1QmN4ZmlfQnozZEpPMTRObTVEc3hHX3lZSEVnZl9BaWYtbzFHdFFCSjl3WWEwdkFaRndiOXV5NTJ3VC1pTHJoekZMZVZQeHNkZkJQNGJiZTBqREppUnIxR1lJVEhRQUR0YTR5cXIzUzRHeUZyT0dlNTBZM1pZc1RsTmVpV0VucDMxSkNVakl4Mmx1dllDZUhmWU1HWWJTMmZrcC0tQnZUd1l2eERNVWllYXoyNTg0QzM0WU4wOWMtcjhadkIwOXNsR0txb3JGMzVMVDFDSkxFYzlGRUo3MU9CbHBJQTFWblhjazRHQmI5eEZsX3F1Zw) — Google News China Economy · 2026-06-27 12:49 UTC
+
+</details>
+
+## 同花顺社区动态 · 9 条
+
+社区情绪从上周的悲观转向局部火热，百亿级私募数量创纪录，AI算力和光刻胶成为散户追逐的热点，另一边‘章建平割肉’案例显示题材股风险仍在。
+- **[百亿级私募突破140家，创纪录](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yYnVOUHhQVHdnYm4zenhJODNnMUtXeUlwb2d1SVo4WG1pajRBSGUwcUI1Z1ZpYkc5SnlnU0Y4bG5GRk53eklGZldkbGVReDBZQ0ZvQmxSbzR4dkVkRnc)**。头部私募扩张意味着机构资金对A股中长期看好，但需警惕拥挤交易。
+- **协创数据拟定增80亿元加码AI算力与存储**（[同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWYklnTEJybkZyZTdxMkZQX0V2X2NUZGNxdDR2d2sxVU9oM2hUZHE5R3lTQUo5aXoxMTN1QlNMWkxEMXJ6UmVHTG85RENONEhHVWtKNHNSTHJfUFVFNFhYaW53)），若成功将成为创业板年内最大再融资，社区高度关注其AI概念持续性。
+- **[300054光刻胶股股价创历史新高](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlMVRlVTJoWnFRRk1jdklfRkd4cnNDT1Z1eVRiOVhwR1JnSFJiZ1dxay05enA0VkxJSC1vcUR1S3piOV81c3BDa2wyVXNmVlEwMk4zb0xnRzVHdVRMWWxoUTFn)**，新增批量订单驱动，验证国产半导体材料景气度。
+- **[‘章建平割肉了’标签传播](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qM2kwcnJWRGxIbHVZYzZVZUNnbHlQUm9MNnVLNktRaEJEN1FBY01MX1UzLWxsWE01Y0tsazRIWWlJYjF3QTUwb0s2bGZaMmdPV3FiN0diVGFnTXRjRGRDTmpn)**，反映明星散户在高位题材股上的亏损，暗示部分炒作退潮。
+- 收束判断：社区情绪偏积极，AI和半导体主线明确，但个股波动剧烈，需警惕题材过热后的回调。关注协创数据定增后续及光刻胶产业链可否扩散。
+
+<details><summary>信源 (9)</summary>
+
+- [创纪录！百亿级私募突破140家 - 同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yYnVOUHhQVHdnYm4zenhJODNnMUtXeUlwb2d1SVo4WG1pajRBSGUwcUI1Z1ZpYkc5SnlnU0Y4bG5GRk53eklGZldkbGVReDBZQ0ZvQmxSbzR4dkVkRnc) — 同花顺社区动态 · 2026-06-28 04:32 UTC
+- [或为创业板年内最大再融资预案！协创数据拟定增80亿元加码AI算力与存储 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWYklnTEJybkZyZTdxMkZQX0V2X2NUZGNxdDR2d2sxVU9oM2hUZHE5R3lTQUo5aXoxMTN1QlNMWkxEMXJ6UmVHTG85RENONEhHVWtKNHNSTHJfUFVFNFhYaW53) — 同花顺社区动态 · 2026-06-28 02:24 UTC
+- [富途控股(FUTU)讨论区- 股票评论- 股吧交流社区 - Moomoo](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9URFRuZVhlMlpieWk5MGNxTy1MZDlLTVZBeVpMbFJhQzZYTFZ4SUR4Uk9xS25tOXlFZ1ZpUjg1UFZEU2kyU3JpVUZUN0JUT0NwYUtia0R3YW1IMy1hMmNOLQ) — 同花顺社区动态 · 2026-06-28 01:52 UTC
+- [立昂技术受邀参加“数智天山 算赢未来”华为中国行2026·新疆人工智能+产业峰会 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKXzRMOWY3RUFMQXhjcUNjMUk3ckVESHlfeE94MGg4T1pJUkdvQTQ1YVdHNUwxUVNFZTRiNGkzdkRSdHMxYXBqbHF4eHB6QTV3ai01RjAwLVBGXzRTcXdzWWV3) — 同花顺社区动态 · 2026-06-28 00:24 UTC
+- [300054，高端光刻胶新增批量订单，股价创历史新高 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlMVRlVTJoWnFRRk1jdklfRkd4cnNDT1Z1eVRiOVhwR1JnSFJiZ1dxay05enA0VkxJSC1vcUR1S3piOV81c3BDa2wyVXNmVlEwMk4zb0xnRzVHdVRMWWxoUTFn) — 同花顺社区动态 · 2026-06-28 00:24 UTC
+- [股价腰斩，“章建平”割肉了 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qM2kwcnJWRGxIbHVZYzZVZUNnbHlQUm9MNnVLNktRaEJEN1FBY01MX1UzLWxsWE01Y0tsazRIWWlJYjF3QTUwb0s2bGZaMmdPV3FiN0diVGFnTXRjRGRDTmpn) — 同花顺社区动态 · 2026-06-28 00:09 UTC
+- [华硕 RTX 5060 Dual 显卡新增两款型号，Boost 频率可达 2587MHz - 同花顺](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSdTZOS3d2NWFWT3A4MExLR0gxRDFtT0VHODR0eUxmZzBvODhHZlhoRnhDMTZMQjBRMmNnQmEwU0pCaGQ1ZktueE5vS2ZiQ2dkQ3NPQk9YRl9Ja3o1Tk4zZFl3) — 同花顺社区动态 · 2026-06-27 22:49 UTC
+- [国际油价拉升，加密货币全线上涨！比特币重回6万美元，以色列发动袭击 - 同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nc0t2TFV1VDVKYTlvaTl5Z1JMbXBwMEFsN0NWS0o4dUNiM1BhdTBuZkg2Nm9PMEV2TEZWeEZmQm9rRVhVdGN3aUIzaHR5MlFfbHZrYXVpcXkwZGRtdXc) — 同花顺社区动态 · 2026-06-27 15:40 UTC
+- [金价，终于上涨 - 同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WVHhKN3lsdmlmZE9aUkU2YjU5eW9BOV9oczJ0TkZFNGJoc2I2ZkE2YUpPVUNQQ29DR1FjT1B1a0VfVW00b0hUWWZ0M0dfbndtUDdMeHBTSUdidDd3cWc) — 同花顺社区动态 · 2026-06-27 09:37 UTC
+
+</details>
+
+
+
+---
+*由本地 News Radar 自动生成。*
