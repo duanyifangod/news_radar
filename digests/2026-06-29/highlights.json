@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊停火后油价仍超70美元，供应链风险未散",
+      "昆仑芯拟赴港IPO，估值500亿美元，百度涨7%",
+      "BIS警告AI投资狂热威胁全球经济金融稳定",
+      "三星SK海力士万亿投资传闻致股价重挫",
+      "中国扩大对日本出口管制，地缘经济博弈加剧"
+    ],
+    "news-society": [
+      "欧洲热浪致死1300人，德国录得41.7℃极值",
+      "法国跳伞飞机坠毁11死，含5名首次跳伞者",
+      "委内瑞拉地震死亡升至1450人，数万人失踪",
+      "乌干达军方封锁主流媒体，新闻自由受压",
+      "巴基斯坦空袭阿富汗致数十死，塔利班谴责"
+    ],
+    "news-military": [
+      "美伊停火协议破裂，伊朗首次攻击巴林科威特",
+      "美国在冲绳部署反舰导弹，直指中国",
+      "中国南部战区南海巡航，对日实体出口管制",
+      "乌克兰战场俄承认燃料短缺，美援资逾期",
+      "海湾14国进入紧急安全警戒，局势一触即发"
+    ],
+    "news-tech": [
+      "中国超算LineShine登顶TOP500，无GPU全球最快",
+      "GLM-5.2在网络安全基准击败Claude",
+      "法拉利首款纯电轿车Luce在中国秒售罄",
+      "福特因AI短板重新聘请老工程师",
+      "零排放卡车部署2025年增长37%"
+    ],
+    "news-sports": [
+      "加拿大补时绝杀南非，首次晋级世界杯16强",
+      "韩国主帅洪明甫因总统批评和出局辞职",
+      "莱万接近加盟MLS芝加哥火焰",
+      "太阳交易得到布里奇斯，雷霆续约哈滕",
+      "T1双杀欧美战队，Faker状态遭社区热议"
+    ],
+    "news-entertainment": [
+      "杨紫首夺白玉兰视后，李现未祝贺引热议",
+      "BET Awards Lauryn Hill获Living Legend Icon",
+      "John Oliver客串《综合医院》与《我们的日子》",
+      "韩剧《Reborn Rookie》收视再创新高11.1%",
+      "林英雄登六月明星品牌声誉榜首"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil spike then eased after US-Iran truce",
+      "Baidu's Kunlunxin targets $50B Hong Kong IPO",
+      "BIS warns AI 'exuberance' risks global finance",
+      "China widens export curbs on Japan",
+      "Samsung and SK Hynix shares fall on spending"
+    ],
+    "news-society": [
+      "Venezuela earthquake death toll reaches 1,450",
+      "Europe heatwave linked to 1,300 deaths",
+      "11 killed in French skydiving plane crash",
+      "Three firefighters die in Colorado-Utah wildfires",
+      "Ugandan media outlets shut down by army chief"
+    ],
+    "news-military": [
+      "US-Iran ceasefire collapses, both sides trade strikes",
+      "US stations anti-ship missiles on Okinawa",
+      "Ukraine strikes cause fuel rationing in Russia",
+      "China blacklists 20 Japanese entities",
+      "UK plans budget warships, France seizes shadow fleet"
+    ],
+    "news-tech": [
+      "China's LineShine fastest supercomputer without US GPUs",
+      "Ford rehires veteran engineers after AI fell short",
+      "Ferrari Luce EV sells out instantly in China",
+      "Librepods offers open-source firmware for AirPods",
+      "Age verification laws spark debate on digital identity"
+    ],
+    "news-sports": [
+      "Canada wins first-ever World Cup knockout match",
+      "South Korea coach resigns after group-stage exit",
+      "Lewandowski close to joining MLS side Chicago Fire",
+      "Suns acquire Miles Bridges from Hornets in trade",
+      "T1's MSI performance buzzes esports community"
+    ],
+    "news-entertainment": [
+      "Lauryn Hill honored with Living Legend Icon at BET",
+      "Cardi B performs 'Am I the Drama?' at BET Awards",
+      "John Oliver guest-stars on General Hospital and Days",
+      "Yang Zi wins Magnolia Award for Best Actress",
+      "Di Li Reba recognized at CMG China Film Night"
+    ]
+  }
+}

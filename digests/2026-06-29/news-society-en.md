@@ -1,0 +1,142 @@
+# News Radar — 社会新闻
+
+> 2026-06-29 · Window: 24h · Items: 77 · Generated: 2026-06-29 06:07 UTC
+
+---
+
+## Editor's Brief
+
+The past 24 hours have been marked by a cascade of natural disasters and tragic accidents across multiple continents, alongside simmering conflicts and political fallout. A devastating earthquake in Venezuela has claimed over 1,450 lives, while Europe grapples with a deadly heatwave linked to at least 1,300 deaths. Two separate aviation disasters—a skydiving plane crash in France and a Saudi helicopter crash—have killed 25 people collectively. In the US, wildfires on the Colorado-Utah border have claimed three firefighters. Meanwhile, media crackdowns in Uganda and cross-border strikes between Pakistan and Afghanistan underscore ongoing geopolitical tensions. On a lighter note, the AI-driven chipmaker stock rally continues to dominate markets, and South Korea's early World Cup exit has triggered a coaching resignation and a presidential probe.
+
+- [Venezuela earthquake death toll rises to 1,450](https://www.bbc.co.uk/news/articles/cr47dvywvy5o) — Relatives face another night waiting as the rescue window closes; 33 survivors pulled from rubble.
+- [Europe heatwave linked to 1,300 deaths](https://www.bbc.co.uk/news/articles/cn4d2vv935lo) — Germany hit a record 41.7°C; WHO warns the continent is unprepared.
+- [11 killed in French skydiving plane crash](https://www.bbc.co.uk/news/articles/c5yz9yj9x74o) — Pilot and 10 passengers, including five first-time parachutists, died in Tomblaine.
+- [Three firefighters die battling Colorado-Utah wildfires](https://www.bbc.co.uk/news/articles/cp8l7mpmdggo) — Both governors declared states of emergency as multiple blazes rage.
+- [Ugandan media outlets shut down by army chief](https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo) — NTV and Daily Monitor offices under military siege; press freedom at risk.
+- [South Korea football coach resigns after World Cup exit](https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo) — President calls for probe; Hong Myung-bo steps down following elimination.
+- [Shares in AI chipmakers surge in first half of 2026](https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026) — Some manufacturers have tripled in value, driving Asia Pacific markets higher.
+
+**Watch next:** The aftermath of the Venezuela earthquake and European heatwave will continue to unfold, with search and rescue operations and public health responses under scrutiny. Political tensions in East Asia, particularly Japan-South Korea defense cooperation, and the fallout from South Korea's World Cup exit will dominate regional headlines.
+
+---
+
+## 欧美 · 32 items
+
+The Americas and Europe faced a harrowing day of disasters, accidents, and geopolitical flashpoints. A powerful earthquake in Venezuela has killed at least 1,450 people, with tens of thousands missing and survivors still being pulled from rubble. Europe's record-breaking heatwave has been officially linked to 1,300 deaths by the WHO, as Germany hit 41.7°C. Two separate aviation tragedies—a skydiving plane crash in France (11 dead) and a Saudi Aramco helicopter crash (14 dead)—added to the toll. Wildfires on the Colorado-Utah border killed three firefighters, while Uganda's government shut down leading media outlets, drawing international concern over press freedom.
+
+- [Venezuela earthquake: 33 rescued, death toll at 1,450](https://www.bbc.co.uk/news/articles/cr47dvywvy5o) — Relatives wait desperately as the window for locating survivors closes.
+- [Europe heatwave: 1,300 deaths, Germany record](https://www.bbc.co.uk/news/articles/cn4d2vv935lo) — WHO warns continued high temperatures will strain health systems.
+- [French skydiving crash kills 11](https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626) — Plane belonged to a parachuting school in Tomblaine.
+- [Colorado-Utah wildfires: three firefighters dead](https://www.bbc.co.uk/news/articles/cp8l7mpmdggo) — States of emergency declared as blazes rage.
+- [Uganda military siege on NTV and Daily Monitor](https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo) — Army chief orders shutdown; press freedom groups condemn action.
+
+**Signal:** The convergence of natural disasters and man-made crises across the Americas, Europe, and Africa will test international aid and local governance responses in the coming days.
+
+<details><summary>Source (32)</summary>
+
+- [Uganda's leading media outlets shut down by army chief](https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-28 15:19 UTC
+- [Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend](https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-29 05:13 UTC
+- [Pakistani strikes kill dozens in Afghanistan, Taliban officials say](https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-29 04:39 UTC
+- [South Korea football coach quits as president calls for probe into World Cup loss](https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-29 03:34 UTC
+- [Victorian premier blames ‘inflation not corruption’ for Big Build cost blowouts amid fresh allegations](https://www.theguardian.com/australia-news/2026/jun/29/jacinta-allan-victoria-big-build-royal-commission-calls-corruption-allegations-ntwnfb) — The Guardian World · 2026-06-29 03:32 UTC
+- [Putin says Ukraine proposed halt to deep strikes](https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss) — Al Jazeera · 2026-06-29 03:03 UTC
+- [Shares in chipmakers underpinning AI boom rocket in first half of 2026](https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026) — The Guardian World · 2026-06-29 03:00 UTC
+- [Australian man charged with murder after dead girl found in suitcase in Thailand](https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-29 01:58 UTC
+- [Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C](https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-28 19:37 UTC
+- [Eleven killed after plane carrying skydivers crashes in eastern France](https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-28 18:34 UTC
+- [Three firefighters die battling huge wildfires on Colorado-Utah border](https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-28 16:33 UTC
+- [Fourteen killed in Saudi Arabia helicopter crash](https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-06-28 15:42 UTC
+- [Man charged with DV murder after allegedly shooting Gold Coast mother who could ‘light up any room’](https://www.theguardian.com/australia-news/2026/jun/29/gold-coast-woman-mallorie-jane-roberts-shot-dead-biggera-waters-ntwnfb) — The Guardian World · 2026-06-29 05:54 UTC
+- [‘Get your dirty hands off our kids’: fossil fuel industry’s presence in schools and sports clubs sparks concern](https://www.theguardian.com/australia-news/2026/jun/29/fossil-fuel-industry-schools-sports-education-programs-clubs) — The Guardian World · 2026-06-29 05:48 UTC
+
+</details>
+
+## 日韩 · 17 items
+
+East Asia saw significant diplomatic and political developments, headlined by Japan and South Korea deepening defense and AI cooperation amid North Korea's nuclear threat. South Korea's early World Cup exit led to the resignation of national football coach Hong Myung-bo and a presidential probe call. A stalker's chilling prison letter in South Korea sparked public outrage, while a report on Chinese spies and smuggled drugs fueled Japan's security push under Takaichi. Additionally, Canada sent a trade mission to Japan as part of a diversification effort.
+
+- [Japan and South Korea expand defense, AI cooperation](https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3dubnN4ckI1VG1HbEVxem9Ia3NGamlua2p3R1pIN0hKSk5vT1FTcUUxMWZ4LWduT0RBS1E5UVA4S0VVZUFnVjg4NkRXV0dXVWRYcWN3cjJEZjZJUWYwTkJzYndhZ3RtQ0xIMS1FN09HMDE3bUdJcE5HV1Q3d3NUNDFfM05LWlVoNmtRcHZoV0NncWh3bng4V3dNam9pMk4yR1ZR) — Defense chiefs meet in Seoul, agree on special flight and AI collaboration.
+- [Hong Myung-bo resigns as South Korea head coach](https://www.koreaherald.com/view.php?ud=20260628000578) — President Yoon calls for investigation into World Cup performance.
+- [Stalker's prison letter 'See you soon' sparks outrage in South Korea](https://www.koreaherald.com/view.php?ud=20260628000567) — Victim's family demands stronger protection laws.
+- [Chinese spies and smuggled drugs drive Takaichi security push](https://www.japantimes.co.jp/news/2026/06/29/national/chinese-spies-smuggled-drugs-takaichi-security/) — Japan's security minister cites threats to justify expanded surveillance.
+- [Canada trade mission to Japan](https://www.japantimes.co.jp/news/2026/06/28/business/canada-trade-mission-japan/) — Ottawa seeks to reduce reliance on US markets.
+
+**Signal:** The deepening Japan-South Korea defense axis will likely accelerate, but domestic political fallout from the World Cup and security fears over Chinese espionage may polarize public opinion.
+
+<details><summary>Source (17)</summary>
+
+- [Asian shares are mixed as tech stocks fall in Japan and South Korea - WKMG](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlFuSkI2YnZ0UjdmOUpyd01pbHdjcDl5ZVVuVXBYQlk4QnlBbGEyeHpOZGhBX0tRN3JrNEtNaExzeGJrNzVndk54SzllQlZQQXR3ZDUtNnhoOEd0bXU1VWVBRkpaS1BuZzAwdEdyVTNBeFp0VjRqTXBsVUZHQi0xeU5XTzdHNEhjMTNleVVySjVwcWZQVC04cWtnQzkwS2tEeHJyOTY3di04dUZROTAwQXNETTU0UjQt) — Google News Japan Korea Society · 2026-06-29 05:08 UTC
+- [Chinese spies and smuggled drugs fuel Takaichi’s security push - The Japan Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0FTN0F1YVIxLVpUcUI2eXRkZXR3MDJSZm11TmlaX1FzeW9Samg1bl9TZDBOUm4xQTJpckpvcTNKejdLUUdvcjQ4d19fcGtBSHBELW81Y09kY0JpWDZKeVgyNzcxa2JqM2pLaGhzWERVVThXTDJ4YUlwcEE4YW4wSjdRb3Vadw) — Japan Times · 2026-06-29 00:41 UTC
+- [South Korea, Japan deepen AI and defense cooperation - upi.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3dubnN4ckI1VG1HbEVxem9Ia3NGamlua2p3R1pIN0hKSk5vT1FTcUUxMWZ4LWduT0RBS1E5UVA4S0VVZUFnVjg4NkRXV0dXVWRYcWN3cjJEZjZJUWYwTkJzYndhZ3RtQ0xIMS1FN09HMDE3bUdJcE5HV1Q3d3NUNDFfM05LWlVoNmtRcHZoV0NncWh3bng4V3dNam9pMk4yR1ZR0gGoAUFVX3lxTFBiVXVZRXdFMnliTUdUUWtJZW01SnJrSmlTNE1QLWdheGsxQlVSZzZxUFg1aXhIMG0zSHpaN3ZYakNZLXZDZF9wWUFlNXNIZGFiQVI3UWZaVHZBcFRFMUtrNjBzc2hPZ0EyMV9nTXpvZHZJRVRMckNZWUhkalJhVHFOQ3dqSjJCSnNJc2xtRFBOcnQzdWFReExleW5CckhfOFJ4el9pWWZ1ZA) — Google News Japan Korea Society · 2026-06-28 23:17 UTC
+- [Japan and South Korea Reaffirm Goal of Nuclear Disarmament, Strengthen Defense Ties to Confront North Korea’s Nuclear Threat - libyaupdate.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNelBKSXdkWGpSdHpkWWRGZ3VjNFp5Zk0wZV9UMUNmV1d5cmE2WU9pVnlRckxGZHV4VzRMLTRUNUdEQllSOXN6ajdFY2w0ZkFLb1lpaFoyMzdhUXBCcTVvTnN6aVhoNmphTEtTYnVtUDJacXJsYnZyaGNnMThOdFJLcFdna0ZyakVqbkVBZldETW5LREhfT3I0eEtXbDBpWWVJdHRnSDJlZkZiZTB3SHdQaU8xS1dYUldPckFaNE12Ny1ZOWtuZXV6cWtlYjRMVnowbnAxNG5OWHRXZHdZN01NMw) — Google News Japan Korea Society · 2026-06-28 21:28 UTC
+- [South Korea, Japan Defense Chiefs Expand Special Flight, AI Cooperation - 조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNW5GbTZkckpmQl9KZ29rUW1Xdmd5WUdvSVkwSmxIeGNjNmtVU2s0MXpCUWc2cWpselNkWGpiekpONHNDZDhvS3RQZFd3LUpacTFIQXpaNl9BQldzSUZlQUxyU1RfV1J2Q2F0OU1ZaHlnWmptZXRPeFVHd3MyTE8zMWhmT095aEVp) — Google News Japan Korea Society · 2026-06-28 21:12 UTC
+- [Hong Myung-bo resigns as S. Korea's head coach after early World Cup exit - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nMGJQbTZQZDJuZmhWWEk1RnB4ejJDNURhT0tNMmhmeTBCVmxuNFJ3WVhoSlFSY25sN2lXcGVnOGVCTzFWZ2Fzd2RmcjBYSzJ2ZFpleXh3WQ) — Korea Herald · 2026-06-28 20:52 UTC
+- [Japan, S. Korea agree to advance talks on defense equipment cooperation - Japan Wire by Kyodo News](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zT1B4M3RzdmwxUjJyVVhqR181aHQtb3ZaeVN3bjVtcVBYTm1rUHV5Zi1Zd0tXQ2VjY1VfcldwNTRrSEFoSzFsUGdXSE9QQlkyTnBNVHZCMlliZw) — Google News Japan Korea Society · 2026-06-28 14:16 UTC
+- [Japan and South Korea seek steadier defence ties after Seoul talks - Nation Thailand](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDZmVoVUF0OVREZFFlU1JzWlpkR3NzUkRwc0xjdURKZGZ0WmdxUGdDejJ6MUNBd0ZSTVdHTVQ0R1VJdFBvTkNMR1JQT2duTjR5Tm9uM3NEb2NlWWJyVnFB) — Google News Japan Korea Society · 2026-06-28 13:08 UTC
+- [Koizumi holds rare talks in Seoul with South Korean defense chief - The Japan Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDI2NHQyYm13S3FvQWJoRWd1SHhjR3NnWTBRWlRpejkwZGhMY0YxM24xcERfYzlucDlXZU1yTXNFLWVFcGI3OS10REl5REtuOC10bW52UEVaRVhKSFgtcUtkNG04eXMyMXYyWlZOMmxEcl83aWVyenRvdnlCSlliOVE0bGs4eU1YYW5wVGMtVDF0MVhpZ0RhbVJzMDY) — Google News Japan Korea Society · 2026-06-28 10:51 UTC
+- [India’s gig workers pay the price for exposure to New Delhi’s hazardous air - The Japan Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUY4UkxadTJTS200U2ZpaEIxWHhRTTVHY1pTcWFSaDVBZWE4Y0hDMFl0aGJrc1lOVjctSHJlUVJRNjBCY21VLTZnRWU2ZkR6QmJJc1M5QzZaVHVRUjNoWlVud0xKU2M1RGZYTXlvZUpjYXZ1ajJiUjljOU8wM1NCa1ZLY2NSWDhsUWFibQ) — Japan Times · 2026-06-28 09:15 UTC
+- ['See you soon': Stalker's chilling prison letter sparks outrage - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lTW8zbUtrWWd2XzNMeGNDRnVtVXBabVZGLXBxZXA1YTltOWhaUnlXVXJvMjdwUzl1VVh5NElESDJKa1F2LUc3eHVkdDVSVGpzNkU3UEktcw) — Korea Herald · 2026-06-28 09:06 UTC
+- [Lee blasts KFA for naming 'incompetent leader,' vows to push for reform - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQ1Q1UmcwMGd2YkpMT3BJM3JiOUo4cTR0SG82NUQwa0FhQTR5MlBKRFExU1REQm5YbzEweTF3YlE4aVo0LTRGN2hIZjVTVjFiQWQ1MkJBWQ) — Korea Herald · 2026-06-28 09:01 UTC
+- [Canada sends trade mission to Japan in diversification effort - The Japan Times](https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDhZbm9sWEkxcFhlUGZpNnJrYXNzNi1NZUVrX2E5blU4YTNXbGdKaGIzcVc3TXJpMHBpcUMteVhuZldRdjJZUXVieDRyTEZEM29Bb0VpUF9LUVZLOFNSOVAxOGlISEkxM1lwc0tScXZNV09TZFNzZlNuaE9LNlZqckVn) — Japan Times · 2026-06-28 08:42 UTC
+- [Early World Cup exit reopens old wounds on Hong, KFA leadership - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wMGp2NzV0UUNtdDFoMEFkVjRJTjdVcDVfay1pV1B3ZnB6ZFI2STM3T3N3T2ItUktvd0FGZEhxdGE4Z2tqZ0NMOTlib21WbTJOVUZpR2tRdw) — Korea Herald · 2026-06-28 08:10 UTC
+
+</details>
+
+## 知乎社区动态 · 7 items
+
+Zhihu's community dynamics this week are shaped by platform governance controversies and seasonal youth culture. A trending topic involves alleged mobile phone review cheating, with users reporting that a two-year-old answer was taken down after corporate complaints, sparking debate about censorship and platform integrity. Simultaneously, Zhihu is actively engaging users with its 2026 college entrance exam season campaign, 'Answering Life's Questions with Real Experience,' and a graduation exhibition in Beijing focusing on AI-era art. Nostalgic reappraisals of old TV dramas and a viral thread about 'Dad, Where Are We Going?' children highlight the community's blend of memory and current events.
+
+- [Phone review cheating scandal: user reports answer removed](https://news.google.com/rss/articles/CBMiY0FVX3lxTE51VG1HS29LMkh4WXlkU2RfMDhweXhsNUJQbW56bW0wQTEzcGlwcGRvUGpCQWpySDFDM2RaUkU4MG5hWUdFSFZxY0ZhUUNENFRfYWdRWmp4Z0lwR2VWVE9KSmtDOA) — Users question platform's handling of corporate complaints.
+- [Zhihu launches 2026 college entrance exam campaign](https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1WVEwWHhROU95MVN3TlJYai0zT3hMMWVxMGtCZ2g1YjhxTXVaZnJSMS1oUHYtdEFYMEpzblA4OGp6MTVjM3llTQ) — Focus on real-person advice for high school graduates.
+- [Graduation exhibition in Beijing: AI era self-expression](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0ySGl3YjAtMkVxekpkUjltTmFENXR3aTVUY0xJbElWXzJHTmpiUi1xVTZPaGJHZmRmbmpfUWowdk41T3EwMEVCUGxKdnBlUGFZRExkazNXcw) — Combining art and technology, held at THE BOX Chaowai.
+- [Old TV dramas reappraised by netizens](https://news.google.com/rss/articles/CBMiigNBVV95cUxPczJUbW1WMW05S3hnSkNtTG9jYW4wcHo0dUJQWnIxR054eGdFWGtETllVYVJESVFCdTRpcWNEckxxT3FGdE9ZY0hCZHktZ1Y0VHdGMWNaQUhMbFBEMHJ3MWx3dllHOEFCVktKRjZ4SEZHNEFFUXhWNFhsaThQWFlUMkJ1Z1hvT0hZYjFHM09zZzlfeEdtcDR3R3Z3YzFTWjdNc09CR3g5UnFzRG9ZSVJiakJEczNiU2JyU3BGemdvMEVFOGpvQlEyZjZEbDd3cVVOZ2pJWVdQTnI2cG8yc0FKNDNrWDFoN2d6Nzgwa3Z4RDBSOHpqcThZaUVEZUJpUHRKYlFyc2YyZ0NMUnZUVW1rUVo0MWtoWElkSnY4UXFDRkVpRmJNc0JIdG9XTDZSVG5hakd6clpGZHZaRkJ4OVp0QUp5WHFaRlZvbGk1RVM2V0p0aklZdjdxb1FqSzVacVdzc3NsWE1FeTlPVmFjZWVsdnpYWnpySmJfak95YVBEcFFGVTZmdnNXSENB) — Nostalgia for shows like 'Princess Returning Pearl' highlights shifted social values.
+
+**Signal:** Expect heightened debate over content moderation on Zhihu as the platform balances commercial interests with user trust, while exam season and graduation events will continue to drive positive engagement.
+
+<details><summary>Source (7)</summary>
+
+- [知乎-W(02390)6月26日斥资5015美元回购5100股_股市直播_市场 - 中金在线](https://news.google.com/rss/articles/CBMibEFVX3lxTE9wcVlzWTVVUm84OFRubTBPRGc0NFdkODRYRkRIVW9xVU94eDZoUXdrNFZ6MkhuekZOdjJLdHR6YjUtV1p4TEVRRlhMLWZaRGVMSXcwVVlWS3FzSUhXQWt5WmxwUHd5RllhZTNoaw) — 知乎社区动态 · 2026-06-29 00:27 UTC
+- [知乎2026高考季：从大学认知到志愿填报，用真人经验回答“人生之问” - 品玩](https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1WVEwWHhROU95MVN3TlJYai0zT3hMMWVxMGtCZ2g1YjhxTXVaZnJSMS1oUHYtdEFYMEpzblA4OGp6MTVjM3llTQ) — 知乎社区动态 · 2026-06-29 03:18 UTC
+- [#央视曝手机测评作弊乱象#大晚上一开知乎就是一个两年前的回答被企业投诉下架，看来是开始发力了。理由是「该知乎回答所对应的话题内容，其所引用的B 站逆向视频、酷安相关原帖，均已因编造、扩散不实造谣内容被平台下架删除，足以证实相关说法完全缺乏事实 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE51VG1HS29LMkh4WXlkU2RfMDhweXhsNUJQbW56bW0wQTEzcGlwcGRvUGpCQWpySDFDM2RaUkU4MG5hWUdFSFZxY0ZhUUNENFRfYWdRWmp4Z0lwR2VWVE9KSmtDOA) — 知乎社区动态 · 2026-06-28 13:46 UTC
+- [三部旧剧被知乎网友翻红:长大后再看,撕开了童年滤镜 - 加西网](https://news.google.com/rss/articles/CBMiigNBVV95cUxPczJUbW1WMW05S3hnSkNtTG9jYW4wcHo0dUJQWnIxR054eGdFWGtETllVYVJESVFCdTRpcWNEckxxT3FGdE9ZY0hCZHktZ1Y0VHdGMWNaQUhMbFBEMHJ3MWx3dllHOEFCVktKRjZ4SEZHNEFFUXhWNFhsaThQWFlUMkJ1Z1hvT0hZYjFHM09zZzlfeEdtcDR3R3Z3YzFTWjdNc09CR3g5UnFzRG9ZSVJiakJEczNiU2JyU3BGemdvMEVFOGpvQlEyZjZEbDd3cVVOZ2pJWVdQTnI2cG8yc0FKNDNrWDFoN2d6Nzgwa3Z4RDBSOHpqcThZaUVEZUJpUHRKYlFyc2YyZ0NMUnZUVW1rUVo0MWtoWElkSnY4UXFDRkVpRmJNc0JIdG9XTDZSVG5hakd6clpGZHZaRkJ4OVp0QUp5WHFaRlZvbGk1RVM2V0p0aklZdjdxb1FqSzVacVdzc3NsWE1FeTlPVmFjZWVsdnpYWnpySmJfak95YVBEcFFGVTZmdnNXSENB) — 知乎社区动态 · 2026-06-28 19:22 UTC
+- [还有哪些《爸爸去哪儿》萌娃同框过？ - 新浪网](https://news.google.com/rss/articles/CBMilwpBVV95cUxNSFZHSGFwSFpHRVhneXhXc2ZIY0t4aVdXdTNOSEhvUFNETGF3OFN0YXRPbHI2ay1fQUZhSkVKRF93VHF0WDgzTXd1UHRDaUZ2MFhtV0hjT2ZxdGg5a2Y5VzFCV0JFN0NfN2FJSklPdVpuckdhRnBmRzZHN1JkUXR6c3VHNW9vUGFhYXBnMHVHUlVDVTJVMS1GelN5azJXWEdiQlB6LWN4MGo5ZzZKdTFUTE0tNE9JTVdINFVqbFJlSzVJRXJjN0hDSElQTmlTRG9uZ09EektQSGpGWFd1ZzdHV0htaFNIaVJOcHpvdU5scGppWngxb0VhbEFYd3Q1c2loamFqRmpwdV8yRXRrNVUzUVpNV3RyTzhRODMzVXd6eDNzTFlwbzBjUlRZeTNIME9oRWVDTVFGR2ZtZnJLd3ZKR3JVNFFfWUd6Q1RmTUNEWVpuRV83N0JMTEp6OXdGaUhIWXJQNUFoaURVbEVvSXkxVUQ2bDlSYVJjRG5GQkxkR0Y0SjBnOFpsNnZtRWhBSEJSLVFoUFExWlBkUzU5RDhUSktaaDZsMi1NUkp4MmdqS2Zab3ZLbGxaODRoWHhVbEl6eEVsa0J4N1locmVheU9kOUljbDVXVmJyV2x4VjBCaEFxYUpBUmxLb3VuNmVPUnlneHdQSXVDSzkzZUpvVEJOTnBiemt2WkczQTVrRTZMWW1wd2VvVUkxcEJOZ1hSUlRJd2VrdGdnbmlyMjE5NXBXODRpV2wxcW5ITnpEUVNhNmo2WkpGSHVySnJ6cG5PQ19ROEJxNV9mYnViMHY4REluaGw5UldHalUtZEswWEZ3U0ZyR0xVaVl2cE53SFM0T2lramNlaE9JQk5RYXR0ci14MlhGRS1aQVBZM1pxQVFBQTBoNFY0S0NqLXgyZmNNczZIYWVZOEU2YmxxOVkycFEyTVZJcnlxV0JFc1lSajFDWFFhT1dsNWhaUlcyY0FqV241elNySHlEWlZGQlFhU1pONDFuMzBpN3ByOE12Y0psZ3NtbTJaeWZhc2NZUWt1SWxlcDlWcHhzV0FCSXhmWVhqcXpudmxMYjY2anFXcThhRXBOU0JKeTZfa3JZcTF3NURldnUxc05yTmcxOU11Z0NNWDdrYjBHdkEzOXBKOVktcl9KS0hJbjJMNVp3STVxNi0zZDlhQW9zWTFFMnNUaFgycE1DakdMYzlOQnRpalA5anBxQlpSN1BoYS1xenotZF9oai1zZ2lGVm5IeWV6bm5yUnl1aUF1Q2o5cHQ4Y01UN2gxRFd0ZExhU2lOSm53ai15MEM5dUY3dU9mZHJxb2tPVkN1RHVuV1ZZSUJ4ZnFRN21EdTkyaW1LMXp5cGhSc3JjTE5IVmFtSjJVVFVCeWRKOVRxRjlTOEJlajFrRUJSd0dvVWMycFFDSUhRNjZ2WGhxVm1UdmYwNE1uM2FJZ1pCWEdpTFpGMWRral8xQmtQRTk1WlJDYXBuUVgtU1ZGQUhMalU4WVZOaGZuQVZQczljeUNkQW5YUzdIZjdjelBfNnBud3VIdmw2TDdQWG5HMjhSZWpJaEZZMTYzYlNkN082by1zYWU3VXVIMWNxUnpoU3pPMXBlOEQ2UUJhWWtYSURJTVhlem9QVmJyUzlJUXFNcGFrSnZDWHhFRVVGTURxaEgwTUZmcXd0ZVF3OTZmQ0NfcUFBY0tNeFhRUGJoakJiam9NdWhmaUJMd0RQbEhOS29jeXB4V21n) — 知乎社区动态 · 2026-06-28 14:59 UTC
+- [知乎毕业季线下展落地THE BOX朝外：聚焦AI时代毕业生的艺术与自我 - 环球网](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0ySGl3YjAtMkVxekpkUjltTmFENXR3aTVUY0xJbElWXzJHTmpiUi1xVTZPaGJHZmRmbmpfUWowdk41T3EwMEVCUGxKdnBlUGFZRExkazNXcw) — 知乎社区动态 · 2026-06-28 14:09 UTC
+- [2026家庭 SUV 选购，30 万热门车型解析 - 汽车之家](https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RF83NUxqb0cxaXd5Ml9tSFNLcV9ZdmtBa2sxUVpmdGhFM2doX2tYQ1Y4X1JyckluTXBZZWNZMUpxcnlEb1VvRU1DNng2U3c1Z3ZSSkUzazlIa00) — 知乎社区动态 · 2026-06-28 09:44 UTC
+
+</details>
+
+## 中国 · 21 items
+
+China's domestic news focused on technological innovation, education, and international cultural exchange, but also included coverage of the Venezuela earthquake tragedy. Japanese media comments warning against Japan becoming a war aggressor again stirred debate. On the tech front, AI is being applied to waste sorting and medical innovations like brain-computer interfaces and remote surgery. Hebei's Langfang city is leveraging AI and computing power for economic development. Meanwhile, rural reading programs and university initiatives (Fudan, Lanzhou University AI School) underscore China's policy-driven modernization narrative.
+
+- [Venezuela earthquake death toll rises to 1,450](https://news.google.com/rss/articles/CBMif0FVX3lxTE9HUHI5SDBKVlhwRHAxcTJlaUl0WXBpSnBzOGhrZDB3QzJNYmZDME1tTGRicjUtTG40dDlIR1h0UGp6R0QwSUFCT3dFSnE5M0gzY1VIWUN1ZVp3bFNHR3B4emU2WXpNcGlVSWJhYU4tZHZ5bmxjRVcyX1JCWTZJNnM) — Xinhua reports continued rescue efforts as survivors are pulled from rubble.
+- [Japanese media: 'Beware Japan becoming war aggressor again'](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sNnNuazZBb2pYanNOSy1WeHpqRWEyTTVjYTRxODVONjNoTUJRQ3lCQnluU1FRakZqQnNRQkZoYTNhOGpjQlNPc0ltaFk2QkR0YUJadzdsV1ExbXB1bk5lblJ6SC1LaXZjVmM5ZnB6djlGUk42aVlmaEU3WTFUZw) — Commentary in China's state media warns of militarization in Japan.
+- [Chinese AI begins sorting garbage](https://news.google.com/rss/articles/CBMic0FVX3lxTE9LSzhYd01tLWZXbFR0LVdyMHM3VFAzYUh6bGZRNWhLd245ejNYd3dIZ0w2Q3I3c2NKTTNoZ3g4MXNPSVRKYzdoLU53SC16emhlUGR0V2wzYUpqSVJsSUdaWl85cTVIb21xVENmZElmLWV3ck0) — AI-powered waste sorting showcases environmental tech leadership.
+- [Medical innovations: brain-computer interfaces, remote surgery](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNMkY1eGZTVFNnRWZtZUVFeE4yY25YaU1zNDFrN04zV2pCeEYzU05iYzZLU3dud3A4QkQ4QUVvaV9kcjdhREVSaDNpNEJYRmQzVHBhZXF3UjlDTkpSVVZhOGZjLXlQQ2NwMGJaMUMyOHlPcjA3MnFuM2poYWpTNEpBNzItXzBMNVVWbHRfLUJqZVlZdGhkWGVIZ2dtN3QzdkMyTVpZbkNMQlZqTHA2Y25abFpvY0JPYXpxT2J2cy03bXVRaV9FVVdmWUNMZXpaZGpEdnFUZ2w5ekhaQ0NpcUVQaVpjMnhmTk5yM25ycDJIRUVmMm9rRGFnQkxQWDV4XzRXRXZEQlVOa05PSWN5VDVJRXRMS0xwZ282RWVJM0JmcXhaZVpvN2hDRFo5a204dzhZRlNlR1VuZHU3LUgxVjdNck9QdDd6TEZXNWFRSkZYM3hOZw) — China's healthcare sector sets new records in tech-driven procedures.
+- [Hebei Langfang: AI and computing power for economic growth](https://news.google.com/rss/articles/CBMihAFBVV95cUxQQm8tOGQyY2dsSGtnQ0JvOUhMa3VzNUVsTVVsWDhXZDZZbjJJMGtOd2k1TDVjekFwUXBUdXZTRDZwUDVUWlZvOVpXeWY0Q0k5emNBSnl2NWlueF9EUUtUX1ZVNmpOOUFOY25EZEhXQ3dQNC1ybFE0WDA0dEtrMHlzLUpsaWo) — Local government pushes digital transformation.
+
+**Signal:** China's dual focus on domestic tech advancement and global disaster coverage reflects its ambition to shape both internal modernization narratives and international humanitarian perceptions.
+
+<details><summary>Source (21)</summary>
+
+- [日本媒体人：警惕日本再次成为战争加害国 - 新华网](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sNnNuazZBb2pYanNOSy1WeHpqRWEyTTVjYTRxODVONjNoTUJRQ3lCQnluU1FRakZqQnNRQkZoYTNhOGpjQlNPc0ltaFk2QkR0YUJadzdsV1ExbXB1bk5lblJ6SC1LaXZjVmM5ZnB6djlGUk42aVlmaEU3WTFUZw) — 新华社 中国社会 · 2026-06-28 15:18 UTC
+- [从思政、科创到向全球讲好中国故事，复旦育人模式对标新时代 - thepaper.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQQ3JqR3RMODZwVGhiNzMyaW1aeEtWandqUjBUMi1JYms4WFlsUlJxcHl1UmRBOU4tYmJPcHZMTWRmUVdJMG1lYWN2MHc0dzlZajVkYV9MZjQ4RjJNaHc) — Google News China Society · 2026-06-29 05:00 UTC
+- [【中国网评】当中国AI开始分拣垃圾，世界看到了什么？_观点中国 - 中国网](https://news.google.com/rss/articles/CBMic0FVX3lxTE9LSzhYd01tLWZXbFR0LVdyMHM3VFAzYUh6bGZRNWhLd245ejNYd3dIZ0w2Q3I3c2NKTTNoZ3g4MXNPSVRKYzdoLU53SC16emhlUGR0V2wzYUpqSVJsSUdaWl85cTVIb21xVENmZElmLWV3ck0) — Google News China Society · 2026-06-29 03:57 UTC
+- [从脑机接口到远程手术，中国医疗创新密集刷新纪录｜Healthcare View - 红杉](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNMkY1eGZTVFNnRWZtZUVFeE4yY25YaU1zNDFrN04zV2pCeEYzU05iYzZLU3dud3A4QkQ4QUVvaV9kcjdhREVSaDNpNEJYRmQzVHBhZXF3UjlDTkpSVVZhOGZjLXlQQ2NwMGJaMUMyOHlPcjA3MnFuM2poYWpTNEpBNzItXzBMNVVWbHRfLUJqZVlZdGhkWGVIZ2dtN3QzdkMyTVpZbkNMQlZqTHA2Y25abFpvY0JPYXpxT2J2cy03bXVRaV9FVVdmWUNMZXpaZGpEdnFUZ2w5ekhaQ0NpcUVQaVpjMnhmTk5yM25ycDJIRUVmMm9rRGFnQkxQWDV4XzRXRXZEQlVOa05PSWN5VDVJRXRMS0xwZ282RWVJM0JmcXhaZVpvN2hDRFo5a204dzhZRlNlR1VuZHU3LUgxVjdNck9QdDd6TEZXNWFRSkZYM3hOZw) — Google News China Society · 2026-06-29 03:00 UTC
+- [从40名留学生到1200名“中国通”——沙特来华学生的引路人萨利赫·萨格里 - chinaarabcf.org](https://news.google.com/rss/articles/CBMidEFVX3lxTE9FaVE5Tjh3UVNBWFFsQS1KRjJOUjRhTjNzSFdZYUpzYjdCWGREck42NVBiQndIWkF0cFYtSnQ1TDJEdWtwRE83OWNPbFJJbW5nV3ZpeFBTWmRtallZdkZlYTlxMmNCWlBDaTBUWm1hUHBuZ2NL) — Google News China Society · 2026-06-29 02:56 UTC
+- [新疆高校搭建面向中亚的中文教育产学研用协作新平台 - xj.chinanews.com.cn](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGQ0V3dlams3X2hyNHQ5VklXaW5ybnlDaWRxbkFhdVNLODRGaXktRUhCbWVRcjh2ZlowVEZqOVA2QTNIOVdCeGFQWm1rTXNqWmdlc3RyeEs1U2licHhFNlFVRXRWQnZkZ1VlaUZTOGlkYWZZUzhrOXhaVVB4eFlKUFFvMEdWZw) — Google News China Society · 2026-06-29 02:41 UTC
+- [新动能增长明显 前5月全国社会物流总额达146.6万亿元 - 新华网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmpvMzFBVFY5SUhiVGp0R3M0TnBWRUtwRldTOVR3c01aQ0YyalVmY3ZoaVJ6bDZadEZ5eGNTS25GMlRwbXAyNVNxX195eGFfWkhNenZTNEZySkhTVHRyYnlMZnZFUm1ESlAtalhMV0VSN2h6VDFDcmZjQW5UTjVLOEtuYnhrQ1dB) — 新华社 中国社会 · 2026-06-29 02:39 UTC
+- [兰州大学成立人工智能学院 - edu.cn](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXlvN00xWGRJN0hZQXgtbWs0LUVQSkUxTGVoenpDXzRzQ0JZVHhfdlAxS0gxVllfTzlvMWJqZlJuRG54UkkxR0I2SXBWaW9HSWhEMWxpRXNVejUxeVVkSi1JeDhmWFl5dXpKcU5vTTJQb1Rld29FemdXUXgya285em54UklhX3djdXJZdXpTQmZOMk9LX0E0UXBuU2lvZU5YZ3c1Mw) — Google News China Society · 2026-06-29 02:36 UTC
+- [中医夜市亮相马耳他国际文化节--国际 - 人民网](https://news.google.com/rss/articles/CBMibEFVX3lxTE5vU3BwNnoza05hdWtldklXQzIyVVBtR1Q1MTVCWkMyc1NsT1NUUEdseUxzZDhxR3UyLTVBenlMbWRiMHN1Rkd5ZmNQYko5WmxoSVVnNk1MRFd2YUdmdm5FSUpRa1FEME4yOUROUw) — Google News China Society · 2026-06-29 02:35 UTC
+- [中国式现代化研究学术网络成立 - 中国经济网](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uUldWR1lRT2VRYTdaemVYMlg0MWp2M2lPbEQ0ZlEwRDBHNXAzVHdjTjRodmcwTzFvcHRFSjZiWm1ETERUTWZSVkdtbGlNVEl5TGdnSVdmQWluLXVGclU4) — Google News China Society · 2026-06-29 02:30 UTC
+- [培养负责任的决策者 - 中国教育新闻网](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZVjA2SDRKZFBOb1JwWGxIYTk2TGd1NjFyUFVRdHNCRkdiSXhYdVE4ckxlb0Y4bXRMbDRiUDRHVG91X1JiR2VjdHNOb2JrNVFSZmU1aVBZWFZKMmgzYjlYZU1majg3MGx1VGF3) — Google News China Society · 2026-06-29 01:15 UTC
+- [《推进农家书屋改革提升促进乡村阅读行动方案》解读 - 新华网](https://news.google.com/rss/articles/CBMifkFVX3lxTE9BNDAwZGU4RzVWb3MxVk95XzUxUl82UUpZMDBWTVE5UmtTeUVjOG9zVXIzVlVYQkNlaFZJTlRFYjY2QWgxQkE3UEU5WTYwNjh6NFl2TGlxbWYzVzZwN2EtQy1KX2RWLXV4aXRTTVd2bnAzeXVvOWhsS0VTR0FkUQ) — 新华社 中国社会 · 2026-06-29 01:03 UTC
+- [河北廊坊：以AI赋能与算力支撑 推动经济社会高质量发展 - 新华网](https://news.google.com/rss/articles/CBMihAFBVV95cUxQQm8tOGQyY2dsSGtnQ0JvOUhMa3VzNUVsTVVsWDhXZDZZbjJJMGtOd2k1TDVjekFwUXBUdXZTRDZwUDVUWlZvOVpXeWY0Q0k5emNBSnl2NWlueF9EUUtUX1ZVNmpOOUFOY25EZEhXQ3dQNC1ybFE0WDA0dEtrMHlzLUpsaWo) — 新华社 中国社会 · 2026-06-29 00:52 UTC
+- [学术边疆行 | 走进云南 - 中国社会科学网](https://news.google.com/rss/articles/CBMidkFVX3lxTFBkZnQ3OGk2X01yQUE4dERkUmh1OHBTejdqQ3Z5dzd5WkFGakZBMjZMdWg5U25OSjBXRnBRTnVNX1NlUTFTZ2hGS1lZYk02Q2UxZldyb1pNZ0VNRGZwenNCWjBCQ0hSSHFta2JobEREVzZiblhsUGc) — Google News China Society · 2026-06-29 00:50 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*
