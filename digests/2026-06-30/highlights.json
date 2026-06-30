@@ -1,0 +1,83 @@
+{
+  "zh": {
+    "news-economy": [
+      "日元兑美元跌至1986年以来最低水平",
+      "最高法院裁定总统可解雇独立机构负责人",
+      "中国6月制造业PMI超预期回升",
+      "欧盟对150欧元以下包裹征收3欧元关税",
+      "欧洲加密新规迫使币安等平台退出市场"
+    ],
+    "news-society": [
+      "德国母婴中心枪击案致6人死亡",
+      "委内瑞拉双震后民众徒手救援",
+      "普京承认乌军打击造成燃料短缺",
+      "中国印发“十五五”教育发展规划",
+      "流亡富商郭文贵在美被判30年"
+    ],
+    "news-military": [
+      "英国公布50亿英镑无人机专项计划",
+      "俄军持续对黑海港口发动无人机攻势",
+      "美菲8天内两次联合巡航南海",
+      "B-2隐形轰炸机获准搭载LRASM反舰导弹",
+      "波兰签署47亿克朗A26潜艇订单"
+    ],
+    "news-tech": [
+      "iPhone 18 Pro原型照片流入暗网",
+      "T-Mobile强制用户迁出3G旧套餐",
+      "Meta承包商伪装青少年测试竞品",
+      "丰田EV销量暴增170%但总销量下滑",
+      "韩国计划投资1万亿美元用于芯片和机器人"
+    ],
+    "news-sports": [
+      "德国点球首败，不敌巴拉圭",
+      "荷兰点球大战三罚全失",
+      "巴西逆转晋级，安切洛蒂神奇调整",
+      "曼城官宣马雷斯卡接替瓜迪奥拉",
+      "日本河村勇辉确认登陆CBA"
+    ],
+    "news-entertainment": [
+      "Kevin Spacey公开谈论同性恋被攻击",
+      "下一任007选角启动，维伦纽瓦介入",
+      "杨紫首夺白玉兰视后引热议",
+      "TREASURE成员Junkyu因健康暂停活动",
+      "《长生骨》抵制风波以路透和解收场"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Markets mixed after Supreme Court ruling on agency firings",
+      "Yen hits 40-year low, dollar tops ¥161",
+      "Supreme Court allows firing FTC commissioners at will",
+      "China factory PMI beats expectations on AI export demand",
+      "EU launches trade consultations with China over €360bn deficit"
+    ],
+    "news-military": [
+      "NATO summit in Ankara focuses on defense spending and Ukraine",
+      "Putin expects US negotiators in Moscow amid ongoing conflict",
+      "Moscow fortifies air defenses with S-400 ring",
+      "Ukrainian forces counter Russian drone strikes on Black Sea ports",
+      "Great-power competition and industrial mobilization reshape military affairs"
+    ],
+    "news-tech": [
+      "Meta contractors pretended to be teens to test rival chatbots",
+      "iPhone 18 Pro photos and parts list leaked on dark web",
+      "T-Mobile forces customers off legacy 3G-era plans",
+      "Sony hints at next-gen PlayStation going beyond living room",
+      "Kalshi sues Illinois over prediction market tax"
+    ],
+    "news-sports": [
+      "Germany knocked out of World Cup on penalties to Paraguay",
+      "Paraguay celebrates historic World Cup shock over Germany",
+      "Morocco beats Netherlands in penalty shootout to face Canada",
+      "Brazil avoids humiliation with second-half comeback led by Ancelotti",
+      "Man City confirms Enzo Maresca as Guardiola's successor"
+    ],
+    "news-entertainment": [
+      "Kevin Spacey opens up about being gay and closeted in interview",
+      "James Bond casting director reveals essential trait for next 007",
+      "Director Carl Rinsch sentenced to 30 months for defrauding Netflix",
+      "Yang Zi becomes first 90s actress to win Baiyulan Best Actress",
+      "CMG Film & TV Night marks generational shift in Chinese entertainment"
+    ]
+  }
+}

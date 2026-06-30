@@ -1,0 +1,138 @@
+# News Radar — 娱乐新闻
+
+> 2026-06-30 · Window: 24h · Items: 80 · Generated: 2026-06-30 05:17 UTC
+
+---
+
+## Editor's Brief
+
+The entertainment landscape in the last 24 hours was marked by high-profile personal revelations, industry shake-ups, and major award ceremonies. Kevin Spacey’s candid interview on being closeted and the James Bond casting director’s essential trait for 007 dominated Hollywood chatter, while in China, Yang Zi’s historic Baiyulan win and the CMG Film & TV Night highlighted a generational shift. Korean dramas held steady ratings, and Weibo buzzed with celebrity interactions and fan reactions. Below are the key stories to watch.
+
+- **Kevin Spacey Opens Up on Being Gay and Closeted:** In a raw interview on Bill Maher's podcast, Spacey said he always felt attacked, reigniting discussions about his past allegations and the industry’s treatment of LGBTQ+ figures. [Read more](https://deadline.com/2026/06/kevin-spacey-being-gay-closeted-accusations-1236970785/)
+- **James Bond Casting: The One Essential Trait:** The former casting director insists the next 007 must possess a specific quality, as producers and Denis Villeneuve narrow down auditions this summer. [Details](https://deadline.com/2026/06/james-bond-casting-director-requirements-1236970773/)
+- **Director Carl Rinsch Sentenced to 30 Months for Defrauding Netflix:** The '47 Ronin' director was convicted of swindling $11 million from the streamer, sending a warning about financial misconduct in Hollywood. [Report](https://www.rollingstone.com/tv-movies/tv-movie-news/director-carl-rinsch-sentenced-30-months-prison-defrauding-netflix-1235586303/)
+- **Yang Zi Wins Baiyulan Best Actress, Sparking Generational Debate:** The 90s actress became the first of her cohort to take the top TV award, prompting analysis on whether this marks a full handover to a new generation of Chinese stars. [Coverage](https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUxnalExbWdLUGF3d2xaT3RkQkNSSk9TWTNBdUtIcUtUc1BvX0tKV3VBS0hKQlB1ZXhVMVF5VjhBeEl4WXRJTUJrellVVGZ4U18tM2pfNDdOUUx5N01pZkw1ZnNhRllBRjN1NUFrM1p3TnBGTEdlUVZ1V2o5ZUdYXzhibzRDaGZWdUE)
+- **2026 CMG China Film & TV Night Awards:** Dilireba and Wu Yue took top honors, while Hu Yanbin performed; the event underscored efforts to blend entertainment with positive social messaging. [Full list](https://news.google.com/rss/articles/CBMihgJBVV95cUxPQWxKd3BadlE3OS1hbUxJLVJINEw0dUNyWUVEeEIwc0JtaThEbTBVb21tUjBERGxZLU1YYlI1VEVlTV9KZWREbWJVRTRFaDBpZmg2UTZsZ0NfN3hycFB3WUN1V0hSTnBVYll3NFdpS2QtbXRwTUJlRUVWdGZFZ2t1Z2pyZndDbE5PYmNjYWpQb2JtMkg3bVdkQmdlR3hVckRYc2ZIREs5T2RUeFJUaE5wTHlMVkdMWnVfdjJGLWJqY05zYm1OdzVuODFrVlc1Y0d0cHRlUk1McTZkbm9fU0RwdWZlbVVMRER5bkUwV1Rsc2JQZWs1dzhab1NJcG5XREJHaVUtYy1n)
+- **Korean Drama Ratings Hold Steady:** tvN's 'See You at Work Tomorrow!' and 'Doctor on the Edge' maintained stable viewership, with the former inching up to 4.5%. Meanwhile, Ryu Jun Yeol is reportedly leaving agency UAA for Galaxy Corporation. [Ratings](https://www.soompi.com/article/1851264wpp/see-you-at-work-tomorrow-and-doctor-on-the-edge-maintain-steady-ratings) [Agency news](https://www.soompi.com/article/1851256wpp/ryu-jun-yeol-reported-to-be-leaving-uaa-agency-comments)
+- **Weibo Erupts Over Celebrity Bonds:** Yu Shuxin and Hou Minghao's 'Eternal Bone' road photos and a 4-week boycott resolution went viral, while Li Xian and Yang Zi's 16-year friendship became a hot topic after Yang Zi's Baiyulan win. [Yu/Hou](https://news.google.com/rss/articles/CBMimwJBVV95cUxNQzhTZlhMYkZIZXBWTUYwV0dJdmh6VHBsTGRtUXFSTnY0dm5GWUJuSWFOMGg3OENmSVdrSWxfUXVsMEd1R002YWJLamR4Ujl6MDZsWjZmRmQ1ZVEwMEJyVFVMNlp5am1wbmx1QUZOUnA5cjRBMG0tRXNZVGlKQmdyMTBoUHZfLXdFZU1Na24zTjI0VG53M2Nfa3h5STNMSTdZYXhWb3pQdDVtVFpBRGFWMlZ1UDY4aVdGQzlBTHR6cFZ0QnlWeDhQX3lPc3hxYkhCUUppODlHN0FjcEZDU0dOcXMxSHNCTHdNRVlDZFNfcVNncUI3UlBnOGVNSGV2Qjh6TjFrZVBZZ0pfUW9DRHJ4MU9MS1hVNTFMUkFN) [Li/Yang](https://news.google.com/rss/articles/CBMickFVX3lxTFBBYWF4cVpsTDMtUjBOSml2S3lHc0tqQ24zUHkzclhmYXlhUWFmelhHX1NOZ0hFNzFNUHgwUWZWc2kxWm0wLXdibzRnR2RWamhYWGtHRndyb1lURFB5V3U5djZrV1pCcXdQZmFBWjFmUWVPZw)
+
+**Watch next:** Look out for the 2026 KM Chart Awards on July 25, where Byeon Woo Seok will present; the 'Ramayana' adaptation topping IMDb's most-anticipated list signals strong Indian film appetite; and the fallout from Carl Rinsch's sentencing may prompt tighter Netflix project oversight.
+
+---
+
+## 欧美 · 46 items
+
+Hollywood saw a blend of personal revelations and legal dramas. Kevin Spacey's unfiltered interview on Bill Maher’s podcast rekindles debate about his past and LGBTQ+ acceptance, while the James Bond casting process gains clarity with a director’s essential trait demand. Meanwhile, the industry’s financial integrity is questioned after director Carl Rinsch received a 30-month sentence for defrauding Netflix of $11 million.
+- [Kevin Spacey On Being Gay & Closeted: 'I Always Felt That I Was Being Attacked'](https://deadline.com/2026/06/kevin-spacey-being-gay-closeted-accusations-1236970785/) — Spacey’s comments may influence public perception and potential career rehabilitation.
+- [Onetime James Bond Casting Director Insists There's One 'Absolutely Essential' Trait The Next 007 Must Have](https://deadline.com/2026/06/james-bond-casting-director-requirements-1236970773/) — As auditions near, speculation on candidates like Callum Turner or Jacob Elordi intensifies.
+- [Director Carl Rinsch Sentenced to 30 Months in Prison for Defrauding Netflix](https://www.rollingstone.com/tv-movies/tv-movie-news/director-carl-rinsch-sentenced-30-months-prison-defrauding-netflix-1235586303/) — The case sets a precedent for streaming fraud accountability.
+- [Flula Borg & Troy Kotsur Wrap On Satirical Horror Film 'The American Winner'](https://deadline.com/2026/06/flula-borg-troy-kotsur-to-star-the-american-winner-1236970615/) — A debut feature from Farbod Ardebili blending tech satire and horror.
+- [Olivia Wilde Says Walton Goggins 'Saved My Life' On Set](https://deadline.com/2026/06/walton-goggins-saved-olivia-wilde-life-1236970700/) — A heartwarming anecdote from the 'Cowboys & Aliens' set.
+
+Other notable items include 'Love Island' UK removing a castmember over stabbing links and Ben Waddell exiting 'Summer House' after one season. The dramatic shift in Kevin Spacey’s narrative and the Bond casting race will likely dominate headlines in the coming weeks.
+
+<details><summary>Source (46)</summary>
+
+- [Flula Borg & Troy Kotsur Wrap On Satirical Horror Film ‘The American Winner’ From Farbod Ardebili](https://deadline.com/2026/06/flula-borg-troy-kotsur-to-star-the-american-winner-1236970615/) — Deadline · 2026-06-29 21:47 UTC
+- [Sony Music Indonesia, Sun Eater Group Launch Joint-Venture Label Lunar](https://variety.com/2026/music/news/sony-music-indonesia-sun-eater-label-lunar-1236798149/) — Variety · 2026-06-30 05:00 UTC
+- [Kevin Spacey On Being Gay & Closeted: “I Always Felt That I Was Being Attacked”](https://deadline.com/2026/06/kevin-spacey-being-gay-closeted-accusations-1236970785/) — Deadline · 2026-06-30 04:34 UTC
+- [Josh Peck Reveals His ‘Drake & Josh’ Pay After Four Seasons](https://www.hollywoodreporter.com/tv/tv-news/josh-peck-reveals-drake-and-josh-pay-1236633544/) — The Hollywood Reporter · 2026-06-30 04:34 UTC
+- [Ranbir Kapoor and Yash’s ‘Ramayana’ Tops IMDb’s Most Anticipated Indian Movies List for Second Half of 2026 (EXCLUSIVE)](https://variety.com/2026/film/news/ranbir-kapoor-yash-ramayana-imdb-most-anticipated-indian-movies-2026-1236798177/) — Variety · 2026-06-30 04:30 UTC
+- [‘Elle’ Review: Amazon’s Cute-Enough ‘Legally Blonde’ Prequel Makes No Sense as a ‘Legally Blonde’ Prequel](https://www.hollywoodreporter.com/tv/tv-reviews/elle-review-amazon-legally-blonde-1236633461/) — The Hollywood Reporter · 2026-06-30 04:12 UTC
+- [Will Ferrell Is Lonnie Hawkins in New Skims Campaign](https://www.hollywoodreporter.com/lifestyle/style/will-ferrell-models-skims-campaign-the-hawk-1236633479/) — The Hollywood Reporter · 2026-06-30 03:27 UTC
+- [Onetime James Bond Casting Director Insists There’s One “Absolutely Essential” Trait The Next 007 Must Have](https://deadline.com/2026/06/james-bond-casting-director-requirements-1236970773/) — Deadline · 2026-06-30 02:57 UTC
+- [‘Bandit,’ ‘The Last Place On Earth’ Triumph As Dances With Films: LA Presents Awards – Full List](https://deadline.com/2026/06/2026-dances-with-films-la-awards-1236970742/) — Deadline · 2026-06-30 01:38 UTC
+- [‘Angry Birds Movie 3’ Trailer: Jason Sudeikis, Josh Gad Navigate the Challenges of Parenting](https://www.hollywoodreporter.com/movies/movie-news/angry-birds-movie-3-trailer-jason-sudeikis-josh-gad-1236633526/) — The Hollywood Reporter · 2026-06-30 01:16 UTC
+- [‘Love Island’ U.K. Castmember Removed From Season 13 After Reported Link to Stabbing](https://www.hollywoodreporter.com/tv/tv-news/love-island-u-k-castmember-removed-reported-link-stabbing-1236633528/) — The Hollywood Reporter · 2026-06-30 01:11 UTC
+- [Tom Ligon Dies: Stage & Screen Actor Who Served On SAG-AFTRA’s New York Board Was 85](https://deadline.com/2026/06/tom-ligon-dead-actor-1236970726/) — Deadline · 2026-06-30 01:03 UTC
+- [Tania Raymonde, Brian Austin Green, Steve Agee, Breanna Yde to Star in Horror-Comedy Musical ‘Eat Your Heart Out’ (Exclusive)](https://www.hollywoodreporter.com/movies/movie-news/eat-your-heart-out-tania-raymonde-horror-musical-1236633081/) — The Hollywood Reporter · 2026-06-30 00:30 UTC
+- [Walton Goggins “Saved My Life” On Movie Set, Says Olivia Wilde](https://deadline.com/2026/06/walton-goggins-saved-olivia-wilde-life-1236970700/) — Deadline · 2026-06-30 00:12 UTC
+
+</details>
+
+## 日韩 · 10 items
+
+Korean entertainment maintained its steady momentum with consistent drama ratings and key artist announcements. Byeon Woo Seok will present at the KM Chart Awards, while Ryu Jun Yeol’s potential jump to Galaxy Corporation (home to G-Dragon) signals major agency reshuffling. KISS OF LIFE confirmed an August comeback, and TREASURE’s Junkyu takes a health break.
+- [Byeon Woo Seok Announced As Presenter For 2026 KM Chart Awards](https://www.soompi.com/article/1851262wpp/byeon-woo-seok-announced-as-presenter-for-2026-km-chart-awards-kma) — His appearance will boost KMA’s profile, especially among international fans.
+- [Ryu Jun Yeol Reported To Be Leaving UAA + Agency Comments](https://www.soompi.com/article/1851256wpp/ryu-jun-yeol-reported-to-be-leaving-uaa-agency-comments) — If confirmed, joining Galaxy Corporation would align him with top-tier talent.
+- [KISS OF LIFE Confirmed To Make August Comeback](https://www.soompi.com/article/1851158wpp/kiss-of-life-confirmed-to-make-august-comeback) — The group’s first return in four months will test their staying power.
+- [TREASURE’s Junkyu To Temporarily Halt Activities Due To Health](https://www.soompi.com/article/1851207wpp/treasures-junkyu-to-temporarily-halt-activities-due-to-health-shares-heartfelt-letter-to-fans) — YG Entertainment’s handling may impact fan loyalty.
+- [Lee Dong Wook And Kim Hye Joon Dish On Their Chemistry For 'A Shop For Killers 2'](https://www.soompi.com/article/1851167wpp/lee-dong-wook-and-kim-hye-joon-dish-on-their-chemistry-and-reuniting-for-a-shop-for-killers-2) — The sequel’s promotion builds anticipation.
+
+Ratings for 'See You at Work Tomorrow!' and 'Doctor on the Edge' remain steady, proving the appeal of Monday-Tuesday dramas. Watch for the KM Chart Awards on July 25 as a key industry event.
+
+<details><summary>Source (10)</summary>
+
+- [“See You At Work Tomorrow!” And “Doctor On The Edge” Maintain Steady Ratings](https://www.soompi.com/article/1851264wpp/see-you-at-work-tomorrow-and-doctor-on-the-edge-maintain-steady-ratings) — Soompi K-pop · 2026-06-30 02:51 UTC
+- [Byeon Woo Seok Announced As Presenter For 2026 KM Chart Awards (KMA)](https://www.soompi.com/article/1851262wpp/byeon-woo-seok-announced-as-presenter-for-2026-km-chart-awards-kma) — Soompi K-pop · 2026-06-30 02:36 UTC
+- [Ryu Jun Yeol Reported To Be Leaving UAA + Agency Comments](https://www.soompi.com/article/1851256wpp/ryu-jun-yeol-reported-to-be-leaving-uaa-agency-comments) — Soompi K-pop · 2026-06-30 02:01 UTC
+- [THE BOYZ’s Q, Hwang Ji Ah, And More Showcase Seamless Chemistry At “My Idol, My Debut” Script Reading](https://www.soompi.com/article/1851214wpp/the-boyzs-q-hwang-ji-ah-and-more-showcase-seamless-chemistry-at-my-idol-my-debut-script-reading) — Soompi K-pop · 2026-06-29 12:05 UTC
+- [TREASURE’s Junkyu To Temporarily Halt Activities Due To Health + Shares Heartfelt Letter To Fans](https://www.soompi.com/article/1851207wpp/treasures-junkyu-to-temporarily-halt-activities-due-to-health-shares-heartfelt-letter-to-fans) — Soompi K-pop · 2026-06-29 10:33 UTC
+- [Lee Dong Wook And Kim Hye Joon Dish On Their Chemistry And Reuniting For “A Shop For Killers 2”](https://www.soompi.com/article/1851167wpp/lee-dong-wook-and-kim-hye-joon-dish-on-their-chemistry-and-reuniting-for-a-shop-for-killers-2) — Soompi K-pop · 2026-06-29 09:29 UTC
+- [Watch: Namkoong Min, Lee Seol, Kim Dae Myeung, And Lee Sang Hee Showcase Professionalism During “The Husband” Poster Shoot](https://www.soompi.com/article/1851102wpp/watch-namkoong-min-lee-seol-kim-dae-myeung-and-lee-sang-hee-showcase-professionalism-during-the-husband-poster-shoot) — Soompi K-pop · 2026-06-29 09:11 UTC
+- [Watch: Jeon No Min And Han Go Eun’s Affair Sets Off A Tragic Chain Of Events In Upcoming Drama “Family Register” Teaser](https://www.soompi.com/article/1851136wpp/watch-jeon-no-min-and-han-go-euns-affair-sets-off-a-tragic-chain-of-events-in-upcoming-drama-family-register-teaser) — Soompi K-pop · 2026-06-29 08:59 UTC
+- [Kang Mina Makes A Heartbreaking Plea To Her Boyfriend In “See You At Work Tomorrow!”](https://www.soompi.com/article/1851168wpp/kang-mina-makes-a-heartbreaking-plea-to-her-boyfriend-in-see-you-at-work-tomorrow) — Soompi K-pop · 2026-06-29 08:42 UTC
+- [KISS OF LIFE Confirmed To Make August Comeback](https://www.soompi.com/article/1851158wpp/kiss-of-life-confirmed-to-make-august-comeback) — Soompi K-pop · 2026-06-29 08:09 UTC
+
+</details>
+
+## 微博社区动态 · 12 items
+
+Weibo was ablaze with fan-driven narratives and celebrity relationship dynamics. The four-week boycott against Yu Shuxin and Hou Minghao's 'Eternal Bone' finally saw a resolution, while Yang Zi's Baiyulan win sparked debates about Li Xian's lack of public congratulations. Qi Sijun’s gracious reply to Zhang Yue was hailed as textbook professionalism.
+- [Yu Shuxin Hou Minghao 'Eternal Bone' Off-Duty Road Photos: A Four-Week Boycott Resolution](https://news.google.com/rss/articles/CBMimwJBVV95cUxNQzhTZlhMYkZIZXBWTUYwV0dJdmh6VHBsTGRtUXFSTnY0dm5GWUJuSWFOMGg3OENmSVdrSWxfUXVsMEd1R002YWJLamR4Ujl6MDZsWjZmRmQ1ZVEwMEJyVFVMNlp5am1wbmx1QUZOUnA5cjRBMG0tRXNZVGlKQmdyMTBoUHZfLXdFZU1Na24zTjI0VG53M2Nfa3h5STNMSTdZYXhWb3pQdDVtVFpBRGFWMlZ1UDY4aVdGQzlBTHR6cFZ0QnlWeDhQX3lPc3hxYkhCUUppODlHN0FjcEZDU0dOcXMxSHNCTHdNRVlDZFNfcVNncUI3UlBnOGVNSGV2Qjh6TjFrZVBZZ0pfUW9DRHJ4MU9MS1hVNTFMUkFN) — The resolution ends a prolonged fan protest, likely stabilizing promotional efforts.
+- [Li Xian Yang Zi: 16-Year Friendship Needs No Hot Search Proof](https://news.google.com/rss/articles/CBMickFVX3lxTFBBYWF4cVpsTDMtUjBOSml2S3lHc0tqQ24zUHkzclhmYXlhUWFmelhHX1NOZ0hFNzFNUHgwUWZWc2kxWm0wLXdibzRnR2RWamhYWGtHRndyb1lURFB5V3U5djZrV1pCcXdQZmFBWjFmUWVPZw) — The narrative shifted to defend Li Xian after he didn't congratulate Yang Zi publicly, a common fan pressure point.
+- [Qi Sijun Replies to Zhang Yue's Long Post, Praised as Textbook-Level Graceful Interaction](https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUS1FWFdHYUNFdTZLeXR5R3FkTnlPa2JERXFFVnl5el9OU1Z5XzVjQUpyV2JlUjlCNy1WZnhmOTUxbkdvQXRqY0Z3cE9BMEp6akZHOHRXMmJYQUN5ZzRkYnN4MkZrT2FXVVNHZUlCMU4) — A model of public diplomacy between celebrities.
+- [Yang Zi Wins Baiyulan Best Actress, Li Xian Not Sending Blessings Becomes Hot Search Focus](https://news.google.com/rss/articles/CBMickFVX3lxTE9zb3ZRaU1kYmhpRnlQamk0T3FGdmllMEVWM013Q1NLSjc2MWNsTUc1eUNSckZjcXVqbWlIbjRkZXlCMEFCR01zM05OZGpXSE10NmJ0dV9wLUEtbzl2WWQ0OVM4VHI1N3U3LXZlYlV6cThBdw) — This controversy underscores the intense scrutiny on celebrity friendships.
+- [Fans Look Forward to Zhang Linghe's Drama Promotion](https://news.google.com/rss/articles/CBMiY0FVX3lxTE56bnlZR2g2NThVTEhYWlVVN3l4UlZUcm1sQmdrdm4wWDVuSGZmN2hjdk83ckFiWU1Da19QWEYxRmttdnZvLXBYOEhIUmZZR3JNSmdfUXRyWVp1SG1BM2MtbGZZUQ) — Anticipation builds for his upcoming project.
+
+Other viral topics included Bai Lu's doll-like styling and a debate on swimming and body shape. Weibo remains a powerful barometer of fan sentiment, and the Yang Zi-Li Xian situation may evolve as more celebrities weigh in.
+
+<details><summary>Source (12)</summary>
+
+- [虞书欣侯明昊《长生骨》下班路透 一文看懂4周抵制风波结局 - 新浪网](https://news.google.com/rss/articles/CBMimwJBVV95cUxNQzhTZlhMYkZIZXBWTUYwV0dJdmh6VHBsTGRtUXFSTnY0dm5GWUJuSWFOMGg3OENmSVdrSWxfUXVsMEd1R002YWJLamR4Ujl6MDZsWjZmRmQ1ZVEwMEJyVFVMNlp5am1wbmx1QUZOUnA5cjRBMG0tRXNZVGlKQmdyMTBoUHZfLXdFZU1Na24zTjI0VG53M2Nfa3h5STNMSTdZYXhWb3pQdDVtVFpBRGFWMlZ1UDY4aVdGQzlBTHR6cFZ0QnlWeDhQX3lPc3hxYkhCUUppODlHN0FjcEZDU0dOcXMxSHNCTHdNRVlDZFNfcVNncUI3UlBnOGVNSGV2Qjh6TjFrZVBZZ0pfUW9DRHJ4MU9MS1hVNTFMUkFN) — 微博社区动态 · 2026-06-30 04:49 UTC
+- [李现杨紫：十六年友情无需热搜证明 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBBYWF4cVpsTDMtUjBOSml2S3lHc0tqQ24zUHkzclhmYXlhUWFmelhHX1NOZ0hFNzFNUHgwUWZWc2kxWm0wLXdibzRnR2RWamhYWGtHRndyb1lURFB5V3U5djZrV1pCcXdQZmFBWjFmUWVPZw) — 微博社区动态 · 2026-06-30 03:09 UTC
+- [齐思钧回复张月长文，被赞教科书级体面互动 - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUS1FWFdHYUNFdTZLeXR5R3FkTnlPa2JERXFFVnl5el9OU1Z5XzVjQUpyV2JlUjlCNy1WZnhmOTUxbkdvQXRqY0Z3cE9BMEp6akZHOHRXMmJYQUN5ZzRkYnN4MkZrT2FXVVNHZUlCMU4) — 微博社区动态 · 2026-06-30 02:32 UTC
+- [杨紫摘白玉兰视后,李现没送祝福成热搜焦点 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE9zb3ZRaU1kYmhpRnlQamk0T3FGdmllMEVWM013Q1NLSjc2MWNsTUc1eUNSckZjcXVqbWlIbjRkZXlCMEFCR01zM05OZGpXSE10NmJ0dV9wLUEtbzl2WWQ0OVM4VHI1N3U3LXZlYlV6cThBdw) — 微博社区动态 · 2026-06-29 11:30 UTC
+- [这次创新剧宣对《灿如繁星》收视有帮助吗？ - 新浪财经](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhwVFBuNGpWdmdwaDhqZHJRSjRSc2NoaWFteDBqZFYyMDgxWUl5andBVEZuWU91MEd1aXJiU29LLURwQlJ1N1M3XzM1OWVtQ2toR3pETWgzN3NjRTUtUURUR1dFb3I1WWVUV2pic0RSUTdNVHJncmZGbjBGaTZNY09jMUU) — 微博社区动态 · 2026-06-29 11:06 UTC
+- [白鹿洋娃娃造型出处揭秘！居然是这里 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE53VFN2N25JYlJuTVFSVXVpOUd4UkVva015SGpLUVBqblM2dkdxLTd1UHhKZ0NLbWhDRUM5RGI5VHB0SHhGYVBPdXZPWXNtOTl4aS0wbTJSMkRIRXYtVHEyV1B2SEowaHNNTDY2MU1XdFkwdw) — 微博社区动态 · 2026-06-29 10:24 UTC
+- [哪里可以看小黄豆和蔡徐坤互动的直播回放？ - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBUdnZwUUZ2d3AzR3NSZ2l1YXlxVThxZFFfRWlLV1hYTmVWTnptekJHd3lMUHcxTTlrd0hoS2FNdmoxT3dtNUJmSHpJRmt2WUJrQWpjS3lUWlVTY2E3RnU3M0I2cnowMnJXZnBBS01QXzdRdw) — 微博社区动态 · 2026-06-29 09:38 UTC
+- [深度解析：黄灿灿回到所有人都在的这一天 完整事件梳理 - 新浪财经](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3VJVTQxb0xSeWdmX0xoREVDRlowNlc0TzFvd04ta3NGWm90OEh5SUxXZVZKY1hoMUJKNUhMMTQyNlFTdG5IeHRSSkVFSzI4YVV1X2JYZ1oyRl93Tll1VE9YR05NSTBXSC05OVJrRFBhcFRNSENXSlJGWHIxMVRNOEpnMk0) — 微博社区动态 · 2026-06-29 09:04 UTC
+- [粉丝期待张凌赫剧宣_新浪新闻 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE56bnlZR2g2NThVTEhYWlVVN3l4UlZUcm1sQmdrdm4wWDVuSGZmN2hjdk83ckFiWU1Da19QWEYxRmttdnZvLXBYOEhIUmZZR3JNSmdfUXRyWVp1SG1BM2MtbGZZUQ) — 微博社区动态 · 2026-06-29 08:54 UTC
+- [“游泳减肥容易变成带鱼身材”引发热议！这有道理吗？专业解答来了 - 潮新闻](https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwUDF3Z09KN0ktVHRaQnRZbkNnQ3JSM1NqeVlCd2RWRXRYMVVsNXphdmp6akhLSndIRlRQNlNoREJWWVZmajRQNS0wYnRpT2NQcGVMQ0hNZw) — 微博社区动态 · 2026-06-29 07:48 UTC
+- [张峻豪S-VI星愿瓶 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE04enhLTm9KakNZTGRJZ1BvcmJaNzB0dU45UVZNcUR6Uko5ZEtrTmVvRWV4TTdBWTNLd1pQd1o4bzU1Yy1uU0JLMVZndzlyRjV2X2UwUlNyb3JUc2lPN0pVc1BzZw) — 微博社区动态 · 2026-06-29 07:45 UTC
+- [网友对这件事的态度到底是什么样？ - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE4xbDJ2UlRJaklNU1ZCVmtxa1NRcFFDd00zYktDcjNWVFNjNlBTNmF6T3FxRWk4dmpES1hPU0pNY1ZXNzlzVTZVWHlwNUI2ZmZUWWs2UTJjeEYzT2ZCc2hOX1I3MHkyNHFXYkFZZ2VraTRIZw) — 微博社区动态 · 2026-06-29 07:19 UTC
+
+</details>
+
+## 中国 · 12 items
+
+China’s entertainment sector celebrated achievements at the 2026 CMG Film & TV Night, while a critical article lambasted the industry for 'movie emperors and empresses collectively unemployed,' pointing to systemic issues. Yang Zi’s Baiyulan win was framed as a generational handover, and overseas exposure grew as star Xiao Zhan appeared in a World Cup broadcast.
+- [2026 CMG China Film & TV Night Awards: Dilireba, Wu Yue Win Big](https://news.google.com/rss/articles/CBMihgJBVV95cUxPQWxKd3BadlE3OS1hbUxJLVJINEw0dUNyWUVEeEIwc0JtaThEbTBVb21tUjBERGxZLU1YYlI1VEVlTV9KZWREbWJVRTRFaDBpZmg2UTZsZ0NfN3hycFB3WUN1V0hSTnBVYll3NFdpS2QtbXRwTUJlRUVWdGZFZ2t1Z2pyZndDbE5PYmNjYWpQb2JtMkg3bVdkQmdlR3hVckRYc2ZIREs5T2RUeFJUaE5wTHlMVkdMWnVfdjJGLWJqY05zYm1OdzVuODFrVlc1Y0d0cHRlUk1McTZkbm9fU0RwdWZlbVVMRER5bkUwV1Rsc2JQZWs1dzhab1NJcG5XREJHaVUtYy1n) — The event aimed to promote positive energy through entertainment.
+- [90s Actress Yang Zi Wins First Baiyulan Best Actress: A Signal for Generational Change?](https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUxnalExbWdLUGF3d2xaT3RkQkNSSk9TWTNBdUtIcUtUc1BvX0tKV3VBS0hKQlB1ZXhVMVF5VjhBeEl4WXRJTUJrellVVGZ4U18tM2pfNDdOUUx5N01pZkw1ZnNhRllBRjN1NUFrM1p3TnBGTEdlUVZ1V2o5ZUdYXzhibzRDaGZWdUE) — Her win is widely seen as a milestone for the post-90s acting cohort.
+- [When Movie Emperors and Empresses Collectively 'Unemployed': The Fig Leaf of China's Film Industry Torn](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOY2N1R2hVTUhhX2toUndWVFlqUlY1dUJoMUhWbU1XWmplMFQzTkphS3gtcUhtTFFSVmJLMV9faU5oVlZQWUhEZC1md2N5YmM5aF9vcjVLajA4NXNBTzBTWXdJRnBSb2JEYVE0RkhHZnBTb0VsVlJOUmZEMk9iNHkxSzJjVDNnTUdrdHFZb2hkaFR4LTNGeWJOUWdicW9RdC1yd2QxWklhR2d0b3F4QkJ1cXl1akVrVlZkM0gxNFlSNjRwZGVRSVNJVUVRdUJDaHZQVVZldWRrVWRNYXY4bXBVaG8yZVN5ejdCNDRGMjQwbWc2SF9NSS14VWl6ZVVvWTN5azZOb1V3cEdlSUJDMzFrZ1VGUWdGWG9lU1FJaGE3VGNPQWV1ajlURTB2aw) — A scathing critique of the industry’s reliance on a few stars and lack of new talent.
+- [Why Did Chinese Star Xiao Zhan Appear in World Cup Broadcast?](https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHhoSUd0WThmYjJVR2xiaWxvYWxMMnROLWVPU1o0Y0J2ZnFmRHhRYVFRVUlVOXJRSWJkR2l0MlJpZ0JQcWxYemJIN2MycXFaaFFHR2tNcmpTQWV2OHAtb0VlSnkwLTRuTGJRT3gtSG9tLUxQeTFONFZUQnFhcFg3OWVLVy01d25zNHhFUXYxZUZjbV95VFQ4S0JFQjBuRmduUVRwTzNVY2FsR1g4eU1WQnh3MWk5ZXJOSWVJa1ZPYlRJWVNyQXdvZFVR) — His cameo in a global sports event highlights cross-industry brand collaborations.
+- [Wang Sulong, Zhang Xincheng, Xu Weizhou Appear at Fuxing Island, Crowd 'Burst'](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWG0td3YyQXdFSXFOSWh4ZlFzeDNESDdpd0VwYXE0OGhSaFVxbGFYX3ZXZmJXUk50N1k4WTdMRWdLeERJek9BM0ItbnNFVHQzeTZzTXVwT1ZtYjBaZ2R2WmlRNVh0RXFmMTNpdU10NXdrUEE3X0twb2N2S0tkTDdNTA) — Offline fan gatherings signal renewed live event energy.
+
+The 'new three samples' of Chinese cultural exports (games, films, TV series) were highlighted in a positive light, suggesting a strategic push for global soft power. The tension between award glitz and industry critique will define the next phase of China’s entertainment discourse.
+
+<details><summary>Source (12)</summary>
+
+- [汪苏泷、张新成、许魏洲……这些明星都来了！复兴岛又“挤爆了” - 新浪网](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWG0td3YyQXdFSXFOSWh4ZlFzeDNESDdpd0VwYXE0OGhSaFVxbGFYX3ZXZmJXUk50N1k4WTdMRWdLeERJek9BM0ItbnNFVHQzeTZzTXVwT1ZtYjBaZ2R2WmlRNVh0RXFmMTNpdU10NXdrUEE3X0twb2N2S0tkTDdNTA) — Google News China Entertainment · 2026-06-30 04:11 UTC
+- [胡彦斌影视之夜献唱《此刻唱给你》，重温影视剧经典场景 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE9laEJjTWg3eHFLMTNzNGZMWldscmp6LTlSRS1SS29jdWx5S0U1SXd0NVowUWhMV3FiczBKOEVjNndSZGF3UDlqLUZadWk0OFpBZzlCMkdXSG45LXNGNWZ6ZUUwWjdpSGxXOEtKZzRjNTZQZw) — Google News China Entertainment · 2026-06-30 03:35 UTC
+- [【论道PPT】中国体育钮钢:探索“赛事+影视+文旅”深度互动的文体旅融合新路径 - 流媒体网](https://news.google.com/rss/articles/CBMia0FVX3lxTE1yRmxiQVpnX3VvM0F0dWdLUE53WFlvRlloMFFzSzZjTERrNDB1MmRHTHZaYktIQkxFVG1TTmZqbmRta0ZZX2ZkVEU4X3F6UkZNR0hxVkNySDItVUtJTmRLb1VkelNDQkR1YUVz) — Google News China Entertainment · 2026-06-30 03:27 UTC
+- [世界杯看到中国明星肖战！原来是这样亮相 - Sina Sports](https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRzhwTGZsV19QY2txeEdXVDdxNk9BZ0RoWjRLWW8ydk1BOXp5TjhYNlZ5VWptaG5RQ0ZURlg4X3lLOXhEdGY0dW80aDVpeVRzMjhaQkZCY05oMjZnMGtLS2JjSGVCanJvMHZEZ2hwcC0yMXhxNWpaNUpJVUppODU2SUlUbnVSLTY2QldabXRXRERnSVBLTjlCSy1jZldFSkZwN182a241b2RRYnFCRHVJblFxWVl4dXNhXzVWM1RCMmFaUTlvcG9BTC1IV3lFY1lMYUlkaHQ2cUFWWk8wTllDMlhLX0hOM0Q2d1kyNmlrZTBqdlFyRmkzazdSU0laNHM1N0VoSHRiN2VicXRzM1BVd2U2TW8tYXBQWFJWak5TTS1KSlhDa3JwTTdSNDE3R0Vkd21BNWI3SVBBSDlHMDFPSTRR) — Google News China Entertainment · 2026-06-30 02:47 UTC
+- [为什么中国明星肖战会出现在世界杯转播中？ - Sina Sports](https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHhoSUd0WThmYjJVR2xiaWxvYWxMMnROLWVPU1o0Y0J2ZnFmRHhRYVFRVUlVOXJRSWJkR2l0MlJpZ0JQcWxYemJIN2MycXFaaFFHR2tNcmpTQWV2OHAtb0VlSnkwLTRuTGJRT3gtSG9tLUxQeTFONFZUQnFhcFg3OWVLVy01d25zNHhFUXYxZUZjbV95VFQ4S0JFQjBuRmduUVRwTzNVY2FsR1g4eU1WQnh3MWk5ZXJOSWVJa1ZPYlRJWVNyQXdvZFVR) — Google News China Entertainment · 2026-06-30 02:12 UTC
+- [#2026中国影视之夜 #2026CMG年度推荐 电视剧女演员#迪丽热巴：演员有义务向社会大众传输积极正向的能量。 - 新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TUZ5S3VvSjVYcG9qdE9CUWxfUnAtOU5DNEtSTUFtNGZKMERKOWg4ZHA4dmpPb2JRNGFlMnBNdTg4OU1ycGQ4WGFtMU9nX2R1RWdTa2QwWXh2QlVhaU9ZS1pRN1lQcTlpeWJLSklIM3NzSVk) — Google News China Entertainment · 2026-06-30 02:01 UTC
+- [《生命树》目前一共斩获了多少个奖项？ - 新浪网](https://news.google.com/rss/articles/CBMicEFVX3lxTFBtdmlvR3FkOTgxUVNsVW1CcU1OU1BIRjNKdkRKZXFHUmJYVFZrTkpiR0ZmNlNVVDlzRFM1ZTNBNmtoMGc1TlgyLVh0T3VQWjk2dFJDRmJSTFdJNmloVkFmaU9iM1djSVFIaU9Qd0FYOGI) — Google News China Entertainment · 2026-06-29 15:00 UTC
+- [当影帝影后们集体“失业”,中国影视业的遮羞布终于被撕碎了 - 新浪网](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOY2N1R2hVTUhhX2toUndWVFlqUlY1dUJoMUhWbU1XWmplMFQzTkphS3gtcUhtTFFSVmJLMV9faU5oVlZQWUhEZC1md2N5YmM5aF9vcjVLajA4NXNBTzBTWXdJRnBSb2JEYVE0RkhHZnBTb0VsVlJOUmZEMk9iNHkxSzJjVDNnTUdrdHFZb2hkaFR4LTNGeWJOUWdicW9RdC1yd2QxWklhR2d0b3F4QkJ1cXl1akVrVlZkM0gxNFlSNjRwZGVRSVNJVUVRdUJDaHZQVVZldWRrVWRNYXY4bXBVaG8yZVN5ejdCNDRGMjQwbWc2SF9NSS14VWl6ZVVvWTN5azZOb1V3cEdlSUJDMzFrZ1VGUWdGWG9lU1FJaGE3VGNPQWV1ajlURTB2aw) — Google News China Entertainment · 2026-06-29 11:24 UTC
+- [90后演员杨紫首夺白玉兰影后，这是中国影视新生代全面接棒行业舵柄的信号吗？ - 新浪网](https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUxnalExbWdLUGF3d2xaT3RkQkNSSk9TWTNBdUtIcUtUc1BvX0tKV3VBS0hKQlB1ZXhVMVF5VjhBeEl4WXRJTUJrellVVGZ4U18tM2pfNDdOUUx5N01pZkw1ZnNhRllBRjN1NUFrM1p3TnBGTEdlUVZ1V2o5ZUdYXzhibzRDaGZWdUE) — Google News China Entertainment · 2026-06-29 09:56 UTC
+- [2026中国影视之夜获奖名单公布 热巴吴越摘大奖 - 新浪网](https://news.google.com/rss/articles/CBMihgJBVV95cUxPQWxKd3BadlE3OS1hbUxJLVJINEw0dUNyWUVEeEIwc0JtaThEbTBVb21tUjBERGxZLU1YYlI1VEVlTV9KZWREbWJVRTRFaDBpZmg2UTZsZ0NfN3hycFB3WUN1V0hSTnBVYll3NFdpS2QtbXRwTUJlRUVWdGZFZ2t1Z2pyZndDbE5PYmNjYWpQb2JtMkg3bVdkQmdlR3hVckRYc2ZIREs5T2RUeFJUaE5wTHlMVkdMWnVfdjJGLWJqY05zYm1OdzVuODFrVlc1Y0d0cHRlUk1McTZkbm9fU0RwdWZlbVVMRER5bkUwV1Rsc2JQZWs1dzhab1NJcG5XREJHaVUtYy1n) — Google News China Entertainment · 2026-06-29 09:20 UTC
+- [以中国方式讲述中国故事 文化“新三样”扬帆出海 - 中青在线](https://news.google.com/rss/articles/CBMie0FVX3lxTE1mV05hS2VKMFRxczREYTRKVmV6NUdKQlFrc2VGd3U2bEJRMksyekdyR3B0TlJzVEQ0V2RLbmdFZEtWWHRBX3p2T2FCRThwNGlaeUtKUGhpWDFoamFYRngxUzBfemk5ZUxzTnhDU1AwbThHQlN5M2NHRTJNaw) — Google News China Entertainment · 2026-06-29 06:29 UTC
+- [哪些艺人出席了2026CMG中国影视之夜？ - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE5PMmdfcU9qRmt5NW5hRlN1dEg0bHhTc3NrWi1UQXZMVE9zdkdJajlsbl9hSGdUWGdkRm9uTHdEZUZFZ0hOc3dsa0tad05PeFd1b29pREZOaTdROGEtWWxaRUNOOTIwTjIzanNFc0xtZnRMQQ) — Google News China Entertainment · 2026-06-29 06:25 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*
