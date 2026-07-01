@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "AI裁员后悔潮，企业重新招聘人类员工",
+      "Anthropic出口管制解除，模型全球可用",
+      "伊朗恢复原油出口，溢价20%",
+      "卡塔尔LNG供应收缩至9月",
+      "中国6月PMI强劲，A股上涨"
+    ],
+    "news-society": [
+      "美国最高法院判决出生公民权与跨性别禁令",
+      "委内瑞拉地震后3岁男童获救",
+      "巴基斯坦补习中心坍塌致14名儿童死亡",
+      "日元跌至40年新低，食品涨价潮",
+      "北京飞机撞楼事件中方未解释"
+    ],
+    "news-military": [
+      "B-2首次发射LRASM反舰导弹",
+      "中国卡车式电磁弹射器首次公开",
+      "波兰暂停移交MiG-29给乌克兰",
+      "瑞典批准向乌克兰出售鹰狮E战斗机",
+      "美以打击伊朗军事设施，局势升级"
+    ],
+    "news-tech": [
+      "Magnificent 7市值蒸发2.3万亿美元",
+      "Michael Burry公开做空特斯拉",
+      "Meta智能眼镜推出付费墙",
+      "Ferrari电动轿车Luce中国秒售罄",
+      "Tesla从Intel挖来高管自研芯片"
+    ],
+    "news-sports": [
+      "墨西哥2-0厄瓜多尔挺进世界杯16强",
+      "姆巴佩成世界杯淘汰赛历史最佳射手",
+      "荷兰出局主帅科曼辞职",
+      "英格兰右后卫伤病，点球计划保留",
+      "羽毛球新加坡赛出现争议判罚"
+    ],
+    "news-entertainment": [
+      "Chris Brown被判赔管家1300万美元",
+      "Kathy Griffin炮轰今夜秀封杀她",
+      "CNN首席法律记者离职",
+      "BTS打破滚石巡演票房纪录",
+      "中国娱乐圈集体失业话题热议"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Japan spent $74B on yen intervention",
+      "Anthropic export ban lifted on Fable 5",
+      "Nike beats estimates, China sales down 12%",
+      "China factory activity beats forecasts in June",
+      "Trump earned $580M+ from crypto disclosures"
+    ],
+    "news-society": [
+      "Supreme Court upholds birthright citizenship",
+      "Mysterious plane crash in Beijing, no explanation",
+      "Afghan Taliban escalate border strikes on Pakistan",
+      "China seen as winner from Trump's Middle East war",
+      "Three-year-old rescued from Venezuela quake rubble"
+    ],
+    "news-military": [
+      "B-2 stealth bomber reveals anti-ship LRASM capability",
+      "UK scraps Type 83 destroyer, doubles down on drones",
+      "US reveals new B-2 anti-ship missile capability",
+      "China shows truck-mounted EM aircraft catapult",
+      "Russia-China joint bomber patrols near Japan"
+    ],
+    "news-tech": [
+      "Mag 7 lost $2.3 trillion on AI spending jitters",
+      "Michael Burry shorts Tesla at $416",
+      "US lifts export controls on Anthropic Claude Fable 5",
+      "Ferrari Luce EV sold out in China",
+      "First early human eggs created from stem cells"
+    ],
+    "news-sports": [
+      "Mexico wins all group games, faces England/DR Congo",
+      "Mbappé becomes top World Cup knockout scorer",
+      "England loses Quansah and James for next match",
+      "Koeman resigns after Netherlands exit, racist abuse",
+      "Haaland projected to break international goal record"
+    ],
+    "news-entertainment": [
+      "Chris Brown ordered to pay $13M in dog-mauling case",
+      "Kathy Griffin claims Tonight Show ban by Fallon",
+      "CNN's Paula Reid to depart before Paramount takeover",
+      "BTS breaks Billboard touring record",
+      "China showbiz faces 'collective unemployment' crisis"
+    ]
+  }
+}
