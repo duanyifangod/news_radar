@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "OpenAI提议给美国政府5%股权",
+      "芯片板块全球重挫三星SK海力士跌超7%",
+      "欧洲通胀意外下行但加息风险未消",
+      "中国税务稽查80+上市公司补税",
+      "石油遭美伊谈判与需求忧虑双杀"
+    ],
+    "news-society": [
+      "俄乌战场升级基辅遭大规模空袭至少10死",
+      "北溪爆炸案一名乌克兰人在德国被指控",
+      "香港AI禁毒宣传适得其反引争议",
+      "墨西哥世界杯庆祝酿成4人死亡",
+      "特朗普财务创总统收入纪录引担忧"
+    ],
+    "news-military": [
+      "B-52轰炸机离开英国结束伊朗战争部署",
+      "胡塞武装再次攻击商船第三艘船遇袭",
+      "美军MH-60S坠机一名水手失踪",
+      "五角大楼设立无人系统主管监管无人机",
+      "B-2轰炸机用LRASM命中目标"
+    ],
+    "news-tech": [
+      "OpenAI提议向特朗普政府提供5%股权",
+      "白宫加速推进AI模型标准协议",
+      "智谱GLM-5.2 ZCode框架获高关注",
+      "苹果计划新iPad Pro和MacBook Pro明年发布",
+      "特斯拉Semi首起致命事故致2人死亡"
+    ],
+    "news-sports": [
+      "美国2-0波黑晋级但巴洛贡染红",
+      "比利时加时3-2逆转塞内加尔",
+      "凯恩梅开二度赛季72球追平穆勒",
+      "热刺1亿英镑签下托纳利",
+      "中国小将王浩然称去NBA不是不可能"
+    ],
+    "news-entertainment": [
+      "奥斯卡首席官员Teni Melidonian转任顾问",
+      "Weird Al拒绝AI广告代言",
+      "Cardi B获博主赔偿6万美元",
+      "Josh Gad加盟《Ocean's》前传",
+      "罗莎莉亚洛杉矶演唱会获盛赞"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Samsung, SK Hynix shares tumble 7%",
+      "China EV stocks surge on strong deliveries",
+      "Oil falls after US-Iran talks",
+      "Trump refuses to renew USMCA trade pact",
+      "China's tax crackdown rattles listed firms"
+    ],
+    "news-society": [
+      "Russia launches largest strikes on Kyiv, 10 killed",
+      "Ukrainian charged in Germany over Nord Stream",
+      "Hong Kong removes AI anti-drug video after backlash",
+      "Japan triples departure tax to combat overtourism",
+      "Zelenskyy warns of massive Russian strike"
+    ],
+    "news-military": [
+      "US B-52s leave England after Iran deployment",
+      "Houthis resume attacks on Red Sea shipping",
+      "Iran war cost US $300 billion, budget uncertainty",
+      "Ukraine's naval drone strikes transform warfare",
+      "Sino-Russian military cooperation deepens"
+    ],
+    "news-tech": [
+      "OpenAI proposes giving Trump admin 5% stake",
+      "SpaceX reportedly working on AI phone",
+      "Trump plan to redesign .gov sites with AI",
+      "White House accelerates AI model standards",
+      "Claude Sonnet 5 targets enterprise market"
+    ],
+    "news-sports": [
+      "USA beat Bosnia 2-0, Balogun sent off",
+      "Kane scores twice to save England",
+      "Belgium stun Senegal in extra-time classic",
+      "Wimbledon sees old champion reassert dominance",
+      "Summer transfer window heats up with Premier League deal"
+    ],
+    "news-entertainment": [
+      "Kathy Griffin claims banned from Fallon show",
+      "Cardi B wins $60,000 from blogger Tasha K",
+      "Weird Al turned down AI ad for 'pile of money'",
+      "Josh Gad joins Ocean's prequel with Robbie, Cooper",
+      "T.I. and Tiny awarded $0 punitive damages"
+    ]
+  }
+}
