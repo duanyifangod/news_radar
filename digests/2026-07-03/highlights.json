@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "快手股价上涨，腾讯参与融资28亿美元支持Kling AI",
+      "委内瑞拉地震死亡人数升至2595人",
+      "Nvidia允许初创企业以收入分成换取算力",
+      "特朗普在关税反转前买入苹果、英伟达",
+      "特斯拉交付报告强劲但股价下跌7%"
+    ],
+    "news-society": [
+      "俄对基辅最大规模空袭至少30人死亡",
+      "加拿大签新输油管道协议摆脱对美依赖",
+      "伊朗警告霍尔木兹海峡船舶",
+      "韩国Kospi指数暴跌近8%因AI需求担忧",
+      "中国发布教育“十五五”规划"
+    ],
+    "news-military": [
+      "俄乌战争进入“机器速度”超限战阶段",
+      "立陶宛拟废除核武器禁令",
+      "美军B-2首次用LRASM击沉靶船",
+      "F-15EX与“幽灵蝙蝠”无人机联演",
+      "中国万吨大驱首次出岛链"
+    ],
+    "news-tech": [
+      "特斯拉限制员工AI支出每周200美元",
+      "Zuckerberg承认AI代理进展慢于预期",
+      "Anthropic与三星洽谈定制芯片",
+      "弗吉尼亚州禁止销售地理定位数据",
+      "Scott Aaronson称美国隐私紧急状态"
+    ],
+    "news-sports": [
+      "VAR争议助葡萄牙2-1胜克罗地亚",
+      "西班牙3-0轻取奥地利",
+      "英格兰秘密备战墨西哥魔鬼主场",
+      "郭昊文放弃CBA高薪征战NBA夏联",
+      "孙俪元亚青赛退赛"
+    ],
+    "news-entertainment": [
+      "香港票房上半年增长25%本土片《夜王》领跑",
+      "《年轻华盛顿》导演称AI使制作更安全实惠",
+      "麦当娜新专辑《Confessions II》获评20年最佳",
+      "特朗普称子女做生意有“内幕信息”",
+      "马来西亚战争片《Peluru Senja》锁定上映日期"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US jobs miss: 57k new payrolls, unemployment 4.2%",
+      "Dow hit record close, Nasdaq slid on chip weakness",
+      "ECB's Lagarde defended rate hikes amid recession fears",
+      "China AI stocks surged 65% in H1, bubble fears",
+      "Tesla shares plunged 7% despite strong Q2 deliveries"
+    ],
+    "news-society": [
+      "Russian attack on Kyiv killed at least 30 people",
+      "Canada's Carney secured pipeline deal to bypass US",
+      "Iran warns ships in Strait of Hormuz over routes",
+      "China advances AI integration in healthcare and education",
+      "Zhihu's revenue decline signals shifts in content platform"
+    ],
+    "news-military": [
+      "Ukraine hits Russian fuel and harvest assets",
+      "Russia likely behind drone incursions over US bases in UK",
+      "Lithuania moves to end nuclear weapon ban",
+      "US Valiant Shield tested manned-unmanned teaming",
+      "China's newest destroyer operates off Japan"
+    ],
+    "news-tech": [
+      "Virginia bans sale of geolocation data",
+      "Tesla caps employee AI spending at $200/week",
+      "Jodie Foster claims F1 film was made with AI",
+      "Meta launched AI gaming app quietly",
+      "Polestar offers fire-sale discounts after US ban"
+    ],
+    "news-sports": [
+      "Portugal beat Croatia 2-1 on controversial VAR decision",
+      "Spain cruised past Austria 3-0 in World Cup",
+      "England prepare for noisy Mexico fans in last-16",
+      "Arthur Fery last British player at Wimbledon",
+      "Lewis Hamilton promises eighth F1 title at Silverstone"
+    ],
+    "news-entertainment": [
+      "Director Jon Erwin says AI made Young Washington safer",
+      "Jodie Foster says F1 was made with AI, sparks debate",
+      "Madonna's Confessions II acclaimed as best in 20 years",
+      "Hong Kong box office surged 25% in first half 2026",
+      "China livestream drama between Tim and Chinese Boy"
+    ]
+  }
+}

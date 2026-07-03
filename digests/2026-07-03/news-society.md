@@ -1,0 +1,113 @@
+# 多频道新闻雷达 — 社会新闻
+
+> 2026-07-03 · 窗口: 24h · 条目: 81 · 生成时间: 2026-07-03 04:57 UTC
+
+---
+
+## 板块速览
+
+过去24小时，全球社会新闻格局由重大冲突与结构性变革共同塑造。俄罗斯对基辅发动了自战争爆发以来规模最大的导弹与无人机袭击，造成至少30人死亡，而乌克兰方面亦持续打击俄石油设施，战争烈度显著升级。与此同时，加拿大总理卡尼签署新的输油管道协议，旨在摆脱对美能源依赖；伊朗在霍尔木兹海峡发出警告，中东紧张局势一触即发。经济层面，韩国Kospi指数因AI需求担忧暴跌近8%，芯片股遭恐慌性抛售，波及全球市场。中国方面，国务院印发《教育发展“十五五”规划》，稳岗扩岗政策延续，而援刚果（金）医疗队启程、C909医疗机首次亮相中亚，体现中国在公共卫生领域的国际行动力。知乎社区则围绕AI商业化、营收下滑以及娱乐营销展开热议。以下是各子专栏详细解读。
+
+- **基辅遭遇最猛烈空袭**：俄罗斯于7月2日凌晨发射大量弹道导弹、巡航导弹和无人机，导致基辅多处建筑倒塌，死亡人数从至少18人升至30人（[BBC](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss)、[NPR](https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people)），为近几个月最致命袭击。乌克兰继续打击俄油设施，双方互有攻守。
+- **加拿大开辟能源新通道**：总理卡尼与相关方达成管道建设协议，旨在扩大对美以外市场出口石油，应对特朗普关税战带来的经济胁迫（[Al Jazeera](https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss)）。
+- **伊朗警告霍尔木兹海峡船舶**：伊朗军方威胁将禁止未经批准的航线，在美伊间接谈判出现“积极进展”的次日发出强硬信号（[Al Jazeera](https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss)）。
+- **韩国股市暴跌**：Kospi指数跌破8000点，芯片股因市场对AI需求放缓的担忧而重挫（[Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbTdqS1duWEJ3Z0l3ck9faVJkUFk1RE9kWUJhdkNWcHgzVlowbUExamZWNU9qWnVBRTMwT21aM2dRTWRicmd1ZmJjdU9nRE1FMTJtV3l0bw)）。
+- **中国发布教育“十五五”规划**：国务院印发新规划，明确未来五年教育发展方向，涉及基础教育、职业教育等（[证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kSTNYVXA5b1hjZE8wZEczd0tJVVF3SlRNeF9VTldiZXBybFZoZzdxWmQwajVHSEQtZzBBWTBpS2hYQ0RIR0ZfZlR5S1ZaNXVwYWJWVDJ6WlJrVEta)）。
+- **知乎营收下滑，押注AI商业化**：知乎2025年营收同比下跌23.6%，CEO周源表示将加速AI商业化探索（[财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BSGJZY202VWVwaHF6NTA3V3Z3MUZHVENZVHVIWmI4YW1BY3NRa2VpVkx0QVE2bUw5MXphSGJjQmpXa002OXN0YQ)）。
+
+**后续观察**：俄罗斯对基辅的新一轮攻击可能改变西方对乌援助节奏；霍尔木兹海峡紧张局势若实质化将推高全球油价；韩国芯片股抛售是否传导至其他科技市场需关注；中国教育规划的具体落地措施及对就业影响值得跟踪。
+
+---
+
+## 欧美 · 40 条
+
+过去24小时，欧美社会新闻的核心是战争与能源博弈。俄罗斯对基辅发动了自开战以来最大规模空袭，造成至少30人死亡，NPR最初报道18人，后续BBC确认30人，反映出袭击烈度与伤亡统计的持续上升（[BBC](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss)、[NPR](https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people)）。与此同时，加拿大总理卡尼推动的输油管道协议旨在打破对美依赖，回应特朗普的贸易战（[Al Jazeera](https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss)）。伊朗在霍尔木兹海峡发出警告，使波斯湾航运风险骤升（[Al Jazeera](https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss)）。此外，梵蒂冈正式绝罚圣庇护十世会约60万信众，标志天主教内部裂痕加深（[BBC](https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss)）。特朗普加密货币收益超10亿美元引发伦理争议（[NPR](https://www.npr.org/2026/07/02/nx-s1-5877487/trump-crypto-earnings-ethics)）。这些事件共同勾勒出大国对抗、资源博弈与制度性冲突并存的图景。
+
+<details><summary>信源 (40)</summary>
+
+- ['Most massive' Russian attack on Kyiv kills at least 30](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-03 04:41 UTC
+- [Canada’s Carney secures deal for pipeline to expand oil exports beyond US](https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss) — Al Jazeera · 2026-07-03 04:17 UTC
+- [Iran warns ships against using unapproved routes in Strait of Hormuz](https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss) — Al Jazeera · 2026-07-03 03:01 UTC
+- [Ebola treatments trial begins in the Democratic Republic of Congo](https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-02 21:21 UTC
+- [Venezuela quake survivor pulled out alive after eight days](https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-03 02:07 UTC
+- [Former Olympian indicted for allegedly vandalising Washington Reflecting Pool](https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-02 20:34 UTC
+- [Are the wars in Ukraine and Iran showing the limits of global powers?](https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers) — NPR World · 2026-07-02 20:13 UTC
+- [Killers of British couple in South Africa sentenced to life](https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-02 18:43 UTC
+- [Bomb blast at Damascus cafe kills six, Syrian state media say](https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-02 17:56 UTC
+- [Vatican excommunicates followers of global Catholic sect](https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-02 17:27 UTC
+- [South Africa and Ghana in diplomatic row over alleged killing of migrant](https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-02 13:11 UTC
+- [Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group](https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup) — NPR World · 2026-07-02 11:23 UTC
+- [Former ethics lawyer says Trump's crypto poses 'clear conflict of interest'](https://www.npr.org/2026/07/02/nx-s1-5877487/trump-crypto-earnings-ethics) — NPR World · 2026-07-02 10:44 UTC
+- [China says pilot crashed small plane into skyscraper for 'personal reasons'](https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-02 09:21 UTC
+
+</details>
+
+## 日韩 · 14 条
+
+韩国金融市场经历剧烈震荡，Kospi指数暴跌近8%跌破8000点，芯片股因AI需求预期骤冷而遭抛售（[Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbTdqS1duWEJ3Z0l3ck9faVJkUFk1RE9kWUJhdkNWcHgzVlowbUExamZWNU9qWnVBRTMwT21aM2dRTWRicmd1ZmJjdU9nRE1FMTJtV3l0bw)），全球科技股承压。乌克兰外长透露俄方曾提议用数千战俘交换被俘朝鲜士兵，凸显战场外交易（[Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZUZud2dUNG1pU2RPWEp4Y0UtTjFmSkF4ZnNPQW42bTBpUWdiOWJqOFBHRXQ0c3JXWXBmTXpEV21fTGhIQl9FRWpacFF4UURMM2Y2c2VwZw)）。日本方面，东京一家医院设立的“婴儿邮箱”一年内接收20名新生儿，引发社会对遗弃与救助机制的讨论（[Japan Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0pmeEQtaFpLYUJ1NXVRY3Y5UnJ2dmhKSDhnb2FISjJaSmFCQWo1STNKa1FzSWlVOEpIQW54Qk5ILXdfWGw5VVQ2Q3dBZGk0SnluTG5pSkJlWlBfYzczU3VMVXFBbUdZOGpiR0ZFRzlLbjRIQ1pRMkkyNXpObHhuTTd1MmxTbERaVjZhRWd3)）。韩日两国重申朝鲜半岛无核化承诺，但中国官媒《环球时报》呼吁首尔对东京的防卫扩张保持清醒（[Ratopati](https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3V1VlAxaUlXTjVmMW5VLWdOTVdjZmRMTFpyVmhRYXhPaVhCdFo4Tlp0V0lFQS1zWGE0blJRZVdjVzdJLTQ3aF9KQzR5aFRsejlsQWl0cy1GbS1sQ2p5Z3JaR3BtMHlzamlyTnl3UjUxM1BVekJURV9KbnR3WGFxR3EwRDVOODdiNlQ1ZmkxMWxGcDNNOEtFRW1xNWF6ZHcwMjB4Vnh5Nmk0M3czSjJVSjNUX3U3M0w2bllTUTA0LUVudFJh)）。整体上，日韩正面临外部经济冲击与安全焦虑的双重挑战。
+
+<details><summary>信源 (14)</summary>
+
+- [Kospi falls below 8,000 as AI demand fears hit chip stocks - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbTdqS1duWEJ3Z0l3ck9faVJkUFk1RE9kWUJhdkNWcHgzVlowbUExamZWNU9qWnVBRTMwT21aM2dRTWRicmd1ZmJjdU9nRE1FMTJtV3l0bw) — Korea Herald · 2026-07-02 06:10 UTC
+- [Ukraine FM says Russia offered thousands of POWs for captured North Koreans: sources - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZUZud2dUNG1pU2RPWEp4Y0UtTjFmSkF4ZnNPQW42bTBpUWdiOWJqOFBHRXQ0c3JXWXBmTXpEV21fTGhIQl9FRWpacFF4UURMM2Y2c2VwZw) — Korea Herald · 2026-07-02 06:06 UTC
+- [Japan Joins South Korea, Australia, and a Few Other Nations as Tokyo, Kyoto, Osaka, Hokkaido and Okinawa Prepare for JESTA Electronic Travel Authorisation by 2029: Find More About It Now! - Travel And Tour World](https://news.google.com/rss/articles/CBMibkFVX3lxTE1odVJBQ1pRSEJaNUg0dVNCSmpQVktVMDY5cVVTel85bURjbmN1UUlnSmZ3dDkyY1hGcTAxeG5EMjQwTmFkWkktLUxjaDEyUlAySENzenB4R1YzcnlTaU1JbU9GT2VKTkUtVVBYUFlB) — Google News Japan Korea Society · 2026-07-03 04:48 UTC
+- [Tokyo hospital baby hatch accepts 20 newborns in first year - The Japan Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0pmeEQtaFpLYUJ1NXVRY3Y5UnJ2dmhKSDhnb2FISjJaSmFCQWo1STNKa1FzSWlVOEpIQW54Qk5ILXdfWGw5VVQ2Q3dBZGk0SnluTG5pSkJlWlBfYzczU3VMVXFBbUdZOGpiR0ZFRzlLbjRIQ1pRMkkyNXpObHhuTTd1MmxTbERaVjZhRWd3) — Google News Japan Korea Society · 2026-07-03 01:32 UTC
+- [Concern Over Flood of Japanese General Interest Books in South Korea - 조선일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWJEMklPSF8tTTVxdlBZTXduanJfSVZiTDNuMU5oRkVaVWFtVE4xTU52LUo5N3ZpcU51UVUtaVdaX2FQOFJwaEV0MGIyeURWVzJGWjkyblJCc2hOVC1fMzkyVXZOeFNkeENfa0RFbmtZOTlKa2lGaXI4eHl3NTZvdkxtTjhhcmc) — Google News Japan Korea Society · 2026-07-02 21:03 UTC
+- [South Korea and Japan Reaffirm Nuclear-Free Korean Peninsula Commitment - Ratopati](https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3V1VlAxaUlXTjVmMW5VLWdOTVdjZmRMTFpyVmhRYXhPaVhCdFo4Tlp0V0lFQS1zWGE0blJRZVdjVzdJLTQ3aF9KQzR5aFRsejlsQWl0cy1GbS1sQ2p5Z3JaR3BtMHlzamlyTnl3UjUxM1BVekJURV9KbnR3WGFxR3EwRDVOODdiNlQ1ZmkxMWxGcDNNOEtFRW1xNWF6ZHcwMjB4Vnh5Nmk0M3czSjJVSjNUX3U3M0w2bllTUTA0LUVudFJh) — Google News Japan Korea Society · 2026-07-02 16:58 UTC
+- [World shares are mixed, with South Korea's Kospi down nearly 8% on a sell-off of chip shares - Voice of Alexandria](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdjhZbTV0Y1VIa3NsWlBkanBPU2pxUWszcXFSTG1WWllYNDJhR0xPMHNVRjk1S2J2eWNhTmx6T1FJZ0I0YzBvbWRYVURIZXMtOVJJZFJaTWNzaVVyWXM0b1dYTU1PeUlURlkyamU5Vi1PTDNaaVR5SmpPWDlpX1FjaHFnQ1N6SC1MUkdQRFhMX0NqRXdtM0U5MGg1N3FnZDdRVElzeUlYcnEzbmJ0YU1zZ3dCZE9tb1VIMldWeVE2X0ZlMS1ZVHktbzgwNDFsb1VPQWQxM1VnWll1Z1JON2wwcGZyUVl4QXdVdk53ZFdwV0x3VGV3R3FNeVRscGJPZw) — Google News Japan Korea Society · 2026-07-02 11:03 UTC
+- [Four arrested over attempted theft before Haneda Airport cash ambush - The Japan Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSTQxWTE1M3Z2VjFiRmZnd3F5X1ItNXhHWVh6cW5kY2xyMUtwR2NqSkFjS1hobC1QR09mc3NPaUZpcVAxbEdVWnFuN2sxUTBYS28tWFF3ZTIwYTVRLUxlSHhsNWhua1hvR21BeS0wQlhxMFBrZGFtQ0J6d09mLTFvc0xFWUp0b0JubXRyMm9UOA) — Japan Times · 2026-07-02 10:25 UTC
+- [Takaichi looks to India in the face of supply chain and energy concerns - The Japan Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1dyWUREa0JBaTRndV9hcGk5b245dFpwVy0xaUdRUHRHcWRvVUoxenBNSmgzTUJ1UkwwR3hDYUlhU1ItZDNKVE5WSFdMaU5PWENHT05seEhya0ZXbkRXU0xQSTREdzk3dXA5LVhuYU4yRi1reFFwMjhFSDBGMTU1cThrczBlbVNxN3VNRVZWM0E) — Japan Times · 2026-07-02 06:46 UTC
+- [South Korea's currency chief says in talks with Japan, allies - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkljVHhGZWY5ODVPWE9CaGVRSE5HNDhxZnQwRTRKU041UmQ3Z29TXzhYaEl1cFQxM1VuaFo1am53RjZPQ3FtR1lQeTJYRExVZGl0V2ZacWsydHhxd25LTkJUZF9LYzFoU25yZHlSdG9MeFFYUGVJRjRfZEhRS3ZTWGNOVm5VMzJyem1CWlVkd1JlRktONXd4TzJQNVBpTTA1ekxfamN1c21rSG1FSkVJcA) — Google News Japan Korea Society · 2026-07-02 06:06 UTC
+- [Seoul needs sobriety amid Tokyo’s defense expansion - Global Times](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NYnM2RGxrWmp6MW91bFdIM3diNnFUWFp6SEozZnRYbWltOV9CaW8ta3p5dG9lbFVDUEpmT3ZqZWFWWUNZUThYUW10UURMQ1ptNDFoVFQ1S1lseEloZG5mS1Vn) — Google News Japan Korea Society · 2026-07-02 13:04 UTC
+- [South Korea Japan - Dayton Daily News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2tSMWVreEQtOVdqYU5BZU5yWnRjdHM4ZVJPWndFWEpXc05POUdiUWxfSXdjOEJ6NEJVSXF4dWRBdlhOMVMyTG15R0NvTTRsRXZpVFhvdG9XaUlHZGxxNE45elpyaXlpUzNheDFXeElRT2x6UlcyNXRkN2JsUkVJLWtWTmtoekF3bGhZd0VzWk50RHhSTUk2ZG5aTUNycWlncXFqNVNiSlEyMUN3aWIw) — Google News Japan Korea Society · 2026-07-02 07:31 UTC
+- [South Korea Japan - The Herald Journal](https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE9aRlM1V3pwWG15Ym9xeFhOeUVIQnpUV3AxS2VBanRMSmxqU2U5alFNeVI5VF9EZWJjNmt3YWRjQ3AwVFlVc3ROaDE3alhyMV9zcl9KczZHXy1tQ1lEbXFPeUl0MG5JS1NWWmJJbXM0enJpV1d5WGl5cHRtVW1NTDBsaGN0d2dKRlpqdzFtZlVJajgxNHNuSTVn) — Google News Japan Korea Society · 2026-07-02 06:51 UTC
+- [Lotte Cinema-Megabox merger collapses - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Q2tvb2ZJTEVJWHhUamFnRWxsNUQ0MHl4SV9yM25hVlJOU0lKa0RsQXcwU1ZwR3k1TFhTNHd1Z0d0Sk5fbHdxb2o3NXpkRzZnNWR4YmpORQ) — Korea Herald · 2026-07-02 05:42 UTC
+
+</details>
+
+## 中国 · 17 条
+
+中国社会新闻以政策民生与国际合作为主线。国务院印发《教育发展“十五五”规划》，为未来五年教育定调（[证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kSTNYVXA5b1hjZE8wZEczd0tJVVF3SlRNeF9VTldiZXBybFZoZzdxWmQwajVHSEQtZzBBWTBpS2hYQ0RIR0ZfZlR5S1ZaNXVwYWJWVDJ6WlJrVEta)）。人社部延续实施失业保险稳岗扩岗政策，采取“两延续一优化”组合拳（[新华网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMXZjeWtuVGRua1VNQUVUSENCZjBCX0lVWXNqMHF5X2Y1aXdLdlBZMDlZd21udk8ycURoWHNUMUM4cVVyVUJuY2trVThqUVlZSHpHNEdLRE84dVlRdXhmN2U4dEJHVDhvalFkWDJDUWNDWmhqb01acmtIcF9PNk0)），直接稳定就业预期。国际方面，第二批援刚果（金）中国医疗专家组启程（[央广网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XTDBYaS0wanRxWno0TXpONzRsVFg0UlVVVTZ0RU5sMkRSbmxvYmRqdjB6a2gzTnVCcVQwWEVPU041SjdOZG5XOWVnVFpmVG1PT0d0M1UzRURzWVlvZzZ3RWgxeWU0blJJZDZNVFdnRWVEOHVKWkhsOVptdzd2dHM)），C909医疗机首次亮相中亚（[中国民航网](https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVW84TFRFaE5weXo1MldHZGxGVmNQUzAtWGJocHF0Y0d5WEpQUzBpTjA5S3k2WVViQ0oyczNWUnozeVliTlItWjg1NjhGdmtOb3RKWTZvOTNhbmJteTZGQ3hObmhrdUZJTldGWA)），展现中国医疗外交与航空工业突破。此外，中国式现代化成就图片展在塔吉克斯坦举行（[新华网](https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVUtlRWVjRVVFaXVHTmJJRXVocjRFRG5wNi00YzBXRGhLWXp1TVg0aXJ3M0VFekRPcW9wdG5sbHdNVHZFdmQ2WHVJbDJ4VnV0a0xWUjNUVWZRMWpsLTU2RTlsb3ROYTIzTHFieXNVYXZhbVRKbmk0QjNmR05XMmM)），配合七一党建105周年活动，整体基调积极。
+
+<details><summary>信源 (17)</summary>
+
+- [21专访｜美敦力顾宇韶：AI驱动医疗行业向全周期健康管理转型 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVNxSWRMTU1nVzlWekhXQUxuNGlEQm1qTlRWekR3N1VJajBrZlJneWZBXy1nazQtdERvX3FZV2NJWDVaV2RVdUNQYnJ2a3doSGVZM09CMFl2R1FpTjEzMHdyaUNXdDdtODk4QnJ4QlVCcUlRaFNrRWxUVk1ONXNMdHk4Q0pQNm02ZDlzdw) — Google News China Society · 2026-07-03 04:37 UTC
+- [AI如何服务高校师生真实需求？来看专家分享—— - edu.cn](https://news.google.com/rss/articles/CBMieEFVX3lxTE9kRGlTcXlIQnFyN3l2M011a2lEamM0Vnc1RHE2SnR4NzR2bDJjRFhnV2t2ZDh0SVZZMmppcmdvbFpsT2FlYWlYMjdZOXJhekx1bHprUDZyalQwWW82anZSTE93YXpaNXFKVy1ZSDVxNHp1X0hKRkhkYg) — Google News China Society · 2026-07-03 03:22 UTC
+- [红色工业文化育人行动在南京信息工程大学启动 - 南京信息工程大学](https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Vk9tMHk1U0RSSk9oRk0ySi1PR1h3amw2VWVldEdSMENqODBfaUVpYU1mXzRLQjFYRU5iWGFJQXROZ1F6bWYyU1JuR1dCWlZ2amRuY3lrOTZhUQ) — Google News China Society · 2026-07-03 02:00 UTC
+- [视频丨第二批援刚果（金）中国医疗专家组启程 - 央广网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XTDBYaS0wanRxWno0TXpONzRsVFg0UlVVVTZ0RU5sMkRSbmxvYmRqdjB6a2gzTnVCcVQwWEVPU041SjdOZG5XOWVnVFpmVG1PT0d0M1UzRURzWVlvZzZ3RWgxeWU0blJJZDZNVFdnRWVEOHVKWkhsOVptdzd2dHM) — Google News China Society · 2026-07-03 01:34 UTC
+- [打破壁垒将思政项目串珠成链 - 中国教育新闻网](https://news.google.com/rss/articles/CBMia0FVX3lxTE5STjhBRXdsVnQ5UHJkSzN4NllNTHhCdUo3MzRIa3FwU3F0SFZqdGktdm5ZVkZyNkFHdHpILWRMYkdIdVJiVmt0S09uOTB2OHVEVzJydHdTLXZ4QWVvV1hMT2V5cVVuMkRfa3M0) — Google News China Society · 2026-07-03 01:20 UTC
+- [开启富有现代性的古典对话 - 中国社会科学网](https://news.google.com/rss/articles/CBMibEFVX3lxTE10eXVLNEVsNlNIaVNlZ1ZFZk1TbzdvQmctLUpiN3hLX2RMX0hNSDRpTDB3SnpnbGZiY21JUW5WcUx5LTI3bzJKcTNGaE1La0ZfUmJvLVVCN0VrMlU0UlNSYXBhNVEzYjQwRDE4Uw) — Google News China Society · 2026-07-03 00:44 UTC
+- [C909医疗机首次亮相中亚 - 中国民航网](https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVW84TFRFaE5weXo1MldHZGxGVmNQUzAtWGJocHF0Y0d5WEpQUzBpTjA5S3k2WVViQ0oyczNWUnozeVliTlItWjg1NjhGdmtOb3RKWTZvOTNhbmJteTZGQ3hObmhrdUZJTldGWA) — Google News China Society · 2026-07-03 00:39 UTC
+- [党的建设伟大工程的历史进程和时代使命（深入学习贯彻习近平新时代中国特色社会主义思想） - 人民日报](https://news.google.com/rss/articles/CBMif0FVX3lxTE4wSGhMbmRQc0lVaktPRUM5dUJkVklxWDVfV3VPNnB6aDlNTnFNZEZHVlAySGJBTkxHei1GQkJFWnVWNHNSc240WkJVNUpxd25QcHRFMnEwUmh5c1BHTkNjWHYtLXliaUdZLUpiZ19iUjBHY24zb1laNmZOYjYtYjQ) — Google News China Society · 2026-07-02 23:15 UTC
+- [利好来了！国务院印发《教育发展“十五五”规划》 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kSTNYVXA5b1hjZE8wZEczd0tJVVF3SlRNeF9VTldiZXBybFZoZzdxWmQwajVHSEQtZzBBWTBpS2hYQ0RIR0ZfZlR5S1ZaNXVwYWJWVDJ6WlJrVEta) — Google News China Society · 2026-07-02 20:27 UTC
+- [为什么社会主义市场经济更具优越性？德国学者揭示中国共产党成功密码 - beijingreview.com.cn](https://news.google.com/rss/articles/CBMiekFVX3lxTE85VE96QjJTQzc0TXZNU0RKOWlTaG5mY3F5U2haZ21uZ2VLb09oVWVLb19FWlpsVE9NMU1EcXAzNWVUNXN4VlJZZDgwMGRTOVdIQXlFN2VGNTdCTG4zRzh5M200M05yeEhoZzUyZ1JKX2hjSnQwUEdOMmJn) — Google News China Society · 2026-07-02 19:37 UTC
+- [民生直通车｜支持企业稳岗扩岗 政策“两延续一优化” - 新华网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMXZjeWtuVGRua1VNQUVUSENCZjBCX0lVWXNqMHF5X2Y1aXdLdlBZMDlZd21udk8ycURoWHNUMUM4cVVyVUJuY2trVThqUVlZSHpHNEdLRE84dVlRdXhmN2U4dEJHVDhvalFkWDJDUWNDWmhqb01acmtIcF9PNk0) — 新华社 中国社会 · 2026-07-02 16:48 UTC
+- [中国式现代化成就图片展在杜尚别举行 - 新华网](https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVUtlRWVjRVVFaXVHTmJJRXVocjRFRG5wNi00YzBXRGhLWXp1TVg0aXJ3M0VFekRPcW9wdG5sbHdNVHZFdmQ2WHVJbDJ4VnV0a0xWUjNUVWZRMWpsLTU2RTlsb3ROYTIzTHFieXNVYXZhbVRKbmk0QjNmR05XMmM) — 新华社 中国社会 · 2026-07-02 16:13 UTC
+- [中国教育后勤协会第三届理事会安全管理专业委员会第一次委员大会在天津大学隆重举行 - 天津大学新闻网](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQSFE0RU9pcTZVbzNTOEFoY3VGU2p1Xzh5bFU0WVNQV0l6YlRPSzIwTGRZUExPTmk1Q3Q2OC1KYzlsRHVGNzQ4SUhUNXN1S281QnBZcmY1TQ) — Google News China Society · 2026-07-02 15:59 UTC
+- [庆祝中国共产党成立105周年，中国社会科学院发布11项重大成果 - thepaper.cn](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ybnRZWC05UWpWWlJfZ1V0OVFZTmhHZmxaRUI4MDFpVzgzdFY5dHRmNTZIUEs3N3c4eGhLejZ6MXROT1RWR2ZHUVAwYTZKZDFIZ1Vjbi1RS093b3Zna1hkRg) — Google News China Society · 2026-07-02 15:06 UTC
+
+</details>
+
+## 知乎社区动态 · 10 条
+
+知乎社区近24小时动态呈现商业化焦虑与娱乐热点交织。知乎2025年财报显示营收同比下滑23.6%，CEO周源明确将加速AI商业化探索（[财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BSGJZY202VWVwaHF6NTA3V3Z3MUZHVENZVHVIWmI4YW1BY3NRa2VpVkx0QVE2bUw5MXphSGJjQmpXa002OXN0YQ)），同时公司以14.71万美元回购1.4万股，试图稳定股价（[新浪财经](https://news.google.com/rss/articles/CBMinwRBVV95cUxPTVhIUEtCT1gtTlJjSHZRTnNNN2R0dTljbVZPUkRYTjExWnlpT3JDZC13WW9tYXRMSmZhOFVaLUhxVXhWamtQMEtuLTlaYnN0cTFOUFFYd1UyTFJFZk9tOUxjQWpsUUtxdElKQUpUa0lJYUlXY2h3SGthWGRSb1NuaXV0c2dkU0RHeDhJUkJfU1RiaEVlTjU0OUhFaS1LX1I5MWFDYWxLT3k4SUxCaWxxTXNRRU9FZXBjNWZZck16b01HWHVXY2ljNlBHSmloazE4NENTX2tiNi1LQ2cyakg4ek1yWHNmd01fOUxXODR1U3lCeUlQa1NnbmlfLVBMRjUzTEc2bVliVE1MNTdqQkVhMjE0eU1rd0ZMUEQwb2J5QmcxU3lfT3VqLVZtSUNrNE5kd2RGX05rMUJXRGZORTVuOGdtbzlYd3RqLS0zaEtmUjlUZElQenFzS3JhcWtmMms3N0k3d0hKLVhjQWotTnQwa0pUNmFvazhBLUtKZC1PS0hDc3M5aVRubjl5amhoM2lPaVllSFhBMmRYUjViYm5iWks4U05Xb1pBYmhWd0NlLXk5UkNlRERUU2hpSDlFbGNjcW9XMWhsamVyVEtHV2lCOTZIMloyWEp6clJTTGpCSG5IV1kwMERlQkloZUlZRU4xdURrRzA4aWtzVGlTQnNOZE5EcER0MUVQUGtad1ZCb0RxVjVtczUyN2lhbTlkTlE)）。行业首份《品牌AI内容资产库建设指南》发布，反映品牌营销对AI工具的迫切需求（[新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9WLW9pdFA1aFB3RVNqNmNuaENIc3N5eE55TVVqU3hRTERDRlRzYzEyS253VkE3WDViaGVUX2NkTXJ1SjVUWkMtTDYyVUtNa1hSd1B4dzB4YWFxdHo1RGExbjJPYkc1Z2JWQ2huLWQ2YU1HNzVMcldiQnZfOU5mTkU)）。娱乐板块中，苏志燮新剧《温柔爸爸》引发全网讨论，光线电影《谋杀者的告白》定档7月16日开机（[360娱乐](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rYno4d1MyMVVPSkd1cFN1ZjR5QVQ1a1BwV09nY3VUNG4zVVBucFVVa1o5TUV3OVBpZlB6RFQwUEFkZHltZDBVQlZTWHdHdm8)）。此外，唐嫣委托律所起诉网络侵权，显示明星维权力度加大（[新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qTG4xa0hpY1Vvb0hIbHZ2TkpNT0ZsQlRzREpJek5Yc0xsMW11MUZER0hyRmdlbnp5a21iX0VvbDU0VllWX0c0TnU1TmNMTHlTNFBWbXo4alZRNWdCOVFGcklmQQ)）。整体来看，知乎社区正在内容商业化与用户体验之间艰难平衡。
+
+<details><summary>信源 (10)</summary>
+
+- [行业首份《品牌 AI 内容资产库建设指南》发布 - 新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9WLW9pdFA1aFB3RVNqNmNuaENIc3N5eE55TVVqU3hRTERDRlRzYzEyS253VkE3WDViaGVUX2NkTXJ1SjVUWkMtTDYyVUtNa1hSd1B4dzB4YWFxdHo1RGExbjJPYkc1Z2JWQ2huLWQ2YU1HNzVMcldiQnZfOU5mTkU) — 知乎社区动态 · 2026-07-03 03:55 UTC
+- [北京定云律师事务所已依法接受唐嫣女士（下称“委托人”）委托，指派本所律师代理委托人针对相关主体侵害其名誉权等人格权的行为开展诉讼维权工作，现就相关案件进展说明如下。本所律师已代理委托人对部分侵权网络用户提起民事诉讼，其中，下列案件已于近日取 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qTG4xa0hpY1Vvb0hIbHZ2TkpNT0ZsQlRzREpJek5Yc0xsMW11MUZER0hyRmdlbnp5a21iX0VvbDU0VllWX0c0TnU1TmNMTHlTNFBWbXo4alZRNWdCOVFGcklmQQ) — 知乎社区动态 · 2026-07-02 08:08 UTC
+- [快来闻闻我今天又吃到了什么好吃的！是人类快乐螺蛳粉！[送花花]清子亲测好吃~这个夏天真的不要错过了！最近风很大的人类快乐螺蛳粉跟知乎出了限量联名款啦~据说超有料，一收到我就没管住手！我先炫一份炒鸡适合夏天吃的炒螺蛳粉为敬！[彩虹屁][彩虹屁]谁 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pOGxvelF1MGM0VEVpakNId0RRTnJ4TnZGODFqdU8zVHZEU3NRb1d3TGVIZ002VjRiV0pMbFBvN1BOTXVzLTFnWjU1RVFYaHkybGt3cHAyMHA1VEVtLXhDUHZkYw) — 知乎社区动态 · 2026-07-02 06:36 UTC
+- [知乎2025年营收下滑23.6% CEO周源：加速对AI相关的商业化探索 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BSGJZY202VWVwaHF6NTA3V3Z3MUZHVENZVHVIWmI4YW1BY3NRa2VpVkx0QVE2bUw5MXphSGJjQmpXa002OXN0YQ) — 知乎社区动态 · 2026-07-02 20:56 UTC
+- [跪地求饶的温柔爸爸转身暴打黑帮！48岁苏志燮新剧让全网爸爸集体破防 - 360娱乐](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rYno4d1MyMVVPSkd1cFN1ZjR5QVQ1a1BwV09nY3VUNG4zVVBucFVVa1o5TUV3OVBpZlB6RFQwUEFkZHltZDBVQlZTWHdHdm8) — 知乎社区动态 · 2026-07-02 16:58 UTC
+- [光线电影《谋杀者的告白》（原《小圆同学》） 主演：卢昱晓、李孝谦 7.16开机 ​ - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ybThZSURVbnlTTm5yeVlXWVQxTGtSeFJrckNuRjN0MUhmOUZpc3FsSW9wN21ad0JvRkllTGNGTnpjd2dYdjFhS28xd3ZLUG10Q2ROb2R2YzMtazVtc3lKamVSOA) — 知乎社区动态 · 2026-07-02 14:24 UTC
+- [知乎-W于6月30日斥资14.71万美元回购1.4万股 - 新浪财经](https://news.google.com/rss/articles/CBMinwRBVV95cUxPTVhIUEtCT1gtTlJjSHZRTnNNN2R0dTljbVZPUkRYTjExWnlpT3JDZC13WW9tYXRMSmZhOFVaLUhxVXhWamtQMEtuLTlaYnN0cTFOUFFYd1UyTFJFZk9tOUxjQWpsUUtxdElKQUpUa0lJYUlXY2h3SGthWGRSb1NuaXV0c2dkU0RHeDhJUkJfU1RiaEVlTjU0OUhFaS1LX1I5MWFDYWxLT3k4SUxCaWxxTXNRRU9FZXBjNWZZck16b01HWHVXY2ljNlBHSmloazE4NENTX2tiNi1LQ2cyakg4ek1yWHNmd01fOUxXODR1U3lCeUlQa1NnbmlfLVBMRjUzTEc2bVliVE1MNTdqQkVhMjE0eU1rd0ZMUEQwb2J5QmcxU3lfT3VqLVZtSUNrNE5kd2RGX05rMUJXRGZORTVuOGdtbzlYd3RqLS0zaEtmUjlUZElQenFzS3JhcWtmMms3N0k3d0hKLVhjQWotTnQwa0pUNmFvazhBLUtKZC1PS0hDc3M5aVRubjl5amhoM2lPaVllSFhBMmRYUjViYm5iWks4U05Xb1pBYmhWd0NlLXk5UkNlRERUU2hpSDlFbGNjcW9XMWhsamVyVEtHV2lCOTZIMloyWEp6clJTTGpCSG5IV1kwMERlQkloZUlZRU4xdURrRzA4aWtzVGlTQnNOZE5EcER0MUVQUGtad1ZCb0RxVjVtczUyN2lhbTlkTlE) — 知乎社区动态 · 2026-07-02 13:56 UTC
+- [新浪网 - 新浪网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qMlgxXzVRS2RHQnBXTFcyU2gyajRfQndOcmg4cU9FYWl2VTE1WkZoUDZBTnE4bXpaUUpacnFRdU5UOXVhU2xuT3hhcGdtSHNEaVJROVNrRWg2TDQ0czV2X3I1UQ) — 知乎社区动态 · 2026-07-02 08:42 UTC
+- [世界杯平台会黑钱吗_世界杯平台会黑钱吗知乎 - 国际金融报](https://news.google.com/rss/articles/CBMiaEFVX3lxTE52VDVFbFd1Y2NkU2F6eEVGTXMyNFJGbk5LVWtpZk5faE1IS2VlX1hpbUtsN2hlbGV6VDFZT1ROM0ZfU3BSMEJ2QVNVVERncTEyM0NGd1F3QllKUzZHaVE3MXRQOGxzanpS) — 知乎社区动态 · 2026-07-02 07:28 UTC
+- [面馆老板韩栋掀桌了！孙家富二代伪善面具被撕碎现场 - 360娱乐](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yVnlZbTBSTTZFZ2ZyR3BiRWpTMUd1SmFERF9CZ0dxYk9TRkNKN3dmM2NtWmlPalU5bFhhemJmTHBhWS1aLS14TUlYOVdrTlk) — 知乎社区动态 · 2026-07-02 07:00 UTC
+
+</details>
+
+
+
+---
+*由本地 News Radar 自动生成。*
