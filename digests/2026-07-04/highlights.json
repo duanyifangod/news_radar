@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "AI算力恐慌被指误判，市场反弹",
+      "中国新能源车洗牌，比亚迪重夺销冠",
+      "美国极端热浪威胁电网和假日出行",
+      "欧洲经济信号分化，德国改革带动股市",
+      "同花顺系统事故引发关注"
+    ],
+    "news-society": [
+      "伊朗百万民众送别最高领袖哈梅内伊",
+      "委内瑞拉大地震救援混乱，国际救援抵达",
+      "波兰总理警告俄罗斯威胁升级关键数月",
+      "美国独立日庆祝遭百年一遇热浪威胁",
+      "中国第二批埃博拉专家组抵达刚果金"
+    ],
+    "news-military": [
+      "伊朗导弹袭击科威特和巴林美军基地",
+      "俄军模拟克里米亚反登陆大规模演习",
+      "乌克兰无人机破坏俄空军加固机堡",
+      "波兰警告俄计划攻击测试北约集体防御",
+      "解放军黄岩岛行动被指清场，新预警机试飞"
+    ],
+    "news-tech": [
+      "英国6月EV注册量猛增38%，市占率近30%",
+      "特斯拉FSD致命事故司机被控过失杀人",
+      "OpenAI提议420亿美元避免AI公司50%税",
+      "Anthropic与明星合作探索AI文化时代",
+      "MSI Center高危漏洞引发关注"
+    ],
+    "news-sports": [
+      "76人交易布朗后全力追逐勒布朗詹姆斯",
+      "湖人送走艾顿加速重建释放薪资空间",
+      "阿根廷加时3-2险胜佛得角，梅西进球",
+      "埃及点球击败澳大利亚获世界杯首胜",
+      "德国主帅纳格尔斯曼离任，克洛普候选"
+    ],
+    "news-entertainment": [
+      "泰勒与凯尔西完婚，亚当桑德勒证婚",
+      "特朗普在泰勒婚礼夜发帖挑衅未果",
+      "帕蒂卢波恩同志游轮被土耳其驱逐",
+      "Rob Reiner遗作在HBO剧中反击特朗普",
+      "中国影视寒冬，横店两月仅两部古装剧开机"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US futures mixed ahead of key employment data",
+      "Extreme heat wave threatens power grids and travel",
+      "ECB's Lagarde won't rule out early departure",
+      "BYD reclaims global EV crown from Tesla",
+      "China's stock app Hithink RoyalFlush crashes"
+    ],
+    "news-society": [
+      "Iran begins public mourning for Ayatollah",
+      "Egypt coach dedicates World Cup win to Palestine",
+      "Millions expected for Khamenei funeral in Tehran",
+      "Anguished families identify Venezuela quake victims",
+      "Polish PM warns critical months ahead from Russia"
+    ],
+    "news-military": [
+      "IRGC missiles hit US bases in Kuwait and Bahrain",
+      "Russia planning attack on Poland to test NATO",
+      "China clears Scarborough Shoal, tests AWACS",
+      "Taiwan rehearses 'doomsday' invasion scenario",
+      "Royal Navy launches combat-proven kamikaze drones"
+    ],
+    "news-tech": [
+      "UK EV registrations hit record 30% market share",
+      "OpenAI offers $42 billion to avoid AI tax",
+      "Anthropic launches Claude Science for drug development",
+      "Browser wars shift focus from search to AI",
+      "AI chip shortages drive consumer electronics price hikes"
+    ],
+    "news-sports": [
+      "Jaylen Brown traded to 76ers, sparks chain reaction",
+      "LeBron James enters three-way bidding war",
+      "Lakers trade Deandre Ayton to Wizards",
+      "Knicks sign Andre Drummond to one-year deal",
+      "Argentina beats Cape Verde 3-2 in extra time"
+    ],
+    "news-entertainment": [
+      "Taylor Swift and Travis Kelce marry at MSG",
+      "Adam Sandler officiates star-studded wedding",
+      "Trump trolls Swift via White House Instagram",
+      "Patti LuPone's gay cruise turned away by Turkey",
+      "'Minions & Monsters' opens to disappointing box office"
+    ]
+  }
+}
