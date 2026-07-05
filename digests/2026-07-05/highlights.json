@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美股受伊美停火谈判提振创历史新高",
+      "SanDisk上半年暴涨858%，华尔街警告回调",
+      "欧洲央行称欧元区一体化未传导至股市",
+      "中国AI和芯片公司驱动A股IPO反弹",
+      "内地资金因交易限制收紧涌入香港"
+    ],
+    "news-society": [
+      "美国250周年独立日庆典与极端天气并行",
+      "伊朗百万民众为哈梅内伊举行葬礼",
+      "乌克兰首次打击圣彼得堡油港",
+      "法国极右翼领袖勒庞面临上诉判决",
+      "泰勒·斯威夫特与特拉维斯·凯尔西完婚"
+    ],
+    "news-military": [
+      "伊朗革命卫队导弹打击美军驻科威特和巴林基地",
+      "联合国警告全球饥饿水平可能因中东战争创纪录",
+      "美加军舰过航台海，东部战区回应",
+      "解放军公布运油20支持轰6N画面",
+      "乌克兰袭击圣彼得堡并否认俄军夺取城镇"
+    ],
+    "news-tech": [
+      "CATL每月建设超200座换电站",
+      "特斯拉司机因自动驾驶事故被控过失杀人",
+      "NASA启动紧急太空救援任务",
+      "特朗普批准Anthropic全球扩张",
+      "Midjourney反诉好莱坞要求披露AI使用细节"
+    ],
+    "news-sports": [
+      "法国1-0险胜巴拉圭，姆巴佩点射",
+      "葡萄牙2-1绝杀克罗地亚，C罗点射",
+      "温网英国外卡选手费里带血奋战晋级",
+      "CBA选秀与归化政策讨论升温",
+      "摩洛哥3-0完胜加拿大，34场不败"
+    ],
+    "news-entertainment": [
+      "谢娜因唱功争议取消演唱会",
+      "“明星失业”冲上热搜，行业泡沫破裂",
+      "Beyoncé发布两年内首支新单曲",
+      "Taylor Swift与Travis Kelce婚礼细节曝光",
+      "Oasis纪录片《Don't Look Back in Anger》预告"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US stocks hit record highs on ceasefire",
+      "ECB essays on digital money and green",
+      "China IPOs surge led by AI firms",
+      "Gold rebounds above $4,000",
+      "World Cup betting boosts prediction markets"
+    ],
+    "news-society": [
+      "Ukraine strikes key oil terminal in Russia",
+      "Iran holds massive funeral for Khamenei",
+      "US 250th birthday with Trump speech",
+      "French court verdict may decide Le Pen fate",
+      "Japan heavy rains trigger landslide warnings"
+    ],
+    "news-military": [
+      "Iran launches missile strikes on US bases",
+      "US precision strikes on Iranian facilities",
+      "US-Canada warship transits Taiwan Strait",
+      "China vows to accelerate reunification",
+      "Ukraine expands war with deep strikes"
+    ],
+    "news-tech": [
+      "NASA launches emergency Swift rescue mission",
+      "White House deletes thousands of energy pages",
+      "Alphabet joins Dow Jones, replacing Verizon",
+      "Trump clears Anthropic for global operations",
+      "Heatwave exposes political fault lines over energy"
+    ],
+    "news-sports": [
+      "France beats Paraguay 1-0, faces Morocco",
+      "England's Reece James doubtful for Mexico",
+      "Portugal edges Croatia 2-1, Ronaldo scores",
+      "BLG defeats T1 in esports World Cup",
+      "Scotland rugby wins in Nations Championship"
+    ],
+    "news-entertainment": [
+      "Trump salutes veterans in July 4 speech",
+      "Beyoncé releases first new song in two years",
+      "Taylor Swift wedding details emerge",
+      "Sky buying ITV could affect favourite shows",
+      "Oasis doc teaser featuring Liam and Noel"
+    ]
+  }
+}
