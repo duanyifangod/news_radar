@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "英伟达AI机架系统延迟至2028年",
+      "美国6月非农增5.7万，远低于预期",
+      "ECB核心系统T2支付短暂中断",
+      "中国车企改写欧洲市场格局",
+      "韩国资金涌入A股买入寒武纪"
+    ],
+    "news-society": [
+      "伊朗最高领袖缺席其父葬礼",
+      "俄罗斯空袭基辅致9死",
+      "超强台风巴威登陆罗塔岛",
+      "法国勒庞上诉判决将定参选资格",
+      "委内瑞拉女孩废墟下存活32小时"
+    ],
+    "news-military": [
+      "俄核动力巡洋舰开始最后海试",
+      "英国首次从舰艇发射攻击无人机",
+      "美海军陆战队在日本部署铁穹",
+      "埃及展示S-300VM防空系统",
+      "中俄宣布太平洋联合海军演习"
+    ],
+    "news-tech": [
+      "特朗普迷因币投资者亏损38亿美元",
+      "Alphabet加入道琼斯工业指数",
+      "Mistral AI计划融资30亿欧元",
+      "Reflection AI估值飙升至250亿",
+      "电动汽车反向供电缓解电网压力"
+    ],
+    "news-sports": [
+      "英格兰10人作战3-2淘汰墨西哥",
+      "哈兰德双响送巴西出局",
+      "图赫尔赛后炮轰裁判不公",
+      "巴洛贡红牌被撤销引争议",
+      "张宁鲍春来个人生活回顾引热议"
+    ],
+    "news-entertainment": [
+      "Taylor Swift与Travis Kelce纽约婚礼",
+      "ATEEZ第三次登顶Billboard 200",
+      "KARD混声组合宣布解散",
+      "谢娜因唱功争议取消演唱会",
+      "李光洁郭京飞为宣传新剧互骂"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Nvidia's next-gen AI rack delayed to 2028",
+      "Meta faces India ire over child ads on Instagram",
+      "US added only 57,000 jobs in June",
+      "Chinese carmakers rewriting Europe's auto hierarchy",
+      "Iran oil inventory challenges post-sanctions relief"
+    ],
+    "news-society": [
+      "Nine killed in Russian strikes on Kyiv",
+      "Super Typhoon Bavi makes landfall on US Pacific islands",
+      "Marine Le Pen appeal verdict matters for France",
+      "Iran's supreme leader absent at ayatollah's funeral",
+      "Vietnam cracks down on fake luxury goods"
+    ],
+    "news-military": [
+      "Russia strikes Kyiv ahead of NATO summit",
+      "UK and Ukraine demonstrate naval strike drones",
+      "China and Russia announce joint Pacific drills",
+      "US Marines deploy Iron Dome in Japan",
+      "Russia's nuclear battlecruiser begins final sea trials"
+    ],
+    "news-tech": [
+      "Reflection AI valuation soars to $25B",
+      "Alphabet joins Dow Jones Industrial Average",
+      "Mistral AI targets €3B raise",
+      "Rumored GPT-5.6 leak stirs speculation",
+      "EVs prove grid stability during record heat"
+    ],
+    "news-sports": [
+      "England eliminates co-hosts Mexico 3-2",
+      "Erling Haaland knocks Brazil out 2-1",
+      "Verstappen fed up with dangerous Red Bull",
+      "Osaka stuns Sabalenka at Wimbledon",
+      "Chris Gotterup wins John Deere Classic"
+    ],
+    "news-entertainment": [
+      "Taylor Swift and Travis Kelce marry",
+      "KARD announces disbandment plans",
+      "Macy's July 4th fireworks largest since 2019",
+      "Dilraba Dilmurat wins TV actress award",
+      "Xie Na's concert draws massive crowd"
+    ]
+  }
+}
