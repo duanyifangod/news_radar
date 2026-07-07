@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "中国AI模型低成本冲击美国市场",
+      "央行将南向债券通额度提升至8000亿元",
+      "德国工厂订单超预期，DAX和欧元走高",
+      "三星利润创历史新高但股价下跌",
+      "香港中环写字楼空置率降至43个月新低"
+    ],
+    "news-society": [
+      "俄罗斯在乌克兰酷刑监狱被BBC曝光",
+      "Interpol全球人口贩卖打击逮捕超千人",
+      "叙利亚前官员在奥地利被判有罪",
+      "超强台风巴维袭击太平洋岛屿",
+      "法国南部野火致万人疏散"
+    ],
+    "news-military": [
+      "特朗普赴安卡拉参加北约峰会",
+      "中国向南太平洋试射潜射弹道导弹",
+      "乌克兰爱国者拦截弹耗尽",
+      "加拿大选定德国212型潜艇重建舰队",
+      "美海军计划在珍珠港部署9艘中型登陆舰"
+    ],
+    "news-tech": [
+      "比亚迪Seal08上市30小时锁单6.5万",
+      "微软再裁4800人，AI替代明确",
+      "AI勒索攻击首次实现但非全自动",
+      "Google用用户搜索媒体训练AI",
+      "特斯拉座舱摄像头从防睡失效到身份验证"
+    ],
+    "news-sports": [
+      "美国队1:4惨败比利时出局",
+      "C罗最后一届世界杯止步十六强",
+      "字母哥告别雄鹿加盟热火",
+      "勒布朗离开湖人，管理层混乱",
+      "国王裁掉德罗赞引爆自由市场"
+    ],
+    "news-entertainment": [
+      "诺兰《奥德赛》首批口碑释出",
+      "Zendaya由丈夫告知入选《奥德赛》",
+      "美国男足惨败后Fox解说恳求球迷",
+      "周星驰《功夫女足》阵容曝光",
+      "微博七七事变89周年全面禁娱"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Chinese AI models challenge US incumbents",
+      "Samsung record profit but shares fell",
+      "Microsoft cuts 4,800 jobs, Xbox downsized",
+      "Alibaba bans Anthropic's AI over attack",
+      "PBOC boosts Hong Kong yuan hub status"
+    ],
+    "news-society": [
+      "China ICBM test alarms Australia, Japan",
+      "Russia intensifies strikes on Kyiv",
+      "Hamas dissolves civilian governing body",
+      "Super typhoon strikes US Pacific territories",
+      "Wildfire disrupts Tour de France stage"
+    ],
+    "news-military": [
+      "China tests SLBM into Pacific Ocean",
+      "Ukraine runs out of Patriot interceptors",
+      "Russian missile barrage kills 22 in Kyiv",
+      "NATO summit in Ankara faces dual threats",
+      "China and Russia start joint naval drills"
+    ],
+    "news-tech": [
+      "Tesla cabin camera now FSD identity check",
+      "GM recalls 15,000 Cadillac Vistiq EVs",
+      "BYD Seal 08 gets 65,000 orders in 30 hours",
+      "AI model costs surge, competition heats up",
+      "FCC rolls back consumer protection rules"
+    ],
+    "news-sports": [
+      "USMNT eliminated 4-1 by Belgium",
+      "Ronaldo's final World Cup ends in tears",
+      "Giannis Antetokounmpo traded to Heat",
+      "LeBron James leaves the Lakers",
+      "Celtics trade Jaylen Brown in NBA move"
+    ],
+    "news-entertainment": [
+      "Nolan's The Odyssey gets early rave reactions",
+      "Zendaya froze on first day as Athena",
+      "Pattinson compares role to Twilight character",
+      "US World Cup exit reshapes sports TV",
+      "Singer Lauren Bennett dies at 37"
+    ]
+  }
+}
