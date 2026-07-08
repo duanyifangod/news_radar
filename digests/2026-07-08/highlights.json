@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突升级推高油价，布伦特跳涨",
+      "A股科技股V形反弹，科创50半日涨3%",
+      "Rivian因股票发行暴跌18%，资金困境凸显",
+      "中国央行连续20个月增持黄金至2346吨",
+      "港股AI解禁潮在即，带来流动性压力"
+    ],
+    "news-society": [
+      "美军对伊朗发动空袭，全球油价剧烈震荡",
+      "勒庞被定罪后数小时内宣布参选总统",
+      "台风引发中国洪水和罕见龙卷风，灾情严重",
+      "韩国光州扎带物证丢失，警察信誉危机",
+      "加沙医生在以色列监狱被严重殴打"
+    ],
+    "news-military": [
+      "美国对伊朗80余目标发动大规模空袭",
+      "中国被曝太平洋试射巨浪-3潜射导弹",
+      "印尼与印度签署布拉莫斯导弹采购协议",
+      "菲律宾确认从日本购买五艘驱逐舰",
+      "加拿大选德国TKMS作为新一代潜艇供应商"
+    ],
+    "news-tech": [
+      "Meta允许用Instagram照片生成AI图像，需退出",
+      "OpenAI首席未来学家Joshua Achiam离职",
+      "Anthropic推出Claude Cowork移动版",
+      "全球科技公司AI安全承诺集体退缩",
+      "福特因差速器隐患召回4.2万辆Mach-E"
+    ],
+    "news-sports": [
+      "阿根廷0-2落后3-2补时绝杀埃及晋级",
+      "德约5小时15分钟创温网1/4决赛时长纪录",
+      "英格兰板球125分大胜印度创T20纪录",
+      "西班牙队史首次世界杯补时绝杀",
+      "瑞士点球淘汰哥伦比亚，将战阿根廷"
+    ],
+    "news-entertainment": [
+      "Taylor Swift婚礼Adam Sandler主婚",
+      "Spice Girls电影《Spice World》将上线流媒体",
+      "老版蝙蝠侠韦恩庄园挂牌3200万美元",
+      "ATEEZ成员Yunho分手确认",
+      "TWICE Sana将主演韩日合拍片《Nyangi》"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil jumps on US strikes against Iran",
+      "Momenta rises 3% in Hong Kong debut",
+      "Tech stocks become largest CSI 300 sector",
+      "ECB warns banks on AI-powered cyber threats",
+      "Hong Kong expands yuan facilities for de-dollarization"
+    ],
+    "news-society": [
+      "US launches strikes on Iran after tanker attacks",
+      "NATO allies announce £37 billion missile project",
+      "Lawyer says detained Gaza doctor severely beaten",
+      "IOC moves to allow more Russian athletes back",
+      "Typhoon triggers floods and rare tornadoes in China"
+    ],
+    "news-military": [
+      "US strikes over 80 targets in Iran",
+      "China tests JL-3 submarine-launched missile",
+      "Trump meets NATO leaders in Turkey amid crisis",
+      "Strait of Hormuz tanker attacks trigger retaliation",
+      "Iran warns of 'decisive measures' against US"
+    ],
+    "news-tech": [
+      "Meta Muse Image uses Instagram photos as AI prompts",
+      "AI safety index ranks Google, Anthropic, OpenAI",
+      "Ultra-low-cost EVs under $14,000 hit US roads",
+      "Tenda routers hidden backdoor discovered",
+      "Netflix experiments with short-form content via publishers"
+    ],
+    "news-sports": [
+      "Djokovic wins longest Wimbledon quarterfinal in history",
+      "Argentina beats Egypt with stoppage-time comeback",
+      "Switzerland wins penalty shootout against Colombia",
+      "Spain scores first World Cup stoppage-time winner",
+      "England cricket humbles India by record T20I margin"
+    ],
+    "news-entertainment": [
+      "Taylor Swift and Travis Kelce marry at Madison Square Garden",
+      "Adam Sandler officiates Swift-Kelce wedding",
+      "K-pop idols transition to Chinese dramas",
+      "TWICE's Sana confirmed to make acting debut",
+      "Disney expands high-fashion collaboration with Ganni"
+    ]
+  }
+}
