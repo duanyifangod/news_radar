@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "布伦特原油飙至79美元，美伊冲突升级",
+      "美股期货上涨，地缘事件被视为短空长多",
+      "中国6月CPI仅增0.2%，PPI升至近四年高位",
+      "IMF下调全球增速至3.0%，警告二次通胀",
+      "美欧政府债券收益率因停火结束而上升"
+    ],
+    "news-society": [
+      "特朗普宣布美伊停火结束，美军发动新打击",
+      "IMF下调2026年全球增长预测至3%",
+      "民主党参选人Graham Platner因性侵指控退选",
+      "ICC在苏丹达尔富尔战争罪行调查取得突破",
+      "亚利桑那州18个月幼儿被误判死亡后奇迹生还"
+    ],
+    "news-military": [
+      "美伊战火重燃，特朗普下令新一轮打击",
+      "伊朗击落美军MQ-9无人机并实施反击",
+      "北约承诺1400亿欧元援助乌克兰",
+      "特朗普允许乌克兰本地生产爱国者拦截器",
+      "台湾测试空射超音速反舰导弹对抗无人机"
+    ],
+    "news-tech": [
+      "布朗大学AI作弊检测致考试平均分暴跌50%",
+      "中国裁撤1.22万个专业，大量替换为AI学位",
+      "Meta研发可连续录音拍照的超级感知眼镜",
+      "中国强制安全功能保留物理按钮，逆转触屏趋势",
+      "Fiat Topolino以不到1万美元成美国最便宜电动车"
+    ],
+    "news-sports": [
+      "斯塔默暗示英格兰世界杯夺冠可能全国放假",
+      "埃及指控裁判偏袒阿根廷和梅西",
+      "切尔西4000万英镑签下18岁边锋昆达",
+      "吉马良斯告知纽卡想加盟阿森纳",
+      "温网外卡选手费里成46年首位本土男单四强"
+    ],
+    "news-entertainment": [
+      "Justin Baldoni首度公开谈论与Blake Lively法律战",
+      "CAA抨击Meta AI图像生成器默许用户肖像权",
+      "《Dune: Part Three》官方预告释出",
+      "Rain与李星民有望加盟《Solo Leveling》真人剧",
+      "横店影视基地拍摄量锐减引发演员失业讨论"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil spikes above $79 on US-Iran strikes",
+      "Fed minutes show cautious stance on rate cuts",
+      "China June CPI up only 0.2% YoY",
+      "IMF cuts 2026 growth forecast to 3%",
+      "AI stocks surge in US and China"
+    ],
+    "news-society": [
+      "Trump declares US-Iran ceasefire over",
+      "IMF slashes global growth forecast to 3%",
+      "Democrat Senate candidate drops out",
+      "Research suggests bees have emotions",
+      "Toddler declared dead found alive in morgue"
+    ],
+    "news-military": [
+      "US-Iran ceasefire collapses",
+      "Trump orders second night of Iran strikes",
+      "NATO pledges Patriot production in Ukraine",
+      "Taiwan tests supersonic anti-ship missiles",
+      "China launches submarine-launched strategic missile"
+    ],
+    "news-tech": [
+      "Brown University exam reveals AI cheating",
+      "Meta develops always-on recording smart glasses",
+      "US military seeks cheaper drones after Iran losses",
+      "China mandates physical buttons in cars",
+      "Xiaomi enters extended-range EV market"
+    ],
+    "news-sports": [
+      "World Cup quarterfinals set",
+      "Egypt alleges favoritism toward Argentina",
+      "Golden Boot race remains tight",
+      "Chelsea signs Quenda for £40m",
+      "Putellas moves to London City Lionesses"
+    ],
+    "news-entertainment": [
+      "Disney leads Emmy nominations with 125",
+      "CAA escalates fight against Meta Muse AI",
+      "Justin Baldoni breaks silence in legal battle",
+      "Dune Part Three trailer released",
+      "Major K-drama casting news announced"
+    ]
+  }
+}
