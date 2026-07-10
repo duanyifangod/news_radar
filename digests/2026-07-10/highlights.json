@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "SK海力士纳斯达克上市融资265亿美元",
+      "美伊技术谈判持续，油价回落2.2%",
+      "美联储成立五大工作组，邀外部专家",
+      "拉加德呼吁创建欧洲安全资产",
+      "A股医药板块爆发，沪指涨0.76%"
+    ],
+    "news-society": [
+      "美伊互袭升级，双方打击目标扩大",
+      "加沙援助工作者遭以军空袭身亡",
+      "西班牙野火致12人死亡",
+      "中国出台‘十五五’碳达峰方案",
+      "知乎营收下滑23.6%，加速AI商业化"
+    ],
+    "news-military": [
+      "美伊冲突进入第三天，互袭范围扩大",
+      "中国太平洋试射潜射弹道导弹",
+      "德国采购陆基‘战斧’导弹",
+      "五角大楼申请转移430亿美元",
+      "‘林肯’号航母连续部署超200天"
+    ],
+    "news-tech": [
+      "全球EV销量6月破200万辆",
+      "新泽西法案狙击特斯拉纯视觉方案",
+      "OpenAI二号人物离职，GPT-5.6发布",
+      "Anthropic加入伯南克强化治理",
+      "AI agent初创用自家产品融1亿美元"
+    ],
+    "news-sports": [
+      "法国2-0摩洛哥挺进世界杯四强",
+      "英格兰遭伤病：格伊赖斯或缺阵",
+      "克洛普回忆十年前追星姆巴佩失败",
+      "希勒改口看好英格兰夺冠",
+      "巴西0-1挪威止步16强"
+    ],
+    "news-entertainment": [
+      "IU与李钟硕确认四年恋情结束",
+      "SAG-AFTRA建议退出Meta AI保护肖像",
+      "周星驰《功夫女足》领跑暑期档",
+      "中国真人互动影游刷屏海外",
+      "广西洪灾上热搜，对比明星霸屏争议"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "SK Hynix $26.5bn Nasdaq debut",
+      "US-Iran ceasefire frays, oil drops 2.2%",
+      "Fed's Warsh names task forces",
+      "ECB's Lagarde calls for European safe asset",
+      "China A-share resilience, healthcare surges"
+    ],
+    "news-society": [
+      "US launches new airstrikes on Iran",
+      "Ukraine strikes Russian ships near Crimea",
+      "Gaza aid worker killed by Israeli strike",
+      "Spain wildfire kills 12 in Almería",
+      "North Korea warns over Seoul-Tokyo ties"
+    ],
+    "news-military": [
+      "US strikes 170 Iran targets in retaliation",
+      "Iran strikes US bases in four countries",
+      "Pentagon shifts $4.3B for rising costs",
+      "China's J-15T seen with four anti-ship missiles",
+      "Trump declares US-Iran ceasefire over"
+    ],
+    "news-tech": [
+      "OpenAI launches GPT-5.6, loses No. 2 exec",
+      "Global EV sales hit 2 million in June",
+      "China's 1 GW Hami solar plant with molten salt",
+      "Trump clean-energy rollbacks cost $68B",
+      "New Jersey bill threatens Tesla's Robotaxi"
+    ],
+    "news-sports": [
+      "France beat Morocco 2-0 to reach semis",
+      "Mbappe scores 8th goal of tournament",
+      "England face injury worries before Norway QF",
+      "Shearer says England might win World Cup",
+      "Former Chinese badminton stars resurface"
+    ],
+    "news-entertainment": [
+      "IVE's Gaeul misses TIMA awards",
+      "IU and Lee Jong Suk confirm breakup",
+      "SAG-AFTRA advises opt-out of Meta AI",
+      "Anthony Hopkins signs with Decca Classics",
+      "Chinese interactive film games go global"
+    ]
+  }
+}
