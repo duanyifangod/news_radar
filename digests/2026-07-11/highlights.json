@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "苹果起诉OpenAI窃取商业秘密",
+      "SK海力士纳斯达克首日大涨13%",
+      "Shein获证监会批准赴港IPO",
+      "德企破产潮与西班牙试探共同债务",
+      "特朗普放松阿联酋出口管制被批"
+    ],
+    "news-society": [
+      "西班牙山火致12死含4名英国人",
+      "Meta撤回AI改图功能因用户滥用",
+      "美伊在霍尔木兹海峡冲突暂停",
+      "休斯顿ICE误杀平民目标错误",
+      "超强台风巴威逼近台湾华南致15死"
+    ],
+    "news-military": [
+      "菲律宾防长呼吁军费升至GDP4%",
+      "F-22转场英格兰结束伊朗部署",
+      "乌克兰无人机打击俄炼油厂与亚速港",
+      "土耳其S-400转售谈判获俄方确认",
+      "法国开发高超音速核导弹"
+    ],
+    "news-tech": [
+      "AI价格战升级Meta撤回争议功能",
+      "OpenAI安全负责人离职苹果起诉",
+      "中国电动车包揽澳大利亚销量前七",
+      "小米发布续航超1500公里增程SUV",
+      "SpaceX申请发射10万颗额外卫星"
+    ],
+    "news-sports": [
+      "西班牙世界杯绝杀比利时进四强",
+      "温网决赛辛纳vs兹维列夫",
+      "英格兰备战挪威伤病停赛困扰",
+      "UFC329霍洛威增重升次中",
+      "中国裁判张潇亮相NBA夏季联赛"
+    ],
+    "news-entertainment": [
+      "诺兰盛赞年轻导演拒绝AI垃圾",
+      "Meta撤回AI图像生成器遭批",
+      "奥斯卡美术指导Barbara Ling去世",
+      "Scripps与DirecTV结束五周停播",
+      "TXT然竣刷新韩流solo首日销量纪录"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Apple sues OpenAI for trade secrets",
+      "SK Hynix surges 13% in Nasdaq debut",
+      "Circle gets OCC bank charter, shares up",
+      "Trump eases export controls for UAE MGX",
+      "Shein wins China approval for HK IPO"
+    ],
+    "news-society-en": [
+      "US-Iran tensions pause, negotiations resume",
+      "Spain wildfire kills 12, 23 missing",
+      "Typhoon Bavi heads for Taiwan, SE China",
+      "Meta pulls controversial AI image feature",
+      "Apple sues OpenAI over trade secrets"
+    ],
+    "news-military-en": [
+      "Philippines seeks 4% GDP defense spending",
+      "Ukraine gets license for Patriot production",
+      "Turkey weighs S-400 transfer for F-35s",
+      "German Navy to deploy laser weapons by 2029",
+      "US Navy explores S.Korean yards for ships"
+    ],
+    "news-tech-en": [
+      "Apple sues OpenAI over trade secrets",
+      "Meta removes Instagram AI feature after backlash",
+      "OpenAI safety head Heidecke resigns",
+      "Big Tech debt hits $350B for AI spending",
+      "Xiaomi unveils 932-mile range SUV"
+    ],
+    "news-sports-en": [
+      "Spain beats Belgium 2-1 in WC quarterfinal",
+      "England prepares for Norway clash in QF",
+      "Sinner beats Djokovic at Wimbledon semis",
+      "Zverev ends Fery's Wimbledon dream run",
+      "Holloway transforms for McGregor rematch"
+    ],
+    "news-entertainment-en": [
+      "Three industry veterans die including Barbara Ling",
+      "Paramount-Warner Bros merger clears hurdle",
+      "Nolan praises Gen Z for rejecting AI slop",
+      "Meta disables Muse AI generator after backlash",
+      "K-pop continues to dominate sales charts"
+    ]
+  }
+}
