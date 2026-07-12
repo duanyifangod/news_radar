@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突升级，标普500跌至7482点",
+      "中国老年人疯狂涌入科技股",
+      "大众中国交付量创16年新低",
+      "高盛警告美国将承担AI通胀冲击",
+      "欧洲央行面临新一轮通胀压力"
+    ],
+    "news-society": [
+      "伊朗关闭霍尔木兹海峡并攻击约旦",
+      "西班牙野火致12人死亡含4名英国人",
+      "多伦多街头节日枪击2死4伤",
+      "波兰总理提议纪念二战乌克兰屠杀",
+      "台风巴威登陆浙江近200万人撤离"
+    ],
+    "news-military": [
+      "伊朗导弹精确命中约旦美军基地",
+      "乌克兰一夜打击21艘俄油轮",
+      "特朗普承认权衡对伊朗有限打击",
+      "美军计划将远程导弹产量提高三倍",
+      "南海仲裁案十年中国官媒建议声索巴丹群岛"
+    ],
+    "news-tech": [
+      "Nopia合成器历经三年终于接近量产",
+      "Philips Hue变砖后提供免费更换",
+      "无摄像头智能眼镜主打会议摘要",
+      "旧金山爆发史上最大规模AI抗议",
+      "三星Micro RGB电视被评亮度不足"
+    ],
+    "news-sports": [
+      "贝林厄姆加时绝杀挪威晋级半决赛",
+      "文班亚马5年2.52亿顶薪续约马刺",
+      "莫兰特交易至开拓者称重新开始",
+      "热火内讧阿德巴约训练中击中希罗",
+      "上海久事就怀特塞德兴奋剂事件表态"
+    ],
+    "news-entertainment": [
+      "Jay-Z洋基球场90分钟演出引不满",
+      "Big Brother火山桥段遭批评",
+      "Patti LuPone同志游轮再被埃及拒",
+      "aespa新曲LEMONADE再创佳绩",
+      "矢野浩二广西洪灾低调救援口碑逆转"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US launches airstrikes against Iran",
+      "S&P 500 slips to 7,482.71",
+      "Elderly Chinese investors buy tech stocks",
+      "Volkswagen China deliveries drop 26%",
+      "Hong Kong builds gold-yuan network"
+    ],
+    "news-society": [
+      "Iran closes Strait of Hormuz",
+      "Toronto street festival shooting kills 2",
+      "Typhoon Bavi hits eastern Zhejiang",
+      "China evacuates nearly 2 million",
+      "Oil markets face severe disruption"
+    ],
+    "news-military": [
+      "Iran tests NATO's resolve",
+      "Ukraine drones threaten Azov Sea",
+      "China marks South China Sea arbitration",
+      "US withdraws F-22s from Middle East",
+      "Pentagon pushes to purge AI contractor"
+    ],
+    "news-tech": [
+      "Historic AI protest in San Francisco",
+      "OpenAI loses sixth safety leader",
+      "Philips replaces bricked smart hubs",
+      "Long-awaited Nopia synth nears retail",
+      "Tesla Cybercab employee rides vague"
+    ],
+    "news-sports": [
+      "England beats Norway in extra time",
+      "Argentina edges Switzerland 1-0",
+      "Wembanyama signs $252M extension",
+      "Adebayo struck Herro in altercation",
+      "Hornets trade LaMelo Ball"
+    ],
+    "news-entertainment": [
+      "Jay-Z celebrates Blueprint anniversary",
+      "aespa wins Music Core again",
+      "BTS Life Goes On hits 600M views",
+      "Agent Kim earns record ratings",
+      "Apartment Job premieres at No.1"
+    ]
+  }
+}
