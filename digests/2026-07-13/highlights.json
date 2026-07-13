@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊空袭致油价跳涨，亚洲股市下滑",
+      "SK海力士纳斯达克首秀后暴跌12%",
+      "参议员格雷厄姆去世影响国会立法",
+      "中国硬科技获外资创纪录涌入",
+      "流媒体等宅经济服务价格持续上涨"
+    ],
+    "news-society": [
+      "伊朗打击海湾美军基地，冲突升级",
+      "巴黎周边野火规模异常，调飞机北上",
+      "曼谷酒吧火灾致27人死亡",
+      "日本宠物数量首次超过婴幼儿",
+      "超强台风登陆浙江，近200万人转移"
+    ],
+    "news-military": [
+      "美伊进入攻击-报复循环",
+      "霍尔木兹海峡航运保险费率飙升",
+      "乌克兰击中俄油轮切断克里米亚陆桥",
+      "14国南海声明中方强硬回应",
+      "解放军J-16展示‘野兽模式’携弹量"
+    ],
+    "news-tech": [
+      "Oura Ring 5获评最佳智能戒指",
+      "抗议者要求暂停AI竞赛",
+      "Uber呼吁放慢自动驾驶落地",
+      "3DS成功运行Claude Code",
+      "奔驰AMG CLA 45亮相Goodwood"
+    ],
+    "news-sports": [
+      "文班亚马5年2.52亿顶薪续约",
+      "阿德巴约与希罗在拉斯维加斯动手",
+      "世界杯前四种子首度全部进半决赛",
+      "辛纳直落四盘卫冕温网冠军",
+      "中国男篮被绝杀三后卫遭质疑"
+    ],
+    "news-entertainment": [
+      "《功夫女足》首周末7.4亿票房",
+      "Jay-Z演唱会因安全漏洞延迟四小时",
+      "《Love Island USA》第八季冠军揭晓",
+      "参议员格雷厄姆去世引关注",
+      "Sacha Baron Cohen突袭温网决赛"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "U.S.-Iran airstrikes surge oil prices",
+      "Senator Lindsey Graham dies at 71",
+      "SK Hynix stock plunges after Nasdaq debut",
+      "China hard-tech rally attracts foreign capital",
+      "Funflation squeezes U.S. household budgets"
+    ],
+    "news-society": [
+      "US-Iran strikes hit bases in Gulf states",
+      "Lindsey Graham dies at 71 from heart illness",
+      "Bangkok bar fire kills at least 27",
+      "Wildfires threaten Paris region for first time",
+      "Typhoon forces evacuation of 2 million in China"
+    ],
+    "news-military": [
+      "US and Iran trade heavy strikes over weekend",
+      "Ukraine claims drone strike on Russian ships",
+      "Strait of Hormuz disruption threatens energy",
+      "China marks South China Sea ruling anniversary",
+      "New anti-drone systems enter development"
+    ],
+    "news-tech": [
+      "Protesters march on OpenAI and DeepMind offices",
+      "OpenAI launches advertising platform for ChatGPT",
+      "Mercedes unveils 680 hp electric AMG CLA 45",
+      "Tesla and Rivian beat Q2 expectations",
+      "Oura Ring 5 sets new smart ring standard"
+    ],
+    "news-sports": [
+      "Wembanyama signs $252M max extension with Spurs",
+      "Hornets trade LaMelo Ball for future core",
+      "Ja Morant embraces fresh start in Portland",
+      "Adebayo and Herro in physical altercation",
+      "World Cup semis feature top four FIFA nations"
+    ],
+    "news-entertainment": [
+      "Kung Fu Soccer opens to $74M in two days",
+      "Jay-Z concert delayed 4 hours after security breach",
+      "Love Island USA crowns winners Bryce & Trinity",
+      "Love Island producer James Barker dies unexpectedly",
+      "Goblin cast ends 10th anniversary trip"
+    ]
+  }
+}
