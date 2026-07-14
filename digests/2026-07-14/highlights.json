@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "布伦特原油飙升5%，国内原油期货涨9%",
+      "特朗普拟对霍尔木兹海峡船舶征收20%通行费",
+      "中国6月出口超预期，AI电子元件出口两位数增长",
+      "A股科创50跌超3%，地缘风险压倒贸易基本面",
+      "香港银行按揭现金回赠升至两年多新高"
+    ],
+    "news-society": [
+      "美伊冲突升级，特朗普宣布封锁霍尔木兹海峡",
+      "曼谷酒吧火灾致28死，幸存者称无路可逃",
+      "悉尼托儿所性侵案，男子被控虐待136名儿童",
+      "习近平将出席2026世界人工智能大会并发表讲话",
+      "知乎热议‘消失的人工客服’，反思自动化服务"
+    ],
+    "news-military": [
+      "美军首次实战使用自杀式无人艇攻击伊朗潜艇",
+      "特朗普宣布对伊朗第三轮打击并重启海峡封锁",
+      "胡塞武装袭击沙特机场，冲突外溢",
+      "9国支持乌克兰生产Freyja反导系统",
+      "俄核动力巡洋舰‘纳希莫夫海军上将’号重新入列"
+    ],
+    "news-tech": [
+      "OnePlus正式宣布退出美国及欧洲市场",
+      "马斯克与奥特曼互怼太空数据中心可行性",
+      "Monzo联合创始人加入Anthropic，AI人才战升温",
+      "特斯拉宣称制造轮椅可用Robotaxi，时间未定",
+      "乌克兰无人机迫使俄罗斯暂停亚速海航运"
+    ],
+    "news-sports": [
+      "世界杯半决赛：法国对西班牙，阿根廷对英格兰",
+      "曼联4800万镑签桑托斯，接近签蒂勒曼斯",
+      "维拉截胡纽卡超6000万欧签曼赞比",
+      "46岁斯科拉成球队掌门人，引发热议",
+      "国羽全主力出征日本公开赛，开启卫冕之旅"
+    ],
+    "news-entertainment": [
+      "华纳与派拉蒙合并遭12州检察长申请禁令",
+      "华纳CEO Zaslav再抛售约5947万美元股票",
+      "香港电影巨匠施南生逝世，享年75岁",
+      "Paramount CEO推动联邦电影税收激励法案",
+      "TWICE周子瑜被传离开JYP娱乐"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil surges above $90 after U.S. strikes and Hormuz toll",
+      "China exports jump 14% to U.S., fastest since 2021",
+      "AI boom and tariff front-loading power export rebound",
+      "Asian tech stocks slide, S. Korea circuit breaker triggered",
+      "ECB highlights housing mobility drag on labour market"
+    ],
+    "news-society": [
+      "U.S. launches new attacks on Iran, oil near $85",
+      "Bangkok bar fire kills at least 28, 25 critical",
+      "Actor Sam Neill dies at 78, tributes pour in",
+      "Briton survives Spain wildfire, wife and friends die",
+      "Australia debates AI regulation and hospitality labor"
+    ],
+    "news-military": [
+      "U.S. launches third night of strikes on Iran",
+      "Trump reinstates naval blockade of Iranian ports",
+      "Houthis attack Saudi airport in retaliation",
+      "Ceasefire collapses after barely one month",
+      "First combat use of US unmanned surface vessels"
+    ],
+    "news-tech": [
+      "OnePlus may exit US and Europe, retreat signals",
+      "SpaceX preps Starship's 13th test flight",
+      "General Fusion goes public on Nasdaq",
+      "California EV rebate favors Rivian and Lucid",
+      "Japan develops new lithium recovery method 90% efficient"
+    ],
+    "news-sports": [
+      "World Cup semis: France vs Spain, England vs Argentina",
+      "England captain Kane says squad completely together",
+      "France most clinical, Spain least creative in semis",
+      "Man Utd signs Andrey Santos for £48m",
+      "Spain's Rodri leads tournament with 597 passes"
+    ],
+    "news-entertainment": [
+      "David Zaslav sells $59.5M in WBD shares",
+      "State AGs seek restraining order on Paramount-WBD",
+      "Hong Kong producer Nansun Shi dies at 75",
+      "Disney's live-action Moana opens weak at box office",
+      "TWICE's Tzuyu reportedly leaving JYP after 11 years"
+    ]
+  }
+}
