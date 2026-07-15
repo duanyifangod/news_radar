@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "布伦特原油突破90美元，美国恢复对伊朗港口封锁。",
+      "中国二季度GDP同比增4.3%，创近四年新低。",
+      "美国6月CPI同比3.5%，通胀降温但油价反弹。",
+      "IBM暴跌25%创纪录，业绩预警引发AI疑虑。",
+      "美联储沃什承诺强力对抗通胀，政策预期生变。"
+    ],
+    "news-society": [
+      "美国启动对伊朗港口封锁，霍尔木兹海峡紧张。",
+      "西班牙野火致13死，含7名英国人。",
+      "特朗普支付500万美元赔偿给E·Jean Carroll。",
+      "中国AI拟人化服务新规正式施行。",
+      "委内瑞拉地震救援不力引发社会愤怒。"
+    ],
+    "news-military": [
+      "美国称已打击170个伊朗目标。",
+      "伊朗导弹攻击美军在约旦基地。",
+      "美军加油机被要求离开以色列最大机场。",
+      "乌克兰击落5枚俄弹道导弹。",
+      "美伊冲突持续升级，中东战局扩大。"
+    ],
+    "news-tech": [
+      "Lucid否认破产但股价暴跌40%。",
+      "马斯克买下燃气轮机公司为Grok供电。",
+      "微软Secure Boot被曝存在十年漏洞。",
+      "Google允许第三方应用商店登录Play。",
+      "OpenAI首款硬件为无屏可移动音箱。"
+    ],
+    "news-sports": [
+      "西班牙2-0法国晋级世界杯决赛。",
+      "英格兰与阿根廷半决赛赛前口水仗。",
+      "巴萨不愿放弃阿尔瓦雷斯，准备提价。",
+      "布莱顿5000万镑签热刺后卫武什科维奇。",
+      "日本羽毛球公开赛中国全主力出征。"
+    ],
+    "news-entertainment": [
+      "12州起诉叫停派拉蒙与华纳兄弟合并。",
+      "NCT 127全员续约SM娱乐。",
+      "Jennie与Tame Impala合作曲进Billboard前五。",
+      "《功夫女足》票房破7亿，资本战上演。",
+      "苗苗秒删微博引发跑男元老离职猜想。"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil prices surge as US strikes Iran",
+      "China Q2 GDP grows 4.3%, slowest since 2022",
+      "US June CPI rises 3.5%, inflation cools",
+      "IBM stock collapses 25% in historic drop",
+      "ECB takes major step toward digital euro"
+    ],
+    "news-society": [
+      "Seven Britons killed in Spain wildfires",
+      "US Congress moves to make daylight saving permanent",
+      "Asian shares rise on slowing US inflation",
+      "Israeli strike kills seven in north Gaza",
+      "Trump struggles to end Iran war amid tolls"
+    ],
+    "news-military": [
+      "US strikes 170 Iranian targets in retaliation",
+      "Iran missiles hit US bases in Jordan, Patriot fails",
+      "Trump threatens to strike Iran's underground bunker",
+      "Ukraine downs 5 Russian ballistic missiles",
+      "US-Iran conflict escalates dramatically in 24 hours"
+    ],
+    "news-tech": [
+      "Lucid stock halts, crashes 40% on bankruptcy rumor",
+      "Elon Musk buys gas turbine company for AI power",
+      "OpenAI builds screenless, self-moving speaker",
+      "Microsoft Secure Boot broken for a decade",
+      "UK plans social media curfew for teens"
+    ],
+    "news-sports": [
+      "Spain beats France 2-0 to reach World Cup final",
+      "England faces Argentina in semi-final showdown",
+      "Messi-centric strategy drives Argentina's campaign",
+      "Deschamps ends France tenure after third-place",
+      "Spain's teamwork outshines individual stars"
+    ],
+    "news-entertainment": [
+      "Paramount-Warner Bros. merger faces antitrust lawsuit",
+      "Jennie hits Billboard Hot 100 top 5",
+      "Chinese film Kung Fu Women's Football crosses 700M",
+      "NCT 127 renews contracts with SM Entertainment",
+      "Zou Shiming's business bankruptcy sparks controversy"
+    ]
+  }
+}
