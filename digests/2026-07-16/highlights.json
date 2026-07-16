@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "SK海力士暴跌11%，亚洲芯片股跟跌",
+      "阿里百度因苹果AI合作传闻大涨",
+      "美联储独立性争议升温，沃什频繁会见特朗普",
+      "中国二季度GDP增速4.3%创近四年新低",
+      "欧元区启动数字欧元试点，利率前景不确定"
+    ],
+    "news-society": [
+      "美伊冲突升级，美空袭伊朗北部目标",
+      "俄乌互攻加剧，基辅遭导弹袭击",
+      "中国二季度GDP增长4.3%低于预期",
+      "日本过劳死赔偿金创历史新高",
+      "知乎营收下滑23.6%，押注AI商业化"
+    ],
+    "news-military": [
+      "美伊进入直接交火，空袭伊朗北部",
+      "伊朗打击科威特和巴林，冲突外溢",
+      "乌克兰国防部长被解职，政府改组",
+      "沙特获批购买2万枚激光制导火箭",
+      "乌军无人艇10天内攻击136次"
+    ],
+    "news-tech": [
+      "比亚迪目标超越丰田，不依赖美国市场",
+      "特斯拉单日新增58辆Robotaxi",
+      "Lamborghini推迟纯电车至2030年后",
+      "微软培训销售贬低OpenAI和Anthropic",
+      "xAI起诉用户用Grok生成CSAM"
+    ],
+    "news-sports": [
+      "阿根廷2-1逆转英格兰进世界杯决赛",
+      "凯恩全场13次带球仅推进27米",
+      "图赫尔换人遭质疑导致中场失控",
+      "李诗沣羽毛球日本赛爆冷一轮游",
+      "阿德巴约自评83分应获ESPY大奖"
+    ],
+    "news-entertainment": [
+      "韩剧《新职员4》剧本阅读公开",
+      "宝莱坞电影进军日本挑战韩流",
+      "张碧晨行程冲突被包装成弃赛声明",
+      "逐玉演唱会主演缺席仅两千人想看",
+      "《蝙蝠侠2》首曝剧照"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Apple AI deal lifts Alibaba and Baidu",
+      "Global chip selloff deepens",
+      "Fed's Warsh defends independence",
+      "China Q2 GDP slows to 4.3%",
+      "US tariffs on Brazil add trade front"
+    ],
+    "news-society": [
+      "US strikes Iran, Trump warns",
+      "Russia missiles hit Kyiv",
+      "Falklands banner sparks FIFA probe",
+      "France approves assisted dying",
+      "China GDP slows to 4.3%"
+    ],
+    "news-military": [
+      "US strikes targets in northern Iran",
+      "US fires on oil tanker violating blockade",
+      "Israel's defence exports rise",
+      "Saudis cleared to buy 20,000 rockets",
+      "Eyewitness video shows drone strike on warehouse"
+    ],
+    "news-tech": [
+      "Hyundai opens $5B battery plant",
+      "Lamborghini pushes EV past 2030",
+      "BYD signals Toyota as next target",
+      "Tesla robotaxis hit Texas",
+      "Toyota US EV sales surge 136%"
+    ],
+    "news-sports": [
+      "Argentina beats England 2-1",
+      "Messi's masterclass sets up winner",
+      "Tuchel's defensive tactics criticized",
+      "Falklands banner triggers FIFA probe",
+      "England out of World Cup"
+    ],
+    "news-entertainment": [
+      "Seo Yea Ji joins new agency",
+      "Doh Kyung Soo in zombie drama talks",
+      "Zhang Bichen schedule conflict sparks debate",
+      "'Zhu Yu Yi Nian' concert faces backlash",
+      "Veteran actor Hal Williams dies"
+    ]
+  }
+}
