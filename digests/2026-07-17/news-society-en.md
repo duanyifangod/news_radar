@@ -1,0 +1,136 @@
+# News Radar — 社会新闻
+
+> 2026-07-17 · Window: 24h · Items: 78 · Generated: 2026-07-17 04:25 UTC
+
+---
+
+## Editor's Brief
+
+Today's social news is dominated by escalating geopolitical tensions and environmental crises. The US-Iran conflict intensifies with mutual accusations, while Ukraine undergoes a risky leadership reshuffle. Simultaneously, a humanitarian disaster unfolds as Rohingya refugees vanish at sea, and Canadian wildfires blanket North American cities. In Asia, security alliances deepen and domestic Chinese policy focuses on AI governance and education reform.
+
+- **US-Iran Escalation:** Vice President JD Vance publicly accused Israel of manipulating US public opinion to prolong the war with Iran, signaling a deepening rift between allies ([BBC](https://www.bbc.co.uk/news/articles/c1m107yj327o)). Iran claimed US strikes hit civilian infrastructure like bridges, while the US boarded a ship in the Strait of Hormuz, raising the risk of a broader conflict ([BBC](https://www.bbc.co.uk/news/articles/c151gdjwd10o)).
+- **Ukraine Leadership Crisis:** President Zelensky fired popular Defense Minister Mykhailo Fedorov, a key architect of Ukraine's drone warfare success, sparking protests and criticism. The move may weaken battlefield innovation and morale ([NPR](https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired), [BBC](https://www.bbc.co.uk/news/articles/cdx76069n3do)).
+- **Humanitarian Tragedy:** Two boats carrying an estimated 530 Rohingya refugees have disappeared since late June, highlighting the ongoing peril for the persecuted minority ([BBC](https://www.bbc.co.uk/news/articles/cr59n096mrmo)).
+- **Environmental Disaster:** Over 800 wildfires in Canada are sending smoke across the border, triggering air quality alerts in major US cities from New York to the Midwest – a stark reminder of climate change impacts ([BBC](https://www.bbc.co.uk/news/articles/c0m7n427xd8o)).
+- **Indo-Pacific Alliances:** Military chiefs from South Korea, US, and Japan agreed to deepen security cooperation against North Korea, as Kim Jong Un met with a top Chinese official to strengthen ties ([Al Jazeera](https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss), [Asia News Network](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM01wUWhHMzBiUGRIcndCV2QtZldLZzd4d00wRUg1LVdmbVRZQWNRMUFtbmZERUJzOUdrZ0s5Rm1lcWtpQmtjTVV2blVqWWhnN3ZkdWFURUJTckQ5NGhkY0NlSjJFNjZaWGN3cUlZX0ZFaElCVG43eEtLNzdFSElCdWMwbGQ0TUhEaVJFVVBxQ3VkQXJJWjl4MWlSZHFuWVZv)).
+- **Domestic Chinese Focus:** Beijing is pushing a narrative of AI governance and educational reform, with state media highlighting Xi Jinping's guidance on AI and new vocational majors in humanoid robotics ([Xinhua](https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeVdLM0lkbEVHdlNIQVpHMlVuUWtuVnVUcGk2OHM4VHFFWXVuRGo4aGxjRi1NbllWMVpjcG84cTkzV3VmY3pYTVFiRHA5ZXJSejdDckxGS1BKeXk3WXNVZEI0X1NEdjFEeldzN2x2NnRVdmk3YmdYZzJxUnZ6eE0), [Sina](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM19xRy1TTk42RGdkZ3A5ZGF3ZWthdHRtdmFmY0dpXzFtVjQ2dlhCQ1BtT0ZaWTVza1FrWlZQUGl6MGpSMUI1b0h3YV9OZG0xZGw4OWxYZ0N4ek5KV0JZYWExamgzeExfcE9FelRSNGF5ODlpNk5PUmxhRXhrVVJrSFhPeDM3RFR5YlIwNUVqb21laUNKYmx5SEZ4TkV6c2F4ZUtmYWV3Y3ZxZDl6ajVn)).
+
+**Watch next:** The coming days will be critical for the US-Iran trajectory as accusations fly; watch for any overt Israeli response or further US military actions. In Ukraine, the fallout from Fedorov's firing could slow drone production and affect Western aid confidence. Meanwhile, the Rohingya boat tragedy demands a rescue response, and the Canada fires may worsen without precipitation.
+
+---
+
+## 欧美 · 39 items
+
+The Euro-American desk is dominated by conflict and political instability. The US-Iran war appears to be escalating with both sides accusing each other of targeting civilians, while the US-Israel alliance shows rare public friction. Ukraine's leadership reshuffle threatens wartime momentum, and a Polish teenager is accused of Russian sabotage. These events signal a volatile geopolitical landscape with potential ripple effects on energy markets and global security.
+
+- **US-Israel Tensions:** VP JD Vance claimed Israel is manipulating US opinion to prolong the Iran war, a remarkable public rebuke that could strain bilateral relations and complicate peace efforts ([BBC](https://www.bbc.co.uk/news/articles/c1m107yj327o)).
+- **Ukrainian Reshuffle:** The firing of Minister Fedorov, who revolutionized drone warfare, has sparked protests and could hinder Ukraine's ability to counter Russian advances ([NPR](https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired), [BBC](https://www.bbc.co.uk/news/articles/cdx76069n3do)).
+- **Russian Sabotage in Poland:** Polish security arrested a teenager acting for Russia to incite ethnic tensions between Poland and Ukraine, highlighting hybrid warfare tactics ([BBC](https://www.bbc.co.uk/news/articles/cp305dx493do)).
+- **Italian Bridge Verdict:** Former motorway boss Castellucci got 12 years for the 2018 Genoa bridge collapse that killed 43, a landmark case on infrastructure accountability ([BBC](https://www.bbc.co.uk/news/articles/c36dnz1zez5o)).
+
+Track the US-Iran escalation and Ukraine's internal dynamics, as both could reshape the conflict landscape in the coming weeks.
+
+<details><summary>Source (39)</summary>
+
+- [JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war](https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-16 21:22 UTC
+- [Zelensky's removal of popular defence minister sparks protests in Ukraine](https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-16 16:36 UTC
+- [Teenager accused of carrying out sabotage actions in Poland for Russia](https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-16 13:08 UTC
+- [US launches fresh wave of strikes as Iran says civilian infrastructure hit](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-17 04:02 UTC
+- [More than 500 Rohingya vanished at sea - what happened?](https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-17 03:07 UTC
+- [Australia 'deeply frustrated' over Laos methanol poisoning charges](https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-17 02:56 UTC
+- [Canada fires prompt US air quality alerts as smoke blankets major cities](https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-17 02:15 UTC
+- [North Korean leader Kim Jong Un meets with top Chinese official](https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss) — Al Jazeera · 2026-07-17 01:49 UTC
+- [South Korea, US, Japan military chiefs agree to deepen security cooperation - Asia News Network](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM01wUWhHMzBiUGRIcndCV2QtZldLZzd4d00wRUg1LVdmbVRZQWNRMUFtbmZERUJzOUdrZ0s5Rm1lcWtpQmtjTVV2blVqWWhnN3ZkdWFURUJTckQ5NGhkY0NlSjJFNjZaWGN3cUlZX0ZFaElCVG43eEtLNzdFSElCdWMwbGQ0TUhEaVJFVVBxQ3VkQXJJWjl4MWlSZHFuWVZv) — Google News Japan Korea Society · 2026-07-17 01:23 UTC
+- [Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war](https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war) — NPR World · 2026-07-16 21:19 UTC
+- [Fifa 'assessing match reports' over Falklands banner](https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-16 18:44 UTC
+- [Italian officials handed jail terms for Genoa bridge disaster that killed 43](https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss) — BBC World · 2026-07-16 17:22 UTC
+- [Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle](https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired) — NPR World · 2026-07-16 11:33 UTC
+- [The political risks from war in Iran. And, ICE's use of force is rising, report finds](https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force) — NPR World · 2026-07-16 11:29 UTC
+
+</details>
+
+## 日韩 · 11 items
+
+Japanese and Korean markets are under stress, with South Korea's Kospi plunging 6.4% amid global tech stock selloffs and rising oil prices. Meanwhile, Seoul and Tokyo are deepening diplomatic and security ties, even as their approaches to Central Asia diverge. A yakuza leadership change in Japan signals organized crime shifts, and the anime industry gets a reflective moment.
+
+- **Market Turmoil:** The Kospi fell 6.4% as AI stocks slumped and oil prices climbed, reflecting global risk aversion tied to geopolitical tensions ([ABC News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0FoRld2akZwdkJ0el9NR09YTVJXam5NY2VnUWlLNVNyalBJWFh0M0FRM3BZSkJqRGdjblE0Uy0wamZ1NG5DUmtSMWVrTDFzcE9GZnpfRkpLdnBzeUpNODZaZTlfcjhMUGVxdzZiYUFKdWgtSWU4RHhOWlBRUmlTM0dnZDE2TkFYN2JmOE1LR0ZUUTZPNWlZT1BaRdIBoAFBVV95cUxQRmpyaTNvRzVhc0RoN21RUXV6RVJvRC03WnZqZEh0NUdYUFVoOWdzLXo3TVNHbThxekpnV1daYTN5dVZxLXJtdnpqeHB6VC1Wang5ZXBKM1FtN3dSTzVzNFBRS0Q4VG5walp1TldmVHV5QVNYMU8zVkw5NnJwbFlVeUYxcWJXaGI4QXpKQUhVYXZ5OFd4dUJVTVVHdzBLXzBw)).
+- **Seoul-Tokyo Ties:** A commentary in The Korea Herald notes deepening ties between South Korea and Japan, while a separate analysis shows they take different paths into Central Asia – Japan patient capital vs South Korea fast deals ([Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rU0kya3pZRzB6YkV2Mm9GRUhNd01pcjFhZC12bmhXc0NQaWFELU1FdWdla3BucEpBTXZ5Z2o1TlVUV0ZmZ2FXOFE0d3VmNlRULW5hNFl4NA), [Times of Central Asia](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVlFZks0bEswZjBlWlBuYUxpTTNpYlBlV0lWnQtYmp3Z3dPYzRZdjNFbkZTS0ZWZGpXUXRtWXNUdkJYNG5sU0ZBWmU1N2RnNWZfR016V0tKa0tRUTVLMUo0dGJnSEpYeV96YzJ6dlJ2NWExN0hGTXpzZkNQNmVIMlFfQktZTGdf)).
+- **Yakuza Leadership:** The Kudokai yakuza group underwent a leadership change, which may affect organized crime dynamics in Japan ([Japan Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1NkOGh4Zkt2R3F5X2s4cjNoT19JNmU1X0p4NnFLNzhrMV9US1RoRGEyeWVZS1dSZ2owcGttUDEyWGV5LUdqRVlVQ0xwRy1UQkNIbFR5TnZRbVBQcjBDSWRBZFcyRUgwRTBYYnNGWHRTaDl6YlhMOHd5ZDVJdVlwTGMxVHNOM0NhWkp3N2JtMTBIa3FLR2VV)).
+- **Anime Industry:** The creator of 'Cowboy Bebop' offered advice for the anime industry, hinting at creative challenges ([Japan Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTNvX01ZcnMxMV9lbDdBZzJzZWFQMFJWMnJJeWdkbmJfRk9nRWF3N2pETkNhYlhNUmd1RE5vT09mMmZpd1NBWENuWXplc29vUUpnTWdiY0VqZDJZaXdIYWh4ckZzZVlSaFlZZW1pTkRibFp5SDU0S2FRM3pybWJkaXRHV2g3Zw)).
+
+Monitor the Korean market volatility and the trajectory of Seoul-Tokyo security cooperation, as these have direct implications for regional stability and investment flows.
+
+<details><summary>Source (11)</summary>
+
+- [AI stocks slump again, while oil prices keep climbing - The Daily Reflector](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZUhwcF9JeUFLc3ZoT2ZqSk11RWJ4S1Q2Tm5jZW1rZndhQTlCN21LR1AtWDV2WGFJUWZUS3BidjNqSzFLZGZfWC1ES2lGY05ETEhGLWhZNFhpNFpsdUduNGNIUXNCb0s4ZmwweGJPbHA0SEEySjBiUW1OcmJsOE9JTW9hckl0S2JWbUxVRHRUMWtyNVBTOUxIWWZ2cDZXYXFwVGlLZHpXZ0hpUEFVcGZGOVlYbE11NXdTMjhZbzdXX1dRdDNHT1c0MEpDQzdTOTlzaG5feFRoenN2Zw) — Google News Japan Korea Society · 2026-07-16 13:34 UTC
+- [[Lee Byung-jong] Deepening Seoul-Tokyo ties - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rU0kya3pZRzB6YkV2Mm9GRUhNd01pcjFhZC12bmhXc0NQaWFELU1FdWdla3BucEpBTXZ5Z2o1TlVUV0ZmZ2FXOFE0d3VmNlRULW5hNFl4NA) — Google News Japan Korea Society · 2026-07-16 20:30 UTC
+- [Patient Capital, Fast Deals: Japan and South Korea Take Different Paths into Central Asia - The Times Of Central Asia](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVlFZks0bEswZjBlWlBuYUxpTTNpYlBlV0lVWnQtYmp3Z3dPYzRZdjNFbkZTS0ZWZGpXUXRtWXNUdkJYNG5sU0ZBWmU1N2RnNWZfR016V0tKa0tRUTVLMUo0dGJnSEpYeV96YzJ6dlJ2NWExN0hGTXpzZkNQNmVIMlFfQktZTGdf) — Google News Japan Korea Society · 2026-07-16 13:58 UTC
+- [Sony Music Solutions to Expand Global Fan Club "SoTime Fragment" for Japanese Actor Sota Fukushi... - Japan Wire by Kyodo News](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WZFdVaWtWS0FURWxEeDdOanhJdXdreV91TzFuSnNQZzhUVkpVVWZwOUNCQXVNRmhWUWxjQVAxcS1zRDVIeWE1Tk5WQVlKd1ZjbW1qUTFYY2h0dw) — Google News Japan Korea Society · 2026-07-16 13:55 UTC
+- [Seven & I said to be in talks to take stake in Poland’s Zabka - The Japan Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE01R0plWTZaTGg1bmk3TDVCZkxWV21pdkh5MFdZNFkxUEhIMUNzMGxLdmpyQXdkNFM0dERfWkJlXzdwRmxtclJsMWdkU05Wb3ppRE9INUdJZWVPUTNldG9QQ3RPRnhMeVJsUmFfbnpjNjY5VlNlc2tCSnBBZzY1OWM) — Japan Times · 2026-07-16 12:30 UTC
+- [World shares mostly decline with South Korea's Kospi down 6.4%, while oil prices slip - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0FoRld2akZwdkJ0el9NR09YTVJXam5NY2VnUWlLNVNyalBJWFh0M0FRM3BZSkJqRGdjblE0Uy0wamZ1NG5DUmtSMWVrTDFzcE9GZnpfRkpLdnBzeUpNODZaZTlfcjhMUGVxdzZiYUFKdWgtSWU4RHhOWlBRUmlTM0dnZDE2TkFYN2JmOE1LR0ZUUTZPNWlZT1BaRdIBoAFBVV95cUxQRmpyaTNvRzVhc0RoN21RUXV6RVJvRC03WnZqZEh0NUdYUFVoOWdzLXo3TVNHbThxekpnV1daYTN5dVZxLXJtdnpqeHB6VC1Wang5ZXBKM1FtN3dSTzVzNFBRS0Q4VG5walp1TldmVHV5QVNYMU8zVkw5NnJwbFlVeUYxcWJXaGI4QXpKQUhVYXZ5OFd4dUJVTVVHdzBLXzBw) — Google News Japan Korea Society · 2026-07-16 11:16 UTC
+- [The creator of ‘Cowboy Bebop’ has advice for the anime industry - The Japan Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTNvX01ZcnMxMV9lbDdBZzJzZWFQMFJWMnJJeWdkbmJfRk9nRWF3N2pETkNhYlhNUmd1RE5vT09mMmZpd1NBWENuWXplc29vUUpnTWdiY0VqZDJZaXdIYWh4ckZzZVlSaFlZZW1pTkRibFp5SDU0S2FRM3pybWJkaXRHV2g3Zw) — Japan Times · 2026-07-16 09:00 UTC
+- [World shares mostly decline with South Korea's Kospi down 6.4%, while oil prices slip - Rutland Herald](https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2dzTjNBVjl6a09HNFN2X2tTR3pxQm9Kdm9aSTBSU25ZSF9fcnlIdEx5NFFYc0l5SkU1U2hnbDVudHpkTndtU2k0dTFvYy04R2laUE9USzJIbmotWHBXMmM5Q0NacWVBazlDVTZWU25USHU5REl4TWRCOUNKczZLbVUtLVFXMUY4M1M3ZlJkMzk0TFIwdFFtUjhHWEtORHlEWGQ2WEJJeXBXRnRxU1J4UFVmSlJ3Q0htdkplUHBOMFo1RVV3amNGMFA1TVdoUXg4dUtEVkI1ZWZ2SXNMT3ZsOUprak9La19CTmQtdC1SSU9TUFNRd0F6NXkyaGktTnRQdGNMRlRDUQ) — Google News Japan Korea Society · 2026-07-16 08:55 UTC
+- [Asian shares mostly decline with South Korea's Kospi down 6.... - Daily American Republic](https://news.google.com/rss/articles/CBMivAFBVV95cUxOamdfQ2lzR1h0aE1OUHk2OU55cTM0bWp6Q29ZSm93dG11SW5SVTR3NllOUTdycHVHUXpQc1c0RGplZjR6eTkyVTRnUkQ4UnFUWThWMGMxVUMxQm1tX3BLN2Nyd3k4c1NROVpObmFkMnJ6LUJzRmdDbGs0OVlMeUgwcjBKOHdfMldGSHNqSUd4OEwwSXdGWE5qcHRFNHpKMmtNc1dzamZxR1F2ejhWS2FNUGZUNFE2cmwzaEIzdA) — Google News Japan Korea Society · 2026-07-16 05:50 UTC
+- [Kudokai yakuza group undergoes leadership change - The Japan Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1NkOGh4Zkt2R3F5X2s4cjNoT19JNmU1X0p4NnFLNzhrMV9US1RoRGEyeWVZS1dSZ2owcGttUDEyWGV5LUdqRVlVQ0xwRy1UQkNIbFR5TnZRbVBQcjBDSWRBZFcyRUgwRTBYYnNGWHRTaDl6YlhMOHd5ZDVJdVlwTGMxVHNOM0NhWkp3N2JtMTBIa3FLR2VV) — Japan Times · 2026-07-16 09:06 UTC
+- [Korea puts brake on leveraged chip ETFs - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE04dDc1MXVFS1dtdUtZbkFIZTFvU09vVk5RVHhRNG9mczFJZTBqUC1vX2dsUkxVdVlXUF9oY3pxcjh1OEdDenJHMnNmYWVCMUEwUG5oMmdLaw) — Korea Herald · 2026-07-16 08:10 UTC
+
+</details>
+
+## 知乎社区动态 · 8 items
+
+Zhihu community dynamics mix celebrity gossip, intellectual controversies, and consumer trends. Wang Sicong publicly flaunts his new girlfriend at Wimbledon, sparking discussion. A heated debate surrounds mathematicians Deng Yu and Wang Hong, with netizens mocking them ahead of the Fields Medal. Meanwhile, a viral meme 'This is what AI should do' reflects public expectations, and a deep dive into discount shopping habits reveals young Chinese consumers' shift toward value.
+
+- **Wang Sicong at Wimbledon:** The billionaire's son was seen with his girlfriend 'Lanlan' at Wimbledon, drawing mixed reactions on Zhihu about celebrity privilege and public relationships ([无忧资讯](https://news.google.com/rss/articles/CBMiekFVX3lxTE9vOEtVbndYNHJoYUdNZ3hiOV9ObDhxN2o2WkNQTnpvNHRZcllEdnJkN3VQVkxlY3RhczhBQ0c2YjFzLVRBTVJ0WDJnenhxOFl2cGktbEpheGJNOXE3Z1BuU2taVC1yQWFMM3M1R1kwVEM2SmFUZUhZM2l3)).
+- **Mathematicians Under Fire:** Users on Zhihu are mocking mathematicians Deng Yu and Wang Hong, with speculation about the Fields Medal causing controversy – a rare public scrutiny of academic elites ([无忧资讯](https://news.google.com/rss/articles/CBMiekFVX3lxTE9iYm5oTlQ1TUE5Rkc4Mkt4VHFwMEtZUkMtZHpHd1BVQ2VPWjhhd0RQVU90OWx6MW9LN0pkUlhpZ2FWdzExdVRkd3UtRENBeEk5ZFNXTG9YZHR2WlRwYktvaWxxRzA2dURQVDJfUnBNNl8zOW9FckJrZ3hR)).
+- **AI Meme Goes Viral:** The phrase 'This is what AI should do' trended on Zhihu, with users sharing practical AI applications – signaling a desire for utility over hype ([新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE1pR0FXdjYteGFvSElVdzhyWnMwbWVBWWN2Qm9xbEx1dUptcnh1Zlh3cDhEMkNUSEtzX0lXRXZGd1N1elM0RXROR2o1OU1wMGNfYnpVb3ota184LVFaUDNKMVR2MmtCZWFXSFJFNm1Uek5YSjRjeV9wU1VRYm05UFk)).
+- **Discount Shopping Trend:** An article explains why young Chinese love outlets – 70% off Coach, 80% off Burberry – reflecting a broader shift toward thrift and value consumption ([手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MeTZmalotb0pDNE0wN04yVkVLT3dsZC15ZkJEME1UM2gxQ1YzNjhrbW8zdGIyVmh3V2pCWDBjSE95Q0VPcnJ4YmhhdXo4SnhhM1JxNWcwa3dOT0R2UFQzQVJR)).
+
+Watch for further Zhihu debates on the Fields Medal and the evolving narrative around AI, as these reflect broader societal attitudes toward science and technology in China.
+
+<details><summary>Source (8)</summary>
+
+- [王思聪带女友懒懒海外高调秀恩爱，温网同框引热议 - 无忧资讯](https://news.google.com/rss/articles/CBMiekFVX3lxTE9vOEtVbndYNHJoYUdNZ3hiOV9ObDhxN2o2WkNQTnpvNHRZcllEdnJkN3VQVkxlY3RhczhBQ0c2YjFzLVRBTVJ0WDJnenhxOFl2cGktbEpheGJNOXE3Z1BuU2taVC1yQWFMM3M1R1kwVEM2SmFUZUhZM2l3) — 知乎社区动态 · 2026-07-17 04:10 UTC
+- [知识武器化博弈：关键变量借知乎16字真言狙击小红书 - 手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSG1qVFFXZ3c0VDFvc1EzS1NXZmNtNEJkVXcwM1NkU2gwTWxoTjRkTS1ha2FqdWtHWDhNY2N0ZjVhU0h4OTRJa2tjOXVrZnV5TVBDaWxJbmhCNW1hUmYtVW5B) — 知乎社区动态 · 2026-07-16 23:13 UTC
+- [知乎热议：天才数学家邓煜王虹遭网友嘲讽，菲尔兹奖悬念升级 - 无忧资讯](https://news.google.com/rss/articles/CBMiekFVX3lxTE9iYm5oTlQ1TUE5Rkc4Mkt4VHFwMEtZUkMtZHpHd1BVQ2VPWjhhd0RQVU90OWx6MW9LN0pkUlhpZ2FWdzExdVRkd3UtRENBeEk5ZFNXTG9YZHR2WlRwYktvaWxxRzA2dURQVDJfUnBNNl8zOW9FckJrZ3hR) — 知乎社区动态 · 2026-07-16 20:32 UTC
+- [“这才是AI该做的”这个梗是怎么火起来的？ - 新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE1pR0FXdjYteGFvSElVdzhyWnMwbWVBWWN2Qm9xbEx1dUptcnh1Zlh3cDhEMkNUSEtzX0lXRXZGd1N1elM0RXROR2o1OU1wMGNfYnpVb3ota184LVFaUDNKMVR2MmtCZWFXSFJFNm1Uek5YSjRjeV9wU1VRYm05UFk) — 知乎社区动态 · 2026-07-16 18:57 UTC
+- [知乎-W(02390.HK)7月15日耗资14万美元回购12.8万股 - TradingView](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZWnFIQ29fNkZFNDMtZW5IZTRsQUx0TWlVdk5jMzFkRDRxTDlhZDAzczlOSUhfWGRaaDVHR1pmWWxPRF82bEpJLVFQbFRjY2p3M0lfVEhWeGhneFJFUTViN21WcmNaU0FnWnpF) — 知乎社区动态 · 2026-07-16 11:58 UTC
+- [10年看球球迷：阿根廷命太硬，英格兰太怂了 - 手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oRzBzaFlRSWxaa3VBRDZtd09tVC1HUWk0NnhTcWlmd2NJQWpJbTRRRjA4SlFNWGE1UUtqaHZpa1pCV1FnLUtwenRtenJsaG11REJSMDE1cjBvMTRwYlJUVkFn) — 知乎社区动态 · 2026-07-16 11:01 UTC
+- [3折蔻驰、1.8折Burberry，终于明白为什么年轻人爱逛折扣店 - 手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MeTZmalotb0pDNE0wN04yVkVLT3dsZC15ZkJEME1UM2gxQ1YzNjhrbW8zdGIyVmh3V2pCWDBjSE95Q0VPcnJ4YmhhdXo4SnhhM1JxNWcwa3dOT0R2UFQzQVJR) — 知乎社区动态 · 2026-07-16 11:00 UTC
+- [2026合肥主流实力留学中介怎么选？看这篇就够了 - 手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE54Q1kwOEN0MHpieHo2MlcwYUlTakE0UUJWNkFPNFZMLWhOS2dza0dIeGhWREtsVzJBWG9nT0FHSU9IbHhhQTNrS1gzclFCT0QzWHpIRnZRS3NGcUtSNTZFNDFB) — 知乎社区动态 · 2026-07-16 05:30 UTC
+
+</details>
+
+## 中国 · 20 items
+
+Chinese domestic news is heavily focused on AI governance, education reform, and industrial development. State media emphasizes Xi Jinping's role in guiding AI development, while new vocational majors like humanoid robotics engineering are added. The second National Science Education Conference highlights a push for STEM. Meanwhile, clean manufacturing and green finance gain traction, and regulations on social organization awards tighten.
+
+- **AI Governance Push:** Xinhua published multiple pieces on China's role in global AI governance, including a commentary on building an inclusive system and a feature on international praise for China's approach ([Xinhua](https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeVdLM0lkbEVHdlNIQVpHMlVuUWtuVnVUcGk2OHM4VHFFWXVuRGo4aGxjRi1NbllWMVpjcG84cTkzV3VmY3pYTVFiRHA5ZXJSejdDckxGS1BKeXk3WXNVZEI0X1NEdjFEeldzN2x2NnRVdmk3YmdYZzJxUnZ6eE0), [新华网](https://news.google.com/rss/articles/CBMifkFVX3lxTFBMWlk4MEFSOG5CR2N1R3pzZXFpaU93eEdpU3A2UHkxcGxxVnZiX0xkQkdfbDg4VENOMThPZmdoakFTc0R3alJFMkxPWEo1bE5ZbDc2a0NWU1ZpazZBV1RDVUlNUnM0NzdOWTRWZ1h5ZlRlYjhzT2pidjV3UDNvQQ)).
+- **Education Reform:** The Ministry added 27 vocational majors, including humanoid robotics engineering, to align with industrial needs ([新浪财经](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM19xRy1TTk42RGdkZ3A5ZGF3ZWthdHRtdmFmY0dpXzFtVjQ2dlhCQ1BtT0ZaWTVza1FrWlZQUGl6MGpSMUI1b0h3YV9OZG0xZGw4OWxYZ0N4ek5KV0JZYWExamgzeExfcE9FelRSNGF5ODlpNk5PUmxhRXhrVVJrSFhPeDM3RFR5YlIwNUVqb21laUNKYmx5SEZ4TkV6c2F4ZUtmYWV3Y3ZxZDl6ajVn)). The second National Science Education Conference was held, emphasizing science literacy ([新华网](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTZnUnhCMUVrbjZCeDhvVnRMTWpjUUxaa0hoSW5QV2ZYRUpZbHhFc0VpWTgtblhNVHg2NV9GTkMtbFhWUUxJcHNZaldxTl8tV3RwOTRyUkM1cndfUk9aSXoyN0Z6SlI5cEg4cndKM1VVTDVMNnJPZGZwTm5kNUV4d3dVYzhIZTVnVUFZVUhrV0ZJSjdITzZVWGRB)).
+- **Healthcare and Manufacturing:** 'First launch' medical products are a key theme at a healthcare expo, and Meizhong Jiahe uses AI to export Chinese medical solutions ([动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxUVZzNUZ6cU90M0gybXROazlQUGJrS2NOMlJtTXVsZWl5X3BXdWJfVVRJVUljRjI4SUZtV3BPcWFTR04tbVNF), [东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFR3FFeVZoSmV4UDNsMm1vamNSVm9xcko2Ui1ERjc5dHRzaGxPdXpvNTBja0d6ZWJ1cEliemN3LWg0cC1OV1RaLVRYY0ktVXdDWVVab2g0R1hIaTZIZzV5NTBtTVktZw)).
+- **Regulatory Tightening:** Two ministries issued new rules prohibiting certain activities in social organization awards, aiming to curb abuse ([新华网](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0NQbVE1dTN0Z0JGSU5CcklrLVpmb0U2TWxMWU9zaF9lMUtSWmVXTGk0ZzZIb05CTUw4V25aMktQU2RzVzUwYzYyb3dUSGV0U0xaZ3ZFTWVVaDVuUG9uYThUaTlUQUFveFlqMl94cTY1SjVXTVJaa3FuVG1FZDBoTjVuRzBwR3JQZ2Nr)).
+
+China's AI strategy and vocational training moves will shape its global competitiveness; watch for further policy details and international reactions.
+
+<details><summary>Source (20)</summary>
+
+- [【新华每日电讯】专版访谈卢秉恒院士、李涤尘教授：3D打印能打印出创造力吗？ - 西安交通大学新闻网](https://news.google.com/rss/articles/CBMiV0FVX3lxTE14UjlvVFpPdS1GRnU4Uk9McjBXc0EzdVIyQ3JSRkdxR1pQQ3lBVzFwck8xWnMtT05ncE1uRmxsa3F1a0szeFpscy1LLS1QRzhLT1A3d3BoRQ) — Google News China Society · 2026-07-17 03:25 UTC
+- [话安全 防溺水 - 中国教育新闻网](https://news.google.com/rss/articles/CBMia0FVX3lxTE01X0Q2QWJUdU93MEV4WkhrNDJvNzV4QUVrdmxqQjNIZG1lRzFwbkxqSm82SWlqYUFhVkVVWmJucEp2clRtUkh3d2FXdVhQblZwQkIteW83ZnZHNElZbGNFbm9tbmdOUWF5Ny1J) — Google News China Society · 2026-07-17 02:42 UTC
+- [“AI点亮乡村教育·2026校长赋能计划”在京启动 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE1tX3pjZ1NFYjJZSHdMZkJTcUc5Y1R6dkxyNE5OVGRiSDVTcHl3MkF5dEJyaTl3bGZTa2kzYlpkZTdLLUJzb2NwYXo2RGxtZGw0VE04Z1FiVjNMX0VwT3hGY0syRl9WRmt1TXZzYnljQ00zc21DbUhKXw) — Google News China Society · 2026-07-17 02:21 UTC
+- [第二届中小学科学教育大会举行 - 新华网客户端](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTZnUnhCMUVrbjZCeDhvVnRMTWpjUUxaa0hoSW5QV2ZYRUpZbHhFc0VpWTgtblhNVHg2NV9GTkMtbFhWUUxJcHNZaldxTl8tV3RwOTRyUkM1cndfUk9aSXoyN0Z6SlI5cEg4cndKM1VVTDVMNnJPZGZwTm5kNUV4d3dVYzhIZTVnVUFZVUhrV0ZJSjdITzZVWGRB) — Google News China Society · 2026-07-17 01:53 UTC
+- [重庆市中国特色社会主义理论体系研究中心：习近平党建思想开辟马克思主义建党学说中国化时代化新境界 - 12371.gov.cn](https://news.google.com/rss/articles/CBMibkFVX3lxTE5FWUVUTEFwajB3Q2NQaEQxaWF4T1dTMWwwSEJla0hIZmE0Sl9MeUdzQVdidXE4aGJsa3R1NTRQUldma1JkcmE0QTMwdjJoWjNJMnR6LUdGQl9ic243ZHZtVHZ4d3E4azkyQlUteVpB) — Google News China Society · 2026-07-17 01:35 UTC
+- [读懂大众的“情绪密码”——视听行业如何讲好当下故事 - 新华网](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbVZucmJiX2pIeEEya2NpVWxPV1ZFSGlESXpQUDhMOVZlM0hlTjRxNnRVT2ZtYllWN2lBSkdwVmwwQjgtemtXS19OUXNqNDFWWDJRakN1ekNmLU56NHhoVGJBYXZkMU5SNmpDWG55WGo5OTNFVURGYUVVSDdCQmJLNEF0SQ) — 新华社 中国社会 · 2026-07-17 01:23 UTC
+- [互联网架构无需为AI破例——专访IAB主席德鲁夫·多迪 - edu.cn](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRUI5clRELUpQNkd4QlNhb1o1cTN3XzJab3hDWWxUOXpURUpodFNoTGNsSGk1S2x3dXAzS1JKQXFXdmZuMDE5dEdmQ3FDYm9pbzJ5QWsxT3R4WHdRUVN2RmstQUQ2ZzY0bWFmWk8zbjJOa2FWbjYyRzZB) — Google News China Society · 2026-07-17 01:22 UTC
+- [中国增补人形机器人工程技术等27个职业教育本专科专业 - 新浪财经](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM19xRy1TTk42RGdkZ3A5ZGF3ZWthdHRtdmFmY0dpXzFtVjQ2dlhCQ1BtT0ZaWTVza1FrWlZQUGl6MGpSMUI1b0h3YV9OZG0xZGw4OWxYZ0N4ek5KV0JZYWExamgzeExfcE9FelRSNGF5ODlpNk5PUmxhRXhrVVJrSFhPeDM3RFR5YlIwNUVqb21laUNKYmx5SEZ4TkV6c2F4ZUtmYWV3Y3ZxZDl6ajVn) — Google News China Society · 2026-07-17 01:11 UTC
+- [六大优秀产品推介展示！“首创首发”成为中国医疗健康产业硬核关键词！ - 动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxUVZzNUZ6cU90M0gybXROazlQUGJrS2NOMlJtTXVsZWl5X3BXdWJfVVRJVUljRjI4SUZtV3BPcWFTR04tbVNF) — Google News China Society · 2026-07-17 00:00 UTC
+- [【海报】习近平总书记指引人工智能发展与治理 - 中国社会科学网](https://news.google.com/rss/articles/CBMibEFVX3lxTFB2dzlsdUZ3eG5MVWxyQk12SERCYkZOZGF6UkRESFVSZHRaS3BSTzFhT2p5elo3VG1xejlqU0hNUE1FaUh5YXhwYkNhVkZ4Ty1KaFpKRVJyRGM3TFhGNUhGWmtZakd0SmZsdFBmOA) — Google News China Society · 2026-07-16 23:37 UTC
+- [“助力绿色工厂 建设美丽中国”——中国民生银行成功举办绿色制造主题活动 - 搜狐网](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFo0aVRweFFRaHV5UDM5TFlvSmsxZWw1NGJOS0xBYXFOM2I4UnI5MHVHZGF2R0dUZzJOTFRXOXlRSkJmZFRXaWhWR2l2RXlWZy15Znlfd2x3Z3NCNUFUam15VmxyOFhfYWRTUzV3RVMzRXNwVzFmOUVwVS1tS3JsUkwzd0pLQUtmM1QzajV3) — Google News China Society · 2026-07-16 23:04 UTC
+- [新华时评丨携手构建普惠包容的全球人工智能治理体系 - 新华网](https://news.google.com/rss/articles/CBMifkFVX3lxTFBMWlk4MEFSOG5CR2N1R3pzZXFpaU93eEdpU3A2UHkxcGxxVnZiX0xkQkdfbDg4VENOMThPZmdoakFTc0R3alJFMkxPWEo1bE5ZbDc2a0NWU1ZpazZBV1RDVUlNUnM0NzdOWTRWZ1h5ZlRlYjhzT2pidjV3UDNvQQ) — 新华社 中国社会 · 2026-07-16 16:36 UTC
+- [特稿｜“独特且富有远见的引领作用”——国际社会积极评价中国推动人工智能向善普惠发展 - 新华网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeVdLM0lkbEVHdlNIQVpHMlVuUWtuVnVUcGk2OHM4VHFFWXVuRGo4aGxjRi1NbllWMVpjcG84cTkzV3VmY3pYTVFiRHA5ZXJSejdDckxGS1BKeXk3WXNVZEI0X1NEdjFEeldzN2x2NnRVdmk3YmdYZzJxUnZ6eE0) — Google News China Society · 2026-07-16 15:33 UTC
+- [美中嘉和凭“医疗技术+AI支持”输出优质中国医疗方案 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFR3FFeVZoSmV4UDNsMm1vamNSVm9xcko2Ui1ERjc5dHRzaGxPdXpvNTBja0d6ZWJ1cEliemN3LWg0cC1OV1RaLVRYY0ktVXdDWVVab2g0R1hIaTZIZzV5NTBtTVktZw) — Google News China Society · 2026-07-16 13:36 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*

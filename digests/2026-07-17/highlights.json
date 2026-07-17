@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "AI芯片抛售潮蔓延，软银跌超9%",
+      "伊朗威胁报复，布伦特与WTI油价走高",
+      "Netflix财报不及预期，股价下跌",
+      "长鑫存储IPO引发全民申购，创业板重挫4.7%",
+      "欧洲央行加息预期升温，数字欧元试点启动"
+    ],
+    "news-society": [
+      "美伊冲突升级，美军空袭伊朗民用基础设施",
+      "乌克兰防长被解职引发基辅街头抗议",
+      "加拿大山火失控，烟雾致北美多地空气警报",
+      "韩国KOSPI暴跌6.4%，政府紧急干预",
+      "两艘载罗兴亚人船只失踪，超500人海上失联"
+    ],
+    "news-military": [
+      "美军连续六晚空袭伊朗，打击范围扩大",
+      "伊朗弹道导弹击中约旦美军无人机基地",
+      "俄军前线存活时间仅20-30分钟(CIA局长)",
+      "霍尔木兹海峡航运恶化，商船拒绝美军护航",
+      "美军增兵南海，日本炒作南海仲裁案"
+    ],
+    "news-tech": [
+      "SpaceX星舰第三次试射点火后紧急中止",
+      "白宫提词器操作员被指利用内幕信息在Kalshi下注",
+      "Uber以148亿美元全股收购Delivery Hero",
+      "OpenAI员工资助对抗CEO的超级PAC",
+      "Netflix披露约300部作品使用生成式AI"
+    ],
+    "news-sports": [
+      "英格兰球员对图赫尔保守战术不满，质疑其DNA",
+      "纽约发布空气质量警报影响世界杯决赛",
+      "萨利巴背伤可能手术，阿森纳防线埋雷",
+      "阿森纳签下希腊边锋措利斯",
+      "日本羽毛球公开赛国羽9战7胜，石宇奇逆转"
+    ],
+    "news-entertainment": [
+      "《战神》真人剧换角，因主演片场受伤",
+      "特朗普威胁吊销未直播其演讲的ABC和NBC牌照",
+      "山火烟雾导致黑键乐队等十余组艺人推迟演出",
+      "Netflix财报后股价触及52周低位",
+      "TXT成员崔然竣创2026年韩国个人专辑首周销量纪录"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "SoftBank drops 9% on AI rout",
+      "Oil rises on Iran retaliation threat",
+      "CXMT $8.5B IPO draws retail frenzy",
+      "ChiNext plunges 4.7% in sell-off",
+      "Hang Seng gains 1.3% bucking trend"
+    ],
+    "news-society": [
+      "US-Iran tensions escalate with new strikes",
+      "Ukraine defense minister fired amid protests",
+      "530 Rohingya refugees missing at sea",
+      "Canadian wildfires trigger US air alerts",
+      "US, South Korea, Japan deepen alliance"
+    ],
+    "news-military": [
+      "CENTCOM strikes Iran for sixth night",
+      "Iran missile hits US drone base in Jordan",
+      "Iran asks Houthis to block Red Sea",
+      "Ukraine front-line survival 20-30 minutes",
+      "Japan pushes 2016 South China Sea ruling"
+    ],
+    "news-tech": [
+      "SpaceX aborts Starship V3 launch after ignition",
+      "Kalshi catches Trump teleprompter insider trading",
+      "Uber to acquire Delivery Hero for $14.8B",
+      "Coca-Cola Fairlife dairy halted by ransomware",
+      "xAI sues user over Grok-generated CSAM"
+    ],
+    "news-sports": [
+      "England players criticize Tuchel's defensive tactics",
+      "Wildfire smoke alert for World Cup final",
+      "Arsenal's Saliba back injury may need surgery",
+      "Celtic struggles to compete in transfer market",
+      "Shi Yuqi advances at Japan Open badminton"
+    ],
+    "news-entertainment": [
+      "Prime Video recasts Kratos after Ryan Hurst injury",
+      "Netflix stock hits 52-week low after Q2",
+      "Wildfire smoke forces concert cancellations",
+      "Trump threatens ABC and NBC over speech",
+      "Production delayed for God of War series"
+    ]
+  }
+}
