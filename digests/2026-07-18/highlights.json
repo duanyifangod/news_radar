@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "中国AI模型Kimi K3震撼硅谷，性能逼近美国顶级实验室",
+      "白宫宣布控制前沿AI模型访问权限，政策不确定性增加",
+      "中东冲突推升能源股，原油价格飙升",
+      "Shein通过港交所聆讯，估值腰斩至不足500亿美元",
+      "美国恢复香港优惠贸易待遇，缓解中美贸易紧张"
+    ],
+    "news-society": [
+      "美伊冲突升级，伊朗称谈判时代结束",
+      "乌克兰国防部长被解职，前线士兵愤怒",
+      "加拿大山火引发美加贸易摩擦",
+      "墨西哥7.3级地震引发海啸警报",
+      "日本通过皇室改革法案，公主婚后可保留皇族身份"
+    ],
+    "news-military": [
+      "美伊互袭基础设施，霍尔木兹海峡航运量骤降",
+      "美空军大幅扩充隐形打击弹药，增幅达38%",
+      "朱姆沃尔特号完成高超音速改装，但战略脱节",
+      "南海博弈加剧，中俄合作与澳瓦协定并行",
+      "美军重启伊朗港口封锁，油轮被击伤"
+    ],
+    "news-tech": [
+      "AWS计费故障致客户收到数十亿美元账单",
+      "旧金山检察官要求下架脱衣App",
+      "TP-Link摄像头被曝泄露家庭GPS六年",
+      "美国考虑设立AI监管机构类似FINRA",
+      "德国BEV销量首次超越燃油车"
+    ],
+    "news-sports": [
+      "英格兰半决赛负于阿根廷，图赫尔战术遭炮轰",
+      "羽毛球日本公开赛世界前三集体止步八强",
+      "阿斯顿维拉创纪录签下曼赞比",
+      "虎扑热议BLG惨败，上单Bin被批评",
+      "世界杯决赛西班牙vs阿根廷周日开战"
+    ],
+    "news-entertainment": [
+      "诺兰《奥德赛》完整卡司揭晓，马特·达蒙领衔",
+      "汤姆·布拉迪掌掴洛根·保罗，疑为WWE剧本",
+      "艾美奖削减类别引三大工会联合抗议",
+      "Lorde谴责Spotify AI功能",
+      "韩剧《Agent Kim Reactivated》刷新收视纪录"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Moonshot AI's Kimi K3 rattles global tech valuations",
+      "White House dictates access to frontier AI models",
+      "US economic sentiment tumbles, public blames Trump",
+      "Shein IPO clears key HKEX hearing",
+      "US lets Hong Kong sanctions expire"
+    ],
+    "news-society": [
+      "US strikes Iranian bridges for seventh night",
+      "Iran warns of full-scale war if bombing continues",
+      "Russia bars Nadezhdin from parliament run",
+      "Ukrainian soldiers protest defense minister removal",
+      "Magnitude 7.3 earthquake off Mexico coast"
+    ],
+    "news-military": [
+      "Sixth night of US strikes on Iran infrastructure",
+      "Strait of Hormuz traffic plunges amid blockade",
+      "Navy hypersonic missile program two years behind",
+      "GAO warns of wasted billions without unified strategy",
+      "China military assertiveness draws countermeasures"
+    ],
+    "news-tech": [
+      "US considers FINRA-like watchdog for top AI models",
+      "AWS billing error inflates charges to billions",
+      "San Francisco orders purge of nudify apps",
+      "Consumer electronics face AI-driven memory crunch",
+      "Germany sees record EV adoption"
+    ],
+    "news-sports": [
+      "England loses World Cup semi-final to Argentina",
+      "Tuchel defiant after tactical criticism",
+      "Trump questions Harry Kane's defensive role",
+      "Spain exudes quiet confidence before final",
+      "Top seeds eliminated at Japan Open badminton"
+    ],
+    "news-entertainment": [
+      "Nolan's 'The Odyssey' unveils mythic scope",
+      "Television Academy cuts five Emmy categories",
+      "Guilds condemn Emmy category cuts",
+      "Tom Brady slaps Logan Paul at Fanatics Fest",
+      "Dom Taylor's death mourned by culinary world"
+    ]
+  }
+}
