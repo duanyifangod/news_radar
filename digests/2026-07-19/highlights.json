@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突致两美军丧生，油价与避险资产波动",
+      "美联储成立WarshGPT任务组，华尔街AI解读信号",
+      "Taylor Farms召回27州生菜，环孢子虫疫情冲击供应链",
+      "韩国美妆在美崛起，摩根士丹利预计2026年销售达40亿美元",
+      "香港新盘热销，新鸿基138套单位一天售罄，楼市回暖"
+    ],
+    "news-society": [
+      "伊朗袭击约旦美军基地致2死1失踪，中东局势升级",
+      "乌克兰无人机袭击俄电商仓库，致8死60余伤",
+      "俄罗斯居民因战争经济疲软出现现金挤兑潮",
+      "欧盟新边境系统将令今夏机场通关时间延长三倍",
+      "特朗普威胁对加拿大加征新关税，借口山火空气污染"
+    ],
+    "news-military": [
+      "伊朗袭击约旦美军基地，两名美军阵亡，中东危局",
+      "霍尔木兹海峡封锁首日射瘫油轮，航运信心受挫",
+      "GAO警告海陆军高超音速项目各自为战，浪费超500亿美元",
+      "美韩联手建造新型导弹监测船‘金盾’，支撑金穹计划",
+      "法国提前获知中国SLBM试验，重申太平洋大国身份"
+    ],
+    "news-tech": [
+      "本田全面押注电动商用割草机，避开乘用车内卷",
+      "通用推出780英里插混SUV，面向北美市场",
+      "中国强力整治AI伴侣，数百万用户被迫‘分手’",
+      "Netflix以5.87亿美元收购Ben Affleck的AI初创公司",
+      "Hacker News高赞开源工具Transcribe.cpp，反映离线AI需求"
+    ],
+    "news-sports": [
+      "世界杯季军赛英格兰6-4胜法国，萨卡戴帽创佳绩",
+      "姆巴佩8球领跑金靴，梅西6球紧随，决赛定归属",
+      "切尔西1.17亿英镑签下摩根·罗杰斯，创俱乐部纪录",
+      "橄榄球英格兰争议胜阿根廷，F1拉塞尔炮轰梅赛德斯",
+      "高尔夫伯恩斯领跑英国公开赛，板球北安普敦夺Blast冠军"
+    ],
+    "news-entertainment": [
+      "Andrew Tate兄弟在迈阿密被捕，涉英国性犯罪指控",
+      "Christopher Nolan宣布至少三年内不再拍新片",
+      "Lena Headey炮轰好莱坞对‘掠夺性男性’的‘诡异保护’",
+      "The Cure主唱Robert Smith怒斥世界杯中场秀为‘面包与马戏’",
+      "ILLIT新曲MV破亿，韩剧《Agent Kim》创自身最高收视"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Trump dismisses Iran peace deal, raises oil risk",
+      "Fed's sparse commentary drives AI policy parsing",
+      "Buffett reveals philanthropy rift with Gates",
+      "ECB selects 36 providers for digital euro",
+      "Hong Kong property market shows tentative strength"
+    ],
+    "news-society": [
+      "US troops killed in Jordan, retaliatory strikes launched",
+      "Russia-Ukraine war strains civilian economies",
+      "Andrew Tate arrested in the US",
+      "EU border system causes major delays",
+      "Trump threatens tariffs over Canada wildfire smoke"
+    ],
+    "news-military": [
+      "Iranian strike kills two US troops in Jordan",
+      "US Navy disables oil tanker violating Iran blockade",
+      "GAO warns of wasted billions on hypersonic missiles",
+      "Strait of Hormuz transits fall sharply",
+      "Indo-Pacific defense cooperation expands"
+    ],
+    "news-tech": [
+      "EV DC fast charging now reliable for road trips",
+      "Honda pivots to autonomous electric lawnmowers",
+      "Disney faces backlash for AI-generated kids content",
+      "China forces breakup with AI companions",
+      "Sony launches flagship RGB LED TV"
+    ],
+    "news-sports": [
+      "England wins World Cup bronze, best since 1966",
+      "Chelsea agrees £117m deal for Morgan Rogers",
+      "Mbappe leads Golden Boot race by two goals",
+      "Sam Burns leads The Open at Royal Birkdale",
+      "Benn and Garcia brawl after boxing event"
+    ],
+    "news-entertainment": [
+      "Andrew and Tristan Tate arrested in Miami",
+      "Christopher Nolan to take at least three-year hiatus",
+      "Lena Headey calls out Hollywood's predator protection",
+      "James Gunn's Big Brother cameo falls through",
+      "Record-breaking K-pop milestones achieved"
+    ]
+  }
+}
