@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊冲突推升油价突破90美元",
+      "中国国家队豪掷超74亿美元托市",
+      "韩国散户杠杆爆仓三星SK海力士",
+      "花旗上调中国至超配评级",
+      "欧洲航空燃料库存告急"
+    ],
+    "news-society": [
+      "俄导弹袭乌克兰致8死数十伤",
+      "圭亚那渡轮沉没数十人失踪",
+      "美军一士兵在伊朗袭击中丧生",
+      "配音演员集体起诉知乎AI盗用声音",
+      "日本高层警告无法避免核武器辩论"
+    ],
+    "news-military": [
+      "美伊冲突升级油轮被击沉",
+      "俄军发射41枚导弹125架无人机",
+      "乌克兰拦截17枚弹道导弹",
+      "美军3名士兵在伊朗冲突阵亡",
+      "霍尔木兹海峡过境量骤降"
+    ],
+    "news-tech": [
+      "Netflix 5.87亿美元收购AI电影公司",
+      "白宫考虑设立专门机构监管AI",
+      "五菱Bingo或以Chevy品牌入北美",
+      "Claude Fable自动生成数学反例",
+      "数据中心扩张引发土地征用争议"
+    ],
+    "news-sports": [
+      "西班牙加时1-0阿根廷夺世界杯",
+      "19岁亚马尔成新偶像",
+      "姆巴佩蝉联世界杯金靴",
+      "罗德里获世界杯金球奖",
+      "西班牙五年内豪取16项冠军"
+    ],
+    "news-entertainment": [
+      "西班牙夺冠BTS中场表演创史",
+      "特朗普现身世界杯决赛遭全场嘘声",
+      "《功夫足球》中国票房破2亿美元",
+      "PSY《江南Style》60亿点击破纪录",
+      "Netflix斥42亿美元收购AI公司"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Brent crude tops $90 on US-Iran tensions",
+      "China injects $7.4B to stabilize A-shares",
+      "TSMC expands Arizona fab for AI demand",
+      "S.Korean retail investors lose on leveraged bets",
+      "Zhongji Innolight gets HK IPO approval"
+    ],
+    "news-society-en": [
+      "US soldier killed in Iranian attack in Iraq",
+      "Russia missile barrage kills 8 in Ukraine",
+      "Ferry sinks off Guyana, dozens missing",
+      "Coupang warehouse fire in South Korea continues",
+      "Voice actors sue Zhihu over AI voice cloning"
+    ],
+    "news-military-en": [
+      "US-Iran conflict intensifies with new airstrikes",
+      "Russia hits Kyiv, burning through Zircon missiles",
+      "China escalates South China Sea legal campaign",
+      "US deploys new range instrumentation vessel",
+      "Strait of Hormuz blockade disrupts oil transit"
+    ],
+    "news-tech-en": [
+      "White House weighs AI regulator",
+      "Netflix bets $587M on Affleck AI startup",
+      "Chinese automakers threaten ultra-cheap EVs",
+      "India's private space sector achieves orbit",
+      "AI safety grades show no lab tops C+"
+    ],
+    "news-sports-en": [
+      "Spain beats Argentina to win World Cup",
+      "Scaloni in tears after match",
+      "Trump booed at World Cup final",
+      "BTS performs at halftime show",
+      "Mbappe wins Golden Boot for second time"
+    ],
+    "news-entertainment-en": [
+      "Spain wins World Cup 1-0",
+      "BTS performs 'Dynamite' at halftime",
+      "Trump booed during telecast",
+      "House of the Dragon shocker suicide mission",
+      "PSY's Gangnam Style hits 6 billion views"
+    ]
+  }
+}
