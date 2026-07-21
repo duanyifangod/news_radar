@@ -1,0 +1,140 @@
+# News Radar — 经济新闻
+
+> 2026-07-21 · Window: 24h · Items: 118 · Generated: 2026-07-21 04:32 UTC
+
+---
+
+## Editor's Brief
+
+Markets are caught between escalating Middle East tensions and a tech-led rebound, with inflation fears resurging as oil prices surge and the Strait of Hormuz faces disruptions. In China, a dramatic semiconductor rally and state-backed insurer support lifted equities, while European markets priced in rate hikes and awaited ECB guidance. The section highlights key macro risks, sector rotations, and regional divergences shaping the global economic outlook.
+
+- **Inflation fears return** as the US-Iran conflict keeps oil elevated, with analysts warning of sustained prices above $100/barrel and potential recession risks ([CNBC](https://www.cnbc.com/2026/07/21/inflation-fears-return-as-iran-war-keeps-oil-prices-high-analysts.html)).
+- **Strait of Hormuz traffic slumps** after Trump’s blockade, threatening global oil supply chains and shipping costs ([CNBC](https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html)).
+- **US-China tensions escalate** as the US condemns China’s actions in the South China Sea ahead of key diplomatic meetings ([CNBC](https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html)).
+- **US tariffs on Canada** over alleged trade discrimination further strain North American trade relations ([CNBC](https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html)).
+- **European markets price in two ECB rate hikes by early 2027** on inflation concerns, as the ECB prepares for a key decision ([Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkowLVJjV21CdV9TQWhVNDFRRXJEeUFFUk0zanFiek94a2ExaGpxM0dNTWpXdFkxYWpZejdkT3Qwd2Exd25QeVNaTlJYQV9VRzdqRElZb01wMkNWNmJNWTB2TzVkUWFSUkxyXzlBUHFwZ1Q2YmVoaXpWNU1EanZTb2hqMnFBMllPZ3prem9kUk1HTTFma2hTV3ZNc3V2UEVmWVVyd1RJeW4)).
+- **Chinese stocks surge** as state-backed insurers tout long-term investment and a semiconductor rally drives the Star 50 Index up nearly 7% ([SCMP](https://www.scmp.com/business/china-business/article/3361275/chinese-stocks-rose-04-cent-state-backed-insurers-tout-long-term-investment)).
+- **HKEX plans listing reforms** including confidential filings and lower thresholds to boost competitiveness, signaling a shift in IPO market strategy ([SCMP](https://www.scmp.com/business/markets/article/3361277/hkex-allow-confidential-filings-lower-market-cap-threshold-start-ups-sources-say)).
+- **Gold ETFs see inflows** as SPDR Gold Trust holdings rise by 4.57 tonnes, reflecting safe-haven demand amid geopolitical uncertainty ([同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmJaOWt5VmY0Q1hvM2MtNnlKZjlkRVcwVUlyMGtQeFFQSzF0YnNhWkphc3BGbnhSeVg4c0RheWlydElqcHNNa1VzdzRfNnBUc1BJNkRtaUhwcmFYUlE)).
+
+**Watch next:** Focus on the ECB decision later this week, the trajectory of oil prices and its impact on global inflation, and key US tech earnings (including Google, Tesla) that could dictate market direction. The continued fallout from US-Iran tensions and any diplomatic breakthroughs will also be critical for risk appetite.
+
+---
+
+## 美股 · 59 items
+
+US equity futures are recovering on a chip-led rally, but inflation fears and geopolitical risks from the Middle East conflict and trade disputes with Canada are weighing on sentiment. The Nasdaq and S&P 500 futures rose as chip stocks countered Iran jitters ahead of major tech earnings, while General Motors is set to report earnings with expected EPS of $3.20.
+- [Inflation fears return](https://www.cnbc.com/2026/07/21/inflation-fears-return-as-iran-war-keeps-oil-prices-high-analysts.html) as oil stays elevated due to US-Iran conflict, risking sustained prices above $100/barrel.
+- [Strait of Hormuz traffic slumps](https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html) after Trump’s blockade, disrupting a key oil corridor.
+- [Trump imposes 50% tariffs](https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html) on certain Canadian goods, escalating trade tensions.
+- [Nasdaq, S&P 500 futures rise](https://news.google.com/rss/articles/CBMipAJBVV95cUxNQm9rQ1loX245Z294NWdRZmt0RlJVSGxVaVpNZjZwYThxWGVLS1JOMWI0Y3ZkVkZhQ21tOHdVaEI3RkVOM0w4T2dyZ3V5MElBQzFOczE2ZG03cl9zMXcyNFhqVnBVUmdfd1lHazBVTjBLZ3B1T2RDMmU4cDVnZTl4ZWNsTFl1eEpQS1A1VHRuZHhoR3gzbm04dm5vQkJxMnNRNzNCRnJfVkJOLUlCRzJNUWR5U0hzdVY3b0VuUnZvZDZiN21lVWhGMWEyUEJ3NlJhVTB1ay1JdFpDYnVacFd4QmF2cGdSVGtNbF95cU9ZQlFyOFJSU3VBWHRFVk1BTktGMVF4SUFGLXQydmQzZGpMOS1URnhudjFXVHZxUWhUcVNrRUxF) as chip rally counters Iran jitters ahead of Big Tech earnings.
+- [Google’s AI search imperils open web](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html), drawing backlash from website operators.
+
+**Signal:** The interplay between geopolitical risk and tech earnings will drive near-term volatility; a sustained oil spike could derail the recovery rally.
+
+<details><summary>Source (59)</summary>
+
+- [Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say](https://www.cnbc.com/2026/07/21/inflation-fears-return-as-iran-war-keeps-oil-prices-high-analysts.html) — CNBC Markets · 2026-07-21 04:01 UTC
+- [General Motors is set to report earnings before the bell. Here's what Wall Street expects](https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html) — CNBC Markets · 2026-07-21 04:01 UTC
+- [U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal](https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html) — CNBC Markets · 2026-07-21 03:28 UTC
+- [Ships shun Strait of Hormuz as renewed fighting strains key oil corridor](https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html) — CNBC Markets · 2026-07-21 02:33 UTC
+- [Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination](https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html) — CNBC Markets · 2026-07-20 22:13 UTC
+- [Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani](https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html) — CNBC Markets · 2026-07-20 21:50 UTC
+- [The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame](https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html) — CNBC Markets · 2026-07-20 19:42 UTC
+- [Paramount and Warner Bros. merger hit with temporary restraining order](https://www.cnbc.com/2026/07/20/paramount-wbd-merger-delay.html) — CNBC Markets · 2026-07-20 19:20 UTC
+- [World Cup 2026 final in photos: Spain triumphs as football crowns a new champion](https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html) — CNBC Markets · 2026-07-20 16:39 UTC
+- [FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close](https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html) — CNBC Markets · 2026-07-20 05:45 UTC
+- [Agencies issue joint statement on handling of highly sensitive information during bank examinations](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm) — Federal Reserve · 2026-07-16 18:00 UTC
+- [Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm) — Federal Reserve · 2026-07-16 15:00 UTC
+- [Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm) — Federal Reserve · 2026-07-09 19:00 UTC
+- [Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care](https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories) — MarketWatch Top Stories · 2026-07-21 04:01 UTC
+
+</details>
+
+## 欧洲经济 · 17 items
+
+European markets are treading water as investors digest tighter lending conditions, rising ECB rate hike expectations, and the impact of Middle East tensions. The ECB's Survey on Access to Finance shows tightened lending conditions, while markets are pricing in two rate hikes by early 2027 on inflation concerns.
+- [ECB lending conditions tightened](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html) in the latest Survey on Access to Finance of Enterprises.
+- [Markets price in two ECB rate hikes by early 2027](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkowLVJjV21CdV9TQWhVNDFRRXJEeUFFUk0zanFiek94a2ExaGpxM0dNTWpXdFkxYWpZejdkT3Qwd2Exd25QeVNaTlJYQV9VRzdqRElZb01wMkNWNmJNWTB2TzVkUWFSUkxyXzlBUHFwZ1Q2YmVoaXpWNU1EanZTb2hqMnFBMllPZ3prem9kUk1HTTFma2hTV3ZNc3V2UEVmWVVyd1RJeW4) on inflation concerns, signaling a hawkish shift.
+- [European shares trade flat](https://news.google.com/rss/articles/CBMiywFBVV95cUxPai10c2dZenBxRGp2czZ1V0hKRFVjT1FBc1NFYTBrTm9PNlpPTkQ1SjhGcU5VRkVVRC1vSHZiN1lIUFYxS3dYWFlZOVZPMHg5czBzSWt4cW5NdFEwMmtXbG5xb3NDWWotcGZNMTJ2T2hhc2dWVDNmR3dvOG03QmJCTnRWLXRJOEZfSkthRURkMWJlUV9kU1VuOUlLM2hiR1FJa21WX3Y2RkxVSGdNeGljY2xOa0VqRzRBNGNRUGVfVy00dGZPUDhJWGRvdw) as markets weigh Iran diplomatic efforts.
+- [New UK PM Burnham vows overhaul](https://news.google.com/rss/articles/CBMirgFBVV95cUxONFBkRXFRRXd4eGV4cmN4OVhYVUhYQmlyZ05RSU8zX09aUGw3a0hudU1RM1c3YkJyRVJFUlNWOFRaeXp5VnJaeVFfdVNDcERiWEdtQTNhSEhUQldGWm04RkM0TGNwbjNENjRDaWxZOElHZEZtaERVU2ZMTGhPVlpzR3J6cU4tMWhZZlZsUVQ1NlJJSDRXMWRrYXJkN3U3dVdqMVBUd3ZDUHc4SWJjSmc) but markets are skeptical.
+- [BlackRock weekly commentary](https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw) notes market uncertainty.
+
+**Signal:** The ECB’s decision this week will be critical; any hawkish surprise could further weigh on growth-sensitive sectors.
+
+<details><summary>Source (17)</summary>
+
+- [Survey on the Access to Finance of Enterprises: lending conditions tightened](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html) — European Central Bank · 2026-07-20 08:00 UTC
+- [New PM Burnham vows to overhaul the economy. Markets aren’t buying it - AFR](https://news.google.com/rss/articles/CBMirgFBVV95cUxONFBkRXFRRXd4eGV4cmN4OVhYVUhYQmlyZ05RSU8zX09aUGw3a0hudU1RM1c3YkJyRVJFUlNWOFRaeXp5VnJaeVFfdVNDcERiWEdtQTNhSEhUQldGWm04RkM0TGNwbjNENjRDaWxZOElHZEZtaERVU2ZMTGhPVlpzR3J6cU4tMWhZZlZsUVQ1NlJJSDRXMWRrYXJkN3U3dVdqMVBUd3ZDUHc4SWJjSmc) — Google News Europe Economy · 2026-07-21 01:37 UTC
+- [CAC 40 Today: Paris Benchmark Edges Up to 8,340 as European Markets Steady After Middle East-Driven Volatility - BBN Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeDF0Q1B3MUNNRHdxR0FLLUZuWTVKUXg5d0haVU5WdHVKc0VtR0JwMktXTmdxMDFWMmhRNzljZE5Tcm05THZ0TDd6SVlRekVyaG1fMUt1ZVBlNy01NWFqS3NMbkRCTjJWSjNyNXBjdmh3dEFqVGVycTAwSm9VejJVbFdzWmxlbEFvaEtkQ3VLeV9IbURCeFlCLXpJdU43OGtOT3UxNVR6TXdwNzNCcUlBRXpoaXZYc2MzUFR6VFZvYjQ1M0JEWE9tTUlWV2xFMDNtYUZ0alVqVEc1UE1BbHlaVVdyVQ) — Google News Europe Economy · 2026-07-20 22:51 UTC
+- [Back to square one: Five questions for the ECB - MSN](https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMERJS0RYckg5YUd5dzBvUkpEeG5EczhQaElUN1pJSzNVUXJXUjNtMTEtd1lRMzdyYjNSUXVaQWFOeHNOUGdrVHA1NW5XWkQtZlgtNmxSUDhVVFFFdUVtekxyWTlRYUUxU0xKc3hndHlpRHR2ZDNoSXQ2RTZ2RlBid3EtS2RZbmh6ZXI3dFpIQUUwRDNpVnNTR2N0UF80WWg2YjV4cEF3WHpLWTl4MzBaMDZ6ZXU2LWp6bno3cU1ReXpyVWJlVGJpM2tEcGVkQlRNZ0ZuaFZGR2NPSjRfSTJ3bHktekw3WjVLSDFQM0VReTFsODEwTTdLaDgtYVY5ZTRCU2trUmU2Tmx5ZEd2OThsWmIzUlVVUUxKeWgtNmJGRDN6OVpZdkd1QVNaTEdVWkNEQTRBbUZseFlxVzljX003LUd1WGhBdTBpaU5RM3pOZEUwQ0s1Yy1Wb01mR3VVVEg4MmRJQ1M5MHUxSGpPaVRuWEQ4LXY3dw) — Google News Europe Economy · 2026-07-20 23:26 UTC
+- [Weekly market commentary - BlackRock](https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw) — Google News Europe Economy · 2026-07-20 22:44 UTC
+- [Markets price in two ECB rate hikes by early 2027 on inflation concerns - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkowLVJjV21CdV9TQWhVNDFRRXJEeUFFUk0zanFiek94a2ExaGpxM0dNTWpXdFkxYWpZejdkT3Qwd2Exd25QeVNaTlJYQV9VRzdqRElZb01wMkNWNmJNWTB2TzVkUWFSUkxyXzlBUHFwZ1Q2YmVoaXpWNU1EanZTb2hqMnFBMllPZ3prem9kUk1HTTFma2hTV3ZNc3V2UEVmWVVyd1RJeW4) — Google News Europe Economy · 2026-07-20 15:24 UTC
+- [European shares trade flat as markets weigh Iran diplomatic efforts - Investing.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxPai10c2dZenBxRGp2czZ1V0hKRFVjT1FBc1NFYTBrTm9PNlpPTkQ1SjhGcU5VRkVVRC1vSHZiN1lIUFYxS3dYWFlZOVZPMHg5czBzSWt4cW5NdFEwMmtXbG5xb3NDWWotcGZNMTJ2T2hhc2dWVDNmR3dvOG03QmJCTnRWLXRJOEZfSkthRURkMWJlUV9kU1VuOUlLM2hiR1FJa21WX3Y2RkxVSGdNeGljY2xOa0VqRzRBNGNRUGVfVy00dGZPUDhJWGRvdw) — Google News Europe Economy · 2026-07-20 10:09 UTC
+- [Can European Markets Withstand Rising US-Iran Tensions? - Modern Diplomacy](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkp5V2N6aWg2eHV2Y0NYTHZDem9hUjMwcVdtazl4WVUycGdyVGhHZ2ZOWVd2anpHRkdWZWhtcHJYNm1DRDlkNGVlNlZya2MtTWpFTDAtZVUwYkJWZnp2OFEzNTlzMDJ6NXQ0cl94eVZZUF9iY3JCRnVLTUU5NXRNSG5XZ1ZPVkRvcW1ob1U0VFRnaVhKR245aA) — Google News Europe Economy · 2026-07-20 09:44 UTC
+- [European stocks slip as investors await ECB decision, US tech earnings and higher oil prices: DAX, CAC, FTSE100 - Yahoo Finance UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGlOMzUyOXlEdXBUdG8tdkhCazhRMV94QmxDR2F2eTdxQlotNFRMZmp4b1dlYk5GeldxSUNucS1iRDVlaWZTbEE0LUJ6M1JHZm4zQkt6Vkd1WXA5SzhlN1RNUzd1WG5Sc0RsT0psem9fRlR1R1R6NWhYZnQ0ZGIwb2pIZ3Z0UnZZZWd5bzd3) — Google News Europe Economy · 2026-07-20 08:59 UTC
+- [Europe closes mostly flat at start of ECB week - Breakingthenews.net](https://news.google.com/rss/articles/CBMilgFBVV95cUxNV20wVzJBdlJ2bkhjdXJrb2RfUEZTYVlIOVRrWXktQVR5OXpNVENQR2pOb3FKWEx1eU01dkQ2YVhhTFNWbVF3YXlKOFp4emVCUTlHMWI0NHVrY1Y0b3dJS1VudlpZTU9CZDhHTUFDLXJoZE9vY0dWUUNPYXBRTmE3Q0hqQ21CeGNWM2xOVDRfZWxXbk5rZGc) — Google News Europe Economy · 2026-07-20 15:35 UTC
+- [How do you actually shop local in New York City?](https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc) — The Guardian Business · 2026-07-17 12:00 UTC
+- [Euroviews. Beyond the shadow of 'Too Big to Fail': moving past a fragmented European banking system - Euronews.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2U4R1ktTXk2dUtEMm5ZWFRhdEVYaWY1VEtVa3NjbUVuRnRENElzWHdvSTVVZ2VMS2ZKcldtSFlVMGh1X0d0dVh4Q0xBTUhDbWY2MHk5NUxTSnUyZWxOb01DZUZnS1czaUZIVElpQU9fd0V4OEtOQlM2S0VCZVd3akszc2hQSFg5a25DS2N2TTdTcW1kcG40) — Google News Europe Economy · 2026-07-21 03:50 UTC
+- [ING wins Best Bank awards at Euromoney - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrUjJabVdqSS1rUFBGMkktSzdDSmRrcDM3ZXhYOXJnMk5zRjlmV3lnLXNiRFpzRGZUUFVXTmlOaEdONHpBRXdDUVJJWmpDZWZCb2hkQ0FpdTA0Z3NRaVFQNg) — Google News Europe Economy · 2026-07-20 10:57 UTC
+- [Recovering the EU recovery fund’s legacy - euractiv.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE9wa3lHVWlWb0U5OUJkTkstdnJ0TEZlUlhpc1l4N09VTzNDTVVYdXA4My0tU0tRQTJvZklpeW1LOUFEYUttN2VDdkotWWM1RVduYi05U1o4aTVJT3VWVWdJMV9GX1EtcXBibTZtRk5EWGlNVm9pX3FYMnF3) — Google News Europe Economy · 2026-07-20 10:49 UTC
+
+</details>
+
+## 中国经济 · 35 items
+
+Chinese equities staged a sharp rebound led by semiconductor stocks, with state-backed insurers signaling long-term commitment. HKEX is pursuing listing reforms to attract tech startups, while oil price risks from the Iran conflict pose a threat to China’s economy.
+- [Chinese stocks rise](https://www.scmp.com/business/china-business/article/3361275/chinese-stocks-rose-04-cent-state-backed-insurers-tout-long-term-investment) as state-backed insurers tout long-term investments, with the Star 50 Index gaining nearly 7%.
+- [A-share semiconductor rally](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mNHVvQnh3WEtWMm92dXM5SFQ0Z2ltNnU3bzR1aUJOdUMwMWVhdDNyLXBiUUZVbmZUc3BhVWxkeEFwT1FsYWV1cTdjSDhPTUQ1alpTZnZJZjJnS0hQZ0tsZ05B) drives a deep V rebound, with Huahong Hongli up 14% and Cambricon up 9%.
+- [HKEX plans confidential filings](https://www.scmp.com/business/markets/article/3361277/hkex-allow-confidential-filings-lower-market-cap-threshold-start-ups-sources-say) and lower market cap thresholds to boost IPO competitiveness.
+- [China won’t dip into reserves](https://www.scmp.com/opinion/china-opinion/article/3360973/china-wont-waste-its-reserves-cushion-oil-price-impact-iran-war) to cushion oil price impact from Iran war, risking inflation and consumption.
+- [Luxury property rush](https://www.scmp.com/business/article/3361214/new-tech-wealth-sparks-luxury-property-rush-chinese-city-home-six-little-dragons) in Hangzhou as new tech wealth boosts high-end real estate.
+
+**Signal:** The sustainability of the tech-led rally hinges on earnings and liquidity conditions, while oil price risks and geopolitical tensions remain key downside factors.
+
+<details><summary>Source (35)</summary>
+
+- [HKEX to allow confidential filings, lower market cap threshold for start-ups, sources say](https://www.scmp.com/business/markets/article/3361277/hkex-allow-confidential-filings-lower-market-cap-threshold-start-ups-sources-say) — SCMP Business · 2026-07-21 02:30 UTC
+- [China’s stocks rose by 0.4 per cent as insurers tout long-term investment - South China Morning Post](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTHc3QUxMSHNPSU81cVN6OGpzalFIbjdaS0FZamtXa0VZbGp2UTV2S1I3Ti11TXZiUUF6T25rc2RYVFZOVkRha3lzUkJVZTBydmdtZXZKZEg2aFpsTDBzWVYtSHpNc3hRNlVVQm1Vd05qMDg4dzFWX0N1SGRmSGtSbGp1YmhWZnRTR0w4N2ROdlFfRmp6M0tlM0hfeEtVVG5iUGhTblY4TExBUkxCbUVXYUJING1fM1dkUmdZV0hYSkJ3cFRQbl9hMUdkOU5qZzctOEHSAdIBQVVfeXFMTUx3N0FMTEhzT0lPNXFTejhqc2pRSG43WktBWWprV2tFWWxqdlE1dktSN04tdU12YlFBek9ua3NkWFRWTlZEYWt5c1JCVWUwcnZnbWV2SmRINmhabEwwc1lWLUh6TXN4UTZVVUJtVXdOajA4OHcxVl9DdUhkZkhrUmxqdWJoVmZ0U0dMODdkTnZRX0ZqejNLZTNIX3hLVVRuYlBoU25WOExMQVJMQm1FV2FCSDRtXzNXZFJnWVdIWEpCd3BUUG5fYTFHZDlOamc3LThB) — Google News China Economy · 2026-07-21 01:49 UTC
+- [Chinese stocks extend rise as state-backed insurers tout long-term investments](https://www.scmp.com/business/china-business/article/3361275/chinese-stocks-rose-04-cent-state-backed-insurers-tout-long-term-investment) — SCMP Business · 2026-07-21 01:49 UTC
+- [Fifa effect: Hong Kong developers bet on sport fever to keep shoppers spending](https://www.scmp.com/business/money/spending/article/3361271/fifa-effect-hong-kong-developers-bet-sport-fever-keep-shoppers-spending) — SCMP Business · 2026-07-21 00:56 UTC
+- [New tech wealth sparks luxury property rush in Chinese city home to ‘Six Little Dragons’](https://www.scmp.com/business/article/3361214/new-tech-wealth-sparks-luxury-property-rush-chinese-city-home-six-little-dragons) — SCMP Business · 2026-07-20 23:00 UTC
+- [Hong Kong Stock Exchange: Hang Seng Surges 2.4% to 25,143 as Offshore Chinese Equities Lead Regional Gains - BBN Times](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0hnM2lLVXlRUmhremkyNnBicFlERnZ4Zk5xTUxUeDUtX2I0aktmOGpKMTVJUUx0cThfZFZJQWxIeTZuLWE3T3lISlVDUHBneDVUQnZfQWloV1FEZVNlSWNldjV4cTE0TWh4X09TZ2NPNnBGXzRFRjU5WEtDQ0paWlVJQWFlR0lRbkltMVB6ZVY4QXBOYTFuV25GS3Z3N3poa0FMZU9xaHRTNFNoMi1taFlVRm52MWlQemlQLUZCenE0YTBXZ0JhRVV3STdKUjQ4bnZEUVlB) — Google News China Economy · 2026-07-20 22:53 UTC
+- [Global Market: China stocks face steep weekly losses as CXMT IPO sparks liquidity crunch fears - The Economic Times](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbDREajBXclBuSVVucUluUHQzbnkxVEJZak1VRS1LcnV0U29SSmJaNm14V21qWXBDbENVTVpMS1p2U2lVeElBZlRFNWEyb3JVLWQxTzRQcW1xUHZ0VngyaG5rNTB5TldkNVZfbGdfajhyNEpqelZuLXMtbVY3UnZWTGdnMW9rSHA2cWRIMjhTRkdHRFhNNDA2QVNub1E4NDFSSjB6RDFTYzlaRTBEZHlpVE8xT3diY1RSd1RwUkZoT25GMFN0Z2pzRXRtYUxzMmxmZTZhN1ZTU3FpVnlqWFJmbzNGd3oyemZSbVVtVldGdVpMN05SdXV4eUFkdFFyQmPSAYQCQVVfeXFMTVhRVV85UV9BTmNsQXhLbURvOVNIMkdHNmxGaktLZEZZYU1ob0VfblFvdS1wcEN2ZEM5NUQ0dENxTjZXS0ZacnhxVXROaUNmYlZVNmkyMmdJVEZwRWlMNVp0REYySGpmLVhTeW1XTTA3SHNEVUtqU1V0NF93bkNQMFdPSG11OThsNl9adVcxVGNGbGY0QkFWMXh4RDRxbE5oRU9kejNGblNRVDdNWXFZczhINlN2dTA0RFNJcms5ZHpNLUhzT2dnUzR0QkMxdmREbEVNRk1FYThnZG00Mm9Beko0LUlOV25OdnpKMng4Vl9YMUhOeHYzU0FiWU5GTXc5bjdmd24) — Google News China Economy · 2026-07-20 22:09 UTC
+- [China won’t waste its reserves to cushion oil price impact of Iran war](https://www.scmp.com/opinion/china-opinion/article/3360973/china-wont-waste-its-reserves-cushion-oil-price-impact-iran-war) — SCMP Business · 2026-07-20 21:30 UTC
+- [A股深V反弹，半导体股爆发，易中天半日成交680亿元 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mNHVvQnh3WEtWMm92dXM5SFQ0Z2ltNnU3bzR1aUJOdUMwMWVhdDNyLXBiUUZVbmZUc3BhVWxkeEFwT1FsYWV1cTdjSDhPTUQ1alpTZnZJZjJnS0hQZ0tsZ05B) — 同花顺社区动态 · 2026-07-21 04:31 UTC
+- [半导体芯片V型大反弹！华虹宏力涨超14%，寒武纪涨超9%，港股智谱涨超20% - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MY181RjBmdW0yWG9nOGk1ZjAtVzZQenlLdkthTUI5UEJhdC05TnNuT0o0X0N6NDlnZXBXUlNLYS1LUXcwZXowZjJtREV3N3QxamJEd2FLbEV1SU1mMzdYWW1n) — 同花顺社区动态 · 2026-07-21 03:36 UTC
+- [A股午评：创业板指触底反弹涨5.2% AI产业链方向领涨市场 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOeFk4Y0FmQnJVV3o0VUwyMENLNWZTWXh1MFcwQmVxWlNXcW5oVEFXOXBNSXQ5NU5lcTNOZVdnMWZpTS1jODhmOXR2OTlQMUNZTVdoaDZtVVpuS0s1dWc) — 同花顺社区动态 · 2026-07-21 03:35 UTC
+- [World Markets Watchlist: July 20, 2026 - ETF Trends](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHo1WnJZbmdvcEFDRzYyNVJqeC1ETVpBZkVKQ28yYzYtWGNlZjBSdWlsaThMWDRlS3BxZWl6ZXV0RGItOHN1RzAtWnNySmtXc2lPN1FRMkprdDhzS3ItNmlKSWNhWFExLTVyd2tlTmp3S1YzVF9yeWFWM1V0ZFlnUkdsUVBvckJ3QUs4eHUwVmxmQ0lh0gGaAUFVX3lxTFBCc2dyZnV5d3RQMF92ajNhYTJHSjRXZ1hiczhuSWxxOWxRUmRyZkV0VnNRcTN0Z2gyWDRqTU5HUnBIQnllUkpIY3BKU3JfYmcyeko2NW9LbklKSUd2MlltczJHS3FteWlWd0NWS0s1QzdPWU9hZUVNSlQwTE1meVc1VUx3dzhIVE9LeEozNGl3T0ZUdUI4clZaRGc) — Google News China Economy · 2026-07-20 21:46 UTC
+- [ETFs Investing in China Resources Beverage (Holdings) Company Limited Stocks - TradingView](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVUEg2cmZuTUxPUVZGZE1GNEs0OWV6SV9pajlzcW94Yld2NWdDcmVGZUFpMDF6ZG45SmRsQURzVGM4WVB2Sl9GU0RjdHJ3dlhBMFUyanY0Q3pLcmhzcnBZTA) — Google News China Economy · 2026-07-20 19:11 UTC
+- [Hungary investigates deal with China’s BYD after ex-foreign minister takes job there](https://www.scmp.com/business/china-evs/article/3361258/hungary-investigates-deal-chinas-byd-after-ex-foreign-minister-takes-job-there) — SCMP Business · 2026-07-20 16:51 UTC
+
+</details>
+
+## 同花顺社区动态 · 7 items
+
+Community data shows strong capital inflows into ETFs and semiconductor stocks, with gold ETF holdings rising amid safe-haven demand. Margin buying remained active, with 363 stocks receiving over 100 million yuan in financing, led by Zhongji InnoLight.
+- [July 20 margin buying](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zblpVMkp3NjNEVS12U05ZZmVSRm9oTm9tZHlBbEQzSnIwR1NnbUtnNXUtZUJ6UkxVQXdWeG4tUkM3d1JpeEZKZTdmRG5UUk9lS25WdXVNTzNkN2k1cUE): 363 stocks saw over 100 million yuan in financing, with Zhongji InnoLight top at 4.864 billion yuan.
+- [ETF net inflows](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZmNxLVZvZnZiRXdOY2xhUzd0Yi1qWUJJQVh1M2ljczB1X05OY2RmUG1fWWR6NDI5VG1DdzVnclRIbzdySlJJU0QtU2wtbGE0TldTQTZYUlBjZkZvdEE) fell on July 20, indicating shifting investor preferences.
+- [Global gold ETF SPDR](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmJaOWt5VmY0Q1hvM2MtNnlKZjlkRVcwVUlyMGtQeFFQSzF0YnNhWkphc3BGbnhSeVg4c0RheWlydElqcHNNa1VzdzRfNnBUc1BJNkRtaUhwcmFYUlE) holdings increased by 4.57 tonnes, reflecting safe-haven demand.
+- [Semiconductor stocks surge](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MY181RjBmdW0yWG9nOGk1ZjAtVzZQenlLdkthTUI5UEJhdC05TnNuT0o0X0N6NDlnZXBXUlNLYS1LUXcwZXowZjJtREV3N3QxamJEd2FLbEV1SU1mMzdYWW1n) with Huahong Hongli up 14% and Cambricon up 9%.
+- [Tonghuashun profit guidance](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSWhxWGFjNWNqcXUxVU5DOVE5SWhIWld3S3RYSHVkLUVjUFAzemF6bnUyVnBZNmtEZXRmNFlQOUtaUzJEX0xUSVdRQk4tYXFnQ1UtZkhPNzkxNGFmRXFDYg) shows H1 net profit growth of 75%-95%, driving stock up 5.68%.
+
+**Signal:** Community flows suggest strong retail interest in tech and gold, but profit-taking and liquidity shifts could reverse the trend quickly.
+
+<details><summary>Source (7)</summary>
+
+- [【现货】7月21日马来西亚棕榈油现货价格汇总 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PV0hWeFREeW5fenFXTnplNU1TQWxkUGV4bWhfN05Rb3Z0Tm05bGhuYUdJRFAyNGFpMVppb0VYWkFhSjBNS1dCTG1zX3ppMTNmVXRKaE9meVRaVVlfOXpPMHFn) — 同花顺社区动态 · 2026-07-21 03:36 UTC
+- [安博通入选中国信通院《数字安全护航技术能力全景图》11大类39项，彰显创新实力 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HeTZsYlYwZWNXZ01KQVVVd1FNS0FEVnZaTUpJalptWXJyeWd6VGdrb3FELTY2LUJWYlhaRHo0YTVhNDVQWnhvbFlBT2FUczd0SlJub0V5RUJXdnhOamFzWkpn) — 同花顺社区动态 · 2026-07-21 03:32 UTC
+- [东华软件等在北京成立算力科技新公司 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBWGNySjVaSzdTQVVma0x0c1NOYUFMUmpocHM1RGNNQUFra3dtRkd6UUtZUGJaZE1jRVdlX0kxR01qT0NiQ3JEcGphN2VvaWY3UE9TZVpfU09hSjR5ZC1kSU1B) — 同花顺社区动态 · 2026-07-21 02:08 UTC
+- [7月20日363股获融资买入超亿元 中际旭创获买入48.64亿元居首 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zblpVMkp3NjNEVS12U05ZZmVSRm9oTm9tZHlBbEQzSnIwR1NnbUtnNXUtZUJ6UkxVQXdWeG4tUkM3d1JpeEZKZTdmRG5UUk9lS25WdXVNTzNkN2k1cUE) — 同花顺社区动态 · 2026-07-21 01:00 UTC
+- [7月20日ETF资金净流入榜单出炉 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZmNxLVZvZnZiRXdOY2xhUzd0Yi1qWUJJQVh1M2ljczB1X05OY2RmUG1fWWR6NDI5VG1DdzVnclRIbzdySlJJU0QtU2wtbGE0TldTQTZYUlBjZkZvdEE) — 同花顺社区动态 · 2026-07-21 00:24 UTC
+- [全球最大的黄金ETF SPDR Gold Trust持仓较前日增加4.57吨 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmJaOWt5VmY0Q1hvM2MtNnlKZjlkRVcwVUlyMGtQeFFQSzF0YnNhWkphc3BGbnhSeVg4c0RheWlydElqcHNNa1VzdzRfNnBUc1BJNkRtaUhwcmFYUlE) — 同花顺社区动态 · 2026-07-21 00:19 UTC
+- [上半年净利润预计增长75.00%—95.00% 同花顺大涨5.68% - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSWhxWGFjNWNqcXUxVU5DOVE5SWhIWld3S3RYSHVkLUVjUFAzemF6bnUyVnBZNmtEZXRmNFlQOUtaUzJEX0xUSVdRQk4tYXFnQ1UtZkhPNzkxNGFmRXFDYg) — 同花顺社区动态 · 2026-07-20 18:11 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*

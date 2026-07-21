@@ -1,6 +1,23 @@
 {
-  "generated": "2026-07-20T04:54:42.858Z",
+  "generated": "2026-07-21T04:34:17.510Z",
   "dates": [
+    {
+      "date": "2026-07-21",
+      "reports": [
+        "news-economy",
+        "news-economy-en",
+        "news-society",
+        "news-society-en",
+        "news-military",
+        "news-military-en",
+        "news-tech",
+        "news-tech-en",
+        "news-sports",
+        "news-sports-en",
+        "news-entertainment",
+        "news-entertainment-en"
+      ]
+    },
     {
       "date": "2026-07-20",
       "reports": [

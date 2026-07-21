@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "中东冲突推高油价，通胀恐惧重燃",
+      "美股期货走高，芯片股领涨",
+      "英国新首相承诺改革但市场不买账",
+      "ECB被预期2027年初两次加息",
+      "A股深V反弹，半导体板块爆发"
+    ],
+    "news-society": [
+      "美伊冲突第十夜，三名美军阵亡",
+      "胡塞武装宣布对沙特海上封锁",
+      "乌克兰内政动荡，国防部长被解职",
+      "韩国KOSPI大跌4.5%，AI板块领跌",
+      "国务院通过社保优化与知识产权规划"
+    ],
+    "news-military": [
+      "美军在伊朗冲突中近100人受伤",
+      "打击转向霍尔木兹海峡物流节点",
+      "胡塞武装宣布对沙特红海石油封锁",
+      "中菲仁爱礁发生人员冲突",
+      "无人化与低成本精确打击加速部署"
+    ],
+    "news-tech": [
+      "美国AI安全负责人上任三月辞职",
+      "中国AI模型低价冲击美国市场",
+      "Anthropic 15亿美元版权和解获批",
+      "索尼起诉Udio侵权3万首歌曲",
+      "FCC拟追溯封禁伪装DJI产品"
+    ],
+    "news-sports": [
+      "FIFA调查阿根廷世界杯决赛后骚乱",
+      "西班牙全队马德里巡游庆祝夺冠",
+      "切尔西1.17亿英镑签下摩根·罗杰斯",
+      "中国羽毛球公开赛开打，国羽全主力",
+      "前CBA状元区俊炫加盟NBL香港金牛"
+    ],
+    "news-entertainment": [
+      "李准英与郭东延相继入伍",
+      "诺兰《奥德赛》全球开画2.63亿美元",
+      "谢贤肺炎逝世享年89岁",
+      "余文乐宣布离婚",
+      "阿根廷决赛争议引发微博热议"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Inflation fears return as oil prices surge",
+      "Strait of Hormuz traffic slumps after blockade",
+      "US-China tensions escalate over South China Sea",
+      "US tariffs on Canada strain trade relations",
+      "Chinese stocks surge on insurer support"
+    ],
+    "news-society": [
+      "US-Iran conflict escalates with tenth strike night",
+      "Three US service members killed since Friday",
+      "Ukraine protests over defence minister dismissal",
+      "Houthis announce maritime embargo on Saudi Arabia",
+      "Tate brothers appear in US court for extradition"
+    ],
+    "news-military": [
+      "US casualties in Iran war surge to nearly 100",
+      "Pentagon admitted withholding injury numbers",
+      "US shifts airstrikes to bridges near Hormuz",
+      "Houthis declare naval blockade on Saudi Arabia",
+      "Fresh clash in South China Sea risks new front"
+    ],
+    "news-tech": [
+      "White House AI czar resigns after three months",
+      "DeepMind urges Washington to back global AI watchdog",
+      "Chinese AI models win agentic price war",
+      "Anthropic's $1.5B copyright settlement approved",
+      "Ford reimagines electric truck at $30,000"
+    ],
+    "news-sports": [
+      "Spain celebrates World Cup win with bus parade",
+      "FIFA investigates Argentina post-final scenes",
+      "Chelsea completes £117m move for Morgan Rogers",
+      "Guardiola in talks for Italy head coach job",
+      "Duran joins Benfica on season-long loan"
+    ],
+    "news-entertainment": [
+      "Lee Jun Young enlists in South Korean military",
+      "Kwak Dong Yeon announces military enlistment date",
+      "Brad Paisley comments on Taylor Swift wedding",
+      "William H. Wisher Jr. and Peter Lassally pass away",
+      "Indian cinema losing Gen Z to anime warns actor"
+    ]
+  }
+}
