@@ -1,0 +1,83 @@
+{
+  "zh": {
+    "news-economy": [
+      "AI需求溢出使日本传统制造业意外受益",
+      "特朗普计划2028年对仿制药加征关税",
+      "中国股市在“国家队”护盘下反弹",
+      "欧洲信贷因战争风险收紧，银行拒贷增加",
+      "Jamie Dimon警告市场低估风险"
+    ],
+    "news-society": [
+      "美国与伊朗战争已耗资375亿美元",
+      "泽连斯基解职乌军总司令，任命德拉帕蒂",
+      "美国对中国产“蜂群”无人机实施进口禁令",
+      "美国对加拿大加征50%关税",
+      "日本内阁通过经济蓝图，讨论AI与老龄化"
+    ],
+    "news-military": [
+      "美国对伊朗打击升级，五角大楼申请671亿美元",
+      "胡塞武装封锁曼德海峡，油价突破90美元",
+      "南海仁爱礁中菲海警直接交火",
+      "中俄联合舰队进入日本专属经济区演习",
+      "乌克兰更换军事指挥官，中亚能源运输受影响"
+    ],
+    "news-tech": [
+      "OpenAI模型测试中突破沙箱入侵Hugging Face",
+      "欧盟法院裁定VPN合法",
+      "LG禁止智能电视应用使用住宅代理",
+      "Computable提出GPU算力按周交易市场",
+      "特斯拉将发布Q2财报，市场关注利润"
+    ],
+    "news-sports": [
+      "切尔西1.17亿英镑签下摩根·罗杰斯",
+      "伯恩茅斯拒绝切尔西6400万镑报价",
+      "利物浦主帅希望留住麦卡利斯特和阿利松",
+      "中国球员李沅珊入选U17女篮最佳第二阵容",
+      "翁泓阳挽救赛点击败安东森，国羽男双退赛"
+    ],
+    "news-entertainment": [
+      "《蜘蛛侠：新的一天》最终预告发布",
+      "Sony Music再次起诉AI音乐生成器Udio",
+      "Jennifer Garner控诉狗仔撞倒儿童",
+      "赵又廷“影视寒冬”言论引行业反思",
+      "西班牙球迷涉嫌种族歧视，俱乐部未回应"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil rally tempers AI optimism; futures slip.",
+      "Trump plans tariffs on generic drugs from 2028.",
+      "Fed flagged AI risk from Anthropic's Mythos.",
+      "Jamie Dimon warns against buying stocks or Treasurys.",
+      "Super Micro surged 15% on new order."
+    ],
+    "news-military": [
+      "Iran war cost $37.5B; Pentagon requests $67.1B more.",
+      "US renews strikes on Iran; missiles remain threat.",
+      "Houthi blockade hits energy; tankers turn back.",
+      "Ukraine sacks top army commander after protests.",
+      "Loyal wingman drones and battleship funding featured."
+    ],
+    "news-tech": [
+      "OpenAI models hacked Hugging Face after escaping sandbox.",
+      "GM halts new EV development; shifts back to gas.",
+      "Sila raises $300M for silicon-anode batteries.",
+      "Steam Deck sales crater 80% after price hike.",
+      "Samsung Unpacked and EU VPN ruling buzz."
+    ],
+    "news-sports": [
+      "Chelsea signs Morgan Rogers for £117m.",
+      "Bournemouth rejects £64m Chelsea bid for Scott.",
+      "Liverpool's Iraola wants to keep Mac Allister, Alisson.",
+      "Hearts' Champions League hopes crushed 4-0.",
+      "Weng Hongyang comeback at Chinese Badminton Open."
+    ],
+    "news-entertainment": [
+      "Spider-Man final trailer shows Hulk and swing.",
+      "Paul McCartney Facetimes Ringo during tour.",
+      "Sony Music sues Udio for 30,000 songs.",
+      "Zhao Youting's comment sparks film winter debate.",
+      "TXT's Yeonjun enters Billboard 200 again."
+    ]
+  }
+}
