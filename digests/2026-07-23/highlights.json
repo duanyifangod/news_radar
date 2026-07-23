@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "Alphabet和Tesla财报显示AI投入激增但增长乏力",
+      "伊朗局势升级推高油价，特朗普威胁轰炸伊朗",
+      "张坤大幅减持消费股转向AI，折射消费复苏低于预期",
+      "ECB预期暂停加息但偏鹰，能源价格强化紧缩压力",
+      "宽基ETF单日流出209亿元，避险情绪与获利了结并存"
+    ],
+    "news-society": [
+      "乌克兰无人机连续打击俄罗斯最大电商Wildberries仓库",
+      "胡塞武装攻击红海油轮，红海航运面临新威胁",
+      "美国众议院通过1.15万亿美元军事法案，扩大与以色列合作",
+      "Google预计AI投资高达1900亿美元，烧钱速度引市场担忧",
+      "日本遭遇极端酷热，电价创三年新高，社会应对能力受考验"
+    ],
+    "news-military": [
+      "霍尔木兹海峡危机升级，特朗普威胁摧毁伊朗桥梁或电厂",
+      "胡塞武装攻击沙特油轮，美防长称已护送5亿桶石油",
+      "乌克兰F-16首次空对空击杀俄Su-35S",
+      "泽连斯基任命新总司令，背景是最大规模抗议",
+      "中国在台海、南海同步推进军事压力，中美外交摩擦"
+    ],
+    "news-tech": [
+      "特斯拉Q2收入创新高但利润miss，Robotaxi增长停滞",
+      "OpenAI“逃脱”事故被称最令人担忧的AI事故",
+      "白宫内部辩论如何应对中国AI，可能制裁涉嫌蒸馏模型公司",
+      "Codeberg禁止加密货币项目引发开源社区激烈争议",
+      "微软将初代Xbox向下兼容带到Windows PC"
+    ],
+    "news-sports": [
+      "卡塞米罗自由身加盟迈阿密国际引发MLS违规调查",
+      "阿森纳后卫萨利巴因背伤长期缺阵",
+      "中国羽毛球公开赛李诗沣首轮出局",
+      "切尔西与维拉转会博弈，财务平衡引人关注",
+      "狼队训练因前锋拒绝离场取消，场面失控"
+    ],
+    "news-entertainment": [
+      "南柱赫确认主演浪漫剧《Heartbeat》及悬疑剧《Code》",
+      "《奥德赛》全球票房破3亿美元，4DX体验引热议",
+      "Kevin Feige确认MCU将引入Miles Morales真人版",
+      "China GT赛场秩序失控，郭富城吴彦祖参与引混乱",
+      "赵又廷直言“电影已经没了”，中国影视寒冬讨论再起"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil jumps after tanker struck off Saudi Arabia",
+      "Trump threatens to bomb Iranian infrastructure",
+      "Tesla misses earnings, cash flow turns negative",
+      "Alphabet dips on massive AI spending hike",
+      "China fund manager Zhang Kun pivots to AI"
+    ],
+    "news-society": [
+      "Ukraine drones hit Russian Wildberries warehouses",
+      "Houthis attack Saudi oil tankers in Red Sea",
+      "US House passes $1.15 trillion military bill",
+      "Google expects $190bn in AI investments",
+      "Japan heatwave drives electricity prices to 3-year high"
+    ],
+    "news-military": [
+      "Trump threatens to destroy Iranian infrastructure",
+      "Houthis strike Saudi oil tankers in Red Sea",
+      "US moves 500 million barrels through Gulf of Oman",
+      "Ukraine gets new commander-in-chief",
+      "China conducts live-fire drill near disputed reef"
+    ],
+    "news-tech": [
+      "Tesla revenue record but profit squeezed by spending",
+      "Tesla Robotaxi growth flat at ~900k paid miles",
+      "Toyota develops next-gen Corolla EV in crisis mode",
+      "White House debates how to counter Chinese AI",
+      "Treasury threatens sanctions over AI model exports"
+    ],
+    "news-sports": [
+      "Saliba to miss extended period with back injury",
+      "MLS probes Inter Miami for Casemiro tampering",
+      "Wolves striker forces training cancellation",
+      "Darts player Cameron Menzies collapses on stage",
+      "LeBron free agency buzz after Heat video error"
+    ],
+    "news-entertainment": [
+      "Nam Joo Hyuk confirmed for two new dramas",
+      "Feige plans Miles Morales in live-action MCU",
+      "Nolan's Odyssey crosses $300M opening weekend",
+      "Reid Scott exits Law & Order after three seasons",
+      "Chinese actors highlight persistent film winter"
+    ]
+  }
+}
