@@ -1,0 +1,83 @@
+{
+  "zh": {
+    "news-economy": [
+      "特朗普对60国加征约10%关税，贸易伙伴反弹",
+      "中东冲突推油价破100美元，美股承压",
+      "欧洲央行维持利率，9月加息可能性上升",
+      "Intel AI业务推动营收增速创15年新高",
+      "中国长鑫存储IPO引发资金抽血担忧"
+    ],
+    "news-society": [
+      "菲尔兹奖得主邓煜知乎答主身份引爆社区",
+      "乌克兰内部分歧，被解职国防部长要求复职",
+      "法国山火疏散2万人，极端天气冲击旅游",
+      "以色列轰炸加沙，停火协议名存实亡",
+      "印尼婴儿被贩运至新加坡，跨国犯罪焦点"
+    ],
+    "news-military": [
+      "美国向英国部署EA-37B，伊朗威胁攻击",
+      "解放军台海实弹军演，持续两天",
+      "RIMPAC SINKEX直升机创纪录击沉两舰",
+      "美国众议院NDAA要求推动台湾参与RIMPAC",
+      "俄罗斯加强黑海船只攻击，乌粮食通道受威胁"
+    ],
+    "news-tech": [
+      "Patreon裁员20%，AI冲击内容平台",
+      "欧盟对Google罚款10亿美元，数字市场法",
+      "FCC主席打压媒体言论自由引抗议",
+      "AMD发布Helios AI机架系统挑战英伟达",
+      "LG显示器通过Windows Update装McAfee广告"
+    ],
+    "news-entertainment": [
+      "克里斯·安妮·阿弗莱克去世，影星母亲",
+      "乔恩·邦·乔维因声带感染中断演唱会",
+      "Charli XCX发布第七张专辑，转型之作",
+      "D4vd庭审曝出骇人细节：订购尸袋电锯",
+      "中国首部AI长片获准在爱奇艺上线"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Trump tariff draws rebukes from partners",
+      "US backs open-source AI with security",
+      "Japan inflation creeps up from 4-year low",
+      "Intel stock jumps on AI revenue boom",
+      "Oracle signs $7B Pentagon software deal"
+    ],
+    "news-society": [
+      "Ukraine defence minister refuses new post",
+      "Israel bombs Gaza after displacement orders",
+      "US levies tariffs on 60 trading partners",
+      "Zhihu user wins Fields Medal",
+      "Trump ally Loomer meets Zelensky"
+    ],
+    "news-military": [
+      "RIMPAC sinks two warships in exercise",
+      "US EA-37B jets arrive at RAF Fairford",
+      "US Army buys older PAC-2 Patriots",
+      "China holds live-fire drills in Taiwan Strait",
+      "Houthis resume attacks on Saudi tankers"
+    ],
+    "news-tech": [
+      "Patreon lays off 20% of workforce",
+      "FCC chairman war on First Amendment",
+      "Google hit with $1 billion EU fines",
+      "LG monitors install McAfee ads on Windows",
+      "Mobileye CEO steps aside for robotaxis"
+    ],
+    "news-sports": [
+      "Man City sign Anderson for record £116m",
+      "Arsenal bid £70m for Bruno Guimaraes",
+      "Italy held talks with Ancelotti, then Guardiola",
+      "Defoe leaves Woking after four months",
+      "Commonwealth Games open with royal Tardis"
+    ],
+    "news-entertainment": [
+      "Bon Jovi ends MSG show due to sinus infection",
+      "Charli XCX releases seventh album",
+      "ifeye Bangkok concert cancelled last-minute",
+      "New Recruit 4 K-drama teaser released",
+      "China debuts first AI feature film"
+    ]
+  }
+}
