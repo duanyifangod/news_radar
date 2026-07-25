@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "特朗普新关税生效即遭起诉，威胁对欧盟加征关税",
+      "特斯拉单周暴跌18%，财报不及预期现金流转负",
+      "债券市场对AI资本支出焦虑，信用利差走阔",
+      "欧洲央行维持利率不变但鹰派信号明确",
+      "中国反垄断重罚Trip.com 7.65亿美元，方星海被查"
+    ],
+    "news-society": [
+      "美伊在波斯湾互相打击，中东紧张升级",
+      "法西野火迫使超22万人撤离，欧洲紧急状态",
+      "俄军导弹袭击基辅无人机展致10人死亡",
+      "特朗普出席记者晚宴并下令修改博物馆历史",
+      "国际刑事法院首席检察官因性行为不端被免职"
+    ],
+    "news-military": [
+      "霍尔木兹海峡、红海、黑海航运同时受阻",
+      "伊朗战争升级，油价逼近110美元/桶",
+      "美军连续13天打击伊朗，摧毁油轮",
+      "乌克兰首次使用荷兰Ruta巡航导弹",
+      "胡塞武装重启对沙特船只封锁，红海危机"
+    ],
+    "news-tech": [
+      "特朗普威胁对欧盟加关税回应谷歌被罚",
+      "Meta暂停智能眼镜收费计划，隐私争议持续",
+      "大众工程师因Rivian内幕交易被起诉",
+      "SpaceX星舰V3发射成功但助推器再次失利",
+      "西班牙野火逼近NASA深空通信设施"
+    ],
+    "news-sports": [
+      "勒布朗·詹姆斯41岁加盟76人，称最后一份合同",
+      "中国羽毛球公开赛女单四强占两席，男单全军覆没",
+      "广东宏远总经理朱芳雨离任，重建期变动",
+      "曼城中场罗德里将接受背部手术，影响核心体系",
+      "克洛普以辞职威胁德国媒体，保护家庭隐私"
+    ],
+    "news-entertainment": [
+      "特朗普在记者晚宴演讲超一小时，回击媒体",
+      "吉尔莫·德尔·托罗重申《潘神的迷宫》3D无AI",
+      "Kalshi因Netflix预告片发律师函，流媒体法律战",
+      "派拉蒙与华纳合并反垄断诉讼被推迟",
+      "BLACKPINK《DDU-DU DDU-DU》MV破24亿观看"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Trump imposes 25% tariffs on Brazil, threatens Canada",
+      "Oil price spikes above $100 on Persian Gulf war",
+      "ECB holds rates steady, signals September hike",
+      "China antitrust fine on Trip.com",
+      "Tesla's worst stock slump since 2022"
+    ],
+    "news-society": [
+      "US and Iran trade more strikes in Gulf",
+      "Trump pokes fun at press at correspondents' dinner",
+      "220,000 evacuated in France and Spain wildfires",
+      "Trump orders Smithsonian to post history warnings",
+      "Ten killed in Russian attack on drone exhibition"
+    ],
+    "news-military": [
+      "Strait of Hormuz transits collapse, oil near $110",
+      "US forces disable Iranian tanker after blockade",
+      "Ukraine strikes Russian ships in Black Sea",
+      "Russia attacks drone exhibition near Kyiv, 10 dead",
+      "Germany pulls back from Hormuz commitments"
+    ],
+    "news-tech": [
+      "Trump threatens EU tariffs over Google fine",
+      "Meta pauses smart glasses fee after backlash",
+      "SpaceX launches V3 Starlink but booster fails",
+      "China's Kimi K3 deepens AI regulation divide",
+      "Tesla promises open source Model S and X"
+    ],
+    "news-sports": [
+      "LeBron James to join Philadelphia 76ers",
+      "Pogacar wins Alpe d'Huez, near fifth Tour title",
+      "Fury wins warm-up, Joshua fight on track",
+      "Gymnast horror injury at Commonwealth Games",
+      "Hamilton fastest in Aston Martin debut"
+    ],
+    "news-entertainment": [
+      "Kalshi threatens Netflix defamation suit",
+      "Paramount-WBD merger delayed by lawsuit",
+      "Trump roasts media at correspondents' dinner",
+      "Del Toro pledges no AI in Pan's Labyrinth re-release",
+      "BLACKPINK hits historic YouTube milestone"
+    ]
+  }
+}
