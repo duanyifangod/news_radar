@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "中东冲突升级，油价逼近100美元",
+      "特朗普新关税遭诉讼，贸易伙伴紧张",
+      "英伟达锁定SK海力士内存，AI交易5000亿美元",
+      "美联储宣布货币政策工作组新领导层",
+      "港股A股承压，台风红霞登陆华南"
+    ],
+    "news-society": [
+      "胡塞武装声称导弹袭击沙特，美军拦截油轮",
+      "法西森林大火迫使超30万人撤离",
+      "意大利儿童超重率欧洲领先",
+      "乌克兰无人机袭击俄电商仓库",
+      "日本女性选择不生育，挑战传统角色"
+    ],
+    "news-military": [
+      "乌军首次打击里海伊朗运货船只，伊朗威胁报复",
+      "美伊冲突暂缓，霍尔木兹海峡通行量腰斩",
+      "美军演练乌克兰式自杀无人艇",
+      "南海日本首次派出陆上自卫队，中国出动航母",
+      "美军采购低造价远程巡航导弹"
+    ],
+    "news-tech": [
+      "比亚迪全球销量增长但本土市场收缩",
+      "Waymo事故率比人类低68%但数据有局限",
+      "图书馆‘逃避AI’工作坊火爆",
+      "硅谷工人抗议AI威胁就业与人类",
+      "华纳兄弟起诉亚马逊非法挖角高管"
+    ],
+    "news-sports": [
+      "约书亚KO对手，预定与富里超级大战",
+      "诺里斯匈牙利站夺杆，汉密尔顿罚退",
+      "波加查逼近第五次环法冠军",
+      "詹姆斯加盟76人，NBA权力格局改变",
+      "阿森纳探索签下皇马边锋维尼修斯"
+    ],
+    "news-entertainment": [
+      "白宫用《Firework》配军事视频，Katy Perry怒斥",
+      "漫展官宣瑞恩·高斯林演恶灵骑士",
+      "荷兰弟承认有些电影烂难宣传",
+      "TXT在KMA获五奖成年度艺人",
+      "卢昱晓分享日常踩禁忌，道歉引爆热搜"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "S&P 500 closed at record 7,411.98.",
+      "Saudi intercepts Houthi missiles, oil near $100.",
+      "Trump tariffs challenged by lawsuit immediately.",
+      "Nvidia secures HBM memory from SK Hynix.",
+      "Typhoon Noul hits China, mass evacuations."
+    ],
+    "news-society-en": [
+      "Houthis claim missile attack on Saudi Arabia.",
+      "French wildfires force 200,000 evacuations.",
+      "Tunisia protests mark five years emergency rule.",
+      "Ukraine drones hit Russian Wildberries warehouses.",
+      "Zhihu math celebrity emerges unexpectedly."
+    ],
+    "news-military-en": [
+      "Ukraine strikes Iranian cargo ships in Caspian.",
+      "Iran threatens ballistic missiles against Ukraine.",
+      "US holds back due to interceptor shortage.",
+      "Houthis resume Red Sea attacks on ships.",
+      "China deploys carrier amid Japan tensions."
+    ],
+    "news-tech-en": [
+      "BYD global sales surge but home market shrinks.",
+      "Waymo taxis 68% less crashes than humans.",
+      "Tesla faces scrutiny over FSD whiteout claims.",
+      "'Avoiding AI' workshops go viral via librarians.",
+      "Hardware costs climbing across industry."
+    ],
+    "news-sports-en": [
+      "Joshua knocks out Prenga, sets Fury fight.",
+      "Littler reaches World Matchplay final at 19.",
+      "Norris takes Hungarian GP pole position.",
+      "Pogacar close to fifth Tour de France title.",
+      "Quentin Grimes and LeBron James roster swap."
+    ],
+    "news-entertainment-en": [
+      "Ryan Gosling cast as Ghost Rider at Marvel.",
+      "David Jonsson to play T'Challa's son.",
+      "Katy Perry condemns White House using her song.",
+      "Tom Holland admits some past films were bad.",
+      "Warner Bros. sues Amazon for poaching employees."
+    ]
+  }
+}
