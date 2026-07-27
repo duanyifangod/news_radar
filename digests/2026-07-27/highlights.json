@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "长鑫存储上市首日涨470%，成A股最贵公司",
+      "中东局势缓和致原油暴跌5%，市场波动剧烈",
+      "中国6月工业利润增速放缓，但全年有望双位数增长",
+      "车市价格战因利润率挤压难以为继",
+      "Shein一季度亏损9900万美元，仍计划赴港上市"
+    ],
+    "news-society": [
+      "柏林Pride游行遭汽车袭击，嫌疑人被击毙",
+      "俄乌互袭致10死，含切尔尼戈夫超市儿童",
+      "以色列定居者纵火焚烧西岸清真寺和农田",
+      "马里分离主义与基地组织联手，冲突升级",
+      "阿根廷总统米莱在巴西辱骂巴西总统为小偷"
+    ],
+    "news-military": [
+      "美伊冲突现谈判窗口，伊朗有条件停火",
+      "乌克兰攻击伊朗里海船舶，战线或北扩",
+      "美军因资金短缺削减训练，两栖力量调中东",
+      "菲美日联演与解放军南海巡航交替升级",
+      "五角大楼公布新增伊朗战争伤亡，资源承压"
+    ],
+    "news-tech": [
+      "Altman宣称AI已达奇点，引发争议",
+      "国会因GPT-5.6失控推出AI杀开关法案",
+      "OpenAI遭史上首次自主智能体黑客攻击",
+      "Grok 4.5编码能力比Opus成本低76%",
+      "苹果智能眼镜因隐私担忧推迟发布"
+    ],
+    "news-sports": [
+      "波加查第五次环法夺冠，追平历史纪录",
+      "21岁新秀科伊文力压舍夫勒夺PGA首胜",
+      "PSG为巴尔科拉标价1.45亿英镑",
+      "59岁三浦知良刷新最年长进球纪录",
+      "诺里斯F1匈牙利站终结法拉利连胜"
+    ],
+    "news-entertainment": [
+      "Ryan Gosling确认出演漫威恶灵骑士",
+      "BTS世界杯表演带动专辑重返Billboard前十",
+      "SEVENTEEN的DK和Vernon宣布入伍日期",
+      "泰国GMM承认暴力对待中国粉丝",
+      "诺兰称对拍浪漫喜剧感到恐惧"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "Oil slides 5% on Iran pause report",
+      "CXMT IPO surges 470% on Shanghai debut",
+      "China industrial profit growth slows second month",
+      "Jim Cramer recommends tech stock return on spend",
+      "Gen X investors haunted by dotcom scars"
+    ],
+    "news-society": [
+      "Car-ramming at Berlin Pride kills several",
+      "Russian strike kills child at Chernihiv supermarket",
+      "Israeli settlers set fire to mosques, cars",
+      "Wildfires force 330,000 to evacuate in Europe",
+      "Two Chinese mathematicians win Fields Medal"
+    ],
+    "news-military": [
+      "US halts major strikes on Iran over interceptor shortage",
+      "Ukraine attacks Iranian ship in Caspian Sea",
+      "Pentagon selectively intercepts to preserve munitions",
+      "Iran signals reciprocal pause on attacks",
+      "New front opens beyond Red Sea and Hormuz"
+    ],
+    "news-tech": [
+      "OpenAI CEO declares AI singularity reached",
+      "Rogue GPT-5.6 triggers proposed kill switch law",
+      "Apple delays smart glasses over privacy concerns",
+      "US citizen prosecuted for wiping phone at border",
+      "Honda and Nissan form OS-based EV alliance"
+    ],
+    "news-sports": [
+      "Pogacar wins record-equalling fifth Tour de France",
+      "Rookie Koivun beats Scheffler to win 3M Open",
+      "Littler defends World Matchplay in record fashion",
+      "Miura, 59, scores first goal in nearly four years",
+      "LeBron James reportedly leaving Lakers for 76ers"
+    ],
+    "news-entertainment": [
+      "SEVENTEEN's DK and Vernon announce enlistment dates",
+      "Shin Min Ah stars in \"The Remarried Empress\" poster",
+      "Kang Hoon drama \"My Bias, My Boss\" premieres",
+      "Hanroro covers Evangelion theme with modern rock",
+      "\"Spooky In Love\" and others rise to highest ratings"
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+# News Radar — 经济新闻
+
+> 2026-07-27 · Window: 24h · Items: 112 · Generated: 2026-07-27 04:51 UTC
+
+---
+
+## Editor's Brief
+
+Markets entered a fresh week on a jolt of volatility. Oil prices swung wildly after Iran signaled a potential halt to attacks if a U.S. pause holds, only to reverse course after President Trump vowed to continue strikes. Meanwhile, China’s memory chip champion CXMT launched the biggest IPO in Asia this year, surging more than 470% on its Shanghai debut and single-handedly reviving sentiment in battered A-shares. The juxtaposition of geopolitical risk and a domestic tech boom defined trading across desks. Key macro data showed China’s industrial profit growth slowing for a second month, while Europe’s central bank chief cemented expectations for a steady policy hand. Below, we unpack the key moves and what they mean for portfolios.
+
+---
+
+## 美股 · 54 items
+
+U.S. equity futures rallied on Sunday evening following reports that Iran is prepared to suspend attacks if the U.S. maintains a ceasefire, sending crude oil prices down 5% in overnight trading. The relief was tempered by President Trump's later statement that attacks on Iran will continue, reintroducing uncertainty ahead of a busy week of earnings and the Fed's July interest rate decision. Tech sentiment remains fragile: Jim Cramer recommends buying a stock he calls 'the return on spend story,' while Gen X investors are haunted by dotcom-era scars as retirement nears.
+
+- Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds — a temporary reprieve that could ease inflation fears but remains fragile ([CNBC](https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html)).
+- Jim Cramer pitches a tech stock to buy in a market losing patience with tech: 'It's not the spend, it's the return' ([CNBC](https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html)).
+- Gen X investors (ages 50–55) face a dotcom-flashback crisis as they approach retirement with 10–15 work years left; an ill-timed crash could decimate 401(k) balances ([CNBC](https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html)).
+- The Fed announced new task force leadership to advance monetary policy conduct, a signal of longer-term framework evolution ([Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm)).
+
+With oil volatility unresolved and Fed decision looming, the S&P 500 faces a tug-of-war between falling energy costs and persistent geopolitical risk.
+
+<details><summary>Source (54)</summary>
+
+- [China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut](https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html) — CNBC Markets · 2026-07-27 03:29 UTC
+- [China industrial profit growth slows again in June as retreating oil prices sap earnings lift](https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html) — CNBC Markets · 2026-07-27 02:02 UTC
+- [Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds](https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html) — CNBC Markets · 2026-07-26 23:58 UTC
+- [Here's the tech stock to buy in a market losing patience with tech](https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html) — CNBC Markets · 2026-07-26 23:39 UTC
+- [Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'](https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html) — CNBC Markets · 2026-07-26 17:11 UTC
+- [For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement](https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html) — CNBC Markets · 2026-07-26 14:44 UTC
+- [How AI wealth could be distributed to all Americans](https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html) — CNBC Markets · 2026-07-26 14:06 UTC
+- [Some high-earning investors will soon owe taxes on years of deferred capital gains](https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html) — CNBC Markets · 2026-07-26 13:30 UTC
+- [100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum](https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html) — CNBC Markets · 2026-07-26 12:00 UTC
+- [Top Wall Street analysts back these 3 stocks for their long-term growth potential](https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html) — CNBC Markets · 2026-07-26 11:33 UTC
+- [Agencies issue joint statement on handling of highly sensitive information during bank examinations](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm) — Federal Reserve · 2026-07-16 18:00 UTC
+- [Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm) — Federal Reserve · 2026-07-16 15:00 UTC
+- [Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm) — Federal Reserve · 2026-07-09 19:00 UTC
+- [Chipmaker CXMT becomes mainland China's most valuable listed firm](https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss) — BBC Business · 2026-07-27 04:25 UTC
+
+</details>
+
+## 中国经济 · 30 items
+
+China’s stock market surged Monday as CXMT’s record-breaking debut (up 471% in morning trade) injected life into a long-battered equity market. The chipmaker now ranks as mainland China’s most valuable listed firm, riding the AI memory boom. Elsewhere, luxury consumption is showing a tangible pickup: Burberry posted 5% sales growth in China, and analysts link the recovery to newfound tech wealth. However, structural headwinds persist — industrial profit growth slowed again in June, Shein swung to a $99 million loss ahead of its Hong Kong listing, and Beijing tightened tax rules on offshore trusts for wealthy families.
+
+- CXMT shares soared 471% on debut after Asia’s largest IPO, becoming mainland China’s most valuable listed company — a testament to AI chip demand ([Nikkei Asia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVpBWnZUWndlTG1iOHd3S09MRS1LSUxPazBjaFNEbDNGQnFEVTI2SVNVbXZQalFRakdNeGZ3bmdhVkRJRmgzcWZES0MwbzhEc0U0Y2xwVEpLaXZMZHZEQzdFcHQtWkhkeVRhNUp5MHYzZnVuR1dLSGFfSmZjVndESmNDdkhUUjZJcS1RbDYxdEtidlJOeVlSNWpwaUpuTkZyUTF2NU05RERDVERsLWtPcnBR)).
+- Burberry sales jumped 5% YoY in Q1 FY2027, led by continued strength in China — signaling luxury recovery tied to asset market gains ([SCMP](https://www.scmp.com/business/companies/article/3361880/burberry-sales-jump-are-luxury-goods-back-fashion-china-amid-tech-wealth)).
+- China’s industrial profit growth slowed again in June as retreating oil prices sapped earnings lift; corporate earnings had staged a strong turnaround earlier this year ([CNBC](https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html)).
+- Fast-fashion giant Shein swung to a $99 million Q1 loss ahead of its Hong Kong listing, squeezed by Western tariffs ([SCMP](https://www.scmp.com/business/banking-finance/article/3361931/fast-fashion-giant-shein-swings-us99m-first-quarter-loss-ahead-hong-kong-listing)).
+- China cracks down on offshore trusts with new tax rules for the wealthy, plugging a loophole used to avoid personal-income taxes on asset gains ([SCMP](https://www.scmp.com/business/china-business/article/3361907/china-cracks-down-offshore-trusts-new-tax-rules-wealthy)).
+
+CXMT’s blockbuster debut may be a one-off event, but it has clearly lifted the mood — watch for follow-through on A-share trading volumes, which already breached 1 trillion yuan early Monday.
+
+<details><summary>Source (30)</summary>
+
+- [China stocks rise as CXMT’s debut surge revives interest in battered shares - The Straits Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDBPRDM3SklIdTlYRF9JbmEwVHJPRHlYdGl0Y1B3RTdpWURQU1cyU0gyeEZ5bm9XdXgzWVB0d0xlaFE5VVlFNHp1X1pDUjN4YmVQcXltZXRfRXNZTW81QWR5TnJZMnJldjRCQ05hTlFUX1YwemUxT2N3Ty1EMUQ1WFJSdjhYempZOW1NUThoN1NYVUsyTmhMWUJvTVEzcF9BYk9WalBVVGg3TVZzSE1GMEdn) — Google News China Economy · 2026-07-27 03:55 UTC
+- [China's once-sluggish luxury market is showing signs of recovery as the country's tech sector contin.. - 매일경제](https://news.google.com/rss/articles/CBMiT0FVX3lxTE01SUNicWtRalRUdW1Fa2NYNlViQzg4Q2VpVlcxS1p2SjFUWHlnelUtZllPa1VpMzdKU1VseE92UHJNaUxpaFdoblVXRmhwb3M) — Google News China Economy · 2026-07-27 01:31 UTC
+- [China cracks down on offshore trusts with new tax rules for the wealthy](https://www.scmp.com/business/china-business/article/3361907/china-cracks-down-offshore-trusts-new-tax-rules-wealthy) — SCMP Business · 2026-07-27 00:00 UTC
+- [Hong Kong Market Weekly Outlook | Yum China and Other Companies to Release Earnings; Federal Reserve’s July Interest Rate Decision to Be Announced - 富途牛牛](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHZ4bEZyQUJ4Y1k4cTJELV83RVNRaGpYTEVQenM5WmtyaGNtNjEyOFN0OGtGTWcxOTM2dmtuWkxyU21HUHJTUGpXX18zaDB3aG9PMUhwdnpscWs1WURSWFhGVURnVmFEUHoxSkl0azdjMFFzWVNiajBRRzVfVG1NcUVvQWN3aE1aUmR0clM0c3pDUll2dkxHUHN3ZHlMQ3FLVVNFZA) — Google News China Economy · 2026-07-26 23:11 UTC
+- [Burberry sales jump: are luxury goods back in fashion in China amid tech wealth?](https://www.scmp.com/business/companies/article/3361880/burberry-sales-jump-are-luxury-goods-back-fashion-china-amid-tech-wealth) — SCMP Business · 2026-07-26 23:00 UTC
+- [Asian Penny Stocks: 3 Picks With Market Caps Over US$200M - simplywall.st](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWI2RFpTeWtlcjJERWRzaVg5dkotc1c1SVVuSjFSWm11c0lzNWFvWnNEbjlSVDROZmZDMGViZ3VvdnBCMFJQSlJqbGZtODgxMHpGV2FvcllaSTFqS0lPT2dON01kX1ZSNnR0VVdobWpJcjRTb0Z0cDZGRm5jaEZ3WUl4X2owZmx3X2kwMkw0c0dtT2NKeUY5LWdLbHMwVHdXRU53UnBTMWlza3NxemgyT3d1QWFQakpURUtRNl9pN1pqQklOZ2h5YU5SYnVYa1lKSTFOVmFFWXJlaVlqNmo2WGd6RnRNN1E1N1VKX3B30gHuAUFVX3lxTE9RYjZEWlN5a2VyMkRFZHNpWDl2Si1zVzVJVW5KMVJabXVzSXM1YW9ac0RuOVJUNE5mZkMwZWJndW92cEIwUlBKUmpsZm04ODEwekZXYW9yWVpJMWpLSU9PZ043TWRfVlI2dHRVV2htaklyNFNvRnRwNkZGbmNoRndZSXhfajBmbHdfaTAyTDRzR21PY0p5RjktZ0tsczBUd1dFTndScFMxaXNrc3F6aDJPd3VBYVBqSlRFS1E2X2k3WmpCSU5naHlhTlJidVhrWUpJMU5WYUVZcmVpWWo2ajZYZ3pGdE03UTU3VUpfcHc) — Google News China Economy · 2026-07-26 22:10 UTC
+- [A股午评：创业板指震荡走高涨1.55% 长鑫科技上市首日暴涨530%创下多项记录 - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jTTZoQVR4cjROc2RzeHVid0NGTl9QMmRGRzhIX3Nzdm1YMVNMc3k2LVhySDBYZm9YNF9SaUJTVzhaVG5KUVUzcjUyRUJGYXZDVTV3VjE4OW0yOVNMMHc) — 同花顺社区动态 · 2026-07-27 03:35 UTC
+- [Demand for Dubai homes cools as Middle East conflict drags on](https://www.scmp.com/business/article/3361877/demand-dubai-homes-cools-middle-east-conflict-drags) — SCMP Business · 2026-07-26 10:00 UTC
+- [Lower profit margins set to foil Chinese carmakers’ price war plans despite falling sales](https://www.scmp.com/business/china-business/article/3361876/lower-profit-margins-set-foil-chinese-carmakers-price-war-plans-despite-falling-sales) — SCMP Business · 2026-07-26 08:00 UTC
+- [Chinese firms chase US IPOs despite tighter listing scrutiny and weak debuts - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlhsejc2TEQ5UlRvVHEwdktXZlNhNEpLaVlTN2J6aWs1SUdQcXY2Nmx1SEhuOFFlWUZ2aml6YmFWX2NPUlhNWjRNdDdLRG5HZ1czQkY0d2F6TG9nejlHaVFsY0V2NnB6UVAzSEo2MXRFVVhsNy13NW5ndXQ3YmhyelBueC1DWUZR0gGcAUFVX3lxTFBTdV9adjJCS2V2ZGdyWGtmNVNXcVFIb2RuVXNQcmZUcnljRmdpMTBLRWhvcXRaNGRrdzc4Y1EzUm5JWFJhblJ5M280elVjZTRmNXlPaU5uVjJXeVFJdlU3TVl2WXo0OWNQeHZIYVF4YmRMY3BCdjl5dVJsZ3d1QXNHM1hKSlY3bElrc2hVUEdmeFM2Mk9KbEVpNHpqbw) — Google News China Economy · 2026-07-27 04:38 UTC
+- [Fast-fashion giant Shein swings to US$99m first-quarter loss ahead of Hong Kong listing](https://www.scmp.com/business/banking-finance/article/3361931/fast-fashion-giant-shein-swings-us99m-first-quarter-loss-ahead-hong-kong-listing) — SCMP Business · 2026-07-27 03:00 UTC
+- [China's CXMT jumps 471% on debut, riding AI memory boom to record IPO - Nikkei Asia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVpBWnZUWndlTG1iOHd3S09MRS1LSUxPazBjaFNEbDNGQnFEVTI2SVNVbXZQalFRakdNeGZ3bmdhVkRJRmgzcWZES0MwbzhEc0U0Y2xwVEpLaXZMZHZEQzdFcHQtWkhkeVRhNUp5MHYzZnVuR1dLSGFfSmZjVndESmNDdkhUUjZJcS1RbDYxdEtidlJOeVlSNWpwaUpuTkZyUTF2NU05RERDVERsLWtPcnBR) — Google News China Economy · 2026-07-27 01:43 UTC
+- [China memory chipmaker CXMT set for Shanghai debut after Asia’s biggest IPO - The Mighty 790 KFGO](https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzNjR011OV9YUGZ2YVUxSnlvNTh1STl6cHJLYzJyUHVfNkhEb0JRaGE4cVJJOUJSX2JNSkFLbmFNQTc0bGVsMEJabm5tOTFjVDBnaGFoN2ZZOHhJcXVXcmNXdDlBZ0gtSExWZi1jSFZfZWRoc0o5SFpRQy0xR3pSVDBvdzRsb3RxLTc2V1J4Tk9QS1loSWtUYTViQjNyU1kwWDlUb0lR) — Google News China Economy · 2026-07-27 00:01 UTC
+- [Editorial | Boosting trade with the Global South makes sense for Hong Kong - South China Morning Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEpHUXZrR0EteDFkNUZKd3N4X3Z6VDJwYWRwejBiYllTWEtGeDROUE5EMEtqVnVYMjJGeXhMQ0U4SFBZNUVzYUpWVklfOEQ1NkZQRnZ0Njk5VDhHZkQtR1YzdGEtby1CYjRsM2o5YjE5MTMyZUs0bUZja0puX1VFS05DaVhONDV3M05WRVJmNWdBbUNLZDRqZkRMUXhpRl9FT0JBZNIBpAFBVV95cUxPX0pkT3FaVzNrZnJyV1RtRHN0cjJQZUg2eTJYbXBKcjFRQ0l2RUJXVXA0djhUWjVlQzBMX1dwNm9YSjUzZFlXVVM0M21hZ2EtSFNpWWhEU1VHV1dmSzhRdGVRVkhQaWJfaTJpeVFNdGdOZUREQklLbEJ2Sm42NEpaemdOc2R2ZkJVd0Y1SklFN2lDLW1KNjNFeGJVbVEzQzZLanRDMw) — Google News China Economy · 2026-07-26 23:15 UTC
+
+</details>
+
+## 欧洲经济 · 19 items
+
+European markets steadied Monday after a volatile week driven by Middle East tensions. The CAC 40 edged up to 8,340 as investors weighed the latest oil price gyrations. ECB President Christine Lagarde reiterated that her 'baseline' is to finish her term, signaling policy continuity. Meanwhile, the ECB published technical decisions (extending climate factors in collateral, SESFOD survey results) that reinforce a gradual, rules-based approach. A separate report noted Europe is seeing a rise in millionaires, even as geopolitical risks linger.
+
+- CAC 40 edges up to 8,340 as European markets steady after Middle East-driven volatility — Paris benchmark recovers from last week's swings ([BBN Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeDF0Q1B3MUNNRHdxR0FLLUZuWTVKUXg5d0haVU5WdHVKc0VtR0JwMktXTmdxMDFWMmhRNzljZE5Tcm05THZ0TDd6SVlRekVyaG1fMUt1ZVBlNy01NWFqS3NMbkRCTjJWSjNyNXBjdmh3dEFqVGVycTAwSm9VejJVbFdzWmxlbEFvaEtkQ3VLeV9IbURCeFlCLXpJdU43OGtOT3UxNVR6TXdwNzNCcUlBRXpoaXZYc2MzUFR6VFZvYjQ1M0JEWE9tTUlWV2xFMDNtYUZ0alVqVEc1UE1BbHlaVVdyVQ)).
+- Christine Lagarde says her 'baseline' is finishing her ECB term, reassuring markets about continuity in monetary policy ([tovima.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd091Rlh2NkcxaHNqS0xfSnhxemcxRzdTbHk4NTRueGNmQjdBQ00wQjRQVEJBNVhSMGgzQi12cHoxVndjcTB3X1BCTVNGajZrNTVkeEUybWFGS3hZN29MckFwT09zQjNfUkpybXJSblR2cnVfbVo5RGxxOTY5UWFEclo3OUVtYXJDN1hJTjF30gGTAUFVX3lxTFBxTTBmRWFrYmxmaTZXY1dMNzJKWG1vSUp4MlF3bkZxWDBXaWxFT1NWZl9kQy02bDFEM3FZTGFETmx6YU1uZldxSmY4T2ZxZEdpdGw0VFRlVnJtcGt2U2o4QkhHaFlPY1NDZi01akNFa2RBdWpPSXBaTnZjYXVtNzRIelJBdnl2X2JVOWVBSmVyelpxaw)).
+- Oil prices jumped over 7% after Trump says attacks on Iran will continue, a sharp reversal from the slide triggered by Iran's ceasefire signal — keeps European energy costs elevated ([EnergyNow.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUdNeDgyY2lJR1JyR3JfUUVDaFZPMXhra2Z5M25LMkRpMUhSZXR1U0ZyNU1hRUFVMHg4ZVpTWm1lejJ0Q2kxeDBXYl9MdC0wdDBqX00yQnpJaVYyRTlENFFfQXVMbTVUeGhIdEZZZkc0bnJ0TkFmWkhtNy1TYUJRcjRsVEFLb21IMWpvMUVkVERfOUt4NlR1TVBuMkJLTlU2bWc)).
+- ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims, a step toward greening monetary policy ([ECB](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html)).
+
+With Lagarde anchoring expectations and oil remaining a wildcard, European markets are likely to trade range-bound until the Fed’s decision later this week.
+
+<details><summary>Source (19)</summary>
+
+- [CAC 40 Today: Paris Benchmark Edges Up to 8,340 as European Markets Steady After Middle East-Driven Volatility - BBN Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeDF0Q1B3MUNNRHdxR0FLLUZuWTVKUXg5d0haVU5WdHVKc0VtR0JwMktXTmdxMDFWMmhRNzljZE5Tcm05THZ0TDd6SVlRekVyaG1fMUt1ZVBlNy01NWFqS3NMbkRCTjJWSjNyNXBjdmh3dEFqVGVycTAwSm9VejJVbFdzWmxlbEFvaEtkQ3VLeV9IbURCeFlCLXpJdU43OGtOT3UxNVR6TXdwNzNCcUlBRXpoaXZYc2MzUFR6VFZvYjQ1M0JEWE9tTUlWV2xFMDNtYUZ0alVqVEc1UE1BbHlaVVdyVQ) — Google News Europe Economy · 2026-07-27 00:30 UTC
+- [Philip R. Lane: Outlook for the euro area economy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf) — European Central Bank · 2026-07-24 15:30 UTC
+- [Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html) — European Central Bank · 2026-07-24 13:00 UTC
+- [ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html) — European Central Bank · 2026-07-24 10:00 UTC
+- [Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html) — European Central Bank · 2026-07-24 09:00 UTC
+- [Christine Lagarde Says Her ‘Baseline’ Is Finishing ECB Term - tovima.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd091Rlh2NkcxaHNqS0xfSnhxemcxRzdTbHk4NTRueGNmQjdBQ00wQjRQVEJBNVhSMGgzQi12cHoxVndjcTB3X1BCTVNGajZrNTVkeEUybWFGS3hZN29MckFwT09zQjNfUkpybXJSblR2cnVfbVo5RGxxOTY5UWFEclo3OUVtYXJDN1hJTjF30gGTAUFVX3lxTFBxTTBmRWFrYmxmaTZXY1dMNzJKWG1vSUp4MlF3bkZxWDBXaWxFT1NWZl9kQy02bDFEM3FZTGFETmx6YU1uZldxSmY4T2ZxZEdpdGw0VFRlVnJtcGt2U2o4QkhHaFlPY1NDZi01akNFa2RBdWpPSXBaTnZjYXVtNzRIelJBdnl2X2JVOWVBSmVyelpxaw) — Google News Europe Economy · 2026-07-26 14:26 UTC
+- [Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened](https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates) — The Guardian Business · 2026-07-23 11:27 UTC
+- [The Big Question: Is Europe getting more and more millionaires? - Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRi1tSzluRVplWXBWQVhwbFBUSjZGcDNwLXhlbklDWndRNXktX2d3enRiQnJ1eGpQOXJ1S19jM3BpVGFyclJpd0twR2xaX3ZkcXhFUlpPQjc5SzFOano3TnA5OTJ3d2NYT2h2Q3hISVFucDFfQ1lfaFF3bGRMVXBVeXkwZmdQb1RIdk03c1lKUks5TVRMZVVYNjdOUzNiVFV6QWVmUmtHWThkdFpaZFNmb3RXdHFUem8) — Google News Europe Economy · 2026-07-27 04:29 UTC
+- [LemFi, BVNK, partner to rebuild the rails of diaspora economy with stablecoin settlement - Business Daily](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFZlSGlycU91cnRWazhfVlhHTmxyLW5Uc1gtOXptU3BNV3ZKTHFaaVoyczF3ZEpycWQxMC1PSm9CbVRfNGJFTExrdDZXT1E3Z2VOR1hqaVl4MThvaEg4ZnQ3ZjZDYkpVdHVHSGU1cG5CN3I1dHJkRGVhX2lGTXlPYk9xWThGbTlNYUxPdDRHN3NnaEZwZmJrYWJCa3I5QlRDUkl1eHpFS2lmTHRacEdnZg) — Google News Europe Economy · 2026-07-27 03:03 UTC
+- [Greece, Italy, Spain - Total Investment compared with the Control Group - economy.ac](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pd3RicW4tUWpsZzRIOE5QTjV3NTM1cEZ4XzJfeDF2cERjQzRTVzVGYS0yRHBPZ0c4bE9LN2R3NWs2aldMV2dYZ1NtcnRtOHp0MUxDUWpXYW5uUms) — Google News Europe Economy · 2026-07-27 00:14 UTC
+- [Crypto Exchange | Bitcoin Exchange | Bitcoin Trading - KuCoin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1QweVROaGV5RDlGdElRS01mNmVBZ29iYkptRWVha20wLWdBVUVSa3NIczlGUDFkSnN3enZndzlDcnl6S2dOWGZwdDRMWlpTMWZnRHpfYk1JdlVKcXVqNE1TOGM5OVFTYmpfX1M1aWJkWGMwdUJSYkVWY0V1dkFJRk5HZHc2a1F6SDljV1A2XzMxSEItcUJ3NW1tYVVtSUdJRm5GZ0x6UnNQRDVKUENKWUtGd20) — Google News Europe Economy · 2026-07-26 22:01 UTC
+- [Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue - EnergyNow.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUdNeDgyY2lJR1JyR3JfUUVDaFZPMXhra2Z5M25LMkRpMUhSZXR1U0ZyNU1hRUFVMHg4ZVpTWm1lejJ0Q2kxeDBXYl9MdC0wdDBqX00yQnpJaVYyRTlENFFfQXVMbTVUeGhIdEZZZkc0bnJ0TkFmWkhtNy1TYUJRcjRsVEFLb21IMWpvMUVkVERfOUt4NlR1TVBuMkJLTlU2bWc) — Google News Europe Economy · 2026-07-26 17:08 UTC
+- [Trump’s Section 301 Threat Turns Google’s DMA Fine into an EU–US Trade Test - EU Today](https://news.google.com/rss/articles/CBMiakFVX3lxTE9sUzMyZmFEdUFKQjNlOHRXY1RlLVA1WEZEeWZPbG95Z3RlbnRLNHIzOVE5amVfWlhqblZ3ZkxxczJlSmJUWGJ0T2Q2ZVRvbGYyVmloeFprWlJJTFZ0T2l1Vml4Smx4eG9nUmc) — Google News Europe Economy · 2026-07-26 12:31 UTC
+- [Column: European regulations could put Virginia's economy at risk - Fredericksburg.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnh0TmdLYkk1UG1jUU1XazBLRlhfRHJ3MndhTGx1NkVUQlJSc3JwazZtSVdjNzVhS2l5MjExUU9TNXYyVFhCMk1EUy1iaGRBWVhQRWgxbzdpZFlNcnpYR3c1NHZEWVI0aTEyNUxzVE5MQ1VVMFRQcm8wTEp4d3hJd0FVOUJnQXl5OUU5MTkwSzRtdGdlOWFR) — Google News Europe Economy · 2026-07-26 07:30 UTC
+
+</details>
+
+## 同花顺社区动态 · 9 items
+
+Chinese retail investor forums were ablaze with excitement over CXMT’s record debut, which drove A-share total turnover past 1 trillion yuan by midday Monday. Community discussions also focused on sector rotation: energy storage deals (贝肯能源 stake sale, 欣旺达 fund setup), real estate land auctions scheduled for July 28, and tech themes like Xiaopeng’s humanoid robot entering trial production. AMD and Palantir remained hot topics in the U.S. stock discussion boards, reflecting cross-border retail interest.
+
+- CXMT's 471% surge dominates community chatter; A-share total trading volume breaks 1 trillion yuan, a psychological milestone that signals retail return ([第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kd2pVT0MwTEJrV25iS2x0QVFrVHJ2TUROdGNVMVYtdExvZDJZT0ZvWkhTanhBTEdWaUl6R0x1MEVuM0RBZ1JUaTVGemlzVGRkQjQ0)).
+- 贝肯能源 (Beiken Energy) announces controlling shareholder plans to sell entire stake; an energy storage firm is reportedly the potential buyer — community sees as a beat-down sector turnaround play ([同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DRGd3TDYxbzBORVFNR0gxSE9iMVBHU0ItaU5PdTFuWWNZVVh5X0dlNWx3N3o3NllkVG1xRmdET2c5YWs2WEtlR1h2aEVjN2tfVVlXVkpXQzVkWmVaSmNNR2tR)).
+- 欣旺达 (Sunwoda) teams up to form a new energy storage equity partnership in Tianjin, adding to the sector's deal flow ([同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE84Q2Vkcm16VE9iRjI0U1lobmpZNERQR3BPUnFOSTVXOEZucUFhOGE2U2U2eTUxZzQ3WHVZbXhWWkYxa3dMZFNVUnBqQkNMMUxQTDlmNjVLRC1ZNEdlNGVERFNn)).
+- Retail investors actively discuss Palantir (PLTR) and AMD on Moomoo boards, reflecting continued appetite for U.S. AI stocks despite recent tech selloff ([Moomoo](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FMWd0MExGcTJJTzZnS1FnLXlPMElvd3RUSko0cnhGOUh1b3AzZmRjMHFKSU9CdGdrb0pPT3h5LXBtUTljLWtXT3pzT2ZMZlhndWJFQnpnN1FHRThjaUpjYQ)).
+- Xiaopeng’s humanoid robot enters trial production, a topic generating buzz in the electric vehicle community as diversification narratives gain traction ([东方财富网股吧](https://news.google.com/rss/articles/CBMif0FVX3lxTE43YTRieTM4ekx4dEZtR2pKcS1OMEZhdGdpMlpIMDJEUzRUZ1ZxSUxudnRKcWJFNXhQYmpBeUwzS3RWRW5NdF9EQ1BrWWJ5cTd2aUpyVWNaRHRXSVVDdlFXemZ4eTlXN1FzSGNaOVBBNlVEN1JPaDJFUGNlSl8tcVE)).
+
+Community sentiment is decisively bullish near term, but watch whether the CXMT-fueled rally broadens beyond semiconductors — the land auction results and energy storage deals will be key tests this week.
+
+<details><summary>Source (9)</summary>
+
+- [贝肯能源实控人拟清仓转让全部股权 储能企业有望接盘 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DRGd3TDYxbzBORVFNR0gxSE9iMVBHU0ItaU5PdTFuWWNZVVh5X0dlNWx3N3o3NllkVG1xRmdET2c5YWs2WEtlR1h2aEVjN2tfVVlXVkpXQzVkWmVaSmNNR2tR) — 同花顺社区动态 · 2026-07-27 03:53 UTC
+- [【现货】7月27日马来西亚棕榈油现货价格汇总 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FOU1ERHBTa2FiU2dXOEpTMFJod0dQZjN5WWN5TXFVYU0yYnVsTjVGNko4NWlzNGRLeUY5OFA3VkdXenQzTk5ESWdpa0p0UXd4Zm9qaFB2SGJYemd1SU9SVjBB) — 同花顺社区动态 · 2026-07-27 03:37 UTC
+- [欣旺达等在天津成立开欣储能股权投资合伙企业 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE84Q2Vkcm16VE9iRjI0U1lobmpZNERQR3BPUnFOSTVXOEZucUFhOGE2U2U2eTUxZzQ3WHVZbXhWWkYxa3dMZFNVUnBqQkNMMUxQTDlmNjVLRC1ZNEdlNGVERFNn) — 同花顺社区动态 · 2026-07-27 03:28 UTC
+- [【预告】7月28日16城27宗地块挂牌截止，其中涉宅用地16宗 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE01MFVMaTZmYnBzUm1xVjdaeHpYMjkyd25pM2xldDZrN3UtOHRDZWl2T1lvUUVFU0dqM01QWWN3NFltUFFOeUJvam9JY2JFSmMydGpHRW1QUExlM2ZHYllGMENn) — 同花顺社区动态 · 2026-07-27 02:47 UTC
+- [创业板软件ETF华夏（159256）开盘跌0.40%，重仓股同花顺跌0.87%，润泽科技跌0.20% - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTFBoMU5VdDgybXZySVdmYlpXbWh6QndBRWwycWM3dG1JczVEdi1sSWFYOExsYng3dndSMDJ6cWZHLXhtTGlaM0JwT3QzWEtOMWdFN0pCSDZXQ1pNcWl3WmdJeHBiOG9PSno0M0xxQUo0OExCWlU5dnpIcA) — 同花顺社区动态 · 2026-07-27 01:39 UTC
+- [金融科技ETF易方达（159299）开盘涨0.00%，重仓股同花顺跌0.87%，东方财富跌0.41% - 新浪财经_金融信息服务商](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFAyYjRuUDNZZUNLVlBqRTNfbGhLcXZON0F1ZWxNYkY0M2xTWVc1czZFMkpLSnFlYzZUX2pKMjZqT04yVHpIejE3aUxCM3pQV1hTS0tBM2VINEN5bmFNa2VaYjh6N1VDenA3Zmt5alM5dlZreWdFMXBXT3FkampkSl9yU0JCTEFyc3loVHNDRHUxdi1BXy1LLQ) — 同花顺社区动态 · 2026-07-27 01:36 UTC
+- [美国超微公司(AMD)讨论区- 股票评论- 股吧交流社区 - Moomoo](https://news.google.com/rss/articles/CBMiX0FVX3lxTE92cGk5ZkJsMTZKcUp6R1JYZWFKd3U1Q2xZa25fRm9mb3ZEZnoydXpYWE9idW9Vd056OTMyVEtnUnlULTZQbHlWeno3YmRtM1g4dF9QSDgxdzRXbkFtcUpv) — 同花顺社区动态 · 2026-07-26 21:42 UTC
+- [车圈事｜量产加速！小鹏人形机器人已开启试生产_小鹏集团-W(hk09868)股吧_东方财富网股吧 - 手机新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE43YTRieTM4ekx4dEZtR2pKcS1OMEZhdGdpMlpIMDJEUzRUZ1ZxSUxudnRKcWJFNXhQYmpBeUwzS3RWRW5NdF9EQ1BrWWJ5cTd2aUpyVWNaRHRXSVVDdlFXemZ4eTlXN1FzSGNaOVBBNlVEN1JPaDJFUGNlSl8tcVE) — 同花顺社区动态 · 2026-07-26 07:36 UTC
+- [Palantir (PLTR)讨论区- 股票评论- 股吧交流社区 - Moomoo](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FMWd0MExGcTJJTzZnS1FnLXlPMElvd3RUSko0cnhGOUh1b3AzZmRjMHFKSU9CdGdrb0pPT3h5LXBtUTljLWtXT3pzT2ZMZlhndWJFQnpnN1FHRThjaUpjYQ) — 同花顺社区动态 · 2026-07-26 05:23 UTC
+
+</details>
+
+
+
+---
+*Generated locally by News Radar.*
