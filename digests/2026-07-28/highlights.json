@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "全球芯片股遭系统性抛售，SK海力士暴跌13%",
+      "美伊冲突缓和，布伦特原油跌破88美元",
+      "苹果重夺全球市值第一，超越英伟达",
+      "中国CXMT IPO首日暴涨466%市值超工商银行",
+      "A股创业板暴跌5.37% AI硬件领跌"
+    ],
+    "news-society": [
+      "美伊谈判真假交织，乌克兰袭击伊朗船只",
+      "法国波尔多大火逼近，30万人撤离",
+      "亚洲暴雨肆虐从阿富汗到台湾",
+      "韩国芯片股暴跌，SK海力士跌破发行价",
+      "中国AI生成虚假灾害视频在社交媒体泛滥"
+    ],
+    "news-military": [
+      "乌克兰无人机袭击里海伊朗货船",
+      "美伊暂停交火但防空弹药库存告急",
+      "胡塞武装袭击沙特油田致曼德海峡航运暴跌",
+      "中国军机首次同时越过台海中线",
+      "美军\"乔治·华盛顿\"号航母进入南海"
+    ],
+    "news-tech": [
+      "Claude共享聊天记录被Google和Bing索引",
+      "OpenAI模型在Hugging Face上遭越狱攻击",
+      "比亚迪发布旗舰EV续航超1000公里",
+      "Rivian R2真实能耗高于Model Y达26%",
+      "X Money在美有限上线仅限Premium用户"
+    ],
+    "news-sports": [
+      "斯通斯口头同意自由转会国际米兰",
+      "切尔西同时追逐亨德森与维尔贝克",
+      "英足总试行禁止门将故意拖延时间",
+      "CBA选秀台湾控卫宋昕澔当选状元",
+      "乒超上海地产集团首败，林诗栋缺阵"
+    ],
+    "news-entertainment": [
+      "《蜘蛛侠：新一天》洛杉矶首映更成熟",
+      "罗伯特·唐尼配音毁灭博士令导演震惊",
+      "Ariana Grande起诉黑客泄露未发布曲目",
+      "近20部东野圭吾作品版权落地中国",
+      "中国首部AI长片获证上线爱奇艺"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "SK Hynix plunges 13%, Kospi halts trading.",
+      "Brent crude falls below $88 on US-Iran pause.",
+      "CXMT surges 466% on Shanghai debut, top firm.",
+      "Nvidia loses most valuable title to Apple.",
+      "ECB signals further rate hikes ahead."
+    ],
+    "news-society": [
+      "Trump confirms talks with Iran amid strike pause.",
+      "Ukraine strikes Iranian vessel in Caspian Sea.",
+      "France wildfire advances to 9 miles from Bordeaux.",
+      "Over 300,000 evacuated from Bordeaux fire.",
+      "AI disinformation compounds natural disaster response."
+    ],
+    "news-military": [
+      "Ukraine strikes Iranian ship in Caspian Sea.",
+      "US warns Ukraine against hitting commercial shipping.",
+      "US-Iran direct fighting paused, Houthis continue.",
+      "China asserts presence in South China Sea.",
+      "Senate to vote on Russian sanctions Tuesday."
+    ],
+    "news-tech": [
+      "Claude Opus 5 launched by Anthropic.",
+      "Microsoft unveils MAI-Cyber-1-Flash security model.",
+      "BYD reveals 1,008 km range flagship sedan.",
+      "X Money rolls out, Xbox and Spotify outage.",
+      "Meta pivots to gas plants for AI data centers."
+    ],
+    "news-sports": [
+      "John Stones verbally agrees Inter Milan move.",
+      "Chelsea opens talks for Henderson and Welbeck.",
+      "CBA draft: Guangzhou picks Song Xinhao first.",
+      "Shanghai Dichi suffers first CTTSL loss.",
+      "Table tennis drama: Lin Shidong absent."
+    ],
+    "news-entertainment": [
+      "iKON's Junhoe announces military enlistment date.",
+      "Kim Ji Woong to skip some ZEROBASEONE events.",
+      "Zendaya stuns at Spider-Man: Brand New Day premiere.",
+      "Robert Downey Jr.'s Doctor Doom voice impresses.",
+      "First AI-generated feature film gets China license."
+    ]
+  }
+}
