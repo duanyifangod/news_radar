@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "AI抛售致亚洲科技股暴跌,SK海力士盈利仍遭抛售",
+      "伊朗突袭美军基地,油价跳涨,中东局势升级",
+      "苹果市值突破5万亿美元,成史上第二家",
+      "A股存储芯片板块暴跌超6%,兆易创新跌停",
+      "韩国KOSPI跌至三个月新低,触发熔断机制"
+    ],
+    "news-society": [
+      "伊朗向驻约旦美军发射弹道导弹,停火期破裂",
+      "日本九州6.8级强震致13人死亡,搜救紧张",
+      "韩国股市单日暴跌近11%,芯片股触发熔断",
+      "西雅图美食节枪击案致3死,社区呼吁控枪",
+      "日本作家东野圭吾去世,享年68岁"
+    ],
+    "news-military": [
+      "伊朗突袭美军,发射多枚弹道导弹被拦截",
+      "美军防空弹药库存因长期消耗接近临界点",
+      "乌克兰袭击伊朗船只致一水兵死亡,威胁报复",
+      "特朗普暂停对伊打击但重申威胁",
+      "解放军在渤海海峡与南海持续军力展示"
+    ],
+    "news-tech": [
+      "芯片股因AI资本开支担忧在美亚两地重挫",
+      "OpenAI遭‘可预见’黑客攻击,安全信任危机",
+      "1100+AI专家联名呼吁暂停前沿AI研发",
+      "美国FCC禁止进口外国制造人形机器人和逆变器",
+      "特斯拉FSD前经理指控测试车为‘滚动隐患’"
+    ],
+    "news-sports": [
+      "齐达内时隔五年再执教鞭,正式出任法国队主帅",
+      "CBA选秀大会落幕,宋昕澔当选状元引争议",
+      "巴尔科拉口头同意加盟利物浦,估值存分歧",
+      "曼城边锋萨维尼奥表达离队意愿倾向热刺",
+      "国际足联世界杯私有化计划遭欧足联及英国首相批评"
+    ],
+    "news-entertainment": [
+      "Noah Kahan抗议白宫未经授权使用其歌曲",
+      "《Jumanji: Open World》定档12月11日",
+      "韩星文瑾莹宣布与音乐剧演员结婚",
+      "Jennie与Tame Impala合作曲升至电台榜第2",
+      "泰国GMM回应中国女粉丝被打事件称已和解"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "AI rout deepens; SK Hynix, SoftBank plunge",
+      "Iran missile attack on US forces spikes oil",
+      "Apple hits $5tn valuation as investors flee",
+      "Seagate earnings beat offers hope for AI trade",
+      "Eurozone GDP and hyperscaler earnings loom next"
+    ],
+    "news-society-en": [
+      "US-Iran strikes resume after five-day pause",
+      "Japan earthquake: 13 dead, Kyushu hit by 6.8",
+      "South Korea KOSPI plunges nearly 11% on chip",
+      "Riyadh and Washington strike Iran-backed groups",
+      "Rescue operations ongoing in Kumamoto mall blast"
+    ],
+    "news-military-en": [
+      "Iran launches surprise ballistic missile attack",
+      "US air defense stockpiles nearing limits reported",
+      "Ukraine strikes Iranian vessel in Caspian Sea",
+      "China asserts in South China Sea and Taiwan Strait",
+      "Middle East escalation risks broader regional war"
+    ],
+    "news-tech-en": [
+      "Chip stocks slide on AI spending fears and OpenAI hack",
+      "Over 1,100 AI experts urge global slowdown in development",
+      "US bans foreign humanoid robots from China",
+      "Lucid gets massive Saudi investment vote of confidence",
+      "Baidu robotaxis begin testing in London streets"
+    ],
+    "news-sports-en": [
+      "Zidane ends hiatus to coach France national team",
+      "Xabi Alonso's Chelsea debut features four strikers",
+      "Roberto Mancini appointed after Italian football chaos",
+      "Celtic signs Kasper Hogh for club-record fee",
+      "FIFA World Cup private investment plan draws criticism"
+    ],
+    "news-entertainment-en": [
+      "New Pearl Jam photography book offers backstage moments",
+      "Evan Rachel Wood won't return for Practical Magic 2",
+      "Noah Kahan calls out Trump for using his song",
+      "Jumanji: Open World trailer ends popular trilogy",
+      "Korean actress Moon Geun Young announces marriage"
+    ]
+  }
+}
