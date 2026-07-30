@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊开战，油价飙升，全球市场震荡。",
+      "微软财报超预期，股价涨8%，加大AI投资。",
+      "美联储维持利率不变，长端收益率走高。",
+      "中美科技脱钩：中国威胁反制人形机器人禁令。",
+      "国内金饰价格突破1239元/克，避险情绪推动。"
+    ],
+    "news-society": [
+      "美伊冲突升级，沙特被卷入战争。",
+      "日本熊本7.0级地震，AEON Mall坍塌。",
+      "欧洲山火肆虐，希腊三名消防员殉职。",
+      "萨尔曼·拉什迪袭击者被定罪。",
+      "数学家王虹与邓煜获菲尔兹奖。"
+    ],
+    "news-military": [
+      "美伊冲突扩大至伊拉克战场。",
+      "中国被曝向伊朗运送防空导弹。",
+      "解放军试射YJ-20高超音速反舰导弹。",
+      "美海军签署766亿美元潜艇合同。",
+      "美台海岸警卫队首次公开联合演练。"
+    ],
+    "news-tech": [
+      "微软从Anthropic投资获利32亿美元。",
+      "高通宣布9月起处理器全线涨价。",
+      "美国机器人禁令意外涵盖扫地机器人。",
+      "法拉利首款EV售价64万美元已售罄。",
+      "后量子密码算法HAWK被攻击发现弱点。"
+    ],
+    "news-sports": [
+      "利物浦CEO：FSG正与财团谈判，变革不可避免。",
+      "FIFA对阿根廷启动纪律处分程序。",
+      "CBA新规：大学生球员须先选秀再考虑NBL。",
+      "LCK夏季赛KT横扫T1，BDD表现神勇。",
+      "前深圳外援阿利兹·约翰逊加盟巴黎篮球。"
+    ],
+    "news-entertainment": [
+      "BTS抵制格莱美，抗议新设亚洲流行奖。",
+      "《蜘蛛侠：崭新一日》开画，目标年度最高。",
+      "Ben Affleck与Jeopardy冠军赢得百万美元。",
+      "fromis_9宣布亚洲巡演，ILLIT获日本白金认证。",
+      "微博上苏新皓全场红热搜，张泽禹被逼道歉。"
+    ]
+  },
+  "en": {
+    "news-economy": [
+      "US strikes Iran, oil prices rise",
+      "Microsoft surges 8% on strong earnings",
+      "Fed holds rates, credibility questioned",
+      "China accelerates semiconductor self-sufficiency",
+      "Samsung tech earnings offset market jitters"
+    ],
+    "news-society": [
+      "US launches heavy strikes on Iran",
+      "Japan earthquake traps dozens in mall",
+      "Three Greek firefighters die in wildfires",
+      "Saudi Arabia drawn into widening conflict",
+      "China pushes education reforms and AI"
+    ],
+    "news-military": [
+      "US airstrikes hit Iranian targets in Iraq",
+      "Saudi Arabia joins US strikes on Iran",
+      "China sends anti-air missiles to Iran",
+      "PLA Navy tests new hypersonic missile",
+      "South China Sea standoffs escalate"
+    ],
+    "news-tech": [
+      "Qualcomm raises smartphone chip prices",
+      "FCC bans Chinese robot vacuums",
+      "Ferrari EV sold out 2026 allocation",
+      "Microsoft logs $3.2B from Anthropic",
+      "Zuckerberg predicts billions with AI agents"
+    ],
+    "news-sports": [
+      "Evans wins breaststroke gold at Commonwealth",
+      "Cricket cheating scandal leads to suspension",
+      "FIFA probes Argentina over Falklands banner",
+      "Luke Littler dominates in darts",
+      "Stephen Fleming expected as England Test coach"
+    ],
+    "news-entertainment": [
+      "BTS boycotts 2027 Grammys over new category",
+      "Spider-Man aims for year's biggest opening",
+      "Joyce Carol Oates defends Nolan's Odyssey",
+      "Ben Affleck wins $1M for charity",
+      "Grammy CEO saddened by BTS withdrawal"
+    ]
+  }
+}
