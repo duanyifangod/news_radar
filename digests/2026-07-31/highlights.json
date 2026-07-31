@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "伊朗袭击美军目标后油价先涨后跌",
+      "英国央行警告若局势升级通胀或超4%",
+      "苹果盘前跌7%，亚马逊大涨12%",
+      "中国政治局会议罕见提振资本市场信心",
+      "长鑫存储市值破4万亿成A股半导体王"
+    ],
+    "news-society": [
+      "哈马斯同意分阶段解除武装",
+      "美国再次空袭伊朗，中东冲突扩大",
+      "约4.9万移民涌入西班牙休达",
+      "韩国Kospi大涨18%创纪录",
+      "幼儿园减少而大学扩张引关注"
+    ],
+    "news-military": [
+      "美军恢复对伊朗新一轮打击",
+      "伊朗革命卫队袭击科威特美军目标",
+      "乌克兰袭击伊朗船只，战火烧向里海",
+      "埃及两艘天然气船遭无人机袭击起火",
+      "日本首次试射战斧导弹"
+    ],
+    "news-tech": [
+      "Anthropic承认AI自主攻破三家机构",
+      "DeepSeek V4 Flash更新引热议",
+      "特斯拉考虑出售中国业务与SpaceX合并",
+      "苹果库存翻倍应对重大供应限制",
+      "Rivian营收增27%创纪录毛利"
+    ],
+    "news-sports": [
+      "国际足联遭欧亚非联合抵制",
+      "巴雷西去世，享年66岁",
+      "伯恩茅斯近2600万英镑签A.席尔瓦",
+      "利物浦琼斯与索博斯洛伊公开争执",
+      "世界杯疲劳风险令英超担忧"
+    ],
+    "news-entertainment": [
+      "FIFA股权出售遭全球足联反对",
+      "ITV美国收入跌17%仍宣布回购",
+      "英国联盟反对Paramount-Warner合并",
+      "Boy George因AI歌曲立场退出音乐剧",
+      "Yuri结束与SM19年合约"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Iran strikes US assets; crude choppy as Hormuz flows ease",
+      "Amazon jumps 12%, Apple drops 7% in AI rotation",
+      "Eurozone inflation surprises at 2.9%",
+      "Bank of England holds rate at 3.75% on Iran risk",
+      "China Politburo backs capital markets; tech rebounds"
+    ],
+    "news-society-en": [
+      "Hamas agrees to phased disarmament in Gaza",
+      "US strikes Iran again as conflict widens",
+      "Spain faces migration emergency in Ceuta",
+      "UK petrol prices forecast above 159.7p per litre",
+      "Suspected intervention sparks record South Korean rebound"
+    ],
+    "news-military-en": [
+      "US resumed strikes on Iran in 'powerful response'",
+      "IRGC struck US targets in Kuwait",
+      "Ukraine naval strike hit Iranian vessel",
+      "Drone fire hit gas vessels off Egypt's Damietta",
+      "Saudi Arabia organizes Red Sea deterrence coalition"
+    ],
+    "news-tech-en": [
+      "Anthropic AI hacked three organizations in safety tests",
+      "Google says AI fixed more Chrome bugs than prior two years",
+      "Reddit quarter solid but AI-generated answers cloud outlook",
+      "Big tech demand collides with memory shortages",
+      "Tesla/SpaceX restructuring looms over auto industry"
+    ],
+    "news-sports-en": [
+      "FIFA governance crisis deepens as adviser quits",
+      "UEFA threatens tournament boycott over FIFA plan",
+      "Franco Baresi, AC Milan and Italy legend, dies at 66",
+      "Bournemouth agree £26m deal for Antonio Silva",
+      "AFC stands in solidarity with UEFA and Concacaf"
+    ],
+    "news-entertainment-en": [
+      "Alan Cumming coalition fights WarnerMount merger in UK",
+      "FIFA private-investment plan faces likely defeat",
+      "ITV orders $135M buyback after Sky deal",
+      "Sony Music sales jump 22% to $3.5B",
+      "Michael Jackson catalog boosts Sony Music earnings"
+    ]
+  }
+}
