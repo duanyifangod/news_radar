@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美伊谈判重启压制油价，WTI与布伦特跌逾5%",
+      "美日联合干预日元，美方数十年首度直接支撑",
+      "阿斯利康与百时美施贵宝洽谈4000亿美元合并",
+      "社保基金前7个月增持A股，政策资金入场",
+      "港交所推出五年期中国国债期货，开放加速"
+    ],
+    "news-society": [
+      "哈马斯同意解除武装后以色列仍空袭加沙，已致17死",
+      "美伊谈判表态矛盾：特朗普称周一开谈，伊朗否认",
+      "俄乌互袭能源设施，莫斯科报告8人遇难",
+      "韩国青年因国内就业困难转向日本IT/AI岗位",
+      "教育部新增8本教材，暑期阅读书单发布"
+    ],
+    "news-military": [
+      "特朗普叫停对伊打击，美沙随即空袭伊拉克",
+      "霍尔木兹通行量降至3月低位，胡塞威胁沙特油轮",
+      "俄海军亚森-M级核潜艇乌里扬诺夫斯克号下水",
+      "中国海军公开YJ-20高超音速导弹，南海黄岩岛演训",
+      "俄乌互袭升级：俄军袭击基辅，乌无人机袭炼油厂"
+    ],
+    "news-tech": [
+      "Anthropic提交IPO后向150家公司开放Claude Mythos",
+      "阿里巴巴发布Qwen3.8-Max，称最大开源模型迎战",
+      "Sam Altman公开呼吁AI开发减速，内部分歧公开化",
+      "Reddit CEO质疑Google AI Overviews价值，威胁内容源",
+      "欧盟AI新规要求明确告知AI交互，39%美国人对AI持怀疑"
+    ],
+    "news-sports": [
+      "欧足联威胁就因凡蒂诺出售FIFA股份采取法律行动",
+      "威尔士足总公开撤回对因凡蒂诺连任支持",
+      "英超夏窗总支出超10亿英镑，切尔西签巴科",
+      "利物浦热身赛2-4遭利兹联逆转，下半场丢四球",
+      "以色列豪门官宣洛夫顿加盟，告别CBA"
+    ],
+    "news-entertainment": [
+      "《蜘蛛侠：崭新一日》韩国81%份额，中国5天1.2亿美元",
+      "Massive Attack因展示巴勒斯坦国旗遭新加坡警方拘留",
+      "韩剧《My Bias, My Boss》今晚首播，金慧埈主演",
+      "《龙之家族》争议亲密戏，主演称F—ed Up",
+      "易烊千玺纪念照打码事件与张凌赫父母旧照成热搜"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Trump calls off Iran strikes, oil drops over 5%",
+      "US, Japan confirm coordinated yen-buying intervention",
+      "Blockbuster $400B pharma merger story emerges",
+      "China sees AI-led tech selloff despite broad participation",
+      "UK faces recession if Strait of Hormuz stays closed"
+    ],
+    "news-society-en": [
+      "Gaza disarmament deal under strain; Israeli strikes kill 13",
+      "Trump says Iran talks Monday; Iran denies any talks",
+      "Ukraine and Russia trade strikes on Black Sea ports",
+      "South Koreans increasingly head to Japanese labor market",
+      "China state media pushes education and health narratives"
+    ],
+    "news-military-en": [
+      "US-Saudi joint attack on Iraq reported",
+      "Oil prices tumbled after Trump cancelled Iran attack",
+      "US general doubts forces available to defend Israel",
+      "US tells Americans to leave Gulf ally, hurting deterrence",
+      "Maritime system strains from Atlantic to West Pacific"
+    ],
+    "news-tech-en": [
+      "Anthropic opens Claude Mythos to 150 companies",
+      "Alibaba unveils Qwen3.8-Max, its largest AI model",
+      "Reddit CEO questions Google AI Overviews' value",
+      "European consumers will see AI-driven digital life",
+      "US skepticism toward AI rises to 39 percent"
+    ],
+    "news-sports-en": [
+      "UEFA threatens legal action over Infantino's FIFA plan",
+      "Wales first to withdraw Infantino re-election support",
+      "Premier League clubs spend over £1bn this summer",
+      "Marc Skinner leaves Manchester United women",
+      "Liverpool lose 4-2 to Leeds after leading 2-0"
+    ],
+    "news-entertainment-en": [
+      "Spider-Man leads China box office with $121.3m",
+      "Spider-Man takes 81% of South Korea box office",
+      "Massive Attack detained and questioned after Singapore show",
+      "Locarno Pro puts AI and algorithms at industry core",
+      "Fandom privacy and livestream regulation become flashpoints"
+    ]
+  }
+}
