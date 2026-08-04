@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "油价因伊朗谈判反复震荡，特朗普称最后机会，BP利润翻倍",
+      "美国通过出售欧元干预日元，避免直接买日元冲击美债",
+      "中国A股创业板指收涨5.64%，算力硬件CPO板块爆发",
+      "中港金融互联互通加速，港交所推五年期中国国债期货",
+      "欧洲股市反弹但ECB研究显示伊朗战争对消费冲击显著"
+    ],
+    "news-society": [
+      "昂山素季2.5年来首次露面，军政府公布会面照片",
+      "加沙停火协议后以军空袭致数十人死亡，协议落实难",
+      "乌克兰无人机袭击俄黑海海滩致7死40伤含3名儿童",
+      "欧洲干旱致莱茵河水位创新低，影响货运与水电",
+      "美日联手干预日元，美国罕见直接参与汇率干预"
+    ],
+    "news-military": [
+      "美军航母时隔三年访越，双航母封锁阿拉伯海",
+      "中国向黄岩岛派出两栖编队和轰炸机举行演习",
+      "伊朗取消袭击乌克兰计划，但霍尔木兹航运风险仍高",
+      "沙特牵头组建红海多国防务联盟",
+      "美军将弗吉尼亚级Block V/VI重新归类为巡航导弹潜艇"
+    ],
+    "news-tech": [
+      "OpenAI公开批评苹果，开发者认为缺乏护城河",
+      "彭博称中国AI闪电战制造“死亡地带”",
+      "1亿美元合同为5万架乌克兰无人机加装AI自主跟踪",
+      "AWS将Superblocks嵌入客户私有云，推动AI私有化",
+      "Denza Z9S开订1100km续航，特斯拉FSD在HW3过热"
+    ],
+    "news-sports": [
+      "英超新赛季未赛先火，换帅数量创历史纪录",
+      "费内巴切准备为拉什福德开出破纪录报价",
+      "凯尔特人卫冕起步，蒂尔尼回归首秀",
+      "UFC选手阿兰·纳西门托34岁猝逝",
+      "F1确认2027赛历应急预案应对中东冲突"
+    ],
+    "news-entertainment": [
+      "韩剧《Made in Korea》第二季定档9月9日",
+      "《The Ordinary Jackpot》确认9月10日首播",
+      "Ariana Grande芝加哥回应暂别，称需设边界",
+      "aespa发布《Switchblade》MV，K-pop女团战升温",
+      "ChinaJoy现场人气成文娱回暖注脚"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "Brent fell 5% to $83.47 after Trump cancelled Iran strikes.",
+      "BP profit more than doubled; Aramco Q2 profit up 33%",
+      "US sold euros, not Treasuries, to fund yen intervention.",
+      "HSBC beat estimates, set aside $1bn for buyback.",
+      "Trump called Iran talks 'last chance'; Tehran denied."
+    ],
+    "news-society-en": [
+      "Israeli strikes killed dozens in Gaza despite deal.",
+      "Russian beach drone strike killed seven, incl. children.",
+      "Suu Kyi had first confirmed external contact in 2.5 years.",
+      "Europe scrambles over migration and drought.",
+      "Zhihu feed colonized by gambling spam."
+    ],
+    "news-military-en": [
+      "Iran canceled strikes on Ukrainian sites after Kyiv apology.",
+      "Saudi Arabia formed Red Sea defence alliance.",
+      "China escalated maritime pressure at Scarborough Shoal.",
+      "Japan labels China an unprecedented strategic challenge.",
+      "US AI to guide 50,000 Ukrainian kamikaze drones."
+    ],
+    "news-tech-en": [
+      "OpenAI rebuts Apple: 'Apple is getting this wrong.'",
+      "Palantir CEO calls AI labs 'Marxist' in trust pitch.",
+      "China's AI blitz creates 'death zone' for US model makers.",
+      "$100M deal puts US AI in 50,000 Ukrainian kamikaze drones.",
+      "Fitbit finally connects to Apple Health."
+    ],
+    "news-sports-en": [
+      "Premier League set record pre-season managerial changes.",
+      "Fenerbahce preparing huge offer for Marcus Rashford.",
+      "Arsenal opened talks over Bruno Guimaraes.",
+      "Kieran Tierney influential in Celtic's opening win.",
+      "Ex-sandwich maker Bergstrom one step from Champions League."
+    ],
+    "news-entertainment-en": [
+      "Disney+ 'Made in Korea 2' premieres Sept. 9.",
+      "TVING 'The Ordinary Jackpot' premieres Sept. 10.",
+      "'My Bias, My Boss' opens at 4.2% ratings.",
+      "Ariana Grande says break was planned, not impulsive.",
+      "Yoo Seung-ho confirmed as villain in 'Flex X Cop 2'."
+    ]
+  }
+}
