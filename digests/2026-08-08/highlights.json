@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "news-economy": [
+      "美国非农就业意外下降，失业率走低，降息预期分化",
+      "特朗普再推动罢免美联储理事Lisa Cook，干预央行独立性",
+      "参议院通过制裁俄罗斯石油买家法案，油价面临拉锯",
+      "Airbnb财报超预期，AI驱动增长，股价大涨15%",
+      "美国为支撑日元卖出欧元，欧洲央行措手不及"
+    ],
+    "news-society": [
+      "俄军导弹袭击基辅附近致3平民死亡，含一名儿童",
+      "西班牙对意大利实施边境管制，欧盟内部分裂公开化",
+      "沙特、土耳其、巴基斯坦签署联合防务协议",
+      "全国用电负荷第四次创新高，极端高温考验能源调配",
+      "知乎11.0上线AI功能，引发社区热议"
+    ],
+    "news-military": [
+      "霍尔木兹协议接近但70艘商船仍被困波斯湾",
+      "沙特、土耳其、巴基斯坦签署联合防务协议",
+      "朝鲜被指派出导弹部队增强俄对乌作战能力",
+      "乌克兰7月仅拦截29/195枚俄弹道导弹",
+      "台湾首次将M1A2T坦克部署至桃园机场"
+    ],
+    "news-tech": [
+      "OpenAI暂停Astra模型开发，因可独立发起网络攻击",
+      "比亚迪固态电池2027年量产，目标每千瓦时70美元",
+      "特斯拉承认Cybertruck缺陷，延保至8年/15万英里",
+      "起亚PV5占欧洲小型电动物流车超三分之一市场",
+      "Nixpkgs核心团队解散，开源治理危机浮出水面"
+    ],
+    "news-sports": [
+      "利物浦接近赛季租借巴萨中卫阿劳霍，含买断选项",
+      "曼城拒绝巴萨对罗德里3800万英镑报价",
+      "UEFA被指向因凡蒂诺情人支付遣散费，其否认",
+      "萨拉赫加盟特拉布宗体育获官员赠地引热议",
+      "前巴西国脚帕托财团接近收购英乙北安普顿"
+    ],
+    "news-entertainment": [
+      "奥巴马客串《Life, Larry》自嘲褐色西装事件",
+      "霉霉《August》被从特朗普TikTok视频移除",
+      "Stray Kids新专登顶全球多个榜单",
+      "巨石强森回应《海洋奇缘》真人版票房口碑不佳",
+      "KATSEYE成员Sophia因心理健康暂停活动"
+    ]
+  },
+  "en": {
+    "news-economy-en": [
+      "US July payrolls unexpectedly fell; jobless rate dipped",
+      "Trump renewed push to fire Fed Governor Lisa Cook",
+      "Software stocks swung wildly in SaaSpocalypse debate",
+      "Airbnb beat estimates; stock jumped 15% on AI strength",
+      "China trade strength lifted Hong Kong equities"
+    ],
+    "news-society-en": [
+      "Russian strikes near Kyiv killed a child",
+      "Ukraine says interceptor stocks running low",
+      "Saudi, Turkey, Pakistan signed mutual-defense pact",
+      "Spain imposed border controls with Italy over Ceuta",
+      "ELN guerrilla group preparing for combat in Colombia"
+    ],
+    "news-military-en": [
+      "Hormuz deal reported near despite closure warnings",
+      "Saudi-Turkey-Pakistan defense pact redraws region",
+      "Ukraine air-defense gaps expose civilian vulnerability",
+      "Taiwan deploys new armor at Taoyuan airport",
+      "China admits fatal coast guard-warship collision"
+    ],
+    "news-tech-en": [
+      "OpenAI paused Astra after cybersecurity threshold crossed",
+      "Kia PV5 dominates Europe small electric-van market",
+      "Nixpkgs core team disbanded, governance in flux",
+      "Tesla extended Cybertruck warranty after defect",
+      "Framework warned all customers of data breach"
+    ],
+    "news-sports-en": [
+      "Liverpool close to Araujo loan deal",
+      "Man City rejected Barcelona's £38m Rodri bid",
+      "Man City exploring Enzo Fernandez move",
+      "FIFA's Infantino faces new conduct allegation",
+      "Scottish football summit called critically important"
+    ],
+    "news-entertainment-en": [
+      "Trump TikTok loses Taylor Swift song August",
+      "Obama cameo in Larry David show features tan suit rant",
+      "Raising Kanan finale sets up Power: Origins",
+      "Bella Thorne to write, direct, star in Spring Breakers 2",
+      "Jason Clarke joins Will Smith in Supermax"
+    ]
+  }
+}
